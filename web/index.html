@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Las dos Trinidades</title>
+  <meta name="description" content="La doctrina conciliar de Nicea y el desplazamiento agustiniano: qué cambió, por qué importa hoy. Análisis riguroso de las dos gramáticas trinitarias.">
+  <meta name="theme-color" content="#0F0F1A">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/design-system.css?v=20260516d">
+  <link rel="stylesheet" href="css/layout.css?v=20260516d">
+  <link rel="stylesheet" href="css/components.css?v=20260516d">
+  <link rel="stylesheet" href="css/landing.css?v=20260516d">
+</head>
+<body>
+
+  <!-- Progress Bar -->
+  <div class="progress-bar" role="progressbar" aria-label="Progreso de lectura">
+    <div class="progress-bar__fill" id="progress-fill"></div>
+  </div>
+
+  <!-- Mobile Menu Toggle -->
+  <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir menú">
+    ☰
+  </button>
+
+  <!-- Sidebar Overlay (mobile) -->
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- App Shell -->
+  <div class="app" id="app">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar__header">
+        <a href="#inicio" class="sidebar__title">Las dos Trinidades</a>
+        <div class="sidebar__subtitle">Nicea · Agustín · Hoy</div>
+      </div>
+
+      <nav class="sidebar__nav" id="sidebar-nav" aria-label="Navegación principal">
+        <!-- Built by JS -->
+      </nav>
+
+      <div class="sidebar__footer">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema">
+          <span class="theme-toggle__icon" id="theme-icon">☀️</span>
+          <span>Tema</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="content" id="content" style="transition: opacity 0.25s ease;">
+        <!-- Loaded by router -->
+      </div>
+    </main>
+
+    <!-- Table of Contents -->
+    <nav class="toc" aria-label="Tabla de contenido de la sección">
+      <div class="toc__title">En esta página</div>
+      <ul class="toc__list" id="toc-list"></ul>
+    </nav>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/markdown-renderer.js?v=20260516d"></script>
+  <script src="js/app.js?v=20260516d"></script>
+</body>
+</html>

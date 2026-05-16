@@ -1,0 +1,258 @@
+/* ============================================================
+   LAS DOS TRINIDADES — Landing Page
+   ============================================================ */
+
+/* ---- Hero Section ---- */
+.landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: calc(100vh - 6rem);
+  text-align: center;
+  padding: var(--space-4xl) var(--space-xl) var(--space-2xl);
+}
+
+.landing__badge {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--accent-nicene);
+  background: var(--accent-nicene-bg);
+  border: 1px solid var(--accent-nicene-border);
+  border-radius: 100px;
+  padding: var(--space-xs) var(--space-lg);
+  margin-bottom: var(--space-2xl);
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.1s forwards;
+}
+
+.landing__title {
+  font-family: var(--font-body);
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  max-width: 700px;
+  margin-bottom: var(--space-xl);
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.2s forwards;
+}
+
+.landing__title-accent {
+  background: linear-gradient(135deg, var(--accent-nicene), var(--accent-neutral));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.landing__subtitle {
+  font-family: var(--font-body);
+  font-size: var(--fs-lg);
+  color: var(--text-secondary);
+  max-width: 600px;
+  line-height: 1.6;
+  margin-bottom: var(--space-3xl);
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.35s forwards;
+}
+
+.landing__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: var(--bg-primary);
+  background: var(--accent-nicene);
+  border: none;
+  border-radius: var(--radius-lg);
+  padding: var(--space-md) var(--space-2xl);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.5s forwards;
+}
+
+.landing__cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(78, 205, 196, 0.25);
+  text-decoration: none;
+  color: var(--bg-primary);
+}
+
+/* ---- Thesis Block ---- */
+.landing__thesis {
+  margin-top: var(--space-4xl);
+  max-width: 680px;
+  text-align: left;
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.6s forwards;
+}
+
+.landing__thesis-label {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--accent-gold);
+  margin-bottom: var(--space-md);
+}
+
+.landing__thesis-text {
+  font-family: var(--font-body);
+  font-size: var(--fs-lg);
+  line-height: 1.7;
+  color: var(--text-primary);
+  padding: var(--space-xl);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-lg);
+  border-left: 4px solid var(--accent-gold);
+}
+
+/* ---- Page Grid ---- */
+.landing__pages {
+  margin-top: var(--space-4xl);
+  max-width: 800px;
+  width: 100%;
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.7s forwards;
+}
+
+.landing__pages-title {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--text-tertiary);
+  margin-bottom: var(--space-xl);
+  text-align: center;
+}
+
+.landing__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: var(--space-md);
+}
+
+.landing__card {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-md);
+  padding: var(--space-lg);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+}
+
+.landing__card:hover {
+  border-color: var(--accent-nicene-border);
+  background: var(--accent-nicene-bg);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.landing__card-number {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  color: var(--accent-nicene);
+  min-width: 2em;
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+.landing__card:hover .landing__card-number {
+  opacity: 1;
+}
+
+.landing__card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.landing__card-title {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.landing__card-desc {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  line-height: 1.4;
+}
+
+/* ---- Appendices Section ---- */
+.landing__appendices {
+  margin-top: var(--space-3xl);
+  max-width: 800px;
+  width: 100%;
+}
+
+.landing__appendix-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  justify-content: center;
+}
+
+.landing__appendix-link {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: var(--space-xs) var(--space-md);
+  border: 1px solid var(--border-subtle);
+  border-radius: 100px;
+  transition: all var(--transition-fast);
+}
+
+.landing__appendix-link:hover {
+  border-color: var(--accent-augustine-border);
+  color: var(--accent-augustine);
+  text-decoration: none;
+}
+
+/* ---- Footer ---- */
+.landing__footer {
+  margin-top: var(--space-4xl);
+  padding-top: var(--space-2xl);
+  border-top: 1px solid var(--border-subtle);
+  text-align: center;
+}
+
+.landing__footer-text {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  line-height: 1.6;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 600px) {
+  .landing {
+    padding: var(--space-2xl) var(--space-md);
+  }
+
+  .landing__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .landing__title {
+    font-size: 2rem;
+  }
+}

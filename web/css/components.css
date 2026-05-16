@@ -1,0 +1,784 @@
+/* ============================================================
+   LAS DOS TRINIDADES — Content Components
+   ============================================================ */
+
+/* ---- Section Epigraph ---- */
+.epigraph {
+  text-align: center;
+  padding: var(--space-3xl) var(--space-xl);
+  margin-bottom: var(--space-3xl);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.epigraph__text {
+  font-family: var(--font-body);
+  font-size: var(--fs-xl);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--text-primary);
+  line-height: 1.5;
+  max-width: 500px;
+  margin: 0 auto var(--space-md);
+  opacity: 0;
+  animation: fadeInUp 0.8s ease forwards;
+}
+
+.epigraph__original {
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-top: var(--space-md);
+  margin-bottom: var(--space-md);
+  opacity: 0;
+  animation: fadeInUp 0.8s ease 0.2s forwards;
+}
+
+.epigraph__source {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  color: var(--text-tertiary);
+  opacity: 0;
+  animation: fadeInUp 0.8s ease 0.4s forwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---- Blockquote Source (patristic, biblical, conciliar, modern) ---- */
+.quote-source {
+  position: relative;
+  margin: var(--space-xl) 0;
+  padding: var(--space-lg) var(--space-xl);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  border-left: 4px solid var(--border-color);
+}
+
+.quote-source--biblical {
+  border-left-color: var(--accent-gold);
+  background: var(--accent-gold-bg);
+}
+
+.quote-source--nicene,
+.quote-source--patristic-nicene {
+  border-left-color: var(--accent-nicene);
+  background: var(--accent-nicene-bg);
+}
+
+.quote-source--augustinian,
+.quote-source--patristic-augustinian {
+  border-left-color: var(--accent-augustine);
+  background: var(--accent-augustine-bg);
+}
+
+.quote-source--conciliar {
+  border-left-color: var(--accent-neutral);
+  background: var(--accent-neutral-bg);
+}
+
+.quote-source__text {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: var(--fs-base);
+  line-height: var(--lh-base);
+  color: var(--text-primary);
+  margin-bottom: var(--space-md);
+}
+
+.quote-source__original {
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-md);
+  margin-top: var(--space-md);
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--border-subtle);
+}
+
+.quote-source__ref {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  color: var(--text-tertiary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.quote-source__copy {
+  background: none;
+  border: none;
+  color: var(--text-tertiary);
+  cursor: pointer;
+  font-size: var(--fs-sm);
+  padding: var(--space-xs);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast);
+}
+
+.quote-source__copy:hover {
+  color: var(--text-primary);
+  background: var(--bg-tertiary);
+}
+
+/* ---- Greek/Latin Term Tooltip ---- */
+.term {
+  position: relative;
+  display: inline;
+  border-bottom: 1px dotted var(--text-tertiary);
+  cursor: help;
+  transition: border-color var(--transition-fast);
+}
+
+.term:hover {
+  border-bottom-color: var(--accent-nicene);
+}
+
+.term__tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--tooltip-bg);
+  border: 1px solid var(--tooltip-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm) var(--space-md);
+  min-width: 200px;
+  max-width: 320px;
+  box-shadow: var(--shadow-md);
+  opacity: 0;
+  visibility: hidden;
+  transition: all var(--transition-fast);
+  pointer-events: none;
+  z-index: var(--z-tooltip);
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  line-height: 1.5;
+  text-align: left;
+}
+
+.term:hover .term__tooltip,
+.term:focus .term__tooltip {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.term__tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--tooltip-border);
+}
+
+.term__original {
+  font-family: var(--font-greek);
+  font-size: var(--fs-base);
+  color: var(--text-primary);
+  display: block;
+  margin-bottom: 2px;
+}
+
+.term__transliteration {
+  font-style: italic;
+  color: var(--accent-nicene);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.term__meaning {
+  color: var(--text-secondary);
+}
+
+/* ---- Comparison Table ---- */
+.comparison-table {
+  width: 100%;
+  margin: var(--space-xl) 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  line-height: 1.5;
+}
+
+.comparison-table th {
+  padding: var(--space-md) var(--space-lg);
+  font-weight: 600;
+  text-align: left;
+  font-size: var(--fs-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.comparison-table th:first-child {
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  width: 25%;
+}
+
+.comparison-table th.col-nicene {
+  background: var(--accent-nicene-bg);
+  color: var(--accent-nicene);
+  border-bottom: 2px solid var(--accent-nicene-border);
+}
+
+.comparison-table th.col-augustine {
+  background: var(--accent-augustine-bg);
+  color: var(--accent-augustine);
+  border-bottom: 2px solid var(--accent-augustine-border);
+}
+
+.comparison-table td {
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--border-subtle);
+  vertical-align: top;
+  color: var(--text-primary);
+}
+
+.comparison-table td:first-child {
+  font-weight: 500;
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+}
+
+.comparison-table tr:last-child td {
+  border-bottom: none;
+}
+
+.comparison-table tr:hover td {
+  background: var(--bg-secondary);
+}
+
+.comparison-table tr:hover td:first-child {
+  background: var(--bg-tertiary);
+}
+
+/* ---- Word Table (4-column analysis) ---- */
+.word-table {
+  width: 100%;
+  margin: var(--space-xl) 0;
+  border-collapse: collapse;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+}
+
+.word-table th {
+  padding: var(--space-sm) var(--space-md);
+  background: var(--bg-tertiary);
+  font-weight: 600;
+  text-align: left;
+  font-size: var(--fs-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  border-bottom: 2px solid var(--border-color);
+}
+
+.word-table td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--border-subtle);
+  vertical-align: middle;
+}
+
+.word-table td:first-child {
+  font-family: var(--font-greek);
+  font-size: var(--fs-base);
+}
+
+.word-table td:nth-child(2) {
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+.word-table td:nth-child(3) {
+  font-family: var(--font-greek);
+  font-size: var(--fs-sm);
+  color: var(--text-secondary);
+}
+
+.word-table tr:hover td {
+  background: var(--bg-secondary);
+}
+
+/* Responsive: horizontal scroll for word tables */
+.word-table-wrapper {
+  overflow-x: auto;
+  margin: var(--space-xl) 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+}
+
+.word-table-wrapper .word-table {
+  margin: 0;
+  min-width: 500px;
+}
+
+/* ---- Callout Box ---- */
+.callout {
+  margin: var(--space-xl) 0;
+  padding: var(--space-lg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background: var(--bg-secondary);
+}
+
+.callout__header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.callout--info {
+  border-color: var(--accent-nicene-border);
+  background: var(--accent-nicene-bg);
+}
+
+.callout--info .callout__header {
+  color: var(--accent-nicene);
+}
+
+.callout--method {
+  border-color: var(--accent-neutral);
+  border-color: rgba(139, 143, 232, 0.3);
+  background: var(--accent-neutral-bg);
+}
+
+.callout--method .callout__header {
+  color: var(--accent-neutral);
+}
+
+.callout--caution {
+  border-color: var(--accent-augustine-border);
+  background: var(--accent-augustine-bg);
+}
+
+.callout--caution .callout__header {
+  color: var(--accent-augustine);
+}
+
+.callout--key {
+  border-color: var(--accent-gold-border);
+  background: var(--accent-gold-bg);
+}
+
+.callout--key .callout__header {
+  color: var(--accent-gold);
+}
+
+.callout__body {
+  font-size: var(--fs-base);
+  line-height: var(--lh-base);
+}
+
+.callout__body p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- Expandable Note ---- */
+.expandable {
+  margin: var(--space-lg) 0;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.expandable__toggle {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  width: 100%;
+  padding: var(--space-md) var(--space-lg);
+  background: var(--bg-secondary);
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-align: left;
+  transition: all var(--transition-fast);
+}
+
+.expandable__toggle:hover {
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+.expandable__icon {
+  transition: transform var(--transition-fast);
+  font-size: 0.8em;
+}
+
+.expandable.open .expandable__icon {
+  transform: rotate(90deg);
+}
+
+.expandable__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height var(--transition-slow);
+}
+
+.expandable.open .expandable__content {
+  max-height: 2000px;
+}
+
+.expandable__inner {
+  padding: var(--space-lg);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ---- Page Navigation ---- */
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-lg);
+  margin-top: var(--space-4xl);
+  padding-top: var(--space-2xl);
+  border-top: 1px solid var(--border-color);
+}
+
+.page-nav__link {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  padding: var(--space-lg);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  flex: 1;
+  max-width: 48%;
+}
+
+.page-nav__link:hover {
+  border-color: var(--accent-nicene);
+  background: var(--accent-nicene-bg);
+  text-decoration: none;
+}
+
+.page-nav__link--next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.page-nav__label {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.page-nav__title {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+/* ---- Horizontal Rule / Section Separator ---- */
+.section-separator {
+  margin: var(--space-3xl) 0;
+  border: none;
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ---- Lists ---- */
+.content ul,
+.content ol {
+  margin-bottom: var(--space-lg);
+  padding-left: var(--space-xl);
+}
+
+.content li {
+  margin-bottom: var(--space-sm);
+  line-height: var(--lh-base);
+}
+
+.content li::marker {
+  color: var(--text-tertiary);
+}
+
+/* ---- Inline code / Latin terms ---- */
+.latin {
+  font-style: italic;
+}
+
+/* ---- Page title area ---- */
+.page-header {
+  margin-bottom: var(--space-3xl);
+}
+
+.page-header__number {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: var(--accent-nicene);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  margin-bottom: var(--space-sm);
+  display: block;
+}
+
+.page-header__title {
+  font-family: var(--font-body);
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: var(--lh-tight);
+  letter-spacing: -0.02em;
+}
+
+/* ---- Code Blocks ---- */
+.code-block {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg);
+  margin: var(--space-xl) 0;
+  overflow-x: auto;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+  font-size: var(--fs-sm);
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+/* ---- Theology Diagrams ---- */
+.theology-diagram {
+  margin: var(--space-xl) 0;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.theology-diagram__title {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: var(--space-md) var(--space-lg);
+}
+
+/* ---- Nicene Diagram (fontal-asymmetric) ---- */
+.theology-diagram--nicene {
+  border: 1px solid var(--accent-nicene-border);
+  background: var(--accent-nicene-bg);
+}
+
+.theology-diagram--nicene .theology-diagram__title {
+  color: var(--accent-nicene);
+  border-bottom: 1px solid var(--accent-nicene-border);
+}
+
+.diagram-nicene {
+  padding: var(--space-xl) var(--space-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.diagram-nicene__source {
+  text-align: center;
+  padding: var(--space-md) var(--space-xl);
+  background: var(--accent-nicene);
+  color: var(--bg-primary);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 4px 16px rgba(78, 205, 196, 0.2);
+}
+
+.diagram-nicene__label {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-lg);
+  font-weight: 700;
+}
+
+.diagram-nicene__sublabel {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
+.diagram-nicene__arrows {
+  display: flex;
+  gap: var(--space-4xl);
+  justify-content: center;
+}
+
+.diagram-nicene__branch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.diagram-nicene__action {
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  color: var(--accent-nicene);
+  font-style: italic;
+}
+
+.diagram-nicene__derived {
+  display: flex;
+  gap: var(--space-xl);
+  justify-content: center;
+  width: 100%;
+}
+
+.diagram-nicene__person {
+  flex: 1;
+  max-width: 280px;
+  text-align: center;
+  padding: var(--space-md) var(--space-lg);
+  border: 1px solid var(--accent-nicene-border);
+  border-radius: var(--radius-md);
+  background: var(--bg-secondary);
+}
+
+.diagram-nicene__name {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-md);
+  font-weight: 600;
+  color: var(--accent-nicene);
+  margin-bottom: var(--space-xs);
+}
+
+.diagram-nicene__desc {
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+/* ---- Augustinian Diagram (essentialist-symmetric) ---- */
+.theology-diagram--augustinian {
+  border: 1px solid var(--accent-augustine-border);
+  background: var(--accent-augustine-bg);
+}
+
+.theology-diagram--augustinian .theology-diagram__title {
+  color: var(--accent-augustine);
+  border-bottom: 1px solid var(--accent-augustine-border);
+}
+
+.diagram-augustinian {
+  padding: var(--space-xl) var(--space-lg);
+}
+
+.diagram-augustinian__essence {
+  border: 2px solid var(--accent-augustine);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  background: rgba(212, 165, 116, 0.03);
+}
+
+.diagram-augustinian__essence-label {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+}
+
+.diagram-augustinian__name {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  color: var(--accent-augustine);
+  font-style: italic;
+}
+
+.diagram-augustinian__sublabel {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.diagram-augustinian__persons {
+  display: flex;
+  gap: var(--space-md);
+  justify-content: center;
+}
+
+.diagram-augustinian__person {
+  flex: 1;
+  max-width: 180px;
+  text-align: center;
+  padding: var(--space-md);
+  border: 1px dashed var(--accent-augustine-border);
+  border-radius: var(--radius-md);
+  background: var(--bg-secondary);
+}
+
+.diagram-augustinian__pname {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-md);
+  font-weight: 600;
+  color: var(--accent-augustine);
+}
+
+.diagram-augustinian__prel {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+/* ---- Responsive adjustments for components ---- */
+@media (max-width: 600px) {
+  .comparison-table {
+    font-size: var(--fs-xs);
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: var(--space-sm);
+  }
+
+  .page-nav {
+    flex-direction: column;
+  }
+
+  .page-nav__link {
+    max-width: 100%;
+  }
+
+  .quote-source {
+    padding: var(--space-md);
+  }
+
+  .epigraph {
+    padding: var(--space-xl) var(--space-md);
+  }
+
+  .epigraph__text {
+    font-size: var(--fs-lg);
+  }
+}
