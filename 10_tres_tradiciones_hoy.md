@@ -1,4 +1,4 @@
-# 9. Cómo lo viven hoy las tres tradiciones
+# 10. Cómo lo viven hoy las tres tradiciones
 
 > *Si queremos resumir en pocas palabras la diferencia entre las concepciones trinitarias oriental y occidental, podemos decir que el Occidente parte de la unidad de naturaleza para considerar luego la trinidad de personas, mientras que el Oriente parte de las tres personas para afirmar su unidad connatural.*
 >
@@ -8,7 +8,7 @@
 
 ---
 
-## 9.1 El propósito de esta página
+## 10.1 El propósito de esta página
 
 Las páginas anteriores han establecido la distinción entre dos gramáticas trinitarias: la nicena fontal y la agustiniana esencialista. Han mostrado el desplazamiento histórico, el *Filioque* como síntoma, y el problema lógico como consecuencia filosófica del esquema occidental. Esta página examina cómo las tres grandes tradiciones cristianas contemporáneas (la ortodoxia oriental, el catolicismo romano y el protestantismo magisterial y evangélico) viven hoy las consecuencias de esta historia.
 
@@ -18,7 +18,7 @@ Las tres tradiciones se examinan en el orden geográfico-histórico del cisma: p
 
 ---
 
-## 9.2 La ortodoxia oriental: gramática nicena tematizada
+## 10.2 La ortodoxia oriental: gramática nicena tematizada
 
 La tradición ortodoxa oriental ha conservado la gramática nicena de la monarquía del Padre como núcleo doctrinal explícito. En el siglo XX, teólogos de la emigración rusa (Lossky, Florovsky) y del mundo griego (Zizioulas, Yannaras) articularon esta conservación como tematización filosófica positiva de la prioridad ontológica de la persona sobre la sustancia (páginas 3 y 6).
 
@@ -30,17 +30,17 @@ La ortodoxia contemporánea no es monolítica. Algunos teólogos (Larchet) han c
 
 ---
 
-## 9.3 El catolicismo romano: herencia agustiniano-tomista y matización contemporánea
+## 10.3 El catolicismo romano: herencia agustiniano-tomista y matización contemporánea
 
 El catolicismo romano es heredero institucional del esquema agustiniano-tomista (páginas 6 y 7), con el *Filioque* codificado dogmáticamente. El *Catecismo de la Iglesia Católica* (1992) articula la doctrina trinitaria en plena continuidad con ese esquema. La formación teológica estándar opera con Tomás como referencia central y Agustín como fuente patrística primaria.
 
-Pero desde el Concilio Vaticano II, tres desarrollos han abierto espacio para matización. Primero, la rehabilitación de los Padres griegos como recursos teológicos vivos (Daniélou, de Lubac, Congar). Segundo, el ecumenismo institucional con la ortodoxia (*Unitatis Redintegratio*, 1964; declaraciones de Balamand, Ravenna, Chieti). Tercero, y más importante para la trinitología, el documento del Pontificio Consejo de 1995 (página 7), que reconoció explícitamente la legitimidad de la fórmula oriental.
+Pero desde el Concilio Vaticano II, tres desarrollos han abierto espacio para matización. Primero, la rehabilitación de los Padres griegos como recursos teológicos vivos (Daniélou, de Lubac, Congar). Segundo, el ecumenismo institucional con la ortodoxia (*Unitatis Redintegratio*, 1964; declaraciones de Balamand, Ravenna, Chieti). Tercero, y más importante para la trinitología, el documento del Pontificio Consejo de 1995 (página 8), que reconoció explícitamente la legitimidad de la fórmula oriental.
 
 Las voces teológicas que articulan esta matización (Rahner, Congar, von Balthasar, Ratzinger, LaCugna) fueron examinadas en las páginas 6 y 7. Lo que conviene señalar aquí es la tensión estructural resultante: el magisterio oficial mantiene el esquema agustiniano-tomista, pero el ecumenismo institucional y la teología académica han abierto vías reales de comprensión recíproca con el Oriente. El catolicismo es la tradición intermedia: heredero del esquema agustiniano, abierto a matización magisterial reciente, en diálogo institucional con el Oriente.
 
 ---
 
-## 9.4 El protestantismo: herencia sin tematización
+## 10.4 El protestantismo: herencia sin tematización
 
 El protestantismo magisterial y evangélico contemporáneo presenta una situación específicamente distinta. Heredó el esquema agustiniano-occidental, incluido el *Filioque*, sin debate interno significativo. No tiene una tradición conciliar propia (en el sentido católico u ortodoxo del término) que articule su recepción. Y opera con un principio formal (*sola Scriptura*) que, aplicado coherentemente, plantea preguntas que el propio protestantismo rara vez tematiza.
 
@@ -106,11 +106,11 @@ La exposición anterior ha tratado al protestantismo como bloque relativamente u
 
 **Protestantismo no confesional.** Bajo esta categoría se agrupan las tradiciones y movimientos protestantes que no reciben formalmente los credos conciliares, no operan con teología sistemática heredada, y articulan su fe con vocabulario experiencial, devocional y pastoral antes que técnico-doctrinal. Esta categoría incluye a los movimientos carismáticos, las iglesias neopentecostales, las iglesias comunitarias independientes (*community churches*, *megachurches*), las redes apostólico-proféticas, y una parte significativa del evangelicalismo no denominacional contemporáneo. Este sector del protestantismo, numéricamente mayoritario en el mundo global del siglo XXI (especialmente en América Latina, África subsahariana y Asia sudoriental), tiene una relación distinta con la herencia trinitaria: no la rechaza formalmente, pero tampoco la tematiza. La doctrina trinitaria existe en este horizonte como afirmación catequética recibida ("Dios es uno en tres personas"), sin la articulación técnica que permitiría examinar *qué gramática trinitaria* opera de hecho en la predicación, la alabanza y la piedad cotidiana.
 
-Las consecuencias de esta distinción para el argumento del sitio son significativas. En el protestantismo confesional, el esquema agustiniano opera como doctrina heredada consciente: los seminarios reformados enseñan las *relationes subsistentes* de Tomás, leen *De Trinitate* de Agustín, y articulan posiciones explícitas sobre el *Filioque*. El esquema puede examinarse críticamente porque está tematizado. En el protestantismo no confesional, el esquema agustiniano opera como cultura teológica implícita, sin nombre propio. El creyente carismático o neopentecostal que afirma "Dios es uno en tres personas" está repitiendo, sin saberlo, una formulación que presupone el *monoteísmo esencialista trinitario* (página 2): un "Dios" que es un *qué* (la esencia compartida), no un *quién* (el Padre como fuente). Pero no tiene los recursos formativos para reconocerlo, y por tanto no puede examinarlo críticamente.
+Las consecuencias de esta distinción para el argumento del sitio son significativas. En el protestantismo confesional, el esquema agustiniano opera como doctrina heredada consciente: los seminarios reformados enseñan las *relationes subsistentes* de Tomás, leen *De Trinitate* de Agustín, y articulan posiciones explícitas sobre el *Filioque*. El esquema puede examinarse críticamente porque está tematizado. En el protestantismo no confesional, el esquema agustiniano opera como cultura teológica implícita, sin nombre propio. El creyente carismático o neopentecostal que afirma "Dios es uno en tres personas" está repitiendo, sin saberlo, una formulación que presupone el *monoteísmo esencialista trinitario* (página 3): un "Dios" que es un *qué* (la esencia compartida), no un *quién* (el Padre como fuente). Pero no tiene los recursos formativos para reconocerlo, y por tanto no puede examinarlo críticamente.
 
 ---
 
-## 9.5 El cristocentrismo opacante: cuando Cristo desplaza al Padre
+## 10.5 El cristocentrismo opacante: cuando Cristo desplaza al Padre
 
 Una consecuencia específica del protestantismo no confesional contemporáneo, conectada estructuralmente con el esquema agustiniano aunque raramente reconocida como tal, es lo que la página 6 introdujo como *cristocentrismo opacante*: la tendencia a que Cristo ocupe el centro exclusivo de la piedad, la predicación y la adoración, mientras el Padre queda reducido a figura de fondo, sinónimo genérico de "Dios" sin identidad personal diferenciada.
 
@@ -158,7 +158,7 @@ Paradójicamente, algunos elementos del protestantismo no confesional podrían a
 
 ---
 
-## 9.6 Una comparación estructural
+## 10.6 Una comparación estructural
 
 Reuniendo los elementos expuestos, la situación contemporánea de las tres tradiciones puede sintetizarse en la siguiente tabla:
 
@@ -174,7 +174,7 @@ La tabla muestra que las tres tradiciones operan con articulaciones distintas qu
 
 ---
 
-## 9.7 Cierre
+## 10.7 Cierre
 
 Las tres tradiciones cristianas contemporáneas viven la doctrina trinitaria desde posiciones estructurales distintas. La ortodoxia ha tematizado la gramática nicena de la monarquía del Padre con sofisticación filosófica en el siglo XX. El catolicismo ha mantenido el esquema agustiniano-tomista con apertura magisterial reciente a matizaciones que el ecumenismo y la teología post-conciliar han hecho posibles. El protestantismo magisterial ha recibido el esquema occidental sin tematizarlo, enfrentando una tensión estructural específica entre el principio formal *sola Scriptura* y la dependencia inevitable de la tradición conciliar y de la filosofía griega para articular la doctrina trinitaria.
 
@@ -226,4 +226,4 @@ La página siguiente examina las implicaciones de todo esto para la doctrina de 
 
 ---
 
-*Página 9 de 11* · [← Página 8: El problema lógico de la Trinidad](08_problema_logico.md) · [Página 10: Implicaciones para la doctrina de Dios al día de hoy →](10_implicaciones_doctrina_de_dios.md)
+*Página 10 de 13* · [← Página 9: El problema lógico de la Trinidad](09_problema_logico.md) · [Página 11: Implicaciones para la doctrina de Dios →](11_implicaciones_doctrina_de_dios.md)

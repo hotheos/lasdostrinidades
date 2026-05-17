@@ -11,12 +11,12 @@ Cada fila articula un aspecto técnico con la formulación específica de cada g
 | Aspecto | Gramática nicena fontal | Gramática agustiniana esencialista |
 |---|---|---|
 | **Referente último de "Dios"** (página 1, 6) | El Padre como persona fontal (*ho Theos ho Patēr*) | La esencia divina como sujeto unitario (*Deus = essentia*) |
-| **Locus de la unicidad** (página 3, 6) | Fontalidad personal del Padre (*monarchia*) | Esencia única compartida por las tres personas |
-| **Articulación del "uno"** (página 3) | Tres hacia uno fontal: tres hipóstasis hacia la única fuente paterna | Uno hacia tres relaciones: una esencia que se distingue en tres relaciones internas |
-| **Distinción entre las personas** (página 3, 6) | Propiedades hipostáticas reales: inengendrabilidad, generación, procesión | Relaciones subsistentes: paternidad, filiación, espiración / procesión |
-| **Causalidad de la divinidad** (página 3, 6) | Asimetría fontal real: del Padre al Hijo por generación, al Espíritu por procesión | Co-igualdad esencial: las tres personas son cada una la única esencia divina |
+| **Locus de la unicidad** (página 2, 6) | Fontalidad personal del Padre (*monarchia*) | Esencia única compartida por las tres personas |
+| **Articulación del "uno"** (página 2) | Tres hacia uno fontal: tres hipóstasis hacia la única fuente paterna | Uno hacia tres relaciones: una esencia que se distingue en tres relaciones internas |
+| **Distinción entre las personas** (página 2, 6) | Propiedades hipostáticas reales: inengendrabilidad, generación, procesión | Relaciones subsistentes: paternidad, filiación, espiración / procesión |
+| **Causalidad de la divinidad** (página 2, 6) | Asimetría fontal real: del Padre al Hijo por generación, al Espíritu por procesión | Co-igualdad esencial: las tres personas son cada una la única esencia divina |
 | **Modelo conceptual** (página 6) | Personal-fontal: una fuente personal que comunica divinidad a dos hipóstasis | Sustancialista: una esencia única con tres modos relacionales internos |
-| **Vocabulario técnico básico** (página 3, 4) | *Mia ousia, treis hypostaseis* (griego) | *Una substantia, tres personae* (latín; mismo léxico que Tertuliano pero contenido conceptual transformado) |
+| **Vocabulario técnico básico** (página 2, 4) | *Mia ousia, treis hypostaseis* (griego) | *Una substantia, tres personae* (latín; mismo léxico que Tertuliano pero contenido conceptual transformado) |
 
 ---
 
@@ -24,12 +24,12 @@ Cada fila articula un aspecto técnico con la formulación específica de cada g
 
 | Aspecto | Gramática nicena fontal | Gramática agustiniana esencialista |
 |---|---|---|
-| **Procesión del Espíritu** (página 3, 7) | *Ek tou Patros*: del Padre como fuente única; el Hijo media en la economía (*ek tou Patros di' Huiou*) pero no es fuente fontal en la procesión eterna | *Ex Patre Filioque tamquam ab uno principio*: del Padre y del Hijo como de un único principio espirativo en virtud de la esencia común |
+| **Procesión del Espíritu** (página 2, 7) | *Ek tou Patros*: del Padre como fuente única; el Hijo media en la economía (*ek tou Patros di' Huiou*) pero no es fuente fontal en la procesión eterna | *Ex Patre Filioque tamquam ab uno principio*: del Padre y del Hijo como de un único principio espirativo en virtud de la esencia común |
 | **Analogías privilegiadas** (página 6) | Sociales y cosmológicas: tres seres humanos en una sola humanidad; sol, luz y calor | Psicológicas e intrapsíquicas: memoria, inteligencia y voluntad de una sola mente |
 | **Operaciones *ad extra*** (página 6, 10) | Distribución causal real: el Padre opera fontalmente, el Hijo media, el Espíritu consuma | *Opera Trinitatis ad extra sunt indivisa*: la esencia única actúa indivisiblemente; las atribuciones son *appropriatio* |
 | **Imagen de Dios en el hombre** (página 6) | Aspectos relacionales, sociales, comunitarios de la existencia humana | Estructura interna del alma racional: memoria, inteligencia, voluntad |
-| **Doctrina de la simplicidad divina** (página 10) | Simplicidad compatible con distinción entre esencia y energías increadas (Palamás) | *Simplicitas Dei*: ninguna distinción real entre esencia, atributos, potencia, acto |
-| **Conocimiento de Dios** (página 10) | Dios es conocido en sus energías increadas; la esencia permanece incognoscible | Dios es conocido analógicamente; los atributos se predican por analogía proporcional |
+| **Doctrina de la simplicidad divina** (página 11) | Simplicidad compatible con distinción entre esencia y energías increadas (Palamás) | *Simplicitas Dei*: ninguna distinción real entre esencia, atributos, potencia, acto |
+| **Conocimiento de Dios** (página 11) | Dios es conocido en sus energías increadas; la esencia permanece incognoscible | Dios es conocido analógicamente; los atributos se predican por analogía proporcional |
 
 ---
 
@@ -37,11 +37,11 @@ Cada fila articula un aspecto técnico con la formulación específica de cada g
 
 | Aspecto | Gramática nicena fontal | Gramática agustiniana esencialista |
 |---|---|---|
-| **Doxología típica antigua** (página 10) | Al Padre, por el Hijo, en el Espíritu (estructura asimétrica fontal) | Al Padre y al Hijo y al Espíritu (estructura coordinada) |
-| **Transformación eucarística** (página 9, 10) | Atribuida a la epíclesis: el Espíritu invocado opera la transformación | Atribuida a las palabras de institución cristológicas (*hoc est corpus meum*) |
-| **Soteriología central** (página 10) | *Theōsis* (deificación): unión con las energías increadas del Espíritu | Justificación (forense en el protestantismo; transformativa con gracia santificante en el catolicismo); unión con Cristo |
-| **Eclesiología característica** (página 10) | Pneumatológica, sinodal: *koinōnia* de iglesias locales bajo el Espíritu | Cristológica, jerárquica: cuerpo de Cristo articulado bajo la cabeza visible |
-| **Lectura de la asimetría neotestamentaria** (página 10) | Pasajes como Juan 14:28 ("el Padre es mayor") se leen *simpliciter*: la asimetría fontal es real | Pasajes asimétricos se leen "en cuanto a la forma de siervo" (humanidad asumida del Hijo) |
+| **Doxología típica antigua** (página 11) | Al Padre, por el Hijo, en el Espíritu (estructura asimétrica fontal) | Al Padre y al Hijo y al Espíritu (estructura coordinada) |
+| **Transformación eucarística** (página 10, 10) | Atribuida a la epíclesis: el Espíritu invocado opera la transformación | Atribuida a las palabras de institución cristológicas (*hoc est corpus meum*) |
+| **Soteriología central** (página 11) | *Theōsis* (deificación): unión con las energías increadas del Espíritu | Justificación (forense en el protestantismo; transformativa con gracia santificante en el catolicismo); unión con Cristo |
+| **Eclesiología característica** (página 11) | Pneumatológica, sinodal: *koinōnia* de iglesias locales bajo el Espíritu | Cristológica, jerárquica: cuerpo de Cristo articulado bajo la cabeza visible |
+| **Lectura de la asimetría neotestamentaria** (página 11) | Pasajes como Juan 14:28 ("el Padre es mayor") se leen *simpliciter*: la asimetría fontal es real | Pasajes asimétricos se leen "en cuanto a la forma de siervo" (humanidad asumida del Hijo) |
 
 ---
 
@@ -74,11 +74,11 @@ Cada fila articula un aspecto técnico con la formulación específica de cada g
 
 | Problema | Gramática nicena fontal | Gramática agustiniana esencialista |
 |---|---|---|
-| **Problema lógico de la Trinidad** (página 8) | No se plantea con la misma agudeza: el "uno" es el Padre fontal, no la esencia idéntica a tres personas | Emerge necesariamente: tres personas idénticas a una única esencia producen la contradicción aritmética |
-| **Cuarto término implícito** (página 10) | No aparece: el Padre es persona y fuente; no hay esencia-sujeto adicional | Recurrente: la esencia tiende a operar como cuarto término implícito junto a las tres personas |
-| **Modalismo virtual** (página 10) | Excluido por las propiedades hipostáticas reales | Riesgo continuo: las "tres relaciones de una esencia" pueden colapsar en modos |
-| **Pérdida del sentido relacional de "Padre"** (página 10) | "Padre" es relación constitutiva: el Padre es Padre porque tiene un Hijo | Riesgo de tratar "Padre" como nombre relativo sobre una esencia que sería Dios sin necesidad de la distinción personal |
-| **Radicalización de la simplicidad** (página 10) | Simplicidad matizada por la distinción esencia/energías (Palamás) | Simplicidad radical: oscilación entre apofatismo y racionalismo escolástico |
+| **Problema lógico de la Trinidad** (página 9) | No se plantea con la misma agudeza: el "uno" es el Padre fontal, no la esencia idéntica a tres personas | Emerge necesariamente: tres personas idénticas a una única esencia producen la contradicción aritmética |
+| **Cuarto término implícito** (página 11) | No aparece: el Padre es persona y fuente; no hay esencia-sujeto adicional | Recurrente: la esencia tiende a operar como cuarto término implícito junto a las tres personas |
+| **Modalismo virtual** (página 11) | Excluido por las propiedades hipostáticas reales | Riesgo continuo: las "tres relaciones de una esencia" pueden colapsar en modos |
+| **Pérdida del sentido relacional de "Padre"** (página 11) | "Padre" es relación constitutiva: el Padre es Padre porque tiene un Hijo | Riesgo de tratar "Padre" como nombre relativo sobre una esencia que sería Dios sin necesidad de la distinción personal |
+| **Radicalización de la simplicidad** (página 11) | Simplicidad matizada por la distinción esencia/energías (Palamás) | Simplicidad radical: oscilación entre apofatismo y racionalismo escolástico |
 
 ---
 

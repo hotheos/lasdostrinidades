@@ -1,4 +1,4 @@
-# 11. Volver al texto: una invitación
+# 12. Volver al texto: una invitación
 
 > *Un Dios, el Padre.*
 >
@@ -8,17 +8,17 @@
 
 ---
 
-## 11.1 Lo que el sitio ha argumentado
+## 12.1 Lo que el sitio ha argumentado
 
 Antes de articular el cierre, conviene recapitular brevemente lo que las páginas anteriores han establecido. No como repaso exhaustivo, sino como punto de partida para la invitación final.
 
-El símbolo niceno-constantinopolitano de 381 identifica gramaticalmente al único Dios con el Padre como fuente fontal, reproduciendo el patrón paulino de 1 Corintios 8:6 (página 1). El tipo de teísmo que articula no encaja sin residuo en las categorías modernas estándar (monoteísmo estricto, henoteísmo, monolatría) y puede denominarse *monoteísmo fontal trinitario* (página 2). La gramática conciliar opera con una unicidad fontal del Padre que comunica la única divinidad consustancial al Hijo por generación y al Espíritu por procesión (página 3). Esta gramática se mantiene, con vocabularios distintos, en la patrística pre-agustiniana (Atanasio, Tertuliano, Hilario), aunque Mario Victorino introduce en el latín cristiano un vocabulario filosófico neoplatónico que prepara el desplazamiento posterior (página 4). Agustín, en el contexto biográfico e intelectual examinado (página 5), opera en *De Trinitate* el desplazamiento del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario, desplazamiento codificado credalmente en el *Quicumque Vult* (página 6). El *Filioque*, codificado dogmáticamente en Florencia (1439), es síntoma estructural de ese desplazamiento (página 7). El problema lógico de la Trinidad, formulado por la filosofía analítica contemporánea, emerge específicamente del esquema esencialista occidental y no se plantea con la misma agudeza bajo la gramática nicena (página 8). Las tres tradiciones cristianas contemporáneas viven hoy las consecuencias de esta historia desde posiciones estructurales distintas (página 9). Las consecuencias prácticas afectan la oración, la cristología, la pneumatología y la eclesiología (página 10).
+El símbolo niceno-constantinopolitano de 381 identifica gramaticalmente al único Dios con el Padre como fuente fontal, reproduciendo el patrón paulino de 1 Corintios 8:6 (página 1). El tipo de teísmo que articula no encaja sin residuo en las categorías modernas estándar (monoteísmo estricto, henoteísmo, monolatría) y puede denominarse *monoteísmo fontal trinitario* (página 3). La gramática conciliar opera con una unicidad fontal del Padre que comunica la única divinidad consustancial al Hijo por generación y al Espíritu por procesión (página 2). Esta gramática se mantiene, con vocabularios distintos, en la patrística pre-agustiniana (Atanasio, Tertuliano, Hilario), aunque Mario Victorino introduce en el latín cristiano un vocabulario filosófico neoplatónico que prepara el desplazamiento posterior (página 4). Agustín, en el contexto biográfico e intelectual examinado (página 5), opera en *De Trinitate* el desplazamiento del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario, desplazamiento codificado credalmente en el *Quicumque Vult* (página 6). El *Filioque*, codificado dogmáticamente en Florencia (1439), es síntoma estructural de ese desplazamiento (página 8). El problema lógico de la Trinidad, formulado por la filosofía analítica contemporánea, emerge específicamente del esquema esencialista occidental y no se plantea con la misma agudeza bajo la gramática nicena (página 9). Las tres tradiciones cristianas contemporáneas viven hoy las consecuencias de esta historia desde posiciones estructurales distintas (página 10). Las consecuencias prácticas afectan la oración, la cristología, la pneumatología y la eclesiología (página 11).
 
 La tesis general del sitio es que existen dos gramáticas trinitarias históricamente articuladas, distinguibles con precisión, con consecuencias verificables. El cristianismo contemporáneo, especialmente en el horizonte occidental, opera mayoritariamente con la gramática agustiniana sin tematizarla como tal, asumiendo que es "la doctrina trinitaria" sin más. Reconocer la distinción entre las dos gramáticas es condición para una lectura precisa del símbolo conciliar, del texto bíblico subyacente, y de las tradiciones cristianas tal como se han desarrollado históricamente.
 
 ---
 
-## 11.2 Lo que el sitio no propone
+## 12.2 Lo que el sitio no propone
 
 Es importante articular con precisión lo que el sitio no propone, especialmente al cierre, donde la invitación final podría leerse de modos no intencionados.
 
@@ -28,13 +28,13 @@ Es importante articular con precisión lo que el sitio no propone, especialmente
 
 **No propone abandonar la tradición.** La doctrina trinitaria conciliar, en cualquiera de sus dos gramáticas, no se sostiene fuera del horizonte de la tradición cristiana viva. El análisis no pretende reemplazar la tradición con un examen historiográfico crítico. Pretende leer la tradición con precisión, reconociendo sus capas históricas y sus articulaciones específicas. La tradición sigue siendo el lugar donde la fe se vive y se transmite; el análisis es herramienta para leerla con claridad.
 
-**No propone una solución técnica al problema lógico.** El sitio no defiende una de las soluciones filosóficas examinadas en la página 8 (trinidad social, constitución material, trinitarismo relativo, modelo latino clásico). Sostiene que el problema lógico es específicamente agustiniano y que bajo la gramática nicena no se plantea con la misma agudeza. Pero esto no equivale a "la gramática nicena resuelve el problema". Es más exacto decir que la gramática nicena no produce el problema en la forma en que la gramática agustiniana lo produce. Otras dificultades conceptuales subsisten bajo la gramática nicena, y la página 8 las reconoció.
+**No propone una solución técnica al problema lógico.** El sitio no defiende una de las soluciones filosóficas examinadas en la página 9 (trinidad social, constitución material, trinitarismo relativo, modelo latino clásico). Sostiene que el problema lógico es específicamente agustiniano y que bajo la gramática nicena no se plantea con la misma agudeza. Pero esto no equivale a "la gramática nicena resuelve el problema". Es más exacto decir que la gramática nicena no produce el problema en la forma en que la gramática agustiniana lo produce. Otras dificultades conceptuales subsisten bajo la gramática nicena, y la página 9 las reconoció.
 
 **No propone simpleza.** El sitio no sostiene que la doctrina trinitaria sea simple, ni que la diferencia entre las dos gramáticas sea trivial, ni que su resolución sea inmediata. La doctrina trinitaria es una de las articulaciones más sofisticadas del pensamiento cristiano, y su historia es una de las más complejas. Las páginas anteriores han intentado exponer esa sofisticación y esa complejidad con rigor, no reducirlas a esquemas accesibles que distorsionen el material.
 
 ---
 
-## 11.3 Lo que el sitio sí propone
+## 12.3 Lo que el sitio sí propone
 
 Lo que el sitio propone se puede articular en tres movimientos progresivos.
 
@@ -64,11 +64,11 @@ La invitación final, más exigente, es situarse en la propia tradición con con
 
 **Para el lector católico**, esto significa reconocer que la herencia agustiniano-tomista es articulación históricamente específica, no la "doctrina trinitaria" sin más, y apropiar el espacio de matización que el magisterio reciente ha abierto. El documento del Pontificio Consejo de 1995, la teología post-conciliar de Rahner, Congar, von Balthasar, Ratzinger y LaCugna, las declaraciones ecuménicas con el Oriente, son recursos católicos para una articulación más matizada que no compromete la continuidad institucional con la tradición occidental.
 
-**Para el lector protestante**, esto significa enfrentar la tensión metodológica que el aforismo del cuerpo doblemente deshuesado articula. *Sola Scriptura* aplicado coherentemente plantea preguntas que la tradición protestante magisterial rara vez tematiza. Las tres respuestas examinadas en la página 9 (teología confesional reformada, trinitarismo social, recuperación del agustinismo clásico) son posiciones legítimas, pero ninguna resuelve plenamente la tensión. La invitación al lector protestante es tematizar el problema con honestidad: reconocer la doble herencia (conciliar y filosófica) que la doctrina trinitaria recibida implica, decidir cómo articular *sola Scriptura* frente a esa herencia, y operar con consciencia metodológica.
+**Para el lector protestante**, esto significa enfrentar la tensión metodológica que el aforismo del cuerpo doblemente deshuesado articula. *Sola Scriptura* aplicado coherentemente plantea preguntas que la tradición protestante magisterial rara vez tematiza. Las tres respuestas examinadas en la página 10 (teología confesional reformada, trinitarismo social, recuperación del agustinismo clásico) son posiciones legítimas, pero ninguna resuelve plenamente la tensión. La invitación al lector protestante es tematizar el problema con honestidad: reconocer la doble herencia (conciliar y filosófica) que la doctrina trinitaria recibida implica, decidir cómo articular *sola Scriptura* frente a esa herencia, y operar con consciencia metodológica.
 
 ---
 
-## 11.4 Sobre la modestia del análisis
+## 12.4 Sobre la modestia del análisis
 
 El análisis del sitio es modesto en su pretensión. No reclama haber descubierto algo que la academia patrística no conociera. La distinción entre las dos gramáticas trinitarias está articulada con detalle en la obra de Lossky, Zizioulas, Lewis Ayres, John Behr, Khaled Anatolios y otros autores académicos contemporáneos. El sitio reorganiza esa investigación, la presenta con accesibilidad para un lector no especialista, y la articula desde una perspectiva que mantiene paridad entre las tres tradiciones cristianas mayores.
 
@@ -78,7 +78,7 @@ Esta es la única pretensión específica: hacer accesible lo que la academia pa
 
 ---
 
-## 11.5 Sobre el método y la disposición de fondo
+## 12.5 Sobre el método y la disposición de fondo
 
 Antes del cierre final, una observación sobre el método y la disposición de fondo que ha guiado la redacción.
 
@@ -90,11 +90,11 @@ El sitio ha operado con cuatro principios metodológicos que conviene articular.
 
 **Tercer principio: precisión técnica con accesibilidad.** El sitio ha mantenido el vocabulario técnico (griego, latín, transliteración) porque la doctrina trinitaria no se puede articular con precisión sin él. Pero ha intentado hacer ese vocabulario accesible, introduciendo términos con transliteración y campo semántico, y operando con tablas léxicas y esquemas explicativos cuando ayudan. La accesibilidad no se logra al precio de la precisión.
 
-**Cuarto principio: honestidad sobre las propias zonas de incertidumbre.** El sitio ha marcado explícitamente las zonas donde el material es debatido académicamente (la cristología paulina y las tres familias en la página 2, la cuestión del conocimiento agustiniano del griego en la página 5, la matización académica de las "dos triadologías" en la página 9). No ha presentado posiciones controvertidas como datos establecidos. La honestidad sobre la incertidumbre es parte del rigor.
+**Cuarto principio: honestidad sobre las propias zonas de incertidumbre.** El sitio ha marcado explícitamente las zonas donde el material es debatido académicamente (la cristología paulina y las tres familias en la página 3, la cuestión del conocimiento agustiniano del griego en la página 5, la matización académica de las "dos triadologías" en la página 10). No ha presentado posiciones controvertidas como datos establecidos. La honestidad sobre la incertidumbre es parte del rigor.
 
 ---
 
-## 11.6 La invitación final
+## 12.6 La invitación final
 
 El sitio cierra con una invitación que se ha articulado de modos diversos a lo largo de las páginas y que conviene formular ahora en su forma más concentrada.
 
@@ -104,7 +104,7 @@ La invitación es a leer con precisión. A leer el símbolo niceno-constantinopo
 
 La doctrina cristiana de Dios es uno de los logros conceptuales más sofisticados de la historia humana. Articula, en un solo cuerpo doctrinal coherente, la unicidad de Dios afirmada por el monoteísmo judío, la divinidad plena del Hijo encarnado afirmada por la fe cristiana, y la articulación del Espíritu como persona divina en la economía de la salvación. Ninguna otra tradición religiosa o filosófica ha articulado un dato análogo con la complejidad que la doctrina trinitaria ha desarrollado.
 
-Esta articulación se ha realizado históricamente con dos gramáticas distintas, que producen dos tipos de monoteísmo trinitario (página 2). La nicena fontal, donde "Dios" es un *quién*: el Padre como fuente única de la divinidad consustancial. La agustiniana esencialista, donde "Dios" es un *qué*: la esencia divina compartida por las tres personas. Las dos gramáticas son cristianas. Ambas se sostienen como articulaciones legítimas. La pregunta de cuál refleja mejor el dato bíblico subyacente, cuál preserva mejor la asimetría neotestamentaria, cuál opera con menos costos exegéticos y filosóficos, es pregunta que el lector puede formular y trabajar con los recursos que el sitio ha intentado proporcionar.
+Esta articulación se ha realizado históricamente con dos gramáticas distintas, que producen dos tipos de monoteísmo trinitario (página 3). La nicena fontal, donde "Dios" es un *quién*: el Padre como fuente única de la divinidad consustancial. La agustiniana esencialista, donde "Dios" es un *qué*: la esencia divina compartida por las tres personas. Las dos gramáticas son cristianas. Ambas se sostienen como articulaciones legítimas. La pregunta de cuál refleja mejor el dato bíblico subyacente, cuál preserva mejor la asimetría neotestamentaria, cuál opera con menos costos exegéticos y filosóficos, es pregunta que el lector puede formular y trabajar con los recursos que el sitio ha intentado proporcionar.
 
 Cada lector, desde dentro de su tradición específica, decidirá qué hacer con lo que aquí se expone. Quizás concluirá que la gramática de su propia tradición es satisfactoria y que el análisis del sitio le permite articularla con mayor consciencia. Quizás concluirá que su tradición tiene zonas que la gramática alternativa ilumina y que conviene apropiar elementos sin migrar institucionalmente. Quizás concluirá que el análisis es interesante pero que la cuestión es secundaria respecto a otras dimensiones de la fe. Cualquiera de estas conclusiones es legítima, y el sitio no privilegia ninguna sobre las otras.
 
@@ -112,7 +112,7 @@ Lo que el sitio sí espera es que el lector salga del análisis con mayor clarid
 
 ---
 
-## 11.7 Una última palabra
+## 12.7 Una última palabra
 
 El símbolo niceno-constantinopolitano fue redactado por obispos griegos en Constantinopla en el año 381. Sus formuladores no podían anticipar que el documento sería recitado litúrgicamente por miles de millones de cristianos durante los próximos mil seiscientos años. No podían anticipar las controversias que su texto generaría, las traducciones que se harían, las inserciones que se añadirían, los cismas que provocarían las disputas sobre su interpretación.
 
@@ -159,4 +159,4 @@ Los apéndices están diseñados para consulta puntual y profundización temáti
 
 ---
 
-*Página 11 de 11* · [← Página 10: Implicaciones para la doctrina de Dios al día de hoy](10_implicaciones_doctrina_de_dios.md) · [↑ Inicio](00_inicio.md)
+*Página 12 de 13* · [← Página 11: Implicaciones para la doctrina de Dios](11_implicaciones_doctrina_de_dios.md) · [Página 13: Las dos Trinidades: armonizaciones →](13_dos_trinidades_armonizaciones.md)

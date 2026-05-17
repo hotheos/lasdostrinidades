@@ -38,15 +38,15 @@ El lector evangélico encontrará una exposición de la tensión metodológica q
 
 ## Estructura
 
-El sitio se compone de once páginas temáticas, navegables independientemente, más cinco apéndices accesibles desde cualquier punto. La numeración sugiere un orden de lectura, pero cada página es autosuficiente.
+El sitio se compone de trece páginas temáticas, navegables independientemente, más siete apéndices accesibles desde cualquier punto. La numeración sugiere un orden de lectura, pero cada página es autosuficiente.
 
 ### Páginas
 
 **1. Lo que dice Nicea literalmente.** Análisis textual del símbolo niceno-constantinopolitano (381) en griego, transliteración y traducción. Estructura sintáctica, distribución de predicados, calce con 1 Corintios 8:6. La pregunta que el resto del sitio desarrolla.
 
-**2. ¿Qué tipo de teísmo articula Nicea?** Categorías modernas (monoteísmo estricto, henoteísmo, monolatría, monoteísmo de identidad divina) y su aplicación al símbolo conciliar. El monoteísmo del Segundo Templo y la reformulación paulina del *Shema*. Por qué el símbolo no encaja sin residuo en ninguna categoría estándar.
+**2. La gramática nicena: el uno fontal.** Monarquía del Padre, generación del Hijo, procesión del Espíritu. La estabilización capadocia de *mia ousia, treis hypostaseis*. Por qué este esquema no es ni subordinacionismo arriano ni modalismo sabeliano.
 
-**3. La gramática nicena: el uno fontal.** Monarquía del Padre, generación del Hijo, procesión del Espíritu. La estabilización capadocia de *mia ousia, treis hypostaseis*. Por qué este esquema no es ni subordinacionismo arriano ni modalismo sabeliano.
+**3. ¿Qué tipo de teísmo articula Nicea?** Categorías modernas (monoteísmo estricto, henoteísmo, monolatría, monoteísmo de identidad divina) y su aplicación al símbolo conciliar. El monoteísmo del Segundo Templo y la reformulación paulina del *Shema*. Por qué el símbolo no encaja sin residuo en ninguna categoría estándar.
 
 **4. Atanasio y el contexto pre-agustiniano.** El *homoousios* atanasiano antes de la sistematización capadocia. Tertuliano y *una substantia, tres personae* en el latín del siglo III. Análisis de si estos esquemas producen ya el problema lógico de la Trinidad o solo crean condiciones de posibilidad para él.
 
@@ -54,15 +54,19 @@ El sitio se compone de once páginas temáticas, navegables independientemente, 
 
 **6. El salto: del Padre como fuente a la esencia como sujeto.** Núcleo argumentativo del sitio. *De Trinitate* libros V-VII y el desplazamiento del referente del término *Deus*. Tomás de Aquino y las *relationes subsistentes*. Las tres consecuencias estructurales: analogías psicológicas, *opera ad extra indivisa*, pérdida del Padre como fuente concreta.
 
-**7. El Filioque.** Inserción occidental, codificación dogmática (Lyon II, Florencia), fórmula *tamquam ab uno principio*. Por qué es síntoma del desplazamiento agustiniano y no su causa. La matización necesaria: el *Filioque* no postula tres fuentes simultáneas sino que opaca la monarquía del Padre al introducir un principio espirativo compartido.
+**7. Los dos tipos de monoteísmo trinitario.** Punto de inflexión del sitio. Retoma la pregunta abierta en la página 3 y la responde con la evidencia desplegada en las páginas 3 a 6. Monoteísmo fontal trinitario vs. monoteísmo esencialista trinitario: por qué se trata de dos tipos distintos y no de uno con dos formulaciones. Tabla comparativa, criterios de distinción, consecuencias anticipadas.
 
-**8. El problema lógico de la Trinidad.** Formulación contemporánea del problema (Cartwright, van Inwagen, Rea, McCall, Tuggy) y las soluciones propuestas. Por qué el problema lógico es un problema occidental que el esquema niceno-capadocio no plantea con la misma agudeza. El espejo crítico: críticos unitarios atacando una Trinidad que Nicea no formuló, y trinitarios defendiendo una Trinidad que Agustín sí formuló.
+**8. El Filioque.** Inserción occidental, codificación dogmática (Lyon II, Florencia), fórmula *tamquam ab uno principio*. Por qué es síntoma del desplazamiento agustiniano y no su causa. La matización necesaria: el *Filioque* no postula tres fuentes simultáneas sino que opaca la monarquía del Padre al introducir un principio espirativo compartido.
 
-**9. Cómo lo viven hoy las tres tradiciones.** Ortodoxia oriental (Lossky, Zizioulas, Stăniloae). Catolicismo posconciliar (Rahner, Congar, von Balthasar, magisterio reciente). Protestantismo y la tensión metodológica de *sola Scriptura* frente a una doctrina articulada en concilios con vocabulario filosófico griego.
+**9. El problema lógico de la Trinidad.** Formulación contemporánea del problema (Cartwright, van Inwagen, Rea, McCall, Tuggy) y las soluciones propuestas. Por qué el problema lógico es un problema occidental que el esquema niceno-capadocio no plantea con la misma agudeza. El espejo crítico: críticos unitarios atacando una Trinidad que Nicea no formuló, y trinitarios defendiendo una Trinidad que Agustín sí formuló.
 
-**10. Implicaciones para la doctrina de Dios al día de hoy.** Consecuencias para la oración, la liturgia, la cristología, la pneumatología, la eclesiología y la soteriología. Los cuatro problemas estructurales del esquema esencialista identificados por la teología contemporánea.
+**10. Cómo lo viven hoy las tres tradiciones.** Ortodoxia oriental (Lossky, Zizioulas, Stăniloae). Catolicismo posconciliar (Rahner, Congar, von Balthasar, magisterio reciente). Protestantismo y la tensión metodológica de *sola Scriptura* frente a una doctrina articulada en concilios con vocabulario filosófico griego.
 
-**11. Volver al texto: una invitación.** Cierre. Recapitulación de las dos gramáticas y propuesta de relectura desde dentro de cada tradición.
+**11. Implicaciones para la doctrina de Dios al día de hoy.** Consecuencias para la oración, la liturgia, la cristología, la pneumatología, la eclesiología y la soteriología. Los cuatro problemas estructurales del esquema esencialista identificados por la teología contemporánea.
+
+**12. Volver al texto: una invitación.** Cierre. Recapitulación de las dos gramáticas y propuesta de relectura desde dentro de cada tradición.
+
+**13. Las dos Trinidades: armonizaciones.** ¿Son los dos tipos compatibles, contradictorios o complementarios? Examen de las propuestas de armonización y de las razones por las que cada opción tiene tracción en distintas tradiciones.
 
 ### Apéndices
 
@@ -75,6 +79,10 @@ El sitio se compone de once páginas temáticas, navegables independientemente, 
 **D. Bibliografía.** Dividida por tradición y por área temática.
 
 **E. FAQ.** Objeciones esperables con respuesta articulada.
+
+**F. El *Quicumque Vult*.** Texto íntegro, análisis estructural y comparación con el símbolo niceno-constantinopolitano.
+
+**G. La lectura de Gregorio de Nisa y el uso patrístico de Juan 17:3.** Debate académico contemporáneo sobre *Ad Ablabium* (lectura fontal, revisionista, sintética) y la matización anti-eunomiana del "único Dios verdadero" en Justino, Ireneo y los Capadocios.
 
 ---
 
@@ -121,11 +129,11 @@ Todos los extractos de fuentes primarias se ofrecen en traducción castellana, c
 
 ## Cómo navegar el sitio
 
-El orden de lectura sugerido es secuencial, de la página 1 a la 11. Sin embargo, cada página es autosuficiente y puede leerse independientemente. Los enlaces internos remiten a las páginas que profundizan o complementan un punto específico.
+El orden de lectura sugerido es secuencial, de la página 1 a la 13. Sin embargo, cada página es autosuficiente y puede leerse independientemente. Los enlaces internos remiten a las páginas que profundizan o complementan un punto específico.
 
-El glosario y el cuadro comparativo conviene tenerlos abiertos como referencia mientras se leen las páginas 1 a 8, donde la densidad terminológica es mayor.
+El glosario y el cuadro comparativo conviene tenerlos abiertos como referencia mientras se leen las páginas 1 a 9, donde la densidad terminológica es mayor.
 
-Para el lector con tiempo limitado que quiera una primera aproximación, las páginas mínimas son 1, 6 y 8: el texto conciliar, el salto agustiniano y el problema lógico. Las demás amplifican y contextualizan, pero el argumento central se transmite con esas tres.
+Para el lector con tiempo limitado que quiera una primera aproximación, las páginas mínimas son 1, 6, 7 y 9: el texto conciliar, el salto agustiniano, los dos tipos de monoteísmo trinitario, y el problema lógico. Las demás amplifican y contextualizan, pero el argumento central se transmite con esas cuatro.
 
 ---
 

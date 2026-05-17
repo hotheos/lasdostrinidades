@@ -86,7 +86,7 @@ Preposición latina y griega, "de", "desde", "fuera de". Con genitivo, marca ori
 
 Sustantivo latino compuesto, *Filio* (Hijo) + *que* (y), "y del Hijo". Inserción occidental en el tercer artículo del símbolo niceno-constantinopolitano: la afirmación de que el Espíritu Santo procede del Padre *y del Hijo*. Codificado dogmáticamente en el Concilio de Florencia (1439) con la fórmula *tamquam ab uno principio*, como de un único principio.
 
-*Observación crítica:* el *Filioque* es síntoma estructural del desplazamiento agustiniano examinado en el sitio. No es triteísmo aritmético; relocaliza la unicidad fontal desde la persona del Padre hacia la esencia divina compartida por el Padre y el Hijo. Página 7 desarrolla el análisis.
+*Observación crítica:* el *Filioque* es síntoma estructural del desplazamiento agustiniano examinado en el sitio. No es triteísmo aritmético; relocaliza la unicidad fontal desde la persona del Padre hacia la esencia divina compartida por el Padre y el Hijo. Página 8 desarrolla el análisis.
 
 ### *Fontal* (castellano técnico)
 
@@ -260,7 +260,7 @@ Sustantivo griego, "rostro", "máscara", "persona". Originalmente máscara teatr
 
 Sintagma latino, "relación subsistente". Definición tomista de persona divina (Tomás de Aquino, *Summa Theologiae* I, q. 29, a. 4). La persona divina es una relación que subsiste, es decir, que tiene existencia propia. Las cuatro relaciones reales en la divinidad (paternidad, filiación, espiración activa, espiración pasiva) constituyen las tres personas (la espiración activa es común al Padre y al Hijo, no constituye persona).
 
-*Observación crítica:* la doctrina de las *relationes subsistentes* es la sistematización técnica más sofisticada del esquema agustiniano. Resuelve algunos problemas pero genera otros (el cuarto término implícito, examinado en la página 10 del sitio).
+*Observación crítica:* la doctrina de las *relationes subsistentes* es la sistematización técnica más sofisticada del esquema agustiniano. Resuelve algunos problemas pero genera otros (el cuarto término implícito, examinado en la página 11 del sitio).
 
 ---
 
@@ -286,7 +286,7 @@ Sustantivo latino. Etimológicamente, "lo que está debajo" (de *sub-stare*); tr
 
 Sintagma latino, "como de un único principio". Fórmula crítica del Concilio de Florencia (1439) para articular el *Filioque*: el Espíritu procede del Padre y del Hijo *como de un único principio* y por una única espiración. Núcleo de la articulación escolástica del *Filioque*.
 
-*Observación crítica:* la fórmula *tamquam ab uno principio* solo es inteligible si previamente se ha operado el desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina compartida. Examen detallado en página 7 del sitio.
+*Observación crítica:* la fórmula *tamquam ab uno principio* solo es inteligible si previamente se ha operado el desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina compartida. Examen detallado en página 8 del sitio.
 
 ### *Taxis* (τάξις)
 
@@ -356,7 +356,7 @@ Adjetivo griego, "dador de vida", "vivificante". En el tercer artículo del sím
 
 La doctrina trinitaria conciliar usa vocabulario filosófico griego (*ousia*, *hypostasis*, *prosōpon*, *physis*, *homoousios*) y latino (*substantia*, *essentia*, *persona*, *natura*, *relatio*) que no es vocabulario bíblico. Esta es observación importante para cualquier evaluación honesta de la doctrina trinitaria.
 
-Reconocer esto no invalida la doctrina, pero sí marca la dependencia estructural del cristianismo histórico respecto al vocabulario filosófico griego para articular su confesión de fe. El aforismo del cuerpo doblemente deshuesado (página 9) articula esta dependencia con precisión: la Trinidad necesita los concilios para articularse, y los concilios necesitan vocabulario filosófico griego para expresarse. Quien sostenga la doctrina trinitaria en su forma técnica recibe, quiera o no, las dos herencias.
+Reconocer esto no invalida la doctrina, pero sí marca la dependencia estructural del cristianismo histórico respecto al vocabulario filosófico griego para articular su confesión de fe. El aforismo del cuerpo doblemente deshuesado (página 10) articula esta dependencia con precisión: la Trinidad necesita los concilios para articularse, y los concilios necesitan vocabulario filosófico griego para expresarse. Quien sostenga la doctrina trinitaria en su forma técnica recibe, quiera o no, las dos herencias.
 
 El glosario es, así, no solo herramienta de consulta sino también recordatorio de la complejidad histórico-conceptual de lo que el cristianismo confiesa cuando confiesa la Trinidad.
 

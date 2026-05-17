@@ -1,4 +1,4 @@
-# 3. La gramática nicena: el uno fontal
+# 2. La gramática nicena: el uno fontal
 
 > *Pues el Padre es causa del Hijo y del Espíritu.*
 >
@@ -8,7 +8,7 @@
 
 ---
 
-## 3.1 Qué significa "gramática" en este contexto
+## 2.1 Qué significa "gramática" en este contexto
 
 El término "gramática" se usa en esta página y en el resto del sitio en un sentido técnico que conviene precisar. No se refiere a las reglas sintácticas del griego o del latín. Se refiere a la estructura lógica de las afirmaciones doctrinales: qué tipo de predicados se aplican a qué referentes, cómo se distribuyen las relaciones causales, dónde se ubica la unicidad afirmada, qué cuenta como pregunta legítima y qué cuenta como respuesta admisible dentro de un esquema dado.
 
@@ -18,7 +18,7 @@ Esta página expone la gramática nicena. Lo hace en cuatro pasos. Primero, la m
 
 ---
 
-## 3.2 La monarquía del Padre
+## 2.2 La monarquía del Padre
 
 El concepto griego *monarchia* (μοναρχία) significa, literalmente, "gobierno único" o "principio único". En el contexto trinitario griego del siglo IV, designa la afirmación de que el Padre es la única *archē* (ἀρχή, principio), *aitía* (αἰτία, causa), *pēgē* (πηγή, fuente) en la divinidad. El Hijo y el Espíritu no son fuentes de divinidad ni principios autónomos; reciben la divinidad del Padre por generación y procesión respectivamente.
 
@@ -62,19 +62,21 @@ El texto es densamente teológico. Gregorio articula tres afirmaciones simultán
 
 ### Gregorio de Nisa
 
-Gregorio de Nisa (c. 335-394), el más filosóficamente articulado de los Capadocios, desarrolla la cuestión en su tratado *Ad Ablabium*, dirigido a explicar por qué la confesión trinitaria no es triteísta. Su argumentación es delicada y conviene presentarla en extracto:
+Gregorio de Nisa (c. 335-394), el más filosóficamente articulado de los Capadocios, desarrolla la cuestión en su tratado *Ad Ablabium, quod non sint tres dei* (A Ablabio, que no son tres dioses), respondiendo a la objeción de que la confesión trinitaria sería triteísta. El pasaje más citado articula la afirmación de unicidad divina:
 
-> *Tres ouk an eipois oude akolouthos eipoi tis treis theous, kan idiazontōs eis hekaston aphorōn legoi theon... hen gar tēs theotētos onoma, kai hēn echei hekaston tōn proseirēmenōn prosōpōn pros to symphues kai oikeion tēs theias physeōs koinōnian.*
->
 > *No se podría hablar de tres dioses, ni alguien lo diría consecuentemente, aunque al considerar cada uno por separado se le llame Dios... pues uno es el nombre de la divinidad, y la comunión que cada una de las personas mencionadas tiene con lo congénere y propio de la naturaleza divina.*
 >
-> Gregorio de Nisa, *Ad Ablabium* (que no son tres dioses)
+> *Tres ouk an eipois oude akolouthos eipoi tis treis theous, kan idiazontōs eis hekaston aphorōn legoi theon... hen gar tēs theotētos onoma, kai hēn echei hekaston tōn proseirēmenōn prosōpōn pros to symphues kai oikeion tēs theias physeōs koinōnian.*
+>
+> Gregorio de Nisa, *Ad Ablabium*
 
-La fórmula gregoriana es importante: hay una sola divinidad (*mia theotēs*), no tres divinidades, aunque las tres personas reciban el predicado divino. La unicidad no es aritmética simple sino fontal y consustancial. Las tres personas son una sola divinidad porque comparten la única naturaleza divina que fluye del Padre como fuente.
+Cuando Gregorio dice "*mia theotēs*" (una divinidad), opera dentro del horizonte capadocio común. El término *theotēs* designa cualidad divina compartida o señorío providencial unitario, no un sujeto sustancial unitario al modo en que lo articulará Agustín dos siglos después. La interpretación precisa del argumento gregoriano (si la unicidad se ancla principalmente en la causalidad fontal del Padre, en la doctrina de las operaciones inseparables, o en una combinación de ambos elementos) es objeto de debate académico contemporáneo activo. Las posiciones de Lossky, Zizioulas, Ayres, Barnes, Coakley y Maspero sobre esta cuestión se examinan con detalle en el Apéndice G del sitio, junto con la cuestión correlativa de cómo los Capadocios reciben Juan 17:3 ("el único Dios verdadero") frente al adversario eunomiano.
+
+Para el argumento general del sitio basta señalar lo siguiente. Sea cual sea la articulación específica que se atribuya a Gregorio de Nisa dentro del horizonte capadocio, su uso de *theotēs* y de *mia* no postula un sujeto sustancial divino unitario anterior a las personas. El "uno" gregoriano sigue siendo articulación capadocia, no esencialismo agustiniano. Las citas de Basilio y de Gregorio Nacianceno examinadas anteriormente, donde la articulación fontal personal es textualmente más explícita, son las que sostienen con peso textual directo la afirmación de que la monarquía del Padre es el núcleo estructural de la gramática nicena.
 
 ---
 
-## 3.3 La generación del Hijo
+## 2.3 La generación del Hijo
 
 La afirmación nicena central sobre el Hijo es que es *gennēthenta ou poiēthenta* (engendrado, no hecho). La distinción entre generación (*gennēsis*, γέννησις) y creación (*ktísis*, κτίσις, o *poiēsis*, ποίησις) es teológicamente decisiva y excluye al arrianismo.
 
@@ -108,7 +110,7 @@ La asimetría no implica subordinación de naturaleza. El Hijo engendrado tiene 
 
 ---
 
-## 3.4 La procesión del Espíritu
+## 2.4 La procesión del Espíritu
 
 El símbolo de 381 afirma sobre el Espíritu Santo: *to ek tou Patros ekporeuomenon* (τὸ ἐκ τοῦ Πατρὸς ἐκπορευόμενον), el que del Padre procede. La fórmula tiene tres elementos críticos.
 
@@ -132,7 +134,7 @@ La afirmación es importante: la patrística griega reconoce la distinción entr
 
 La cláusula *ek tou Patros* especifica al Padre como fuente exclusiva de la procesión del Espíritu. El símbolo no añade ninguna otra fuente. No dice "del Padre y del Hijo", como dirá el *Filioque* occidental cinco siglos después. Dice solo "del Padre".
 
-Esto no es accidente. La monarquía del Padre, articulada como columna vertebral de la doctrina trinitaria griega, requiere que el Padre sea fuente única de las otras dos hipóstasis. Si el Espíritu procediera también del Hijo en sentido fontal, habría dos fuentes en la divinidad, lo cual la monarquía excluye explícitamente. La página 7 desarrollará en detalle el problema del *Filioque*.
+Esto no es accidente. La monarquía del Padre, articulada como columna vertebral de la doctrina trinitaria griega, requiere que el Padre sea fuente única de las otras dos hipóstasis. Si el Espíritu procediera también del Hijo en sentido fontal, habría dos fuentes en la divinidad, lo cual la monarquía excluye explícitamente. La página 8 desarrollará en detalle el problema del *Filioque*.
 
 ### *Di' Huiou*: a través del Hijo
 
@@ -140,11 +142,11 @@ Una formulación complementaria, presente en algunos Padres griegos, es que el E
 
 La distinción entre *ek tou Patros* y *ek tou Patros di' Huiou* es importante. La primera describe la procesión hipostática eterna del Espíritu desde su fuente (el Padre como única *aitía*). La segunda describe la manifestación o misión del Espíritu en la economía de la salvación, donde el Hijo está implicado en el envío del Espíritu al mundo. Las dos formulaciones no son contradictorias si se distingue entre la procesión eterna (*theologia*) y la misión temporal (*oikonomia*). El Espíritu procede eternamente del Padre como única fuente; el Espíritu es enviado temporalmente al mundo por el Padre a través del Hijo.
 
-Esta distinción será central en la discusión sobre el *Filioque* en la página 7. Por ahora, basta notar que la gramática griega articula con claridad lo que el latín posterior tenderá a colapsar: hay un nivel de la procesión eterna donde solo el Padre opera como fuente, y un nivel de la misión temporal donde el Hijo está implicado.
+Esta distinción será central en la discusión sobre el *Filioque* en la página 8. Por ahora, basta notar que la gramática griega articula con claridad lo que el latín posterior tenderá a colapsar: hay un nivel de la procesión eterna donde solo el Padre opera como fuente, y un nivel de la misión temporal donde el Hijo está implicado.
 
 ---
 
-## 3.5 La consolidación capadocia: *mia ousia, treis hypostaseis*
+## 2.5 La consolidación capadocia: *mia ousia, treis hypostaseis*
 
 Entre el símbolo de 325 y el de 381, los Padres Capadocios (Basilio de Cesarea, Gregorio Nacianceno, Gregorio de Nisa) estabilizan el vocabulario técnico que permite articular con precisión la doctrina trinitaria. La fórmula resultante es *mia ousia, treis hypostaseis* (μία οὐσία, τρεῖς ὑποστάσεις), una esencia, tres hipóstasis.
 
@@ -184,7 +186,7 @@ Este punto es crítico para la lectura de la gramática nicena. Quien lee *mia o
 
 ---
 
-## 3.6 Por qué este esquema no es arrianismo
+## 2.6 Por qué este esquema no es arrianismo
 
 Una objeción inmediata que se puede plantear es si la asimetría fontal de la gramática nicena no implica algún tipo de subordinacionismo arriano. Si el Padre es fuente y el Hijo recibe la divinidad del Padre, ¿no es eso decir que el Hijo es ontológicamente inferior al Padre, o que solo es Dios en sentido derivado e impropio?
 
@@ -198,7 +200,7 @@ La distinción fina entre "asimetría fontal" y "subordinacionismo ontológico" 
 
 ---
 
-## 3.7 Por qué este esquema no es modalismo
+## 2.7 Por qué este esquema no es modalismo
 
 La objeción opuesta también puede plantearse. Si las tres hipóstasis comparten la misma *ousia*, ¿no son entonces tres modos o aspectos de un único sujeto divino, al modo en que Sabelio (siglo III) parecía sostener? El modalismo sabeliano afirmaba que Padre, Hijo y Espíritu son tres máscaras o roles (*prosōpa* en sentido teatral) del único Dios, sin distinción real entre ellos.
 
@@ -228,7 +230,7 @@ La gramática nicena, así articulada, evita los dos errores opuestos. No es arr
 
 ---
 
-## 3.8 Una precisión necesaria: cualidad y sujeto
+## 2.8 Una precisión necesaria: cualidad y sujeto
 
 Antes de sintetizar la gramática completa, conviene una precisión filosófica que la patrística griega presupone pero que el lector contemporáneo puede pasar por alto. Esta precisión es necesaria porque el desplazamiento agustiniano posterior, que la página 6 desarrollará, opera precisamente en este punto.
 
@@ -257,7 +259,7 @@ Quien lea las fórmulas patrísticas griegas "una sola divinidad" o *mia ousia* 
 
 ---
 
-## 3.9 La estructura completa
+## 2.9 La estructura completa
 
 Reuniendo los elementos expuestos, la gramática nicena se puede sintetizar en cinco afirmaciones simultáneas. No son cinco doctrinas separadas: son cinco aspectos de la misma estructura, mutuamente implicados.
 
@@ -271,7 +273,7 @@ Reuniendo los elementos expuestos, la gramática nicena se puede sintetizar en c
 
 **Quinta afirmación.** Las tres hipóstasis comparten una sola *ousia* divina y se distinguen por propiedades hipostáticas reales (inengendrabilidad, generación, procesión). La fórmula excluye simultáneamente el subordinacionismo ontológico y el modalismo sabeliano.
 
-Las cinco afirmaciones, leídas conjuntamente, articulan lo que la página 2 propuso llamar *monoteísmo fontal trinitario*: una única divinidad que fluye fontalmente del Padre y se comunica al Hijo por generación y al Espíritu por procesión, sin pluralidad de divinidades, sin grados ontológicos, sin colapso modalista, sin separación arriana. Esta es la gramática que el símbolo de 381 articula textualmente y que la patrística griega del siglo IV defiende explícitamente.
+Las cinco afirmaciones, leídas conjuntamente, articulan lo que la página 3 propondrá llamar *monoteísmo fontal trinitario*: una única divinidad que fluye fontalmente del Padre y se comunica al Hijo por generación y al Espíritu por procesión, sin pluralidad de divinidades, sin grados ontológicos, sin colapso modalista, sin separación arriana. Esta es la gramática que el símbolo de 381 articula textualmente y que la patrística griega del siglo IV defiende explícitamente.
 
 ### Pluralidad real de hipóstasis junto a la unicidad fontal
 
@@ -292,7 +294,7 @@ La consecuencia es que el cristianismo niceno no es monoteísmo unipersonal (una
 
 ---
 
-## 3.10 Lo que esta gramática hace posible
+## 2.10 Lo que esta gramática hace posible
 
 Antes de cerrar, conviene observar tres consecuencias positivas de esta gramática que la lectura agustiniana posterior tenderá a perder o atenuar. Estas consecuencias se desarrollarán en páginas posteriores; aquí se anticipan brevemente.
 
@@ -300,15 +302,15 @@ Antes de cerrar, conviene observar tres consecuencias positivas de esta gramáti
 
 **Segunda consecuencia: legibilidad de la liturgia antigua.** La doxología cristiana antigua, atestiguada en los primeros siglos y conservada en la liturgia bizantina y en partes de la romana, dirige la oración *al Padre, por el Hijo, en el Espíritu Santo*. Esta direccionalidad asimétrica refleja la gramática nicena: hay una sola fuente (el Padre) a quien se dirige el culto, una mediación (el Hijo) por quien se ofrece, y una habitación (el Espíritu) en quien se cumple. Bajo la gramática agustiniana posterior, la doxología tiende a coordinar las tres personas (*al Padre y al Hijo y al Espíritu Santo*), perdiendo la direccionalidad fontal.
 
-**Tercera consecuencia: ausencia del problema lógico de la Trinidad.** La pregunta aritmética que se planteó en la página 2 (cómo articular la dualidad referencial con la afirmación de unicidad) recibe en la gramática nicena una respuesta no aritmética: la unicidad es fontal, no de número. Hay tres hipóstasis y una sola fuente; no hay contradicción porque la fuente única y las tres hipóstasis no son números aplicados al mismo objeto en el mismo sentido. Bajo la gramática agustiniana posterior, donde la unicidad se ancla en la esencia compartida por tres personas igualmente posicionadas, la pregunta aritmética se vuelve aguda: ¿cómo pueden ser tres personas, cada una plenamente Dios, y solo un Dios? Este es el problema lógico de la Trinidad que la página 8 desarrollará en detalle. La gramática nicena no lo plantea con la misma fuerza.
+**Tercera consecuencia: ausencia del problema lógico de la Trinidad.** La pregunta aritmética que se planteará en la página 3 (cómo articular la dualidad referencial con la afirmación de unicidad) recibe en la gramática nicena una respuesta no aritmética: la unicidad es fontal, no de número. Hay tres hipóstasis y una sola fuente; no hay contradicción porque la fuente única y las tres hipóstasis no son números aplicados al mismo objeto en el mismo sentido. Bajo la gramática agustiniana posterior, donde la unicidad se ancla en la esencia compartida por tres personas igualmente posicionadas, la pregunta aritmética se vuelve aguda: ¿cómo pueden ser tres personas, cada una plenamente Dios, y solo un Dios? Este es el problema lógico de la Trinidad que la página 9 desarrollará en detalle. La gramática nicena no lo plantea con la misma fuerza.
 
 ---
 
-## 3.11 Cierre
+## 2.11 Cierre
 
 La gramática nicena es coherente, articulada y técnicamente precisa. Sus formuladores, los Padres griegos del siglo IV, sabían lo que decían y por qué. Los textos atestiguan que la monarquía del Padre, la consustancialidad del Hijo y la procesión del Espíritu desde el Padre fueron las afirmaciones simultáneas y mutuamente requeridas que articularon la doctrina trinitaria conciliar.
 
-La página siguiente examinará el contexto pre-agustiniano: el papel de Atanasio en la consolidación del *homoousios*, la formulación de Tertuliano *una substantia, tres personae* en el latín del siglo III, y la pregunta de si estas formulaciones tempranas producen ya el problema lógico de la Trinidad o solo crean las condiciones para que el problema emerja más tarde con Agustín.
+Expuesta la gramática nicena en su articulación completa, la pregunta que se impone es de orden categorial: ¿qué *tipo* de teísmo produce esta gramática? La página siguiente abordará esa cuestión. Presentará las categorías modernas de teísmo (monoteísmo estricto, henoteísmo, monolatría), el monoteísmo del Segundo Templo como horizonte propio de Pablo, y formulará con cautela la propuesta de denominar al teísmo del símbolo conciliar *monoteísmo fontal trinitario*: una denominación que captura la estructura expuesta en esta página sin forzarla en categorías modernas inadecuadas.
 
 ---
 
@@ -335,4 +337,4 @@ La página siguiente examinará el contexto pre-agustiniano: el papel de Atanasi
 
 ---
 
-*Página 3 de 11* · [← Página 2: ¿Qué tipo de teísmo articula Nicea?](02_tipo_de_teismo.md) · [Página 4: Atanasio y el contexto pre-agustiniano →](04_atanasio_pre_agustiniano.md)
+*Página 2 de 13* · [← Página 1: Lo que dice Nicea literalmente](01_nicea_literal.md) · [Página 3: ¿Qué tipo de teísmo articula Nicea? →](03_tipo_de_teismo.md)

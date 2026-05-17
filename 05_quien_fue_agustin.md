@@ -163,4 +163,4 @@ La página siguiente examinará lo que Agustín hace en esta obra: el desplazami
 
 ---
 
-*Página 5 de 11* · [← Página 4: Atanasio y el contexto pre-agustiniano](04_atanasio_pre_agustiniano.md) · [Página 6: El salto: del Padre como fuente a la esencia como sujeto →](06_el_salto_agustiniano.md)
+*Página 5 de 13* · [← Página 4: El contexto pre-agustiniano](04_atanasio_pre_agustiniano.md) · [Página 6: El salto agustiniano →](06_el_salto_agustiniano.md)

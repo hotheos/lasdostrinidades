@@ -1,4 +1,4 @@
-# 8. El problema lógico de la Trinidad
+# 9. El problema lógico de la Trinidad
 
 > *Los cristianos son, en su vida práctica, casi meros monoteístas. Podríamos arriesgarnos a afirmar que si la doctrina de la Trinidad fuera reconocida como falsa, la mayor parte de la literatura religiosa podría conservarse casi sin cambios.*
 >
@@ -8,7 +8,7 @@
 
 ---
 
-## 8.1 La cuestión que se examina
+## 9.1 La cuestión que se examina
 
 Las páginas 6 y 7 documentaron el desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario, y mostraron cómo el *Filioque* es síntoma estructural de ese desplazamiento. Esta página examina la otra consecuencia mayor del mismo desplazamiento: lo que la filosofía analítica contemporánea de la religión denomina *the logical problem of the Trinity*, el problema lógico de la Trinidad.
 
@@ -18,7 +18,7 @@ Esta tesis tiene tres implicaciones que la página desarrollará. Primera, la pr
 
 ---
 
-## 8.2 La formulación del problema
+## 9.2 La formulación del problema
 
 El problema lógico de la Trinidad recibió su formulación contemporánea técnica en el ensayo de Richard Cartwright *On the Logical Problem of the Trinity* (1987), que ha generado una literatura filosófica considerable en las décadas siguientes. La formulación canónica del problema puede articularse así.
 
@@ -44,19 +44,19 @@ La formulación está cuidadosamente construida. No es retórica antitrinitaria 
 
 ---
 
-## 8.3 ¿Por qué este problema es específicamente agustiniano?
+## 9.3 ¿Por qué este problema es específicamente agustiniano?
 
 Antes de examinar las soluciones propuestas, es necesario identificar exactamente qué presupuestos producen el problema. La tesis del sitio es que el problema lógico surge solo bajo dos condiciones simultáneas, ya identificadas en la página 4:
 
 **Condición 1.** Las tres personas son igualmente Dios en sentido idéntico, sin grados ni asimetría ontológica.
 
-**Condición 2.** El "un solo Dios" se entiende como un *qué* (una esencia única compartida), no como un *quién* (una fuente única personal de la que dos hipóstasis reciben la divinidad). En los términos de la página 2: el problema surge bajo el *monoteísmo esencialista trinitario*, no bajo el *monoteísmo fontal trinitario*.
+**Condición 2.** El "un solo Dios" se entiende como un *qué* (una esencia única compartida), no como un *quién* (una fuente única personal de la que dos hipóstasis reciben la divinidad). En los términos de la página 3: el problema surge bajo el *monoteísmo esencialista trinitario*, no bajo el *monoteísmo fontal trinitario*.
 
 Examinemos cómo opera la formulación canónica bajo cada esquema.
 
 ### Bajo la gramática nicena
 
-En la gramática nicena (página 3), las siete proposiciones se leen con una distinción técnica que disuelve la contradicción.
+En la gramática nicena (página 2), las siete proposiciones se leen con una distinción técnica que disuelve la contradicción.
 
 P1 ("Hay un solo Dios") se entiende como afirmación de la monarquía del Padre: hay una sola fuente personal de la divinidad, identificada con el Padre. *Heis Theos ho Patēr*.
 
@@ -66,7 +66,7 @@ P3 ("El Hijo es Dios") se entiende como predicación cualificada: el Hijo es *Th
 
 P4 ("El Espíritu Santo es Dios") se entiende análogamente: el Espíritu recibe la divinidad del Padre por procesión eterna.
 
-P5, P6, P7 (las distinciones personales) se mantienen como propiedades hipostáticas reales (página 3, sección 3.5).
+P5, P6, P7 (las distinciones personales) se mantienen como propiedades hipostáticas reales (página 2, sección 3.5).
 
 Bajo esta lectura, el problema lógico no surge. P2, P3 y P4 no afirman tres identidades numéricas con el mismo sujeto único. Afirman una identidad fontal (P2) y dos predicaciones consustanciales derivadas (P3, P4). La "transitividad de la identidad" no se aplica porque "es Dios" no significa exactamente lo mismo en las tres proposiciones: el Padre es Dios fontalmente, el Hijo y el Espíritu son Dios derivativamente desde la única fuente paterna.
 
@@ -84,11 +84,11 @@ La filosofía analítica contemporánea ha desarrollado diversas estrategias par
 
 ---
 
-## 8.4 Las soluciones filosóficas contemporáneas
+## 9.4 Las soluciones filosóficas contemporáneas
 
 La filosofía analítica de la religión ha producido varias soluciones al problema lógico, cada una con virtudes y costos específicos. Las cuatro principales se exponen a continuación.
 
-### 8.4.1 Trinidad social
+### 9.4.1 Trinidad social
 
 La trinidad social, defendida especialmente por J.P. Moreland y William Lane Craig en *Philosophical Foundations for a Christian Worldview* (2003), por Richard Swinburne en *The Christian God* (1994), y con matices distintos por algunos teólogos protestantes como Cornelius Plantinga, propone una analogía social entre la Trinidad y un grupo de tres personas que comparten una sola naturaleza humana.
 
@@ -106,7 +106,7 @@ La fórmula de Craig es característica:
 
 La trinidad social ha sido criticada desde la teología clásica (Brian Leftow, Stephen Holmes) como deslizamiento hacia el triteísmo. Sus defensores responden que la analogía con seres humanos es solo analógica y que la naturaleza divina es ontológicamente distinta de la naturaleza humana en el sentido relevante. La discusión sigue abierta.
 
-### 8.4.2 Modelo de constitución material
+### 9.4.2 Modelo de constitución material
 
 El modelo de constitución material, desarrollado por Jeffrey Brower y Michael Rea en *Material Constitution and the Trinity* (2005) y artículos posteriores, propone una analogía con la relación entre un objeto material y su constitución.
 
@@ -118,7 +118,7 @@ Aplicada a la Trinidad: el Padre, el Hijo y el Espíritu son cada uno constituid
 
 **Costos.** El modelo presupone una metafísica de la constitución material que es por sí misma controvertida. Si la analogía estatua/bronce es problemática en metafísica general (algunos filósofos sostienen que la estatua y el bronce son simplemente la misma cosa con propiedades modales distintas, lo cual disuelve la analogía), entonces su aplicación trinitaria hereda los problemas. Además, la analogía material es teológicamente delicada: la Trinidad no es un objeto material, y las propiedades modales relevantes en metafísica de objetos no son obviamente las que distinguen las personas divinas.
 
-### 8.4.3 Trinitarismo relativo
+### 9.4.3 Trinitarismo relativo
 
 El trinitarismo relativo, defendido por Peter van Inwagen en su ensayo *And Yet They Are Not Three Gods But One God* (1988), propone una solución más radical: la identidad numérica no es absoluta sino relativa.
 
@@ -133,7 +133,7 @@ Las dos afirmaciones no se contradicen porque la relación de identidad opera en
 
 **Costos.** La lógica de identidad relativa es controvertida en filosofía general. La mayoría de los filósofos analíticos sostiene que la identidad es absoluta, y rechazar este principio tiene costos en otras áreas de la lógica y la metafísica. La solución resuelve el problema trinitario al precio de aceptar una lógica que muchos consideran inaceptable.
 
-### 8.4.4 Modelo latino clásico
+### 9.4.4 Modelo latino clásico
 
 El modelo latino clásico, defendido por Brian Leftow en *Anti Social Trinitarianism* (1999) y por Stephen Holmes en *The Quest for the Trinity* (2012), es la actualización filosófica de la solución tomista. Las tres personas son tres relaciones subsistentes dentro de una única esencia divina, y la unicidad de la esencia es estricta mientras que la distinción de las personas es relacional, no sustancial.
 
@@ -151,7 +151,7 @@ Bajo esta lectura, la transitividad de la identidad opera correctamente. El Padr
 
 ---
 
-## 8.5 Lo que estas soluciones tienen en común
+## 9.5 Lo que estas soluciones tienen en común
 
 Una observación atraviesa las cuatro soluciones examinadas. Todas presuponen el esquema agustiniano como dato y proponen articulaciones técnicas para resolver la dificultad dentro de él. Ninguna cuestiona el desplazamiento del referente último de *Deus* desde la persona del Padre hacia la esencia compartida.
 
@@ -163,7 +163,7 @@ Esta es una observación importante para evaluar el debate. Quien sostenga que l
 
 ---
 
-## 8.6 El espejo crítico: críticos atacando una Trinidad que Nicea no formuló
+## 9.6 El espejo crítico: críticos atacando una Trinidad que Nicea no formuló
 
 Hasta aquí se han examinado las soluciones que defienden la doctrina trinitaria contra el problema lógico. Es necesario ahora examinar los críticos que sostienen que el problema lógico es irresoluble y que la doctrina trinitaria, por tanto, es incoherente.
 
@@ -193,7 +193,7 @@ Cada una de estas afirmaciones tiene fuerza específica contra el esquema agusti
 Pero estos mismos argumentos pierden tracción cuando se aplican a la gramática nicena fontal.
 
 - En la gramática nicena, la unicidad es del Padre como fuente personal, no de una esencia idéntica a tres personas. La aritmética 1=3 no se plantea con la misma fuerza.
-- El monoteísmo nicena no es el monoteísmo estricto del teísmo filosófico moderno, sino el monoteísmo fontal trinitario examinado en la página 2.
+- El monoteísmo nicena no es el monoteísmo estricto del teísmo filosófico moderno, sino el monoteísmo fontal trinitario examinado en la página 3.
 - La gramática nicena, aunque articula la doctrina trinitaria con vocabulario filosófico griego, lo hace en términos que se mantienen más cerca del patrón paulino (1 Corintios 8:6) que del neoplatonismo.
 - El Nuevo Testamento, leído según el patrón paulino y joánico, presenta una distribución de predicados (*Theos* primariamente al Padre, *Kyrios* primariamente al Hijo, distintos pero articulados) que la gramática nicena recoge y que la gramática agustiniana posterior aplana al universalizar el predicado *Theos* sin asimetría.
 
@@ -203,7 +203,7 @@ Esto no significa que la gramática nicena sea inmune a toda objeción. Los crí
 
 ---
 
-## 8.7 El espejo simétrico: defensores defendiendo una Trinidad que Agustín sí formuló
+## 9.7 El espejo simétrico: defensores defendiendo una Trinidad que Agustín sí formuló
 
 La simetría metodológica exige también observar lo que hacen los defensores trinitarios contemporáneos.
 
@@ -219,7 +219,7 @@ El resultado es un debate en el que dos bandos discuten apasionadamente sobre un
 
 ---
 
-## 8.8 La consecuencia: el sitio como reubicación del debate
+## 9.8 La consecuencia: el sitio como reubicación del debate
 
 El sitio no resuelve el debate entre defensores y críticos del trinitarismo occidental. Pero lo reubica. Sostiene que ese debate, en su forma contemporánea estándar, opera mayoritariamente sobre el esquema agustiniano sin reconocerlo como tal. Ambos bandos asumen que la formulación occidental es Nicea, lo cual es históricamente impreciso.
 
@@ -239,7 +239,7 @@ Estas son las preguntas que las páginas 9 y 10 desarrollarán. Por ahora, basta
 
 ---
 
-## 8.9 Una observación final
+## 9.9 Una observación final
 
 Conviene cerrar esta página con una observación que la simetría metodológica requiere.
 
@@ -282,4 +282,4 @@ La página siguiente examina cómo las tres tradiciones cristianas contemporáne
 
 ---
 
-*Página 8 de 11* · [← Página 7: El Filioque](07_filioque.md) · [Página 9: Cómo lo viven hoy las tres tradiciones →](09_tres_tradiciones_hoy.md)
+*Página 9 de 13* · [← Página 8: El Filioque](08_filioque.md) · [Página 10: Tres tradiciones hoy →](10_tres_tradiciones_hoy.md)

@@ -79,13 +79,15 @@ En griego clásico y koiné, esta construcción es una aposición: dos sintagmas
 
 La consecuencia gramatical es directa. *Hena Theon* y *Patera* refieren al mismo referente. El "un Dios" del símbolo se identifica gramaticalmente con el Padre. No con una esencia divina compartida por tres personas, no con la Trinidad como sujeto unitario, no con la divinidad en abstracto. Con el Padre.
 
+Es importante señalar que esta identificación no niega de ninguna forma la divinidad plena ni la consustancialidad del Hijo. El mismo símbolo que identifica al "un Dios" con el Padre declara inmediatamente después que el Hijo es "Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre". La gramática fontal no distribuye grados de divinidad; distribuye posiciones en el orden de origen. El Hijo es plenamente Dios, con la misma divinidad del Padre, pero la recibe del Padre como su fuente. Afirmar que el "un Dios" es el Padre es afirmar de dónde viene la divinidad; no es negar que el Hijo la posea plenamente.
+
 Esta lectura no es una hipótesis exegética entre varias. Es la lectura sintáctica obvia y la que la totalidad de la patrística griega del siglo IV asume sin discutir. La fórmula reproduce, deliberadamente, una construcción paulina que la conciencia teológica de los Padres conciliares tenía presente: *heis Theos ho Patēr* (un Dios, el Padre), en 1 Corintios 8:6.
 
 ---
 
 ## 1.4 El sustrato paulino: 1 Corintios 8:6
 
-El símbolo no formula su apertura *ex nihilo*. Calca, con conciencia teológica, una de las afirmaciones cristológicas más densas del corpus paulino. El texto griego de Pablo, presentado con análisis léxico, es el siguiente:
+La apertura del símbolo no surge de la nada ni es invención conciliar. Tiene un fundamento neotestamentario directo: calca, con conciencia teológica deliberada, una de las afirmaciones cristológicas más densas del corpus paulino. El texto griego de Pablo, presentado con análisis léxico, es el siguiente:
 
 ### Texto griego de 1 Corintios 8:6
 
@@ -107,13 +109,22 @@ Pablo opera dos distribuciones simultáneas que la traducción castellana puede 
 
 **Segunda distribución: causalidad.** La preposición *ek* (con genitivo, *ex hou*) marca al Padre como fuente, origen, principio del que proceden todas las cosas. La preposición *dia* (con genitivo, *di' hou*) marca al Hijo como agencia, instrumento, mediación por la que las cosas vienen a ser. La causalidad no es la misma. *Ek* es causalidad fontal; *dia* es causalidad mediadora. Las dos son reales y se distribuyen entre los dos referentes sin colapsarse en una causalidad indistinta.
 
-Esta arquitectura paulina, con dos predicados distintos y dos modos causales distintos, es la que el símbolo de 381 reproduce. *Hena Theon, Patera* sigue el patrón de *heis Theos, ho Patēr*. *Hena Kyrion, Iēsoun Christon* sigue el patrón de *heis Kyrios, Iēsous Christos*. La continuidad terminológica es deliberada.
+Esta arquitectura paulina, con dos predicados distintos y dos modos causales distintos, es la que el símbolo de 381 reproduce. La correspondencia entre ambos textos puede verse con claridad en la siguiente tabla:
+
+| Concepto | Pablo (1 Corintios 8:6) | Símbolo (381) | Función |
+|----------|------------------------|---------------|----------|
+| El Padre como "un Dios" | *heis Theos, ho Patēr* | *hena Theon, Patera* | Identificación del único Dios con el Padre |
+| El Hijo como "un Señor" | *heis Kyrios, Iēsous Christos* | *hena Kyrion, Iēsoun Christon* | Identificación del único Señor con Jesucristo |
+| Causalidad del Padre | *ex hou ta panta* (de quien todas las cosas) | *poiētēn ouranou kai gēs* (hacedor del cielo y la tierra) | El Padre como fuente originaria |
+| Causalidad del Hijo | *di' hou ta panta* (por quien todas las cosas) | *di' hou ta panta egeneto* (por quien todo fue hecho) | El Hijo como agente mediador |
+
+La continuidad terminológica no es accidental: el símbolo reproduce deliberadamente la estructura paulina.
 
 ---
 
 ## 1.5 La estructura tripartita del símbolo
 
-Volviendo al símbolo, la estructura completa repite el patrón paulino expandido pneumatológicamente. Los tres artículos siguen un esquema paralelo, con tres referentes distinguibles y tres modos de articulación.
+Examinemos ahora cómo el símbolo completo despliega este mismo patrón paulino, ampliándolo para incluir al Espíritu Santo. El credo se organiza en tres artículos, cada uno dedicado a una persona distinta. Cada artículo identifica a su referente con títulos propios y especifica su relación con las demás personas:
 
 **Sobre el Padre.** *Hena Theon, Patera pantokratora*. El Padre es identificado como el único Dios y como hacedor del cielo y la tierra. La actividad creadora se le atribuye en primera instancia.
 
@@ -123,7 +134,7 @@ Conviene observar tres precisiones que la traducción castellana puede oscurecer
 
 *Primera precisión: el sentido de "por quien".* La preposición *dia* con genitivo (*di' hou*) no marca al Hijo como creador originario sino como medio o agencia de la creación. La distinción es crucial y se mantiene estable en el griego del Nuevo Testamento y de la patrística temprana. En 1 Corintios 8:6, en Juan 1:3, en Colosenses 1:16 y en Hebreos 1:2, la actividad creadora se atribuye fontalmente al Padre (*ek* o *ex*, de quien proceden todas las cosas) y mediadoramente al Hijo (*dia*, por medio de quien). El símbolo conciliar conserva esta distribución: el Padre es *poiētēs* (ποιητής, hacedor) del cielo y la tierra en el primer artículo; el Hijo es aquel *por medio de* quien todas las cosas fueron hechas en el segundo artículo. Decir "por quien" no es decir "quien hizo" en sentido fontal sino "por cuya agencia se hizo lo que el Padre hace". La distinción terminológica refleja la asimetría causal que ya estaba en Pablo y que la patrística griega articulará explícitamente.
 
-*Segunda precisión: el sentido de "Dios de Dios".* El símbolo aplica el predicado *Theos* al Hijo, pero lo hace en forma cualificada y derivada: *Theon alēthinon ek Theou alēthinou*, Dios verdadero *de* Dios verdadero. La preposición *ek* (con genitivo) marca al Padre como fuente de la divinidad del Hijo. Esta formulación no significa que el Hijo sea un segundo Dios junto al Padre, ni que sea la misma persona que el Padre, ni que el predicado *Theos* se aplique al Hijo y al Padre en sentido idéntico e independiente. Significa que el Hijo es plenamente divino con una divinidad que recibe del Padre por generación eterna. La consustancialidad afirmada inmediatamente después (*homoousion tō Patri*) cualifica esta atribución: la divinidad del Hijo no es de otra clase que la del Padre, pero su origen es el Padre. La consustancialidad no anula la asimetría fontal; la presupone y la articula.
+*Segunda precisión: el sentido de "Dios de Dios".* El símbolo aplica el predicado *Theos* al Hijo, pero lo hace en forma cualificada y derivada: *Theon alēthinon ek Theou alēthinou*, Dios verdadero *de* Dios verdadero. La preposición *ek* (con genitivo) marca al Padre como fuente de la divinidad del Hijo. Esta formulación no significa que el Hijo sea un segundo Dios junto al Padre, ni que sea la misma persona que el Padre, ni que el predicado *Theos* se aplique al Hijo y al Padre en sentido idéntico e independiente. Significa que el Hijo es plenamente divino con una divinidad que recibe del Padre por generación eterna. La consustancialidad afirmada inmediatamente después (*homoousion tō Patri*) cualifica esta atribución: la divinidad del Hijo no es de otra clase que la del Padre, pero su origen es el Padre. La consustancialidad no anula la asimetría fontal; la presupone y la articula. Es decir: precisamente *porque* el Hijo es consustancial al Padre, la divinidad que fluye del Padre llega al Hijo sin disminución. La consustancialidad es la garantía de que la derivación no implica degradación. La fontalidad (el hecho de que la divinidad tenga una fuente personal en el Padre) y la consustancialidad (el hecho de que lo recibido sea idéntico en naturaleza a lo dado) no se oponen sino que se necesitan mutuamente.
 
 *Tercera precisión: la respuesta al arrianismo.* La cristología nicena es más explícita que la paulina en aplicar el predicado *Theos* al Hijo, y esto resuelve la cuestión arriana. Arrio negaba precisamente la divinidad plena del Hijo, sosteniendo que el Hijo era la primera y más excelente de las criaturas pero no plenamente Dios. La fórmula *Theon alēthinon ek Theou alēthinou, gennēthenta ou poiēthenta, homoousion tō Patri* (Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre) cierra cada vía de escape arriana: el Hijo es Dios verdadero, no honorífico; es engendrado, no creado; es consustancial, no de naturaleza inferior. Pero al hacerlo, el símbolo no colapsa la distinción entre el Padre como fuente y el Hijo como engendrado: la mantiene precisamente al cualificar el predicado *Theos* con *ek Theou*.
 
@@ -158,9 +169,9 @@ Una formulación negativa explícita aclara el alcance de las dos observaciones 
 
 Lo que dice es: "Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero; y en el Espíritu Santo, Señor y dador de vida, que procede del Padre". Tres artículos, tres referentes identificados con sus títulos propios, una asimetría fontal explícita en las preposiciones (*ek tou Patros* para la generación del Hijo y para la procesión del Espíritu).
 
-La formulación catequética habitual en las tres tradiciones contemporáneas, especialmente en su versión occidental, opera en otra clave. Dice algo como: "Dios es uno en esencia y trino en personas; el Padre es Dios, el Hijo es Dios, el Espíritu Santo es Dios, y los tres son un solo Dios". Esta formulación, leída con atención gramatical, es estructuralmente distinta de la del símbolo.
+La formulación catequética habitual, especialmente en su versión occidental, opera en otra clave. Dice algo como: "Dios es uno en esencia y trino en personas; el Padre es Dios, el Hijo es Dios, el Espíritu Santo es Dios, y los tres son un solo Dios". Un ejemplo contemporáneo notable es el *Credo del Pueblo de Dios* (1968), promulgado por el papa Pablo VI, que comienza: "Creemos en un solo Dios, Padre, Hijo y Espíritu Santo, creador de las cosas visibles". Aquí "Padre, Hijo y Espíritu Santo" funcionan como aposiciones coordinadas de "un solo Dios": los tres nombres son predicados del mismo sujeto. Esta formulación, leída con atención gramatical, es estructuralmente distinta de la del símbolo niceno-constantinopolitano.
 
-En la formulación contemporánea, "Dios" funciona como un sujeto único (la esencia divina o la Trinidad como tal) del que se afirma una unidad esencial y una trinidad personal. Las tres personas son predicados coordinados de ese sujeto único. En el símbolo, en cambio, "Dios" se aplica al Padre como referente identificable, y los otros dos reciben títulos propios articulados en relación al Padre como fuente. No es la misma operación lingüística y no afirma la misma cosa.
+En la formulación de Pablo VI y en la catequesis contemporánea habitual, "Dios" funciona como un sujeto único (la esencia divina o la Trinidad como tal) del que se afirma una unidad esencial y una trinidad personal. Las tres personas son predicados coordinados de ese sujeto único. En el símbolo, en cambio, "Dios" se aplica al Padre como referente identificable, y los otros dos reciben títulos propios articulados en relación al Padre como fuente. No es la misma operación lingüística y no afirma la misma cosa.
 
 Esta observación no implica que la formulación contemporánea sea errónea o heterodoxa, ni que las dos sean incompatibles en cualquier sentido. Implica que la formulación contemporánea es posterior, derivada de un desarrollo histórico específico, y que su identidad con la formulación conciliar es precisamente la cuestión que requiere análisis. Las páginas siguientes desarrollarán ese análisis.
 
@@ -168,13 +179,15 @@ Esta observación no implica que la formulación contemporánea sea errónea o h
 
 ## 1.7 La pregunta que motiva el resto del sitio
 
-El análisis textual del símbolo plantea una pregunta que la página 2 comenzará a desarrollar y que atraviesa el resto del sitio.
+El análisis textual del símbolo plantea una pregunta que la página 3 comenzará a desarrollar y que atraviesa el resto del sitio.
 
 Si el símbolo identifica al único Dios con el Padre como fuente, y si la formulación catequética contemporánea identifica al único Dios con una esencia divina compartida por tres personas igualmente posicionadas dentro de ella, ¿estamos frente a la misma doctrina expresada en lenguajes distintos, o frente a dos doctrinas distintas que comparten vocabulario pero divergen en gramática referencial?
 
 La respuesta no es obvia y no debe darse precipitadamente. La continuidad histórica entre el símbolo y la formulación contemporánea es real: las dos afirman la consustancialidad del Hijo con el Padre, la divinidad del Espíritu, el culto conjunto a las tres hipóstasis. Pero la continuidad léxica no es continuidad de gramática. Las palabras pueden mantenerse mientras la arquitectura conceptual cambia, y la pregunta es si en este caso la arquitectura ha cambiado.
 
-La hipótesis del sitio, sostenida por la patrística contemporánea que se citará en cada página, es que sí ha cambiado, que el cambio se produce principalmente en Agustín de Hipona, que el cambio tiene consecuencias dogmáticas verificables (el *Filioque*, el problema lógico de la Trinidad, las analogías psicológicas, la pérdida de la asimetría litúrgica), y que reconocer el cambio es condición de posibilidad para una lectura precisa tanto del símbolo conciliar como de la doctrina trinitaria contemporánea en sus tres recepciones confesionales.
+La hipótesis de este sitio, sostenida por fuentes de la patrística contemporánea que se citarán en cada página, es que la arquitectura sí ha cambiado. El cambio consiste en una operación gramatical que ni el símbolo conciliar ni los Padres de la Iglesia anteriores habían formulado: la reasignación del referente último de "Dios" desde la persona del Padre hacia la esencia divina como sujeto unitario. Este giro se produce principalmente en Agustín de Hipona (siglo V), y sus efectos se pueden rastrear en fenómenos teológicos que no habrían sido posibles sin él: la inserción del *Filioque* en el credo occidental, el surgimiento del problema lógico de la Trinidad, las analogías psicológicas como modelo trinitario, y la pérdida progresiva de la asimetría fontal en la liturgia.
+
+Reconocer este cambio gramatical es condición para leer con precisión tanto el símbolo conciliar como la doctrina trinitaria contemporánea en la diversidad real de sus recepciones confesionales. Esa diversidad es mayor de lo que las etiquetas confesionales sugieren: no todos los teólogos ortodoxos operan con la gramática nicena fontal (algunos han asimilado categorías agustinianas), no todos los católicos operan con la gramática agustiniana (la propia tradición tomista introduce matices importantes), y el protestantismo abarca un espectro que va desde tradiciones altamente litúrgicas (anglicanismo, luteranismo) hasta movimientos que apenas articulan doctrina trinitaria explícita. Las páginas siguientes documentarán esta complejidad con la especificidad que merece.
 
 ---
 
@@ -196,4 +209,4 @@ La hipótesis del sitio, sostenida por la patrística contemporánea que se cita
 
 ---
 
-*Página 1 de 11* · [← Inicio](00_inicio.md) · [Página 2: ¿Qué tipo de teísmo articula Nicea? →](02_tipo_de_teismo.md)
+*Página 1 de 13* · [← Inicio](00_inicio.md) · [Página 2: La gramática nicena →](02_gramatica_nicena.md)

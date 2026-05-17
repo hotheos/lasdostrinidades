@@ -15,22 +15,25 @@
   const PAGES = [
     { id: 'inicio', file: 'pages/00_inicio.html', number: '', title: 'Inicio', short: 'Inicio', isHtml: true },
     { id: 'nicea-literal', file: '01_nicea_literal.md', number: '1', title: 'Lo que dice Nicea literalmente', short: 'Nicea literal' },
-    { id: 'tipo-teismo', file: '02_tipo_de_teismo.md', number: '2', title: '¿Qué tipo de teísmo articula Nicea?', short: 'Tipo de teísmo' },
-    { id: 'gramatica-nicena', file: '03_gramatica_nicena.md', number: '3', title: 'La gramática nicena: el uno fontal', short: 'Gramática nicena' },
+    { id: 'gramatica-nicena', file: '02_gramatica_nicena.md', number: '2', title: 'La gramática nicena: el uno fontal', short: 'Gramática nicena' },
+    { id: 'tipo-teismo', file: '03_tipo_de_teismo.md', number: '3', title: '¿Qué tipo de teísmo articula Nicea?', short: 'Tipo de teísmo' },
     { id: 'pre-agustiniano', file: '04_atanasio_pre_agustiniano.md', number: '4', title: 'Atanasio y el contexto pre-agustiniano', short: 'Pre-agustiniano' },
     { id: 'quien-agustin', file: '05_quien_fue_agustin.md', number: '5', title: 'Quién fue Agustín', short: 'Quién fue Agustín' },
     { id: 'salto-agustiniano', file: '06_el_salto_agustiniano.md', number: '6', title: 'El salto agustiniano', short: 'El salto' },
-    { id: 'filioque', file: '07_filioque.md', number: '7', title: 'El Filioque', short: 'Filioque' },
-    { id: 'problema-logico', file: '08_problema_logico.md', number: '8', title: 'El problema lógico de la Trinidad', short: 'Problema lógico' },
-    { id: 'tres-tradiciones', file: '09_tres_tradiciones_hoy.md', number: '9', title: 'Tres tradiciones hoy', short: 'Tres tradiciones' },
-    { id: 'implicaciones', file: '10_implicaciones_doctrina_de_dios.md', number: '10', title: 'Implicaciones para la doctrina de Dios', short: 'Implicaciones' },
-    { id: 'volver-al-texto', file: '11_volver_al_texto.md', number: '11', title: 'Volver al texto: una invitación', short: 'Volver al texto' },
+    { id: 'dos-tipos', file: '07_dos_tipos_monoteismo_trinitario.md', number: '7', title: 'Los dos tipos de monoteísmo trinitario', short: 'Dos tipos' },
+    { id: 'filioque', file: '08_filioque.md', number: '8', title: 'El Filioque', short: 'Filioque' },
+    { id: 'problema-logico', file: '09_problema_logico.md', number: '9', title: 'El problema lógico de la Trinidad', short: 'Problema lógico' },
+    { id: 'tres-tradiciones', file: '10_tres_tradiciones_hoy.md', number: '10', title: 'Tres tradiciones hoy', short: 'Tres tradiciones' },
+    { id: 'implicaciones', file: '11_implicaciones_doctrina_de_dios.md', number: '11', title: 'Implicaciones para la doctrina de Dios', short: 'Implicaciones' },
+    { id: 'volver-al-texto', file: '12_volver_al_texto.md', number: '12', title: 'Volver al texto: una invitación', short: 'Volver al texto' },
+    { id: 'armonizaciones', file: '13_dos_trinidades_armonizaciones.md', number: '13', title: 'Las dos Trinidades: armonizaciones', short: 'Armonizaciones' },
     { id: 'glosario', file: 'A_glosario.md', number: 'A', title: 'Glosario', short: 'Glosario', appendix: true },
     { id: 'cronologia', file: 'B_cronologia.md', number: 'B', title: 'Cronología', short: 'Cronología', appendix: true },
     { id: 'cuadro-comparativo', file: 'C_cuadro_comparativo.md', number: 'C', title: 'Cuadro comparativo', short: 'Cuadro comparativo', appendix: true },
     { id: 'bibliografia', file: 'D_bibliografia.md', number: 'D', title: 'Bibliografía', short: 'Bibliografía', appendix: true },
     { id: 'faq', file: 'E_faq.md', number: 'E', title: 'FAQ', short: 'FAQ', appendix: true },
     { id: 'quicumque-vult', file: 'F_quicumque_vult.md', number: 'F', title: 'El Quicumque Vult', short: 'Quicumque Vult', appendix: true },
+    { id: 'gregorio-nisa-juan', file: 'G_gregorio_nisa_juan_17_3.md', number: 'G', title: 'Gregorio de Nisa y Juan 17:3', short: 'Gregorio y Jn 17:3', appendix: true },
   ];
 
   /* ---- DOM References ---- */
@@ -170,6 +173,9 @@
       // Initialize expandable notes
       initExpandables();
 
+      // Add prev/next navigation
+      buildPageNav(page);
+
       // Close mobile sidebar
       closeMobileSidebar();
 
@@ -255,6 +261,41 @@
         parent.classList.toggle('open');
       });
     });
+  }
+
+  /* ---- Page Navigation (Prev / Next) ---- */
+  function buildPageNav(currentPage) {
+    const idx = PAGES.findIndex(p => p.id === currentPage.id);
+    const prev = idx > 0 ? PAGES[idx - 1] : null;
+    const next = idx < PAGES.length - 1 ? PAGES[idx + 1] : null;
+
+    // Don't show on landing page
+    if (currentPage.id === 'inicio') return;
+
+    let navHtml = '<nav class="page-nav">';
+
+    if (prev) {
+      const label = prev.number ? `${prev.number}. ${prev.short}` : prev.short;
+      navHtml += `<a href="#${prev.id}" class="page-nav__link page-nav__link--prev">
+        <span class="page-nav__direction">← Anterior</span>
+        <span class="page-nav__title">${label}</span>
+      </a>`;
+    } else {
+      navHtml += '<div class="page-nav__spacer"></div>';
+    }
+
+    if (next) {
+      const label = next.number ? `${next.number}. ${next.short}` : next.short;
+      navHtml += `<a href="#${next.id}" class="page-nav__link page-nav__link--next">
+        <span class="page-nav__direction">Siguiente →</span>
+        <span class="page-nav__title">${label}</span>
+      </a>`;
+    } else {
+      navHtml += '<div class="page-nav__spacer"></div>';
+    }
+
+    navHtml += '</nav>';
+    els.content.insertAdjacentHTML('beforeend', navHtml);
   }
 
   /* ---- Page Navigation Helpers ---- */

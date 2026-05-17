@@ -10,11 +10,11 @@
 
 ## 4.1 Por qué esta página importa
 
-La página 3 expuso la gramática nicena en su forma plenamente articulada: la fórmula capadocia *mia ousia, treis hypostaseis*, la monarquía del Padre, la asimetría fontal preservada, la distinción técnica entre cualidad consustancial y unicidad fontal-personal. Esta articulación es el resultado de un proceso, no su punto de partida. Antes de los Capadocios hay un siglo de elaboración patrística donde el vocabulario técnico aún se está formando, los términos se usan con sentidos parcialmente distintos, y las distinciones que después se considerarán precisas todavía no están estabilizadas.
+La página 2 expuso la gramática nicena en su forma plenamente articulada: la fórmula capadocia *mia ousia, treis hypostaseis*, la monarquía del Padre, la asimetría fontal preservada, la distinción técnica entre cualidad consustancial y unicidad fontal-personal. Esta articulación es el resultado de un proceso, no su punto de partida. Antes de los Capadocios hay un siglo de elaboración patrística donde el vocabulario técnico aún se está formando, los términos se usan con sentidos parcialmente distintos, y las distinciones que después se considerarán precisas todavía no están estabilizadas.
 
 Esta página examina ese contexto pre-agustiniano. Lo hace por dos razones específicas.
 
-Primera, para evitar lecturas anacrónicas. Atanasio, Tertuliano, Hilario de Poitiers, Mario Victorino operan antes de la sistematización capadocia. Sus formulaciones no pueden juzgarse con los criterios técnicos que la página 3 expuso, porque esos criterios todavía no estaban disponibles. Leerlos retrospectivamente como si ya operaran con la distinción capadocia entre *ousia* e *hypostasis*, o con la fórmula latina precisada agustinianamente, es distorsionar lo que dijeron.
+Primera, para evitar lecturas anacrónicas. Atanasio, Tertuliano, Hilario de Poitiers, Mario Victorino operan antes de la sistematización capadocia. Sus formulaciones no pueden juzgarse con los criterios técnicos que la página 2 expuso, porque esos criterios todavía no estaban disponibles. Leerlos retrospectivamente como si ya operaran con la distinción capadocia entre *ousia* e *hypostasis*, o con la fórmula latina precisada agustinianamente, es distorsionar lo que dijeron.
 
 Segunda, y más importante para el argumento del sitio, para examinar si el problema lógico de la Trinidad se produce ya en estas formulaciones tempranas o requiere el paso adicional que Agustín dará en el siglo V. Esta pregunta es decisiva. Si el problema lógico estuviera ya presente en Atanasio o en Tertuliano, la tesis del sitio sobre el desplazamiento agustiniano se debilitaría: el problema sería estructural a cualquier formulación trinitaria con consustancialidad fuerte, no consecuencia específica del giro occidental. Si en cambio el problema lógico requiere algo que estas formulaciones tempranas todavía no tienen, la tesis del sitio gana precisión: el problema es occidental, no nicena ni patrística temprana en general.
 
@@ -74,7 +74,7 @@ La afirmación es directa: cuando la Escritura usa el título "Dios" (*Theos*) d
 >
 > Ireneo, *Adversus Haereses* III.6.4
 
-La oración se dirige al Padre, identificado como "el único Dios verdadero, sobre quien no hay Dios alguno". La mediación es cristológica: "por nuestro Señor Jesucristo". El Espíritu aparece como don ("danos el Reino del Espíritu Santo"). La estructura es *al Padre, por el Hijo, en el Espíritu*: exactamente la doxología antigua que la página 10 examinará como la forma litúrgica del monoteísmo fontal trinitario.
+La oración se dirige al Padre, identificado como "el único Dios verdadero, sobre quien no hay Dios alguno". La mediación es cristológica: "por nuestro Señor Jesucristo". El Espíritu aparece como don ("danos el Reino del Espíritu Santo"). La estructura es *al Padre, por el Hijo, en el Espíritu*: exactamente la doxología antigua que la página 11 examinará como la forma litúrgica del monoteísmo fontal trinitario.
 
 ### La observación decisiva
 
@@ -146,7 +146,7 @@ La confusión se resolverá solo con los Capadocios, quienes estabilizarán *ous
 
 ### La monarquía del Padre en Atanasio
 
-A pesar de la fluidez del vocabulario, Atanasio sostiene claramente la monarquía del Padre. La fórmula central que la página 3 citó es:
+A pesar de la fluidez del vocabulario, Atanasio sostiene claramente la monarquía del Padre. La fórmula central que la página 2 citó es:
 
 > Pues una es la fuente de la divinidad y no dos fuentes, de donde propiamente también hay monarquía.
 >
@@ -184,7 +184,7 @@ La negación explícita es importante: el Hijo no es causa del modo como lo es e
 
 Llegamos a la pregunta central de esta página, formulada en relación con Atanasio. ¿El esquema atanasiano produce ya el problema lógico de la Trinidad, o requiere algo que Atanasio no tiene?
 
-Conviene recordar la formulación del problema. La filosofía analítica contemporánea de la religión articula el problema así: la doctrina trinitaria afirma simultáneamente "hay un solo Dios", "el Padre es Dios", "el Hijo es Dios", "el Espíritu es Dios", y "el Padre, el Hijo y el Espíritu son tres personas distintas". Si "es Dios" significa lo mismo en las tres atribuciones, y si "un solo Dios" significa un sujeto único, entonces la conjunción de afirmaciones produce contradicción: tres personas distintas no pueden ser un solo sujeto único. La página 8 expondrá esta formulación con detalle.
+Conviene recordar la formulación del problema. La filosofía analítica contemporánea de la religión articula el problema así: la doctrina trinitaria afirma simultáneamente "hay un solo Dios", "el Padre es Dios", "el Hijo es Dios", "el Espíritu es Dios", y "el Padre, el Hijo y el Espíritu son tres personas distintas". Si "es Dios" significa lo mismo en las tres atribuciones, y si "un solo Dios" significa un sujeto único, entonces la conjunción de afirmaciones produce contradicción: tres personas distintas no pueden ser un solo sujeto único. La página 9 expondrá esta formulación con detalle.
 
 Para que el problema lógico se produzca, se requieren dos condiciones simultáneas:
 
@@ -387,7 +387,7 @@ Los argumentos por los que esta conclusión se sostiene son cuatro.
 
 El paso decisivo no se ha dado todavía en ninguno de estos autores. Desde Justino (c. 155) hasta Victorino (c. 360), pasando por Ireneo, Tertuliano, Atanasio e Hilario, el "un Dios" es siempre el Padre como persona fontal. Será Agustín, en *De Trinitate*, quien reanclará el "un Dios" desde la persona del Padre hacia la esencia divina, completando así la condición 2 del problema lógico y produciendo el problema en su forma aguda.
 
-Esto tiene consecuencias para la lectura del *Filioque* (página 7), del problema lógico (página 8) y de la situación contemporánea (páginas 9 y 10). El sitio sostiene que el problema lógico es occidental, no nicena. Esta página ha mostrado que tampoco es ante-niceno (Justino, Ireneo), ni atanasiano, ni tertuliano, ni hilariano, ni victoriniano. Es específicamente agustiniano, y de él se hereda a través de Tomás y de la escolástica al protestantismo magisterial y al catolicismo contemporáneo.
+Esto tiene consecuencias para la lectura del *Filioque* (página 8), del problema lógico (página 9) y de la situación contemporánea (páginas 9 y 10). El sitio sostiene que el problema lógico es occidental, no nicena. Esta página ha mostrado que tampoco es ante-niceno (Justino, Ireneo), ni atanasiano, ni tertuliano, ni hilariano, ni victoriniano. Es específicamente agustiniano, y de él se hereda a través de Tomás y de la escolástica al protestantismo magisterial y al catolicismo contemporáneo.
 
 ---
 
@@ -439,4 +439,4 @@ Lo que une a estos autores, a pesar de sus diferencias, es la preservación de l
 
 ---
 
-*Página 4 de 11* · [← Página 3: La gramática nicena: el uno fontal](03_gramatica_nicena.md) · [Página 5: Quién fue Agustín →](05_quien_fue_agustin.md)
+*Página 4 de 13* · [← Página 3: ¿Qué tipo de teísmo articula Nicea?](03_tipo_de_teismo.md) · [Página 5: Quién fue Agustín →](05_quien_fue_agustin.md)

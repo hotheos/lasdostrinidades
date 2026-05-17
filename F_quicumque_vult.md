@@ -135,7 +135,7 @@ El modelo se aplica a múltiples atributos:
 
 En cada caso, la estructura es la misma: predicación distributiva a las tres personas, negación de la pluralidad numérica, afirmación de la unicidad.
 
-Este modelo es la articulación litúrgica más explícita del problema lógico de la Trinidad (examinado en página 8). El *Quicumque* afirma que el Padre es Dios, el Hijo es Dios, el Espíritu es Dios, *y* afirma que no hay tres Dioses sino un solo Dios. La aparente contradicción aritmética está plenamente presente en el documento confesional mismo.
+Este modelo es la articulación litúrgica más explícita del problema lógico de la Trinidad (examinado en página 9). El *Quicumque* afirma que el Padre es Dios, el Hijo es Dios, el Espíritu es Dios, *y* afirma que no hay tres Dioses sino un solo Dios. La aparente contradicción aritmética está plenamente presente en el documento confesional mismo.
 
 La articulación del *Quicumque* es la del esquema esencialista: la unicidad es de la esencia divina compartida, no de la persona del Padre como fuente. Por eso el documento puede afirmar simultáneamente las tres atribuciones (a cada persona como Dios) y la unicidad (un solo Dios), sin reconocer la asimetría fontal que la gramática nicena articularía aquí.
 
@@ -143,7 +143,7 @@ La articulación del *Quicumque* es la del esquema esencialista: la unicidad es 
 
 Los versículos 20-22 articulan las propiedades hipostáticas distintivas: el Padre no es hecho ni creado ni engendrado; el Hijo es engendrado del Padre solo; el Espíritu Santo es del Padre y del Hijo.
 
-La fórmula sobre el Espíritu Santo en el versículo 22 (*Spiritus Sanctus a Patre et Filio*, el Espíritu Santo del Padre y del Hijo) es el *Filioque* explícito en forma confesional. Examinado en la página 7 del sitio, esto refleja la articulación occidental que opaca la monarquía personal del Padre al postular un principio espirativo compartido.
+La fórmula sobre el Espíritu Santo en el versículo 22 (*Spiritus Sanctus a Patre et Filio*, el Espíritu Santo del Padre y del Hijo) es el *Filioque* explícito en forma confesional. Examinado en la página 8 del sitio, esto refleja la articulación occidental que opaca la monarquía personal del Padre al postular un principio espirativo compartido.
 
 Conviene notar la asimetría interna del versículo. El Hijo se afirma como engendrado *a Patre solo* (del Padre solo); el Espíritu se afirma como procedente *a Patre et Filio* (del Padre y del Hijo). Si la monarquía del Padre fuera el principio articulador, esperaríamos *a Patre solo* también para el Espíritu. La asimetría textual marca explícitamente la divergencia respecto al símbolo de 381.
 
@@ -155,7 +155,7 @@ Esta afirmación es teológicamente crucial. Niega explícitamente cualquier asi
 
 La afirmación es coherente con el esquema agustiniano. Si la unicidad es esencial y las personas son relaciones internas a la esencia, no puede haber asimetría real entre ellas: serían tres relaciones de la misma esencia única, distinguidas solo relacionalmente, sin orden fontal real.
 
-Pero la afirmación tensiona con el lenguaje neotestamentario. Pasajes como Juan 14:28 ("el Padre es mayor que yo") o 1 Corintios 15:24-28 (el Hijo se sujeta al Padre) afirman precisamente alguna forma de "anterior" o "mayor" del Padre respecto del Hijo. La gramática agustiniana resuelve esto mediante la doctrina de los "dos estados" (página 10), reservando las asimetrías a la humanidad asumida del Hijo. Pero el *Quicumque*, al afirmar la coigualdad estricta sin matización, opera en la dirección del esquema esencialista occidental.
+Pero la afirmación tensiona con el lenguaje neotestamentario. Pasajes como Juan 14:28 ("el Padre es mayor que yo") o 1 Corintios 15:24-28 (el Hijo se sujeta al Padre) afirman precisamente alguna forma de "anterior" o "mayor" del Padre respecto del Hijo. La gramática agustiniana resuelve esto mediante la doctrina de los "dos estados" (página 11), reservando las asimetrías a la humanidad asumida del Hijo. Pero el *Quicumque*, al afirmar la coigualdad estricta sin matización, opera en la dirección del esquema esencialista occidental.
 
 ---
 
@@ -247,7 +247,7 @@ El análisis del documento confirma lo que las páginas del sitio han argumentad
 
 Reconocer al *Quicumque Vult* como articulación específica, no como expresión universal, no implica rechazar su contenido teológico esencial (consustancialidad, distinción real entre las personas, unidad de naturaleza). Implica leer el documento con la consciencia histórico-teológica que su importancia merece, y reconocer que junto a él existe otra articulación, igualmente cristiana, igualmente atestiguada por la tradición conciliar antigua, que la ortodoxia oriental ha preservado.
 
-La invitación final del sitio (página 11) es a leer con precisión. El *Quicumque Vult* es uno de los textos donde esta lectura precisa es especialmente necesaria, porque su autoridad confesional tiende a desactivar el análisis crítico que su contenido específico requiere.
+La invitación final del sitio (página 12) es a leer con precisión. El *Quicumque Vult* es uno de los textos donde esta lectura precisa es especialmente necesaria, porque su autoridad confesional tiende a desactivar el análisis crítico que su contenido específico requiere.
 
 ---
 
@@ -280,4 +280,4 @@ La invitación final del sitio (página 11) es a leer con precisión. El *Quicum
 
 ---
 
-*Apéndice F* · [← Apéndice E: FAQ](E_faq.md) · [↑ Inicio](00_inicio.md)
+*Apéndice F* · [← Apéndice E: FAQ](E_faq.md) · [Apéndice G: Gregorio de Nisa y Juan 17:3 →](G_gregorio_nisa_juan_17_3.md)

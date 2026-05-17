@@ -60,13 +60,13 @@ La formulación más explícita y concentrada del desplazamiento aparece en *De 
 
 Esta frase es la inversión gramatical exacta de la fórmula nicena. Donde el símbolo conciliar dice *Heis Theos ho Patēr* (un Dios, el Padre), identificando al único Dios con la persona del Padre, Agustín dice *ipsa Trinitas unus Deus*: el único Dios es la Trinidad misma. El sujeto de la unicidad ya no es una persona (el Padre), sino un colectivo trinitario identificado con la esencia compartida. Es la formulación más directa del desplazamiento que este sitio examina.
 
-En los términos taxonómicos introducidos en la página 2, esta frase marca el punto exacto donde el *monoteísmo fontal trinitario* del símbolo niceno se transforma en *monoteísmo esencialista trinitario*. La unicidad deja de tener un locus personal (un *quién*: el Padre como fuente) y pasa a tener un locus impersonal (un *qué*: la esencia divina que las tres personas comparten). La pregunta "¿quién es Dios?" recibe ahora una respuesta distinta: no "el Padre", sino "la Trinidad". Todas las consecuencias examinadas en las páginas siguientes (el *Filioque*, el problema lógico, la atenuación de la asimetría neotestamentaria, la difusión del destinatario de la oración) derivan de este cambio de locus.
+En los términos taxonómicos introducidos en la página 3, esta frase marca el punto exacto donde el *monoteísmo fontal trinitario* del símbolo niceno se transforma en *monoteísmo esencialista trinitario*. La unicidad deja de tener un locus personal (un *quién*: el Padre como fuente) y pasa a tener un locus impersonal (un *qué*: la esencia divina que las tres personas comparten). La pregunta "¿quién es Dios?" recibe ahora una respuesta distinta: no "el Padre", sino "la Trinidad". Todas las consecuencias examinadas en las páginas siguientes (el *Filioque*, el problema lógico, la atenuación de la asimetría neotestamentaria, la difusión del destinatario de la oración) derivan de este cambio de locus.
 
 ---
 
 ## 6.3 La estructura del desplazamiento
 
-El desplazamiento agustiniano puede precisarse mediante la siguiente comparación entre la gramática nicena (página 3) y la gramática agustiniana, en cinco aspectos críticos:
+El desplazamiento agustiniano puede precisarse mediante la siguiente comparación entre la gramática nicena (página 2) y la gramática agustiniana, en cinco aspectos críticos:
 
 | Aspecto | Gramática nicena | Gramática agustiniana |
 |---|---|---|
@@ -178,7 +178,7 @@ La doxología occidental medieval y moderna tiende a coordinarse: *Gloria Patri 
 
 Conviene notar que la doxología coordinada tiene fundamento polémico antiarriano. Frente al arrianismo que negaba la divinidad plena del Hijo, la doxología coordinada afirma la igualdad de las tres personas. Pero al precio de atenuar la asimetría fontal del esquema niceno original. La gramática agustiniana hace este movimiento conceptualmente legible; la gramática nicena no lo requería ni lo facilitaba en la misma medida.
 
-**Cristocentrismo devocional.** Una consecuencia adicional del esquema agustiniano, visible especialmente en el protestantismo contemporáneo, es lo que puede denominarse *cristocentrismo opacante*: la tendencia a que Cristo ocupe el centro exclusivo de la piedad, la predicación y la teología, mientras el Padre se desdibuja como figura de fondo o se identifica genéricamente con "Dios" sin distinción personal. En la gramática nicena, esta tendencia es difícilmente concebible: el Padre es el referente primario de *Theos*, la fuente de toda la divinidad, el destinatario último de la oración, el origen del envío del Hijo y del Espíritu. La doxología antigua *al Padre, por el Hijo, en el Espíritu* preserva esta estructura: la oración tiene un destinatario personal concreto (el Padre), no una divinidad genérica. En la gramática agustiniana, donde *Deus* refiere a la esencia compartida antes que al Padre como persona, el terreno queda preparado para un desplazamiento devocional donde "Dios" y "Jesús" se vuelven funcionalmente intercambiables, y el Padre pierde su lugar como referente primario del culto cristiano. Este fenómeno se desarrollará con más detalle en la página 9, al examinar el protestantismo no confesional contemporáneo.
+**Cristocentrismo devocional.** Una consecuencia adicional del esquema agustiniano, visible especialmente en el protestantismo contemporáneo, es lo que puede denominarse *cristocentrismo opacante*: la tendencia a que Cristo ocupe el centro exclusivo de la piedad, la predicación y la teología, mientras el Padre se desdibuja como figura de fondo o se identifica genéricamente con "Dios" sin distinción personal. En la gramática nicena, esta tendencia es difícilmente concebible: el Padre es el referente primario de *Theos*, la fuente de toda la divinidad, el destinatario último de la oración, el origen del envío del Hijo y del Espíritu. La doxología antigua *al Padre, por el Hijo, en el Espíritu* preserva esta estructura: la oración tiene un destinatario personal concreto (el Padre), no una divinidad genérica. En la gramática agustiniana, donde *Deus* refiere a la esencia compartida antes que al Padre como persona, el terreno queda preparado para un desplazamiento devocional donde "Dios" y "Jesús" se vuelven funcionalmente intercambiables, y el Padre pierde su lugar como referente primario del culto cristiano. Este fenómeno se desarrollará con más detalle en la página 10, al examinar el protestantismo no confesional contemporáneo.
 
 ### 6.4.3 *Opera Trinitatis ad extra sunt indivisa*
 
@@ -319,13 +319,13 @@ Tres puntos conviene precisar.
 
 **Tercero**, sostener que el esquema agustiniano implica costos (los tres examinados, más otros que se desarrollarán en las páginas siguientes) no es lo mismo que sostener que carezca de méritos. Como cualquier articulación doctrinal en la historia del cristianismo, el agustinismo trinitario tiene fortalezas y limitaciones. La tarea del sitio es exponerlas con rigor, no adjudicar la cuestión en favor de una tradición sobre otra.
 
-Lo que se sostiene, y que la página siguiente desarrollará respecto al *Filioque* y la página 8 respecto al problema lógico, es que el desplazamiento agustiniano tiene consecuencias estructurales que el discurso trinitario contemporáneo, especialmente en su forma evangélica popular, recibe sin tematizar. Reconocer el desplazamiento es condición para una lectura precisa de las tradiciones, no juicio definitivo sobre cuál es la "correcta".
+Lo que se sostiene, y que la página siguiente desarrollará respecto al *Filioque* y la página 9 respecto al problema lógico, es que el desplazamiento agustiniano tiene consecuencias estructurales que el discurso trinitario contemporáneo, especialmente en su forma evangélica popular, recibe sin tematizar. Reconocer el desplazamiento es condición para una lectura precisa de las tradiciones, no juicio definitivo sobre cuál es la "correcta".
 
 ---
 
 ## 6.9 Cierre
 
-El desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario es la operación estructural específica de *De Trinitate* libros V-VII. Ha sido documentado con citas directas (V.8.9, VII.4.7, I.6.9), analizado en tres consecuencias verificables (analogías psicológicas, atenuación de la asimetría neotestamentaria y litúrgica, *opera ad extra indivisa*), seguido en su sistematización tomista (*relationes subsistentes*), codificado credalmente en el *Quicumque Vult*, y mostrado en su crítica desde dentro (Rahner). Las páginas siguientes examinan el *Filioque* como síntoma específico del desplazamiento (página 7), el problema lógico de la Trinidad como consecuencia filosófica (página 8), y las tres tradiciones contemporáneas que viven hoy las consecuencias de esta historia (página 9).
+El desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario es la operación estructural específica de *De Trinitate* libros V-VII. Ha sido documentado con citas directas (V.8.9, VII.4.7, I.6.9), analizado en tres consecuencias verificables (analogías psicológicas, atenuación de la asimetría neotestamentaria y litúrgica, *opera ad extra indivisa*), seguido en su sistematización tomista (*relationes subsistentes*), codificado credalmente en el *Quicumque Vult*, y mostrado en su crítica desde dentro (Rahner). Las páginas siguientes examinan el *Filioque* como síntoma específico del desplazamiento (página 8), el problema lógico de la Trinidad como consecuencia filosófica (página 9), y las tres tradiciones contemporáneas que viven hoy las consecuencias de esta historia (página 10).
 
 ---
 
@@ -356,4 +356,4 @@ El desplazamiento agustiniano del referente último de *Deus* desde la persona d
 
 ---
 
-*Página 6 de 11* · [← Página 5: Quién fue Agustín](05_quien_fue_agustin.md) · [Página 7: El Filioque →](07_filioque.md)
+*Página 6 de 13* · [← Página 5: Quién fue Agustín](05_quien_fue_agustin.md) · [Página 7: Los dos tipos de monoteísmo trinitario →](07_dos_tipos_monoteismo_trinitario.md)

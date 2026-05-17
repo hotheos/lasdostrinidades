@@ -10,19 +10,19 @@ El orden de las preguntas no es alfabético sino temático, agrupado en cinco bl
 
 ### ¿No es esto subordinacionismo arriano disfrazado?
 
-No. La distinción entre asimetría fontal y subordinación ontológica es uno de los logros conceptuales de la patrística griega del siglo IV (página 3, sección 3.6).
+No. La distinción entre asimetría fontal y subordinación ontológica es uno de los logros conceptuales de la patrística griega del siglo IV (página 2, sección 3.6).
 
 El subordinacionismo arriano sostiene que el Hijo es ontológicamente inferior al Padre, de naturaleza distinta, criatura excelente pero no plenamente Dios. La gramática nicena fontal sostiene exactamente lo contrario: el Hijo es *homoousios* (consustancial) con el Padre, plenamente Dios, sin grados ontológicos.
 
 Lo que la gramática nicena sí afirma es la asimetría fontal: el Padre es la fuente única (*aitia*) y el Hijo recibe la divinidad por generación eterna. Pero esta asimetría es sobre el orden fontal (*taxis*) interno a la divinidad, no sobre la naturaleza divina compartida. El Padre y el Hijo son igualmente divinos; lo que los distingue son sus propiedades hipostáticas (inengendrabilidad y generación), no la cantidad o calidad de divinidad.
 
-La confusión entre asimetría fontal y subordinación ontológica es uno de los puntos donde el debate trinitario contemporáneo, especialmente en el horizonte protestante evangélico, opera con menos precisión técnica de la necesaria. La controversia ESS reciente (página 9) ilustra esta dificultad.
+La confusión entre asimetría fontal y subordinación ontológica es uno de los puntos donde el debate trinitario contemporáneo, especialmente en el horizonte protestante evangélico, opera con menos precisión técnica de la necesaria. La controversia ESS reciente (página 10) ilustra esta dificultad.
 
 ### ¿No es esto solo polémica oriental contra el Occidente?
 
 No. El sitio no defiende la posición ortodoxa contra el catolicismo o el protestantismo. Reconoce que cada tradición vive su gramática trinitaria con coherencia interna y con voces serias contemporáneas, y se concentra en hacer visible una distinción histórica que afecta a las tres.
 
-La crítica al esquema esencialista no es exclusivamente oriental. Karl Rahner, jesuita católico magisterialmente comprometido y figura central del Concilio Vaticano II, articuló la crítica desde dentro del catolicismo en 1967 (página 6). Yves Congar, dominico francés, examinó el *Filioque* con apertura significativa en 1979-1980 (página 7). El Pontificio Consejo para la Promoción de la Unidad de los Cristianos publicó en 1995 un documento reconociendo la legitimidad de la fórmula oriental.
+La crítica al esquema esencialista no es exclusivamente oriental. Karl Rahner, jesuita católico magisterialmente comprometido y figura central del Concilio Vaticano II, articuló la crítica desde dentro del catolicismo en 1967 (página 6). Yves Congar, dominico francés, examinó el *Filioque* con apertura significativa en 1979-1980 (página 8). El Pontificio Consejo para la Promoción de la Unidad de los Cristianos publicó en 1995 un documento reconociendo la legitimidad de la fórmula oriental.
 
 Desde la academia patrística occidental, autores como Lewis Ayres, John Behr, Khaled Anatolios han trabajado la distinción entre las dos gramáticas con rigor académico sin militancia confesional. Desde el protestantismo, Stephen Holmes defiende la continuidad occidental, pero otros autores protestantes (Pannenberg, Jenson, Torrance, LaCugna, Volf) han matizado significativamente el esquema esencialista.
 
@@ -44,7 +44,7 @@ La oración, la contemplación, la liturgia siguen siendo el lugar donde el mist
 
 ### ¿Qué pasa con Juan 1:1?
 
-Juan 1:1 es texto central para la doctrina trinitaria y se examinó con detalle en la página 10. La fórmula completa es: *en archē ēn ho Logos, kai ho Logos ēn pros ton Theon, kai Theos ēn ho Logos*. En el principio era el Logos, y el Logos estaba con el Dios, y Dios era el Logos.
+Juan 1:1 es texto central para la doctrina trinitaria y se examinó con detalle en la página 11. La fórmula completa es: *en archē ēn ho Logos, kai ho Logos ēn pros ton Theon, kai Theos ēn ho Logos*. En el principio era el Logos, y el Logos estaba con el Dios, y Dios era el Logos.
 
 La construcción griega de la tercera cláusula es deliberadamente cualificada. *Theos* aparece sin artículo (anártrico) y en posición predicativa antes del verbo. Esta construcción no equivale a "el Logos era el Dios" (que sería identificación numérica con el Padre, modalismo) ni a "el Logos era un dios" (que sugeriría politeísmo). Lo que afirma es que el Logos comparte la cualidad divina sin colapsar la distinción referencial con el Padre que la segunda cláusula acaba de establecer (*ho Logos ēn pros ton Theon*, el Logos estaba *con* el Dios).
 
@@ -106,13 +106,13 @@ La invitación del sitio es a reconocer la distinción entre las dos gramáticas
 
 ### ¿Hace falta abandonar la propia tradición para volver a Nicea?
 
-No. La invitación del sitio (página 11) es a leer con precisión el símbolo conciliar y el texto bíblico, situándose en la propia tradición con consciencia de su lugar específico.
+No. La invitación del sitio (página 12) es a leer con precisión el símbolo conciliar y el texto bíblico, situándose en la propia tradición con consciencia de su lugar específico.
 
 Para el lector ortodoxo, esto significa apropiar la gramática nicena fontal que la propia tradición ha conservado, reconociendo que es articulación específica y no la "doctrina trinitaria sin más".
 
 Para el lector católico, significa reconocer que la herencia agustiniano-tomista es articulación históricamente específica, y apropiar el espacio de matización que el magisterio reciente ha abierto (documento del Pontificio Consejo 1995, teología post-conciliar de Rahner, Congar, von Balthasar, LaCugna).
 
-Para el lector protestante, significa tematizar honestamente la tensión metodológica que el aforismo del cuerpo doblemente deshuesado (página 9) articula: *sola Scriptura* aplicado coherentemente plantea preguntas sobre la doble herencia (conciliar y filosófica) que la doctrina trinitaria recibida implica.
+Para el lector protestante, significa tematizar honestamente la tensión metodológica que el aforismo del cuerpo doblemente deshuesado (página 10) articula: *sola Scriptura* aplicado coherentemente plantea preguntas sobre la doble herencia (conciliar y filosófica) que la doctrina trinitaria recibida implica.
 
 Ninguna de estas tres respuestas requiere migración eclesial. Requieren consciencia metodológica y honestidad teológica desde dentro de la propia tradición.
 
@@ -126,13 +126,13 @@ Primero, el vocabulario filosófico fue *usado* por los Padres conciliares, no *
 
 Segundo, el *dato* que la doctrina trinitaria articula no proviene de la filosofía pagana sino del texto bíblico: la confesión de Israel del único Dios, la cristología neotestamentaria que aplica a Jesús predicados divinos (*Theos* en Juan 1:1, Colosenses 2:9), la pneumatología que articula al Espíritu como agente divino real. La filosofía proporcionó vocabulario; la Escritura proporcionó el dato.
 
-Tercero, la cuestión de si la articulación técnica resultante es fiel al dato escriturístico es discutida. Los críticos unitarios (Buzzard, Tuggy, Navas) sostienen que la articulación distorsiona el dato bíblico, especialmente bajo el esquema agustiniano (página 8). Los defensores trinitarios sostienen que la articulación es desarrollo legítimo del dato. El sitio reconoce el debate sin adjudicarlo, pero observa que la gramática nicena fontal opera más cerca del patrón paulino (1 Corintios 8:6) que la gramática agustiniana esencialista, lo cual da peso específico a la cuestión.
+Tercero, la cuestión de si la articulación técnica resultante es fiel al dato escriturístico es discutida. Los críticos unitarios (Buzzard, Tuggy, Navas) sostienen que la articulación distorsiona el dato bíblico, especialmente bajo el esquema agustiniano (página 9). Los defensores trinitarios sostienen que la articulación es desarrollo legítimo del dato. El sitio reconoce el debate sin adjudicarlo, pero observa que la gramática nicena fontal opera más cerca del patrón paulino (1 Corintios 8:6) que la gramática agustiniana esencialista, lo cual da peso específico a la cuestión.
 
 La afirmación más precisa es: la doctrina trinitaria es articulación cristiana de un dato bíblico, formulada con vocabulario filosófico griego apropiado para el efecto, en dos gramáticas históricas distinguibles con consecuencias verificables.
 
 ### ¿Se puede sostener la Trinidad desde la Biblia sola?
 
-Esta pregunta articula la tensión metodológica protestante que el aforismo del cuerpo doblemente deshuesado (página 9) plantea.
+Esta pregunta articula la tensión metodológica protestante que el aforismo del cuerpo doblemente deshuesado (página 10) plantea.
 
 La respuesta honesta es: la doctrina trinitaria en sus formulaciones técnicas (consustancialidad, generación eterna, procesión eterna, una esencia tres personas) no se encuentra como tal en el texto bíblico. Se encuentra como inferencia conciliar elaborada con vocabulario filosófico extra-bíblico.
 
@@ -178,7 +178,7 @@ Si después de leer las páginas centrales el lector quiere profundizar, la bibl
 
 ### ¿El problema lógico de la Trinidad es problema real?
 
-Bajo el esquema esencialista occidental, sí. La formulación canónica (Cartwright 1987, examinada en página 8) muestra que la doctrina trinitaria en su versión esencialista produce contradicción aritmética: tres personas idénticas a una única esencia parecen requerir que las tres sean idénticas entre sí, lo cual la doctrina misma niega.
+Bajo el esquema esencialista occidental, sí. La formulación canónica (Cartwright 1987, examinada en página 9) muestra que la doctrina trinitaria en su versión esencialista produce contradicción aritmética: tres personas idénticas a una única esencia parecen requerir que las tres sean idénticas entre sí, lo cual la doctrina misma niega.
 
 Las soluciones filosóficas contemporáneas (trinidad social, constitución material, trinitarismo relativo, modelo latino clásico) son intentos de cuadrar lo que el esquema esencialista vuelve difícil de cuadrar. Cada solución tiene fortalezas y costos específicos.
 

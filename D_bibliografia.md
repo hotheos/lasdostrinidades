@@ -86,9 +86,19 @@ Los principales símbolos y declaraciones confesionales protestantes (Augsburgo 
 
 ### Estudios sobre los Padres Capadocios
 
+- Barnes, Michel R. *The Power of God: Dynamis in Gregory of Nyssa's Trinitarian Theology* (Catholic University of America Press, 2001).
 - Beeley, Christopher A. *Gregory of Nazianzus on the Trinity and the Knowledge of God* (Oxford University Press, 2008).
+- Coakley, Sarah (ed.). *Re-thinking Gregory of Nyssa* (Blackwell, 2003).
+- DelCogliano, Mark. *Basil of Caesarea's Anti-Eunomian Theory of Names* (Brill, 2010).
 - Hildebrand, Stephen M. *The Trinitarian Theology of Basil of Caesarea* (Catholic University of America Press, 2007).
 - Maspero, Giulio. *Trinity and Man: Gregory of Nyssa's Ad Ablabium* (Brill, 2007).
+- Vaggione, Richard P. *Eunomius of Cyzicus and the Nicene Revolution* (Oxford University Press, 2000).
+
+### Estudios sobre los Padres pre-nicenos (Justino, Ireneo)
+
+- Briggman, Anthony. *Irenaeus of Lyons and the Theology of the Holy Spirit* (Oxford University Press, 2012).
+- Minns, Denis. *Irenaeus: An Introduction* (T&T Clark, 2010).
+- Skarsaune, Oskar. *The Proof from Prophecy: A Study in Justin Martyr's Proof-Text Tradition* (Brill, 1987).
 
 ### Estudios sobre Tertuliano e Hilario
 
