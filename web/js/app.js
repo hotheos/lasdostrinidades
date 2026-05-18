@@ -160,11 +160,6 @@
 
       els.content.innerHTML = html;
 
-      // If this is the inicio page, inject card navigation
-      if (pageId === 'inicio') {
-        injectLandingCards();
-      }
-
       // Animate in
       requestAnimationFrame(() => {
         els.content.style.opacity = '1';
@@ -201,73 +196,6 @@
   function handleRoute() {
     const hash = window.location.hash.slice(1) || 'inicio';
     loadPage(hash);
-  }
-
-  /* ---- Landing Card Injection for Inicio ---- */
-  function injectLandingCards() {
-    const cardData = PAGES.filter(p => p.id !== 'inicio' && !p.appendix).map(p => ({
-      id: p.id, num: String(p.number).padStart(2, '0'), title: p.short, desc: p.title,
-      pivot: ['antes-agustin','quien-agustin','de-persona-a-esencia','dos-monoteismos'].includes(p.id)
-    }));
-    const appendices = PAGES.filter(p => p.appendix);
-
-    // Build CTA button - insert after h1
-    const h1 = els.content.querySelector('h1');
-    if (h1) {
-      const cta = document.createElement('div');
-      cta.style.cssText = 'text-align:center; margin: var(--space-lg) 0;';
-      cta.innerHTML = `<a href="#concilio-nicea" class="landing__cta" style="display:inline-block; padding: 0.75rem 2rem; background: var(--accent); color: var(--bg-primary); border-radius: 8px; font-weight: 600; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 4px 20px rgba(201,168,76,0.3)'" onmouseout="this.style.transform='';this.style.boxShadow=''">Comenzar lectura →</a>`;
-      h1.parentNode.insertBefore(cta, h1.nextSibling.nextSibling);
-    }
-
-    // Find the "Estructura" heading and replace its section content
-    const allH2 = els.content.querySelectorAll('h2');
-    let estructuraH2 = null;
-    allH2.forEach(h => { if (h.textContent.includes('Estructura')) estructuraH2 = h; });
-
-    if (!estructuraH2) return;
-
-    // Remove everything between "Estructura" h2 and the next h2 (or next hr)
-    const toRemove = [];
-    let sibling = estructuraH2.nextElementSibling;
-    while (sibling && sibling.tagName !== 'H2') {
-      toRemove.push(sibling);
-      sibling = sibling.nextElementSibling;
-    }
-    toRemove.forEach(el => el.remove());
-
-    // Build card HTML
-    let cardsHtml = `<div class="landing__pages" style="margin-top: var(--space-lg);">
-      <div class="landing__pages-title" style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-tertiary); margin-bottom: var(--space-md);">15 páginas · Una línea argumentativa</div>
-      <div class="landing__index" style="display:flex; flex-direction:column; gap:2px;">`;
-
-    cardData.forEach(c => {
-      const pivotStyle = c.pivot ? 'border-left: 3px solid var(--accent);' : '';
-      cardsHtml += `<a href="#${c.id}" class="landing__index-item" style="display:flex; align-items:center; gap: var(--space-md); padding: var(--space-sm) var(--space-md); border-radius: 8px; text-decoration:none; color: var(--text-primary); transition: background 0.2s; ${pivotStyle}" onmouseover="this.style.background='var(--bg-tertiary)'" onmouseout="this.style.background=''">
-        <span style="font-size: 0.8rem; font-weight:700; color: var(--accent); min-width:2rem; font-family: var(--font-mono, monospace);">${c.num}</span>
-        <div style="flex:1;">
-          <span style="font-weight:600; display:block;">${c.title}</span>
-          <span style="font-size:0.85rem; color: var(--text-secondary); display:block;">${c.desc}</span>
-        </div>
-        <span style="color: var(--text-tertiary); font-size:1.2rem;">→</span>
-      </a>`;
-    });
-
-    cardsHtml += `</div></div>`;
-
-    // Appendices grid
-    cardsHtml += `<div style="margin-top: var(--space-xl);">
-      <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-tertiary); margin-bottom: var(--space-md);">Apéndices</div>
-      <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: var(--space-sm);">`;
-
-    appendices.forEach(a => {
-      cardsHtml += `<a href="#${a.id}" style="display:block; padding: var(--space-sm) var(--space-md); border-radius: 8px; border: 1px solid var(--border-primary); text-decoration:none; color: var(--text-secondary); font-size:0.9rem; transition: border-color 0.2s, color 0.2s;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--text-primary)'" onmouseout="this.style.borderColor='var(--border-primary)';this.style.color='var(--text-secondary)'">${a.number}. ${a.short}</a>`;
-    });
-
-    cardsHtml += `</div></div><hr style="margin-top: var(--space-xl);">`;
-
-    // Insert after Estructura heading
-    estructuraH2.insertAdjacentHTML('afterend', cardsHtml);
   }
 
   /* ---- Table of Contents (scroll spy) ---- */
