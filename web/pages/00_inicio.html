@@ -8,37 +8,6 @@
     <h1 class="hero__title">Las dos Trinidades</h1>
     <p class="hero__subtitle">Un examen de la doctrina conciliar de Nicea y de su recepción histórica</p>
 
-    <!-- Two coins -->
-    <div class="hero__coins">
-      <div class="hero__coin hero__coin--a" aria-label="Primera moneda">
-        <svg viewBox="0 0 200 200" class="hero__coin-svg">
-          <ellipse cx="100" cy="100" rx="90" ry="88" class="coin__edge"/>
-          <ellipse cx="100" cy="100" rx="78" ry="76" class="coin__inner"/>
-          <text x="100" y="60" class="coin__inscription">ΠΙΣΤΕΥΟΜΕΝ</text>
-          <text x="100" y="82" class="coin__inscription coin__inscription--sm">ΕΙΣ ΕΝΑ ΘΕΟΝ</text>
-          <text x="100" y="115" class="coin__figure">☧</text>
-          <text x="100" y="150" class="coin__inscription coin__inscription--sm">ΠΑΤΕΡΑ</text>
-          <text x="100" y="170" class="coin__inscription coin__inscription--xs">CCCXXV · CCCLXXXI</text>
-        </svg>
-        <div class="hero__coin-label">Articulación I</div>
-      </div>
-
-      <div class="hero__coin hero__coin--b" aria-label="Segunda moneda">
-        <svg viewBox="0 0 200 200" class="hero__coin-svg">
-          <ellipse cx="100" cy="100" rx="90" ry="88" class="coin__edge"/>
-          <ellipse cx="100" cy="100" rx="78" ry="76" class="coin__inner"/>
-          <text x="100" y="60" class="coin__inscription">CREDIMVS</text>
-          <text x="100" y="82" class="coin__inscription coin__inscription--sm">IN VNVM DEVM</text>
-          <text x="100" y="115" class="coin__figure">☧</text>
-          <text x="100" y="150" class="coin__inscription coin__inscription--sm">TRINITATEM</text>
-          <text x="100" y="170" class="coin__inscription coin__inscription--xs">SAEC · V — XIII</text>
-        </svg>
-        <div class="hero__coin-label">Articulación II</div>
-      </div>
-    </div>
-
-    <p class="hero__caption">Dos monedas. Una misma emisión. ¿O dos emisiones distintas?</p>
-
     <a href="#concilio-nicea" class="landing__cta">Comenzar el examen →</a>
 
     <div class="hero__scroll-hint" aria-hidden="true">
@@ -81,7 +50,21 @@
 
     <div class="inicio__columns">
 
+      <!-- COLUMNA 1: Símbolo conciliar -->
       <div class="inicio__column">
+        <!-- Moneda integrada en la columna -->
+        <div class="inicio__column-coin">
+          <svg viewBox="0 0 220 220" class="hero__coin-svg hero__coin-svg--inline">
+            <ellipse cx="110" cy="110" rx="100" ry="98" class="coin__edge"/>
+            <ellipse cx="110" cy="110" rx="86" ry="84" class="coin__inner"/>
+            <text x="110" y="65" class="coin__inscription">ΠΙΣΤΕΥΟΜΕΝ</text>
+            <text x="110" y="85" class="coin__inscription coin__inscription--sm">ΕΙΣ ΕΝΑ ΘΕΟΝ</text>
+            <text x="110" y="120" class="coin__figure">☧</text>
+            <text x="110" y="155" class="coin__inscription coin__inscription--sm">ΠΑΤΕΡΑ</text>
+            <text x="110" y="175" class="coin__inscription coin__inscription--xs">CCCXXV · CCCLXXXI</text>
+          </svg>
+        </div>
+
         <div class="inicio__column-label">Primera articulación</div>
         <h3 class="inicio__column-title">El símbolo conciliar (381)</h3>
         <p class="inicio__column-intro">El símbolo niceno-constantinopolitano, codificado en el Concilio de Constantinopla en el año 381, articula la fe trinitaria con un vocabulario, una sintaxis y una arquitectura conceptual específicos.</p>
@@ -94,7 +77,21 @@
         </ul>
       </div>
 
+      <!-- COLUMNA 2: Formulaciones latinas -->
       <div class="inicio__column">
+        <!-- Moneda integrada en la columna -->
+        <div class="inicio__column-coin">
+          <svg viewBox="0 0 220 220" class="hero__coin-svg hero__coin-svg--inline">
+            <ellipse cx="110" cy="110" rx="100" ry="98" class="coin__edge"/>
+            <ellipse cx="110" cy="110" rx="86" ry="84" class="coin__inner"/>
+            <text x="110" y="65" class="coin__inscription">CREDIMVS</text>
+            <text x="110" y="85" class="coin__inscription coin__inscription--sm">IN VNVM DEVM</text>
+            <text x="110" y="120" class="coin__figure">☧</text>
+            <text x="110" y="155" class="coin__inscription coin__inscription--sm">TRINITATEM</text>
+            <text x="110" y="175" class="coin__inscription coin__inscription--xs">SAEC · V — XIII</text>
+          </svg>
+        </div>
+
         <div class="inicio__column-label">Segunda articulación</div>
         <h3 class="inicio__column-title">Las formulaciones latinas posteriores</h3>
         <p class="inicio__column-intro">Las formulaciones trinitarias que se desarrollan en el horizonte latino entre los siglos V y XIII articulan la fe cristiana con vocabulario, sintaxis y arquitectura conceptual también identificables, codificados en textos credales y conciliares específicos: <em>De Trinitate</em> de Agustín, el <em>Quicumque Vult</em>, el Concilio de Toledo III, el IV Concilio de Letrán.</p>
@@ -107,6 +104,41 @@
         </ul>
       </div>
 
+    </div>
+
+    <!-- Tabla comparativa rápida -->
+    <div class="inicio__comparison">
+      <table class="inicio__table">
+        <thead>
+          <tr>
+            <th>Aspecto</th>
+            <th>Símbolo conciliar (381)</th>
+            <th>Articulación latina (s. V–XIII)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>«Un Dios» refiere a…</td>
+            <td>La persona del <strong>Padre</strong></td>
+            <td>La <strong>esencia</strong> divina</td>
+          </tr>
+          <tr>
+            <td>La unidad reside en…</td>
+            <td>Un <strong>quién</strong> fontal</td>
+            <td>Un <strong>qué</strong> compartido</td>
+          </tr>
+          <tr>
+            <td>Vocabulario técnico</td>
+            <td>Griego: <em>ousia, hypostasis</em></td>
+            <td>Latín: <em>substantia, relatio</em></td>
+          </tr>
+          <tr>
+            <td>Texto normativo</td>
+            <td>Símbolo niceno-constantinopolitano</td>
+            <td><em>De Trinitate</em>, <em>Quicumque Vult</em></td>
+          </tr>
+        </tbody>
+      </table>
     </div>
 
     <!-- Pregunta precisa -->
@@ -154,10 +186,10 @@
     <p class="inicio__structure-intro">Quince páginas temáticas, navegables independientemente, más siete apéndices accesibles desde cualquier punto.</p>
   </section>
 
+  <!-- Tabla-índice por fases -->
   <div class="landing__pages">
-    <div class="landing__pages-title">15 páginas · Una línea argumentativa</div>
+    <div class="landing__pages-title">Fase I · Examinar la primera articulación</div>
     <div class="landing__index">
-
       <a href="#concilio-nicea" class="landing__index-item">
         <span class="landing__index-num">01</span>
         <div class="landing__index-content">
@@ -166,7 +198,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#fundamentos-apostolicos" class="landing__index-item">
         <span class="landing__index-num">02</span>
         <div class="landing__index-content">
@@ -175,7 +206,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#fundamento-patristico" class="landing__index-item">
         <span class="landing__index-num">03</span>
         <div class="landing__index-content">
@@ -184,7 +214,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#capadocios" class="landing__index-item">
         <span class="landing__index-num">04</span>
         <div class="landing__index-content">
@@ -193,7 +222,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#tipo-teismo" class="landing__index-item">
         <span class="landing__index-num">05</span>
         <div class="landing__index-content">
@@ -202,7 +230,12 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
+    </div>
+  </div>
 
+  <div class="landing__pages">
+    <div class="landing__pages-title">Fase II · Examinar la articulación posterior</div>
+    <div class="landing__index">
       <a href="#antes-agustin" class="landing__index-item landing__index-item--pivot">
         <span class="landing__index-num">06</span>
         <div class="landing__index-content">
@@ -211,7 +244,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#quien-agustin" class="landing__index-item landing__index-item--pivot">
         <span class="landing__index-num">07</span>
         <div class="landing__index-content">
@@ -220,7 +252,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#de-persona-a-esencia" class="landing__index-item landing__index-item--pivot">
         <span class="landing__index-num">08</span>
         <div class="landing__index-content">
@@ -229,7 +260,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#dos-monoteismos" class="landing__index-item landing__index-item--pivot">
         <span class="landing__index-num">09</span>
         <div class="landing__index-content">
@@ -238,7 +268,12 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
+    </div>
+  </div>
 
+  <div class="landing__pages">
+    <div class="landing__pages-title">Fase III · Comparar y evaluar</div>
+    <div class="landing__index">
       <a href="#filioque" class="landing__index-item">
         <span class="landing__index-num">10</span>
         <div class="landing__index-content">
@@ -247,7 +282,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#tres-igual-uno" class="landing__index-item">
         <span class="landing__index-num">11</span>
         <div class="landing__index-content">
@@ -256,7 +290,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#donde-estamos" class="landing__index-item">
         <span class="landing__index-num">12</span>
         <div class="landing__index-content">
@@ -265,7 +298,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#implicaciones" class="landing__index-item">
         <span class="landing__index-num">13</span>
         <div class="landing__index-content">
@@ -274,7 +306,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#volver-a-nicea" class="landing__index-item">
         <span class="landing__index-num">14</span>
         <div class="landing__index-content">
@@ -283,7 +314,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
       <a href="#las-dos-trinidades" class="landing__index-item">
         <span class="landing__index-num">15</span>
         <div class="landing__index-content">
@@ -292,7 +322,6 @@
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
-
     </div>
   </div>
 
