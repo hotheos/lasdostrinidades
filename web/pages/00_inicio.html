@@ -1,92 +1,159 @@
 <div class="landing">
 
-  <span class="landing__badge">Teología histórica</span>
+  <!-- ═══════════ HERO ═══════════ -->
+  <section class="hero">
 
-  <h1 class="landing__title">
-    <span class="landing__title-accent">Las dos Trinidades</span>
-  </h1>
+    <span class="hero__badge">Teología histórica</span>
 
-  <p class="landing__subtitle">
-    Un examen de la doctrina conciliar de Nicea y de su recepción histórica
-  </p>
+    <h1 class="hero__title">Las dos Trinidades</h1>
+    <p class="hero__subtitle">Un examen de la doctrina conciliar de Nicea y de su recepción histórica</p>
 
-  <a href="#concilio-nicea" class="landing__cta">
-    Comenzar lectura →
-  </a>
+    <!-- Two coins -->
+    <div class="hero__coins">
+      <div class="hero__coin hero__coin--a" aria-label="Primera moneda">
+        <svg viewBox="0 0 200 200" class="hero__coin-svg">
+          <ellipse cx="100" cy="100" rx="90" ry="88" class="coin__edge"/>
+          <ellipse cx="100" cy="100" rx="78" ry="76" class="coin__inner"/>
+          <text x="100" y="60" class="coin__inscription">ΠΙΣΤΕΥΟΜΕΝ</text>
+          <text x="100" y="82" class="coin__inscription coin__inscription--sm">ΕΙΣ ΕΝΑ ΘΕΟΝ</text>
+          <text x="100" y="115" class="coin__figure">☧</text>
+          <text x="100" y="150" class="coin__inscription coin__inscription--sm">ΠΑΤΕΡΑ</text>
+          <text x="100" y="170" class="coin__inscription coin__inscription--xs">CCCXXV · CCCLXXXI</text>
+        </svg>
+        <div class="hero__coin-label">Articulación I</div>
+      </div>
 
-  <!-- La pregunta -->
-  <div class="landing__thesis">
-    <div class="landing__thesis-label">La pregunta</div>
-    <div class="landing__thesis-text">
-      <p>Imagine una moneda antigua. Una sola moneda, con dos caras.</p>
-      <p>Cada cara tiene su propio diseño: sus propias figuras, su propia inscripción, su propio relieve. A primera vista, ambas caras parecen representar lo mismo — son, después de todo, la misma moneda. Pero cuando se examinan con atención, los detalles de cada cara no coinciden. Las figuras están dispuestas de otro modo. Las inscripciones dicen cosas distintas.</p>
-      <p><strong>¿Son la misma cara, o son dos caras distintas de un mismo metal?</strong></p>
+      <div class="hero__coin hero__coin--b" aria-label="Segunda moneda">
+        <svg viewBox="0 0 200 200" class="hero__coin-svg">
+          <ellipse cx="100" cy="100" rx="90" ry="88" class="coin__edge"/>
+          <ellipse cx="100" cy="100" rx="78" ry="76" class="coin__inner"/>
+          <text x="100" y="60" class="coin__inscription">CREDIMVS</text>
+          <text x="100" y="82" class="coin__inscription coin__inscription--sm">IN VNVM DEVM</text>
+          <text x="100" y="115" class="coin__figure">☧</text>
+          <text x="100" y="150" class="coin__inscription coin__inscription--sm">TRINITATEM</text>
+          <text x="100" y="170" class="coin__inscription coin__inscription--xs">SAEC · V — XIII</text>
+        </svg>
+        <div class="hero__coin-label">Articulación II</div>
+      </div>
+    </div>
+
+    <p class="hero__caption">Dos monedas. Una misma emisión. ¿O dos emisiones distintas?</p>
+
+    <a href="#concilio-nicea" class="landing__cta">Comenzar el examen →</a>
+
+    <div class="hero__scroll-hint" aria-hidden="true">
+      <span>↓</span>
+    </div>
+  </section>
+
+  <!-- ═══════════ LA PREGUNTA ═══════════ -->
+  <section class="inicio__section">
+    <h2 class="inicio__heading">La pregunta</h2>
+
+    <div class="inicio__prose">
+      <p>Imagine dos monedas antiguas que dicen ser de la misma emisión.</p>
+
+      <p>Ambas llevan la misma inscripción en el borde. Ambas representan, según el catálogo, la misma figura. Ambas fueron acuñadas por la misma autoridad. A primera vista, parecen idénticas, y durante siglos circularon juntas como si fueran ejemplares de una sola serie.</p>
+
+      <p>Pero cuando un numismático las examina con cuidado, advierte detalles que no coinciden: el peso es ligeramente distinto, la aleación del metal tiene proporciones diferentes, el relieve sigue una técnica de troquelado que la otra moneda no comparte. Las dos monedas dicen ser la misma. La pregunta del numismático es honesta: <strong>¿son la misma moneda emitida en dos series ligeramente distintas, o son dos monedas diferentes que circulan bajo el mismo nombre?</strong></p>
+
+      <p>La pregunta no se resuelve mirando solo una de las dos. Se resuelve examinando ambas con atención y comparándolas con precisión.</p>
+
+      <p>Esta es la operación que el sitio invita a hacer con la doctrina trinitaria cristiana. La fe en el Padre, el Hijo y el Espíritu Santo ha recibido articulaciones distintas en momentos distintos de la historia cristiana. Todas se llaman "trinitarismo". Todas dicen confesar la misma fe. Y sin embargo, cuando se examinan los textos con atención, los detalles no siempre coinciden.</p>
+
+      <p>La pregunta del sitio es entonces igual de directa: <strong>¿son las distintas articulaciones trinitarias históricas la misma doctrina expresada con vocabularios distintos, o son trinitarismos diferentes que circulan bajo el mismo nombre?</strong></p>
+
       <p>Para responderla con honestidad, hay que hacer tres cosas:</p>
-      <ul style="list-style: none; padding: 0; margin: 1rem 0;">
-        <li style="padding: 0.4rem 0;">→ <strong>Examinar la primera cara</strong> con sus detalles propios, sin asumir que ya sabemos lo que dice.</li>
-        <li style="padding: 0.4rem 0;">→ <strong>Examinar la segunda cara</strong> con la misma atención, sin proyectar la primera sobre ella.</li>
-        <li style="padding: 0.4rem 0;">→ <strong>Compararlas</strong> solo después de conocer ambas con precisión.</li>
+
+      <ul class="inicio__steps">
+        <li><strong>Examinar la primera articulación</strong> con sus detalles propios, sin asumir lo que dice.</li>
+        <li><strong>Examinar la articulación posterior</strong> con la misma atención, sin proyectar la primera sobre ella.</li>
+        <li><strong>Compararlas</strong> solo después de conocer ambas con precisión.</li>
       </ul>
-      <p>Esta es la operación que el sitio invita a hacer con la doctrina trinitaria cristiana.</p>
+
+      <p>La respuesta no se da en esta página. El sitio entero es el examen.</p>
     </div>
-  </div>
+  </section>
 
-  <!-- Las dos caras -->
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-lg); margin: var(--space-xl) 0;">
+  <!-- ═══════════ LAS DOS ARTICULACIONES ═══════════ -->
+  <section class="inicio__section">
+    <h2 class="inicio__heading">Las dos articulaciones</h2>
 
-    <div style="padding: var(--space-lg); border-radius: 12px; border: 1px solid var(--border-primary); background: var(--bg-secondary);">
-      <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: var(--space-sm); font-weight: 600;">Primera cara</div>
-      <div style="font-weight: 700; font-size: 1.1rem; margin-bottom: var(--space-md); color: var(--text-primary);">El símbolo conciliar (381)</div>
-      <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.7;">
-        <li style="padding: 0.3rem 0;">• «Un Dios» = la persona del <strong style="color: var(--text-primary);">Padre</strong> como fuente</li>
-        <li style="padding: 0.3rem 0;">• El Hijo es «Dios <em>de</em> Dios» — divinidad recibida</li>
-        <li style="padding: 0.3rem 0;">• El Espíritu procede <em>del Padre</em></li>
-        <li style="padding: 0.3rem 0;">• Unidad = <strong style="color: var(--text-primary);">persona-fuente</strong></li>
-      </ul>
+    <div class="inicio__columns">
+
+      <div class="inicio__column">
+        <div class="inicio__column-label">Primera articulación</div>
+        <h3 class="inicio__column-title">El símbolo conciliar (381)</h3>
+        <p class="inicio__column-intro">El símbolo niceno-constantinopolitano, codificado en el Concilio de Constantinopla en el año 381, articula la fe trinitaria con un vocabulario, una sintaxis y una arquitectura conceptual específicos.</p>
+        <p class="inicio__column-sublabel">Sus rasgos son identificables y verificables en el texto literal:</p>
+        <ul class="inicio__column-list">
+          <li>Identifica al <strong>un Dios</strong> con la persona del <strong>Padre</strong>.</li>
+          <li>Articula al Hijo como <strong>Dios de Dios</strong> y consustancial al Padre.</li>
+          <li>Articula al Espíritu como quien <strong>procede del Padre</strong>.</li>
+          <li>La doctrina trinitaria se articula con un vocabulario griego específico (<em>ousia</em>, <em>hypostasis</em>, <em>homoousios</em>) estabilizado por los Capadocios.</li>
+        </ul>
+      </div>
+
+      <div class="inicio__column">
+        <div class="inicio__column-label">Segunda articulación</div>
+        <h3 class="inicio__column-title">Las formulaciones latinas posteriores</h3>
+        <p class="inicio__column-intro">Las formulaciones trinitarias que se desarrollan en el horizonte latino entre los siglos V y XIII articulan la fe cristiana con vocabulario, sintaxis y arquitectura conceptual también identificables, codificados en textos credales y conciliares específicos: <em>De Trinitate</em> de Agustín, el <em>Quicumque Vult</em>, el Concilio de Toledo III, el IV Concilio de Letrán.</p>
+        <p class="inicio__column-sublabel">Sus rasgos son identificables y verificables en los textos:</p>
+        <ul class="inicio__column-list">
+          <li>Identifica al <strong>un Dios</strong> con la <strong>Trinidad</strong> como totalidad.</li>
+          <li>Articula a cada persona como Dios en virtud de participar de la única esencia divina.</li>
+          <li>Articula la distinción personal mediante las <strong>relaciones subsistentes</strong> dentro de la esencia.</li>
+          <li>Estabiliza el vocabulario latino <em>substantia</em>, <em>essentia</em>, <em>persona</em>, <em>relatio</em> con desarrollo escolástico posterior.</li>
+        </ul>
+      </div>
+
     </div>
 
-    <div style="padding: var(--space-lg); border-radius: 12px; border: 1px solid var(--border-primary); background: var(--bg-secondary);">
-      <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: var(--space-sm); font-weight: 600;">Segunda cara</div>
-      <div style="font-weight: 700; font-size: 1.1rem; margin-bottom: var(--space-md); color: var(--text-primary);">La articulación posterior (s. V–XIII)</div>
-      <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.7;">
-        <li style="padding: 0.3rem 0;">• «Un Dios» = la <strong style="color: var(--text-primary);">esencia divina</strong> compartida</li>
-        <li style="padding: 0.3rem 0;">• Cada persona es «Dios» por participar de la esencia</li>
-        <li style="padding: 0.3rem 0;">• Distinción = relaciones internas</li>
-        <li style="padding: 0.3rem 0;">• Unidad = <strong style="color: var(--text-primary);">qué compartido</strong></li>
-      </ul>
+    <!-- Pregunta precisa -->
+    <div class="inicio__question-block">
+      <p>Las dos articulaciones se llaman "trinitarismo". Las dos confiesan la fe en el Padre, el Hijo y el Espíritu Santo. Las dos son recibidas en distintas tradiciones cristianas como expresión de la misma doctrina.</p>
+      <p>Pero al examinar los textos con atención:</p>
+      <blockquote class="inicio__question">
+        ¿Articulan la misma cosa con vocabularios distintos, como dos traducciones del mismo texto?
+      </blockquote>
+      <blockquote class="inicio__question">
+        ¿O articulan cosas estructuralmente distintas que comparten vocabulario, como dos doctrinas que usan la misma palabra "trinitarismo" para referirse a articulaciones diferentes?
+      </blockquote>
+      <p class="inicio__question-close">Esta pregunta es la que el sitio examina. La respuesta requiere recorrer los textos.</p>
+    </div>
+  </section>
+
+  <!-- ═══════════ EL MÉTODO ═══════════ -->
+  <section class="inicio__section inicio__method">
+    <h2 class="inicio__heading">El método</h2>
+
+    <p class="inicio__method-intro">El criterio rector es metodológico antes que confesional:</p>
+
+    <div class="inicio__method-grid">
+      <div class="inicio__method-item">
+        <strong>Exégesis histórico-crítica</strong> de los textos conciliares y patrísticos.
+      </div>
+      <div class="inicio__method-item">
+        <strong>Disciplina semántica</strong> con el vocabulario griego y latino técnico.
+      </div>
+      <div class="inicio__method-item">
+        <strong>Simetría argumentativa</strong> entre las posiciones examinadas.
+      </div>
+      <div class="inicio__method-item">
+        <strong>Distinción</strong> entre lo que un texto afirma textualmente y lo que la recepción posterior ha leído en él.
+      </div>
     </div>
 
-  </div>
+    <p class="inicio__method-note">Esta operación no es polémica. No es defensa de una tradición contra otra. No es invitación a migración denominacional. Es examen descriptivo, en línea con la metodología de la teología histórica académica contemporánea.</p>
+    <p class="inicio__method-coda">Una invitación a examinar; nada más. Lo que cada lector concluya, lo concluirá desde dentro de su propia tradición, con sus propios criterios, en su propio tiempo.</p>
+  </section>
 
-  <!-- Pregunta precisa -->
-  <div style="text-align: center; margin: var(--space-xl) 0; padding: var(--space-lg); border-radius: 12px; background: var(--bg-secondary); border: 1px solid var(--border-primary);">
-    <p style="font-size: 1.05rem; color: var(--text-secondary); margin: 0 0 0.5rem 0;">¿Son estas dos articulaciones <strong style="color: var(--text-primary);">la misma doctrina</strong> expresada en lenguajes distintos?</p>
-    <p style="font-size: 1.05rem; color: var(--text-secondary); margin: 0;">¿O son <strong style="color: var(--text-primary);">dos doctrinas distintas</strong> que comparten vocabulario pero divergen en arquitectura?</p>
-  </div>
+  <!-- ═══════════ ESTRUCTURA (15 páginas) ═══════════ -->
+  <section class="inicio__section">
+    <h2 class="inicio__heading">Estructura</h2>
+    <p class="inicio__structure-intro">Quince páginas temáticas, navegables independientemente, más siete apéndices accesibles desde cualquier punto.</p>
+  </section>
 
-  <!-- El método -->
-  <div style="margin: var(--space-xl) 0;">
-    <h2 style="font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-tertiary); margin-bottom: var(--space-md);">El método</h2>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-sm);">
-      <div style="padding: var(--space-sm) var(--space-md); border-radius: 8px; border: 1px solid var(--border-primary); font-size: 0.9rem; color: var(--text-secondary);">
-        📜 Exégesis histórico-crítica de textos conciliares y patrísticos
-      </div>
-      <div style="padding: var(--space-sm) var(--space-md); border-radius: 8px; border: 1px solid var(--border-primary); font-size: 0.9rem; color: var(--text-secondary);">
-        🔤 Disciplina semántica con el vocabulario griego y latino
-      </div>
-      <div style="padding: var(--space-sm) var(--space-md); border-radius: 8px; border: 1px solid var(--border-primary); font-size: 0.9rem; color: var(--text-secondary);">
-        ⚖️ Simetría argumentativa entre posiciones
-      </div>
-      <div style="padding: var(--space-sm) var(--space-md); border-radius: 8px; border: 1px solid var(--border-primary); font-size: 0.9rem; color: var(--text-secondary);">
-        🔍 Distinción entre texto y recepción posterior
-      </div>
-    </div>
-    <p style="font-size: 0.9rem; color: var(--text-tertiary); margin-top: var(--space-md); text-align: center;">
-      No es defensa de una tradición contra otra. Es examen descriptivo. Una invitación a examinar; nada más.
-    </p>
-  </div>
-
-  <!-- Pages Index -->
   <div class="landing__pages">
     <div class="landing__pages-title">15 páginas · Una línea argumentativa</div>
     <div class="landing__index">
@@ -185,7 +252,7 @@
         <span class="landing__index-num">11</span>
         <div class="landing__index-content">
           <span class="landing__index-title">¿Tres es igual a uno?</span>
-          <span class="landing__index-desc">El problema lógico de la Trinidad y las soluciones contemporáneas</span>
+          <span class="landing__index-desc">El problema lógico y las soluciones contemporáneas</span>
         </div>
         <span class="landing__index-arrow">→</span>
       </a>
@@ -243,8 +310,8 @@
     </div>
   </div>
 
-  <!-- Navegación rápida -->
-  <div style="text-align: center; margin: var(--space-xl) 0 var(--space-lg); font-size: 0.85rem; color: var(--text-tertiary);">
+  <!-- Cómo navegar -->
+  <div class="inicio__nav-tip">
     Lectura rápida sugerida: páginas <strong>1, 4, 5, 8, 9</strong> y <strong>15</strong>
   </div>
 
@@ -254,7 +321,7 @@
       No es un proyecto apologético ni un instrumento de transición denominacional.<br>
       Exégesis histórico-crítica · Simetría argumentativa · Precisión semántica
     </p>
-    <p style="font-size: 0.8rem; color: var(--text-tertiary); margin-top: var(--space-sm);">Mayo de 2026</p>
+    <p class="landing__footer-date">Mayo de 2026</p>
   </div>
 
 </div>
