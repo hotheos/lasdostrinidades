@@ -46,7 +46,7 @@ El sitio se compone de trece páginas temáticas, navegables independientemente,
 
 **2. La gramática nicena: el uno fontal.** Monarquía del Padre, generación del Hijo, procesión del Espíritu. La estabilización capadocia de *mia ousia, treis hypostaseis*. Por qué este esquema no es ni subordinacionismo arriano ni modalismo sabeliano.
 
-**3. ¿Qué tipo de teísmo articula Nicea?** Categorías modernas (monoteísmo estricto, henoteísmo, monolatría, monoteísmo de identidad divina) y su aplicación al símbolo conciliar. El monoteísmo del Segundo Templo y la reformulación paulina del *Shema*. Por qué el símbolo no encaja sin residuo en ninguna categoría estándar.
+**3. ¿Qué tipo de teísmo articula Nicea?** Categorías modernas (monoteísmo estricto, henoteísmo, monolatría) y su origen académico. La pregunta aritmética de la dualidad referencial en 1 Corintios 8:6. Propuesta descriptiva: *monoteísmo fontal trinitario*. Por qué el símbolo no encaja sin residuo en ninguna categoría estándar.
 
 **4. Atanasio y el contexto pre-agustiniano.** El *homoousios* atanasiano antes de la sistematización capadocia. Tertuliano y *una substantia, tres personae* en el latín del siglo III. Análisis de si estos esquemas producen ya el problema lógico de la Trinidad o solo crean condiciones de posibilidad para él.
 

@@ -94,7 +94,7 @@ El análisis de las secciones anteriores ha mostrado que el símbolo niceno-cons
 
 Esta caracterización describe el símbolo de 381 en su literalidad. Pero queda abierta una cuestión que el análisis de las páginas siguientes hará posible responder con precisión: si el símbolo niceno-constantinopolitano articula un tipo específico de monoteísmo trinitario, ¿articulan las formulaciones occidentales posteriores el *mismo* tipo?
 
-La pregunta no puede responderse aquí. Requiere examinar primero la gramática nicena en su consolidación capadocia (página 2), el contexto pre-agustiniano (página 4), la figura biográfica e intelectual de Agustín (página 5), y específicamente el desplazamiento operado en *De Trinitate* libros V-VII (página 6). Solo después de ese recorrido la pregunta tendrá los elementos textuales necesarios para una respuesta articulada.
+La pregunta no puede responderse aquí. La gramática nicena ha sido expuesta en la página 2. Pero falta examinar el contexto pre-agustiniano (página 4), la figura biográfica e intelectual de Agustín (página 5), y específicamente el desplazamiento operado en *De Trinitate* libros V-VII (página 6). Solo después de ese recorrido la pregunta tendrá los elementos textuales necesarios para una respuesta articulada.
 
 La página 7 retomará la pregunta y la responderá. Lo que sigue son los pasos necesarios para que esa respuesta esté sostenida en evidencia y no en afirmación de autoridad.
 
