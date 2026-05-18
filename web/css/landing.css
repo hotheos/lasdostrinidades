@@ -291,6 +291,65 @@
   }
 
   .landing__title {
-    font-size: 2rem;
+    font-size: 1.75rem;
+  }
+
+  .landing__subtitle {
+    font-size: var(--fs-base);
+  }
+
+  .landing__cta {
+    padding: var(--space-md) var(--space-xl);
+    font-size: var(--fs-sm);
+    width: 100%;
+    justify-content: center;
+  }
+
+  .landing__thesis {
+    margin-top: var(--space-2xl);
+  }
+
+  .landing__thesis-text {
+    font-size: var(--fs-base);
+    padding: var(--space-md);
+  }
+
+  .landing__pages {
+    margin-top: var(--space-2xl);
+  }
+
+  .landing__index-item {
+    gap: var(--space-md);
+    padding: var(--space-md);
+  }
+
+  .landing__index-num {
+    font-size: var(--fs-lg);
+    min-width: 2rem;
+  }
+
+  .landing__index-title {
+    font-size: var(--fs-sm);
+  }
+
+  .landing__index-desc {
+    display: none;
+  }
+
+  .landing__index-arrow {
+    display: none;
+  }
+
+  .landing__appendices {
+    margin-top: var(--space-xl);
+  }
+
+  .landing__appendix-grid {
+    gap: var(--space-xs);
+  }
+
+  .landing__appendix-link {
+    font-size: 0.6875rem;
+    padding: var(--space-xs) var(--space-sm);
   }
 }

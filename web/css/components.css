@@ -755,23 +755,47 @@
 @media (max-width: 600px) {
   .comparison-table {
     font-size: var(--fs-xs);
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   .comparison-table th,
   .comparison-table td {
     padding: var(--space-sm);
+    white-space: nowrap;
+  }
+
+  .comparison-table td:last-child,
+  .comparison-table th:last-child {
+    white-space: normal;
+    min-width: 120px;
   }
 
   .page-nav {
     flex-direction: column;
+    gap: var(--space-sm);
   }
 
   .page-nav__link {
     max-width: 100%;
+    padding: var(--space-md);
   }
 
   .quote-source {
     padding: var(--space-md);
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .quote-source__text {
+    font-size: var(--fs-base);
+    line-height: 1.7;
+  }
+
+  .quote-source__original {
+    font-size: var(--fs-xs);
+    line-height: 1.5;
   }
 
   .epigraph {
@@ -780,6 +804,37 @@
 
   .epigraph__text {
     font-size: var(--fs-lg);
+  }
+
+  .epigraph__original {
+    font-size: var(--fs-sm);
+  }
+
+  .callout {
+    padding: var(--space-md);
+  }
+
+  /* Diagram responsive */
+  .diagram-nicene__arrows {
+    gap: var(--space-xl);
+  }
+
+  .diagram-nicene__derived {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .diagram-nicene__person {
+    max-width: 100%;
+  }
+
+  .diagram-augustinian__persons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .diagram-augustinian__person {
+    max-width: 100%;
   }
 }
 
@@ -851,3 +906,4 @@
     text-align: left;
   }
 }
+

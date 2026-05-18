@@ -305,11 +305,35 @@
 /* Mobile */
 @media (max-width: 600px) {
   :root {
-    --fs-base: 1.063rem;
-    --fs-3xl: 2.25rem;
-    --fs-2xl: 1.75rem;
-    --fs-xl: 1.4rem;
-    --fs-lg: 1.2rem;
+    --fs-base: 1rem;
+    --fs-3xl: 1.75rem;
+    --fs-2xl: 1.5rem;
+    --fs-xl: 1.3rem;
+    --fs-lg: 1.125rem;
+    --fs-md: 1rem;
+    --fs-sm: 0.8125rem;
+  }
+
+  .content {
+    padding-left: var(--space-lg);
+    padding-right: var(--space-lg);
+  }
+
+  h2 {
+    margin-top: var(--space-2xl);
+  }
+
+  h3 {
+    margin-top: var(--space-xl);
+  }
+}
+
+/* Small mobile (iPhone SE, narrow screens) */
+@media (max-width: 380px) {
+  :root {
+    --fs-base: 0.9375rem;
+    --fs-3xl: 1.5rem;
+    --fs-2xl: 1.35rem;
   }
 
   .content {
