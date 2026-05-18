@@ -204,6 +204,89 @@
   margin-bottom: var(--space-2xl);
 }
 
+/* ---- Central Question Card ---- */
+.inicio__central-question {
+  margin: var(--space-2xl) 0;
+  padding: var(--space-2xl);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-subtle);
+}
+
+.inicio__cq-lead {
+  font-size: var(--fs-base);
+  color: var(--text-secondary);
+  text-align: center;
+  margin-bottom: var(--space-xl);
+}
+
+.inicio__cq-options {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+}
+
+.inicio__cq-option {
+  flex: 1;
+  padding: var(--space-lg);
+  border-radius: var(--radius-md);
+  border: 1px solid transparent;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+
+.inicio__cq-option:hover {
+  transform: translateY(-2px);
+}
+
+.inicio__cq-option p {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: var(--fs-lg);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.inicio__cq-label {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: var(--space-sm);
+}
+
+/* Option A: teal accent */
+.inicio__cq-option--a {
+  border-color: rgba(94, 184, 176, 0.25);
+  background: rgba(94, 184, 176, 0.06);
+}
+.inicio__cq-option--a:hover { border-color: rgba(94, 184, 176, 0.5); }
+.inicio__cq-option--a .inicio__cq-label { color: #5eb8b0; }
+.inicio__cq-option--a p { color: var(--text-primary); }
+
+/* Option B: amber accent */
+.inicio__cq-option--b {
+  border-color: rgba(214, 170, 90, 0.25);
+  background: rgba(214, 170, 90, 0.06);
+}
+.inicio__cq-option--b:hover { border-color: rgba(214, 170, 90, 0.5); }
+.inicio__cq-option--b .inicio__cq-label { color: #d6aa5a; }
+.inicio__cq-option--b p { color: var(--text-primary); }
+
+/* Divider circle */
+.inicio__cq-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'EB Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: var(--fs-lg);
+  color: var(--text-tertiary);
+  min-width: 3rem;
+  flex-shrink: 0;
+}
+
 /* ---- Steps ---- */
 .inicio__steps {
   list-style: none;
@@ -455,6 +538,9 @@
 
   .inicio__coins { gap: var(--space-lg); }
   .inicio__coin-svg { width: 130px; height: 130px; }
+
+  .inicio__cq-options { flex-direction: column; }
+  .inicio__cq-divider { min-width: auto; padding: var(--space-sm) 0; }
 
   .inicio__method-grid { grid-template-columns: 1fr; }
   .inicio__method { padding: var(--space-lg) !important; }
