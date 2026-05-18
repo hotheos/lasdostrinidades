@@ -161,4 +161,4 @@ Las páginas 11 y 12 desarrollan las implicaciones y la invitación a volver al 
 
 ---
 
-*Página 9 de 15* · [← Página 8: El salto agustiniano](06_el_salto_agustiniano.md) · [Página 10: El Filioque →](08_filioque.md)
+*Página 9 de 15* · [← Página 8: El salto agustiniano](08_el_salto_agustiniano.md) · [Página 10: El Filioque →](10_filioque.md)

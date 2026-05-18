@@ -262,4 +262,4 @@ La página siguiente desarrolla la otra consecuencia estructural del desplazamie
 
 ---
 
-*Página 10 de 15* · [← Página 9: Los dos tipos de monoteísmo trinitario](07_dos_tipos_monoteismo_trinitario.md) · [Página 11: El problema lógico →](09_problema_logico.md)
+*Página 10 de 15* · [← Página 9: Los dos tipos de monoteísmo trinitario](09_dos_tipos_monoteismo_trinitario.md) · [Página 11: El problema lógico →](11_problema_logico.md)

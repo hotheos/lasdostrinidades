@@ -282,4 +282,4 @@ La página siguiente examina cómo las tres tradiciones cristianas contemporáne
 
 ---
 
-*Página 11 de 15* · [← Página 10: El Filioque](08_filioque.md) · [Página 12: Tres tradiciones hoy →](10_tres_tradiciones_hoy.md)
+*Página 11 de 15* · [← Página 10: El Filioque](10_filioque.md) · [Página 12: Tres tradiciones hoy →](12_tres_tradiciones_hoy.md)

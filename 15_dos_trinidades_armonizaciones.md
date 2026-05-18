@@ -282,4 +282,4 @@ Las palabras están ahí. La gramática está ahí. La invitación es a leerlas,
 
 ---
 
-*Página 15 de 15* · [← Página 14: Volver al texto](12_volver_al_texto.md)
+*Página 15 de 15* · [← Página 14: Volver al texto](14_volver_al_texto.md)

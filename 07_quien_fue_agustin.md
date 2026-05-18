@@ -163,4 +163,4 @@ La página siguiente examinará lo que Agustín hace en esta obra: el desplazami
 
 ---
 
-*Página 7 de 15* · [← Página 6: Entre Constantinopla y Agustín](06_entre_capadocios_agustin.md) · [Página 8: El salto agustiniano →](06_el_salto_agustiniano.md)
+*Página 7 de 15* · [← Página 6: Entre Constantinopla y Agustín](06_entre_constantinopla_agustin.md) · [Página 8: El salto agustiniano →](08_el_salto_agustiniano.md)
