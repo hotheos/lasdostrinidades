@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <!-- UP triangle: apex at top, base below center -->
-  <polygon points="256,41 112,296 400,296" fill="none" stroke="#e0d5c1" stroke-width="22" stroke-linejoin="round"/>
-  <!-- DOWN triangle: apex at bottom, base above center -->
-  <polygon points="256,471 112,216 400,216" fill="none" stroke="#e0d5c1" stroke-width="22" stroke-linejoin="round" opacity="0.6"/>
+  <!-- △ UP: punta toca base plana de arriba, base plana abajo -->
+  <polygon points="256,51 51,461 461,461" fill="none" stroke="#e0d5c1" stroke-width="22" stroke-linejoin="round"/>
+  <!-- ▽ DOWN: punta toca base plana de abajo, base plana arriba -->
+  <polygon points="256,461 51,51 461,51" fill="none" stroke="#e0d5c1" stroke-width="22" stroke-linejoin="round" opacity="0.55"/>
 </svg>
