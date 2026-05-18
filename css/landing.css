@@ -59,6 +59,20 @@
   animation: fadeInUp 0.6s ease 0.2s forwards;
 }
 
+.hero__icon {
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  vertical-align: -0.05em;
+  margin-left: 0.1em;
+  color: var(--text-tertiary);
+  transition: color 0.4s ease;
+}
+
+.hero__title:hover .hero__icon {
+  color: var(--text-secondary);
+}
+
 .hero__subtitle {
   font-family: var(--font-ui);
   font-size: var(--fs-md);
