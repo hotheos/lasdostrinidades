@@ -10,7 +10,7 @@
 
   /* ---- Page Registry ---- */
   /* Content base path - points to the markdown source files */
-  const CONTENT_BASE = '../';
+  const CONTENT_BASE = './';
 
   const PAGES = [
     { id: 'inicio', file: 'pages/00_inicio.html', number: '', title: 'Inicio', short: 'Inicio', isHtml: true },

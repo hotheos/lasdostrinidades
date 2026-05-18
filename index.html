@@ -1,11 +1,99 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=web/index.html">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Las dos Trinidades</title>
+  <meta name="description" content="La doctrina conciliar de Nicea y el desplazamiento agustiniano: qué cambió, por qué importa hoy. Análisis riguroso de las dos gramáticas trinitarias.">
+  <meta name="theme-color" content="#0F0F1A">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="img/favicon-512.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+
+  <!-- Open Graph (WhatsApp, Facebook, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Las dos Trinidades">
+  <meta property="og:description" content="¿Qué dice realmente el Credo de Nicea? ¿Cambió la doctrina trinitaria con Agustín? Análisis textual riguroso, desde el griego hasta hoy.">
+  <meta property="og:image" content="https://hotheos.github.io/lasdostrinidades/img/og-image.png">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  <meta property="og:url" content="https://hotheos.github.io/lasdostrinidades/">
+  <meta property="og:site_name" content="Las dos Trinidades">
+  <meta property="og:locale" content="es_ES">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Las dos Trinidades">
+  <meta name="twitter:description" content="¿Qué dice realmente el Credo de Nicea? ¿Cambió la doctrina trinitaria con Agustín? Análisis textual riguroso.">
+  <meta name="twitter:image" content="https://hotheos.github.io/lasdostrinidades/img/og-image.png">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/design-system.css?v=20260518o">
+  <link rel="stylesheet" href="css/layout.css?v=20260518o">
+  <link rel="stylesheet" href="css/components.css?v=20260518o">
+  <link rel="stylesheet" href="css/landing.css?v=20260518o">
 </head>
 <body>
-  <p>Redirigiendo... <a href="web/index.html">Haz clic aquí si no eres redirigido</a>.</p>
+
+  <!-- Progress Bar -->
+  <div class="progress-bar" role="progressbar" aria-label="Progreso de lectura">
+    <div class="progress-bar__fill" id="progress-fill"></div>
+  </div>
+
+  <!-- Mobile Menu Toggle -->
+  <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir menú">
+    ☰
+  </button>
+
+  <!-- Sidebar Overlay (mobile) -->
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- App Shell -->
+  <div class="app" id="app">
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar__header">
+        <a href="#inicio" class="sidebar__title">Las dos Trinidades</a>
+        <div class="sidebar__subtitle">Nicea · Agustín · Hoy</div>
+      </div>
+
+      <nav class="sidebar__nav" id="sidebar-nav" aria-label="Navegación principal">
+        <!-- Built by JS -->
+      </nav>
+
+      <div class="sidebar__footer">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema">
+          <span class="theme-toggle__icon" id="theme-icon">☀️</span>
+          <span>Tema</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="content" id="content" style="transition: opacity 0.25s ease;">
+        <!-- Loaded by router -->
+      </div>
+    </main>
+
+    <!-- Table of Contents -->
+    <nav class="toc" aria-label="Tabla de contenido de la sección">
+      <div class="toc__title">En esta página</div>
+      <ul class="toc__list" id="toc-list"></ul>
+    </nav>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/markdown-renderer.js?v=20260518o"></script>
+  <script src="js/app.js?v=20260518o"></script>
 </body>
 </html>
