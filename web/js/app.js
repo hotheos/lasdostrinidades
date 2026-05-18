@@ -19,6 +19,7 @@
     { id: 'anclaje-patristico', file: '03_anclaje_patristico.md', number: '3', title: 'Anclaje patrístico de Nicea', short: 'Anclaje patrístico' },
     { id: 'capadocios', file: '04_capadocios_constantinopla.md', number: '4', title: 'Los Capadocios y el Concilio de Constantinopla', short: 'Capadocios' },
     { id: 'tipo-teismo-new', file: '05_tipo_de_teismo.md', number: '5', title: '¿Qué tipo de teísmo articula Nicea?', short: 'Tipo de teísmo' },
+    { id: 'entre-constantinopla-agustin', file: '06_entre_capadocios_agustin.md', number: '6', title: 'Entre Constantinopla y Agustín', short: 'Pre-Agustín' },
     { id: 'gramatica-nicena', file: '02_gramatica_nicena.md', number: '2*', title: 'La gramática nicena: el uno fontal', short: 'Gramática nicena' },
     { id: 'tipo-teismo', file: '03_tipo_de_teismo.md', number: '3', title: '¿Qué tipo de teísmo articula Nicea?', short: 'Tipo de teísmo' },
     { id: 'pre-agustiniano', file: '04_atanasio_pre_agustiniano.md', number: '4', title: 'Atanasio y el contexto pre-agustiniano', short: 'Pre-agustiniano' },
