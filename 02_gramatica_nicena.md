@@ -310,7 +310,7 @@ Antes de cerrar, conviene observar tres consecuencias positivas de esta gramáti
 
 La gramática nicena es coherente, articulada y técnicamente precisa. Sus formuladores, los Padres griegos del siglo IV, sabían lo que decían y por qué. Los textos atestiguan que la monarquía del Padre, la consustancialidad del Hijo y la procesión del Espíritu desde el Padre fueron las afirmaciones simultáneas y mutuamente requeridas que articularon la doctrina trinitaria conciliar.
 
-Expuesta la gramática nicena en su articulación completa, la pregunta que se impone es de orden categorial: ¿qué *tipo* de teísmo produce esta gramática? La página siguiente abordará esa cuestión. Presentará las categorías modernas de teísmo (monoteísmo estricto, henoteísmo, monolatría), el monoteísmo del Segundo Templo como horizonte propio de Pablo, y formulará con cautela la propuesta de denominar al teísmo del símbolo conciliar *monoteísmo fontal trinitario*: una denominación que captura la estructura expuesta en esta página sin forzarla en categorías modernas inadecuadas.
+Expuesta la gramática nicena en su articulación completa, la pregunta que se impone es de orden categorial: ¿qué *tipo* de teísmo produce esta gramática? La página siguiente abordará esa cuestión. Presentará las categorías modernas de teísmo (monoteísmo estricto, henoteísmo, monolatría), examinará la pregunta aritmética de la dualidad referencial en 1 Corintios 8:6, y formulará con cautela la propuesta de denominar al teísmo del símbolo conciliar *monoteísmo fontal trinitario*: una denominación que captura la estructura expuesta en esta página sin forzarla en categorías modernas inadecuadas.
 
 ---
 

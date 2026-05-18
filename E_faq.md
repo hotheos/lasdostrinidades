@@ -10,7 +10,7 @@ El orden de las preguntas no es alfabético sino temático, agrupado en cinco bl
 
 ### ¿No es esto subordinacionismo arriano disfrazado?
 
-No. La distinción entre asimetría fontal y subordinación ontológica es uno de los logros conceptuales de la patrística griega del siglo IV (página 2, sección 3.6).
+No. La distinción entre asimetría fontal y subordinación ontológica es uno de los logros conceptuales de la patrística griega del siglo IV (página 2, sección 2.6).
 
 El subordinacionismo arriano sostiene que el Hijo es ontológicamente inferior al Padre, de naturaleza distinta, criatura excelente pero no plenamente Dios. La gramática nicena fontal sostiene exactamente lo contrario: el Hijo es *homoousios* (consustancial) con el Padre, plenamente Dios, sin grados ontológicos.
 

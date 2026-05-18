@@ -66,7 +66,7 @@ P3 ("El Hijo es Dios") se entiende como predicación cualificada: el Hijo es *Th
 
 P4 ("El Espíritu Santo es Dios") se entiende análogamente: el Espíritu recibe la divinidad del Padre por procesión eterna.
 
-P5, P6, P7 (las distinciones personales) se mantienen como propiedades hipostáticas reales (página 2, sección 3.5).
+P5, P6, P7 (las distinciones personales) se mantienen como propiedades hipostáticas reales (página 2, sección 2.9).
 
 Bajo esta lectura, el problema lógico no surge. P2, P3 y P4 no afirman tres identidades numéricas con el mismo sujeto único. Afirman una identidad fontal (P2) y dos predicaciones consustanciales derivadas (P3, P4). La "transitividad de la identidad" no se aplica porque "es Dios" no significa exactamente lo mismo en las tres proposiciones: el Padre es Dios fontalmente, el Hijo y el Espíritu son Dios derivativamente desde la única fuente paterna.
 
