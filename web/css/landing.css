@@ -37,6 +37,16 @@
   animation: fadeInUp 0.6s ease 0.1s forwards;
 }
 
+.hero__provocation {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: clamp(1.3rem, 3vw, 1.8rem);
+  color: var(--text-secondary);
+  margin-bottom: var(--space-lg);
+  opacity: 0;
+  animation: fadeInUp 0.6s ease 0.15s forwards;
+}
+
 .hero__title {
   font-family: 'EB Garamond', Georgia, serif;
   font-size: clamp(2.8rem, 7vw, 4.5rem);
