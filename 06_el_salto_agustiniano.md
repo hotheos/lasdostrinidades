@@ -1,4 +1,4 @@
-# 6. El salto: del Padre como fuente a la esencia como sujeto
+# 8. El salto: del Padre como fuente a la esencia como sujeto
 
 > *No son tres dioses, sino que la Trinidad misma es el único Dios.*
 >
@@ -356,4 +356,4 @@ El desplazamiento agustiniano del referente último de *Deus* desde la persona d
 
 ---
 
-*Página 6 de 13* · [← Página 5: Quién fue Agustín](05_quien_fue_agustin.md) · [Página 7: Los dos tipos de monoteísmo trinitario →](07_dos_tipos_monoteismo_trinitario.md)
+*Página 8 de 15* · [← Página 7: Quién fue Agustín](05_quien_fue_agustin.md) · [Página 9: Los dos tipos de monoteísmo trinitario →](07_dos_tipos_monoteismo_trinitario.md)

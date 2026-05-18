@@ -1,4 +1,4 @@
-# 12. Volver al texto: una invitación
+# 14. Volver al texto: una invitación
 
 > *Un Dios, el Padre.*
 >
@@ -160,4 +160,4 @@ Los apéndices están diseñados para consulta puntual y profundización temáti
 
 ---
 
-*Página 12 de 13* · [← Página 11: Implicaciones para la doctrina de Dios](11_implicaciones_doctrina_de_dios.md) · [Página 13: Las dos Trinidades: armonizaciones →](13_dos_trinidades_armonizaciones.md)
+*Página 14 de 15* · [← Página 13: Implicaciones](11_implicaciones_doctrina_de_dios.md) · [Página 15: Las dos Trinidades →](13_dos_trinidades_armonizaciones.md)

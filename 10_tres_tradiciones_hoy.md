@@ -1,4 +1,4 @@
-# 10. Cómo lo viven hoy las tres tradiciones
+# 12. Cómo lo viven hoy las tres tradiciones
 
 > *Si queremos resumir en pocas palabras la diferencia entre las concepciones trinitarias oriental y occidental, podemos decir que el Occidente parte de la unidad de naturaleza para considerar luego la trinidad de personas, mientras que el Oriente parte de las tres personas para afirmar su unidad connatural.*
 >
@@ -226,4 +226,4 @@ La página siguiente examina las implicaciones de todo esto para la doctrina de 
 
 ---
 
-*Página 10 de 13* · [← Página 9: El problema lógico de la Trinidad](09_problema_logico.md) · [Página 11: Implicaciones para la doctrina de Dios →](11_implicaciones_doctrina_de_dios.md)
+*Página 12 de 15* · [← Página 11: El problema lógico](09_problema_logico.md) · [Página 13: Implicaciones →](11_implicaciones_doctrina_de_dios.md)

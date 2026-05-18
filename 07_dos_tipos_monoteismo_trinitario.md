@@ -1,4 +1,4 @@
-# 7. Los dos tipos de monoteísmo trinitario
+# 9. Los dos tipos de monoteísmo trinitario
 
 > Un Dios, el Padre… una esencia, tres hipóstasis.
 >
@@ -161,4 +161,4 @@ Las páginas 11 y 12 desarrollan las implicaciones y la invitación a volver al 
 
 ---
 
-*Página 7 de 13* · [← Página 6: El salto agustiniano](06_el_salto_agustiniano.md) · [Página 8: El Filioque →](08_filioque.md)
+*Página 9 de 15* · [← Página 8: El salto agustiniano](06_el_salto_agustiniano.md) · [Página 10: El Filioque →](08_filioque.md)

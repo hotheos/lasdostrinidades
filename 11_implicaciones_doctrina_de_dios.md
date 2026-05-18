@@ -1,4 +1,4 @@
-# 11. Implicaciones para la doctrina de Dios al día de hoy
+# 13. Implicaciones para la doctrina de Dios al día de hoy
 
 > *Cuál sea la diferencia entre generación y procesión, yo no lo sé.*
 >
@@ -270,4 +270,4 @@ La página final articula el cierre: una invitación a volver al texto conciliar
 
 ---
 
-*Página 11 de 13* · [← Página 10: Tres tradiciones hoy](10_tres_tradiciones_hoy.md) · [Página 12: Volver al texto →](12_volver_al_texto.md)
+*Página 13 de 15* · [← Página 12: Tres tradiciones hoy](10_tres_tradiciones_hoy.md) · [Página 14: Volver al texto →](12_volver_al_texto.md)

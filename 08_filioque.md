@@ -1,4 +1,4 @@
-# 8. El Filioque
+# 10. El Filioque
 
 > *El Espíritu Santo, que del Padre procede.*
 >
@@ -262,4 +262,4 @@ La página siguiente desarrolla la otra consecuencia estructural del desplazamie
 
 ---
 
-*Página 8 de 13* · [← Página 7: Los dos tipos de monoteísmo trinitario](07_dos_tipos_monoteismo_trinitario.md) · [Página 9: El problema lógico de la Trinidad →](09_problema_logico.md)
+*Página 10 de 15* · [← Página 9: Los dos tipos de monoteísmo trinitario](07_dos_tipos_monoteismo_trinitario.md) · [Página 11: El problema lógico →](09_problema_logico.md)

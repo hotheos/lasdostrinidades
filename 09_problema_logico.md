@@ -1,4 +1,4 @@
-# 9. El problema lógico de la Trinidad
+# 11. El problema lógico de la Trinidad
 
 > *Los cristianos son, en su vida práctica, casi meros monoteístas. Podríamos arriesgarnos a afirmar que si la doctrina de la Trinidad fuera reconocida como falsa, la mayor parte de la literatura religiosa podría conservarse casi sin cambios.*
 >
@@ -282,4 +282,4 @@ La página siguiente examina cómo las tres tradiciones cristianas contemporáne
 
 ---
 
-*Página 9 de 13* · [← Página 8: El Filioque](08_filioque.md) · [Página 10: Tres tradiciones hoy →](10_tres_tradiciones_hoy.md)
+*Página 11 de 15* · [← Página 10: El Filioque](08_filioque.md) · [Página 12: Tres tradiciones hoy →](10_tres_tradiciones_hoy.md)

@@ -1,4 +1,4 @@
-# 5. Quién fue Agustín
+# 7. Quién fue Agustín
 
 > *Y me encontré lejos de ti en la región de la desemejanza.*
 >
@@ -163,4 +163,4 @@ La página siguiente examinará lo que Agustín hace en esta obra: el desplazami
 
 ---
 
-*Página 5 de 13* · [← Página 4: El contexto pre-agustiniano](04_atanasio_pre_agustiniano.md) · [Página 6: El salto agustiniano →](06_el_salto_agustiniano.md)
+*Página 7 de 15* · [← Página 6: Entre Constantinopla y Agustín](06_entre_capadocios_agustin.md) · [Página 8: El salto agustiniano →](06_el_salto_agustiniano.md)

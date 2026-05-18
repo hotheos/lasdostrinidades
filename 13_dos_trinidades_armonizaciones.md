@@ -1,4 +1,4 @@
-# 13. Las dos Trinidades: armonizaciones y observación
+# 15. Las dos Trinidades: armonizaciones y observación
 
 > *Una imagen nos tenía prisioneros. Y no podíamos salir, porque estaba en nuestro lenguaje, y el lenguaje parecía repetírnosla inexorablemente.*
 >
@@ -282,4 +282,4 @@ Las palabras están ahí. La gramática está ahí. La invitación es a leerlas,
 
 ---
 
-*Página 13 de 13* · [← Página 12: Volver al texto](12_volver_al_texto.md)
+*Página 15 de 15* · [← Página 14: Volver al texto](12_volver_al_texto.md)
