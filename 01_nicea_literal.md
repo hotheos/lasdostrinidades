@@ -81,48 +81,11 @@ La consecuencia gramatical es directa. *Hena Theon* y *Patera* refieren al mismo
 
 Es importante señalar que esta identificación no niega de ninguna forma la divinidad plena ni la consustancialidad del Hijo. El mismo símbolo que identifica al "un Dios" con el Padre declara inmediatamente después que el Hijo es "Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre". La gramática fontal no distribuye grados de divinidad; distribuye posiciones en el orden de origen. El Hijo es plenamente Dios, con la misma divinidad del Padre, pero la recibe del Padre como su fuente. Afirmar que el "un Dios" es el Padre es afirmar de dónde viene la divinidad; no es negar que el Hijo la posea plenamente.
 
-Esta lectura no es una hipótesis exegética entre varias. Es la lectura sintáctica obvia y la que la totalidad de la patrística griega del siglo IV asume sin discutir. La fórmula reproduce, deliberadamente, una construcción paulina que la conciencia teológica de los Padres conciliares tenía presente: *heis Theos ho Patēr* (un Dios, el Padre), en 1 Corintios 8:6.
+Esta lectura no es una hipótesis exegética entre varias. Es la lectura sintáctica obvia y la que la totalidad de la patrística griega del siglo IV asume sin discutir. La fórmula reproduce, deliberadamente, una construcción paulina que la conciencia teológica de los Padres conciliares tenía presente: *heis Theos ho Patēr* (un Dios, el Padre), formulada por Pablo en 1 Corintios 8:6. El análisis detallado del sustrato bíblico de esta fórmula, junto con el examen del patrón joánico paralelo, se desarrolla en la página 2.
 
 ---
 
-## 1.4 El sustrato paulino: 1 Corintios 8:6
-
-La apertura del símbolo no surge de la nada ni es invención conciliar. Tiene un fundamento neotestamentario directo: calca, con conciencia teológica deliberada, una de las afirmaciones cristológicas más densas del corpus paulino. El texto griego de Pablo, presentado con análisis léxico, es el siguiente:
-
-### Texto griego de 1 Corintios 8:6
-
-| Original | Transliteración | Lema | Traducción |
-|----------|----------------|------|------------|
-| ἀλλ' ἡμῖν | all' hēmin | ἀλλά + ἐγώ | pero para nosotros |
-| εἷς Θεὸς | heis Theos | εἷς Θεός | un Dios |
-| ὁ Πατήρ | ho Patēr | πατήρ | el Padre |
-| ἐξ οὗ τὰ πάντα | ex hou ta panta | ἐκ + ὅς + πᾶς | de quien las todas (cosas) |
-| καὶ ἡμεῖς εἰς αὐτόν | kai hēmeis eis auton | εἰς + αὐτός | y nosotros para él |
-| καὶ εἷς Κύριος | kai heis Kyrios | εἷς Κύριος | y un Señor |
-| Ἰησοῦς Χριστός | Iēsous Christos | | Jesucristo |
-| δι' οὗ τὰ πάντα | di' hou ta panta | διά + ὅς + πᾶς | por medio de quien las todas (cosas) |
-| καὶ ἡμεῖς δι' αὐτοῦ | kai hēmeis di' autou | διά + αὐτός | y nosotros por medio de él |
-
-Pablo opera dos distribuciones simultáneas que la traducción castellana puede oscurecer pero el griego marca con precisión.
-
-**Primera distribución: predicados sustantivos.** El predicado *heis Theos* (un Dios) se aplica al Padre. El predicado *heis Kyrios* (un Señor) se aplica a Jesucristo. Los dos sintagmas son paralelos sintácticamente y diferenciados referencialmente. Pablo no dice "hay un Dios, el Padre, y también hay un Dios, Jesucristo". Dice "hay un Dios, el Padre, y un Señor, Jesucristo". La distinción terminológica es deliberada y constante en el corpus paulino: *Theos* refiere al Padre como referente típico; *Kyrios* refiere a Jesús como referente típico, sobre todo en contextos eucológicos y doxológicos.
-
-**Segunda distribución: causalidad.** La preposición *ek* (con genitivo, *ex hou*) marca al Padre como fuente, origen, principio del que proceden todas las cosas. La preposición *dia* (con genitivo, *di' hou*) marca al Hijo como agencia, instrumento, mediación por la que las cosas vienen a ser. La causalidad no es la misma. *Ek* es causalidad fontal; *dia* es causalidad mediadora. Las dos son reales y se distribuyen entre los dos referentes sin colapsarse en una causalidad indistinta.
-
-Esta arquitectura paulina, con dos predicados distintos y dos modos causales distintos, es la que el símbolo de 381 reproduce. La correspondencia entre ambos textos puede verse con claridad en la siguiente tabla:
-
-| Concepto | Pablo (1 Corintios 8:6) | Símbolo (381) | Función |
-|----------|------------------------|---------------|----------|
-| El Padre como "un Dios" | *heis Theos, ho Patēr* | *hena Theon, Patera* | Identificación del único Dios con el Padre |
-| El Hijo como "un Señor" | *heis Kyrios, Iēsous Christos* | *hena Kyrion, Iēsoun Christon* | Identificación del único Señor con Jesucristo |
-| Causalidad del Padre | *ex hou ta panta* (de quien todas las cosas) | *poiētēn ouranou kai gēs* (hacedor del cielo y la tierra) | El Padre como fuente originaria |
-| Causalidad del Hijo | *di' hou ta panta* (por quien todas las cosas) | *di' hou ta panta egeneto* (por quien todo fue hecho) | El Hijo como agente mediador |
-
-La continuidad terminológica no es accidental: el símbolo reproduce deliberadamente la estructura paulina.
-
----
-
-## 1.5 La estructura tripartita del símbolo
+## 1.4 La estructura tripartita del símbolo
 
 Examinemos ahora cómo el símbolo completo despliega este mismo patrón paulino, ampliándolo para incluir al Espíritu Santo. El credo se organiza en tres artículos, cada uno dedicado a una persona distinta. Cada artículo identifica a su referente con títulos propios y especifica su relación con las demás personas:
 
@@ -142,7 +105,7 @@ Conviene observar tres precisiones que la traducción castellana puede oscurecer
 
 ---
 
-## 1.6 Tres observaciones críticas
+## 1.5 Tres observaciones críticas
 
 Tras este análisis textual, se imponen tres observaciones que orientan el resto del sitio.
 
@@ -177,9 +140,9 @@ Esta observación no implica que la formulación contemporánea sea errónea o h
 
 ---
 
-## 1.7 La pregunta que motiva el resto del sitio
+## 1.6 La pregunta que motiva el resto del sitio
 
-El análisis textual del símbolo plantea una pregunta que la página 3 comenzará a desarrollar y que atraviesa el resto del sitio.
+El análisis textual del símbolo plantea una pregunta que la página 2 comenzará a desarrollar y que atraviesa el resto del sitio.
 
 Si el símbolo identifica al único Dios con el Padre como fuente, y si la formulación catequética contemporánea identifica al único Dios con una esencia divina compartida por tres personas igualmente posicionadas dentro de ella, ¿estamos frente a la misma doctrina expresada en lenguajes distintos, o frente a dos doctrinas distintas que comparten vocabulario pero divergen en gramática referencial?
 
@@ -198,15 +161,9 @@ Reconocer este cambio gramatical es condición para leer con precisión tanto el
 - Adolf Martin Ritter, *Das Konzil von Konstantinopel und sein Symbol* (Vandenhoeck & Ruprecht, 1965).
 - Wolf-Dieter Hauschild y Volker Henning Drecoll, *Pneumatologie in der Alten Kirche* (Peter Lang, 2004).
 
-**Sobre 1 Corintios 8:6 y la cristología paulina:**
-- N.T. Wright, *The Climax of the Covenant* (T&T Clark, 1991), capítulo 6.
-- Larry Hurtado, *Lord Jesus Christ* (Eerdmans, 2003).
-- James D.G. Dunn, *The Theology of Paul the Apostle* (Eerdmans, 1998), capítulo 10.
-- Maurice Casey, *From Jewish Prophet to Gentile God* (Westminster John Knox, 1991).
-
 **Sobre la causalidad mediadora (*dia*) en el Nuevo Testamento:**
 - Murray J. Harris, *Prepositions and Theology in the Greek New Testament* (Zondervan, 2012), capítulo sobre *dia*.
 
 ---
 
-*Página 1 de 13* · [← Inicio](00_inicio.md) · [Página 2: La gramática nicena →](02_gramatica_nicena.md)
+*Página 1 de 14* · [← Inicio](00_inicio.md) · [Página 2: Anclaje bíblico de Nicea →](02_anclaje_biblico.md)
