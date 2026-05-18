@@ -8,17 +8,17 @@
 
 ---
 
-## 6.1 La cuestión que se plantea
+## 8.1 La cuestión que se plantea
 
-Las páginas anteriores han establecido tres cosas. Primera, que el símbolo niceno-constantinopolitano identifica gramaticalmente al único Dios con el Padre como fuente fontal (página 1). Segunda, que la gramática nicena articula la doctrina trinitaria como una unicidad fontal personal del Padre con tres hipóstasis consustanciales realmente distintas, sin esencialización del "uno" (páginas 2-3). Tercera, que la patrística pre-agustiniana (Atanasio, Tertuliano, Hilario) mantiene esta gramática con vocabularios distintos, y que Mario Victorino introduce en el latín cristiano un vocabulario filosófico neoplatónico que prepara el desplazamiento posterior (página 4). La página 5 expuso a Agustín como figura histórica.
+Las páginas anteriores han establecido los anclajes necesarios para examinar la articulación trinitaria de Agustín. La página 1 expuso el texto del símbolo niceno-constantinopolitano y su identificación gramatical del único Dios con el Padre como fuente. Las páginas 2 y 3 documentaron el anclaje bíblico y el anclaje patrístico ante-niceno del patrón fontal. La página 4 examinó la consolidación capadocia y la codificación conciliar de 381. La página 5 categorizó la articulación nicena como monoteísmo fontal trinitario. La página 6 documentó el puente latino (Hilario, Mario Victorino, Ambrosio) que prepara el horizonte donde Agustín operará. La página 7 expuso a Agustín como figura histórica e intelectual.
 
-Esta página examina lo que Agustín hace doctrinalmente con esta herencia. La tesis específica es la siguiente: en *De Trinitate*, especialmente en los libros V-VII, Agustín opera un desplazamiento del referente último del término *Deus* desde la persona del Padre como fuente fontal hacia la *substantia* o *essentia* divina como sujeto unitario. Este desplazamiento no es ruptura abrupta con la tradición anterior, pero sí transformación estructural que tendrá consecuencias dogmáticas verificables en el *Filioque*, en el problema lógico de la Trinidad, y en la herencia trinitaria occidental hasta hoy.
+Esta página examina lo que Agustín hace doctrinalmente con esta herencia. La cuestión específica es la siguiente: en *De Trinitate*, especialmente en los libros V-VII, Agustín opera un desplazamiento del referente último del término *Deus* desde la persona del Padre como fuente fontal hacia la *substantia* o *essentia* divina como sujeto unitario. Este desplazamiento no es ruptura abrupta con la tradición anterior, pero sí transformación estructural reconocible.
 
-La tesis se documenta con citas directas de *De Trinitate*, analizando el vocabulario, la sintaxis y la arquitectura conceptual. Luego se examinan las tres consecuencias estructurales del desplazamiento, y se presenta la sistematización tomista que llevará el esquema agustiniano a su forma definitiva. Al cierre se incluye la denuncia que el catolicismo del siglo XX (Karl Rahner) hizo del esquema esencialista, mostrando que la observación crítica no es invención reciente ni externa.
+La página documenta esto con citas directas de *De Trinitate*, analizando el vocabulario, la sintaxis y la arquitectura conceptual. Luego examina las tres consecuencias estructurales del desplazamiento, presenta la sistematización tomista que llevará el esquema agustiniano a su forma definitiva, expone su codificación credal en el *Quicumque Vult* y su confirmación conciliar latina en Toledo III y IV Letrán. Al cierre se incluye la denuncia que el catolicismo del siglo XX hizo del esquema esencialista, mostrando que la observación crítica no es invención reciente ni externa.
 
 ---
 
-## 6.2 La pregunta agustiniana: ¿a quién o a qué refiere *Deus*?
+## 8.2 La pregunta agustiniana: ¿a quién o a qué refiere *Deus*?
 
 La cuestión central de *De Trinitate* libros V-VII puede formularse como una pregunta gramatical. Cuando se dice "Dios" sin más especificación, ¿a quién o a qué refiere el término?
 
@@ -64,7 +64,7 @@ En los términos taxonómicos introducidos en la página 3, esta frase marca el 
 
 ---
 
-## 6.3 La estructura del desplazamiento
+## 8.3 La estructura del desplazamiento
 
 El desplazamiento agustiniano puede precisarse mediante la siguiente comparación entre la gramática nicena (página 2) y la gramática agustiniana, en cinco aspectos críticos:
 
@@ -113,11 +113,11 @@ Esta es la transformación que Agustín consuma. No es ruptura abrupta porque ma
 
 ---
 
-## 6.4 Tres consecuencias del desplazamiento
+## 8.4 Tres consecuencias del desplazamiento
 
 El desplazamiento tiene tres consecuencias dogmáticas verificables que pueden examinarse en los textos agustinianos y en su recepción posterior. Cada una se documenta a continuación.
 
-### 6.4.1 Las analogías psicológicas
+### 8.4.1 Las analogías psicológicas
 
 La primera consecuencia es la introducción de las analogías psicológicas para iluminar la Trinidad. Si la divinidad es esencia única con tres relaciones internas, y si el ser humano es creado a imagen de Dios (*imago Dei*), entonces la estructura interna del alma racional humana, considerada como sujeto unitario con operaciones internas distinguibles, puede ofrecer analogías para entender la estructura interna de la divinidad.
 
@@ -147,7 +147,7 @@ Esto tiene implicaciones específicas. Primera, presupone que la divinidad puede
 
 Los Capadocios y la patrística griega anterior no construyen analogías psicológicas en este sentido. Sus analogías son más bien sociales (la unidad de naturaleza compartida por Pedro, Pablo y Santiago como tres seres humanos en una sola humanidad) o cosmológicas (el sol, su luz y su calor). La analogía psicológica intrapsíquica es invención agustiniana y depende del esquema esencialista para ser coherente. Solo si la divinidad es una esencia unitaria con interioridad puede pensarse en analogía con un alma humana unitaria con interioridad.
 
-### 6.4.2 La pérdida de la asimetría litúrgica y exegética
+### 8.4.2 La pérdida de la asimetría litúrgica y exegética
 
 La segunda consecuencia se manifiesta en la lectura del lenguaje neotestamentario sobre la relación Padre-Hijo y en la articulación litúrgica de la oración.
 
@@ -180,7 +180,7 @@ Conviene notar que la doxología coordinada tiene fundamento polémico antiarria
 
 **Cristocentrismo devocional.** Una consecuencia adicional del esquema agustiniano, visible especialmente en el protestantismo contemporáneo, es lo que puede denominarse *cristocentrismo opacante*: la tendencia a que Cristo ocupe el centro exclusivo de la piedad, la predicación y la teología, mientras el Padre se desdibuja como figura de fondo o se identifica genéricamente con "Dios" sin distinción personal. En la gramática nicena, esta tendencia es difícilmente concebible: el Padre es el referente primario de *Theos*, la fuente de toda la divinidad, el destinatario último de la oración, el origen del envío del Hijo y del Espíritu. La doxología antigua *al Padre, por el Hijo, en el Espíritu* preserva esta estructura: la oración tiene un destinatario personal concreto (el Padre), no una divinidad genérica. En la gramática agustiniana, donde *Deus* refiere a la esencia compartida antes que al Padre como persona, el terreno queda preparado para un desplazamiento devocional donde "Dios" y "Jesús" se vuelven funcionalmente intercambiables, y el Padre pierde su lugar como referente primario del culto cristiano. Este fenómeno se desarrollará con más detalle en la página 10, al examinar el protestantismo no confesional contemporáneo.
 
-### 6.4.3 *Opera Trinitatis ad extra sunt indivisa*
+### 8.4.3 *Opera Trinitatis ad extra sunt indivisa*
 
 La tercera consecuencia se formula en un axioma escolástico que sintetiza la gramática agustiniana: *opera Trinitatis ad extra sunt indivisa*, las obras de la Trinidad hacia afuera son indivisas. El axioma significa que toda acción divina hacia el mundo (creación, providencia, redención, santificación) es operada por las tres personas conjuntamente y de manera indivisible. La atribución de una obra específica a una persona (la creación al Padre, la redención al Hijo, la santificación al Espíritu) es *appropriatio*: asignación lingüística por conveniencia o por revelación bíblica, no causalidad realmente distinta.
 
@@ -219,7 +219,7 @@ Bajo la gramática nicena, esta fractura no se produce con la misma agudeza. El 
 
 ---
 
-## 6.5 La sistematización tomista
+## 8.5 La sistematización tomista
 
 El esquema agustiniano alcanza su forma técnicamente más elaborada en Tomás de Aquino (1225-1274), especialmente en la *Summa Theologiae* I, qq. 27-43, donde la doctrina trinitaria se articula con vocabulario aristotélico-escolástico denso. Tomás recibe el esquema agustiniano, lo sistematiza filosóficamente con categorías aristotélicas, y lo deja en la forma que dominará la teología occidental hasta el siglo XX.
 
@@ -249,7 +249,7 @@ Karl Rahner, en el siglo XX, hará explícita esta crítica.
 
 ---
 
-## 6.6 La codificación credal: el símbolo atanasiano (*Quicumque Vult*)
+## 8.6 La codificación credal: el símbolo atanasiano (*Quicumque Vult*)
 
 El desplazamiento agustiniano no permaneció como posición de un teólogo individual. Fue codificado a nivel de confesión de fe en el símbolo atanasiano, conocido como *Quicumque Vult* por sus palabras iniciales. El documento, compuesto probablemente en la Galia entre los siglos V y VI (no por Atanasio, a pesar del nombre tradicional), se convirtió en el tercer credo recibido oficialmente en el Occidente latino, junto al símbolo apostólico y al niceno-constantinopolitano.
 
@@ -281,7 +281,59 @@ El *Quicumque Vult* es, así, el punto donde el desplazamiento agustiniano deja 
 
 ---
 
-## 6.7 La denuncia de Rahner
+## 8.7 La confirmación conciliar latina: Toledo y IV Letrán
+
+El *Quicumque Vult* es texto credal, no conciliar. Su autoridad deriva de su recepción litúrgica y confesional, no de promulgación conciliar específica. Pero la articulación esencialista que el *Quicumque* codifica recibió también confirmación conciliar en dos concilios latinos posteriores, importantes para entender cómo el esquema agustiniano se convirtió en doctrina vinculante en el horizonte occidental.
+
+### El Concilio de Toledo III (589)
+
+El Concilio de Toledo III, celebrado en mayo del año 589 bajo el rey visigodo Recaredo, marcó la conversión oficial del reino visigodo del arrianismo al catolicismo niceno. El concilio adoptó una confesión de fe extensa cuya formulación trinitaria es notable por su explícita identificación del *unus Deus* con la Trinidad:
+
+> *Confesamos y proclamamos al Padre y al Hijo y al Espíritu Santo, distintos por las personas, pero una sustancia o esencia o naturaleza. Las tres personas, no obstante, son un solo Dios.*
+>
+> *Confitemur et proclamamus Patrem et Filium et Spiritum Sanctum, distinctos in personis, unam autem substantiam vel essentiam vel naturam. Tres tamen personae unus est Deus.*
+>
+> Concilio de Toledo III, *Confesión de fe* (589)
+
+La fórmula final, *tres personae unus est Deus* (las tres personas son un solo Dios), articula con precisión la gramática agustiniana del *Quicumque*. El predicado *unus Deus* se aplica a la Trinidad como totalidad, no a la persona del Padre como fuente. Las tres personas son colectivamente el único Dios; ninguna persona individualmente es *unus Deus* en sentido propio.
+
+Este Concilio de Toledo es históricamente importante por otra razón que la página 10 (sobre el *Filioque*) examinará con detalle: en sus actas aparece, probablemente por primera vez en un documento conciliar latino, la fórmula explícita *Filioque* sobre la procesión del Espíritu Santo. La adición no era originalmente parte del símbolo niceno-constantinopolitano, sino interpolación latina que el concilio aplicó por razones polémicas anti-arrianas locales. La doble innovación de Toledo III (identificación del *unus Deus* con la Trinidad + adición del *Filioque* al símbolo) muestra cómo dos elementos de la articulación occidental se codifican conjuntamente en un mismo momento conciliar.
+
+### El IV Concilio de Letrán (1215)
+
+Seis siglos después, el IV Concilio de Letrán, convocado por Inocencio III, articuló la doctrina trinitaria católica con vocabulario explícitamente esencialista. El primer canon (*Firmiter credimus*) opera la identificación del *unus Deus* con la Trinidad de manera todavía más enfática:
+
+> *Creemos firmemente y confesamos llanamente que es uno solo el verdadero Dios, eterno, inmenso e inmutable, incomprensible, omnipotente e inefable, Padre, Hijo y Espíritu Santo: tres personas en verdad, pero una sola esencia, sustancia o naturaleza absolutamente simple.*
+>
+> *Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aeternus, immensus et incommutabilis, incomprehensibilis, omnipotens et ineffabilis, Pater et Filius et Spiritus Sanctus: tres quidem personae sed una essentia, substantia seu natura simplex omnino.*
+>
+> IV Concilio de Letrán, Canon 1, *Firmiter credimus* (1215)
+
+La fórmula es estructuralmente más extrema que la de Toledo. *Unus solus est verus Deus*: el único Dios verdadero es uno solo. Luego, los predicados divinos clásicos (eterno, inmenso, inmutable, incomprensible, omnipotente, inefable) se aplican a ese *unus Deus* como sujeto. Solo entonces aparecen los nombres "Padre, Hijo y Espíritu Santo" como aposición del *unus Deus* previamente articulado. La gramática es inequívoca: el sujeto primario del enunciado es el *unus Deus* (la única esencia divina); las tres personas son determinaciones internas de ese sujeto.
+
+El concilio reforzó la articulación esencialista al canonizar la doctrina, asociada a Pedro Lombardo y especialmente a Tomás de Aquino, de la simplicidad divina absoluta (*natura simplex omnino*). La esencia divina, en esta articulación, no admite distinciones reales en sí misma; las tres personas son distinciones relacionales dentro de la única esencia simple. Esta es exactamente la articulación tomista de las *relationes subsistentes* examinada en la sección 8.5.
+
+### Importancia histórica de los dos concilios
+
+Estos dos concilios latinos cumplen funciones distintas en la consolidación de la articulación occidental.
+
+**Toledo III (589)** opera la primera codificación conciliar explícita en territorio latino de la fórmula "las tres personas son un solo Dios". El concilio es regional (visigodo) pero su autoridad será reconocida en el horizonte católico subsiguiente. La fórmula toledana entrará en el repertorio doctrinal occidental como articulación normativa.
+
+**IV Letrán (1215)** opera la confirmación universal latina de la articulación esencialista en el contexto del catolicismo medieval consolidado. El concilio fue convocado como concilio ecuménico por la Iglesia católica romana (aunque la ortodoxia oriental no lo reconoce como tal, dado que el cisma de 1054 ya había ocurrido). La fórmula laterana se convierte en doctrina vinculante para el catolicismo occidental subsiguiente.
+
+Estos dos hitos conciliares completan la trayectoria histórica de la articulación esencialista: desde su formulación inicial en *De Trinitate* a comienzos del siglo V, pasando por su codificación credal en el *Quicumque Vult* en los siglos V o VI, hasta su confirmación conciliar latina en Toledo III (589) y su consolidación dogmática en IV Letrán (1215).
+
+### La observación histórica de Branson, Behr y Sijuwade
+
+Académicos contemporáneos (Beau Branson, John Behr, Joshua Sijuwade) han documentado un dato histórico relevante para evaluar esta trayectoria. La fórmula explícita "el un Dios es la Trinidad" no aparece en ningún texto patrístico anterior a Agustín. Los Padres pre-agustinianos (Justino, Ireneo, Tertuliano, Atanasio, Basilio, Gregorio Nacianceno, Gregorio de Nisa, Hilario, Ambrosio) identifican consistentemente al *un Dios* con el Padre, no con la Trinidad como totalidad. Cuando articulan la unicidad divina, articulan la monarquía del Padre. Cuando articulan la divinidad del Hijo y del Espíritu, articulan su consustancialidad con el Padre o su procedencia del Padre como fuente.
+
+La fórmula "el un Dios es la Trinidad" emerge documentablemente con Agustín, se codifica credalmente en el *Quicumque Vult*, se codifica conciliarmente en Toledo III, y se consolida dogmáticamente en IV Letrán. Esta trayectoria histórica es verificable en los textos primarios.
+
+La observación es descriptiva, no normativa. No afirma que la articulación occidental sea incorrecta, ni que la articulación oriental sea correcta. Afirma que las dos articulaciones tienen genealogías históricas distinguibles, que su asimilación bajo un único nombre ("doctrina trinitaria") oculta la distinción estructural, y que recuperar la distinción es operación de honestidad histórica antes que de adjudicación dogmática.
+
+---
+
+## 8.8 La denuncia de Rahner
 
 Karl Rahner (1904-1984), jesuita alemán, fue uno de los teólogos católicos más influyentes del siglo XX y figura central del Concilio Vaticano II. En 1967 publicó *Der dreifaltige Gott als transzendenter Urgrund der Heilsgeschichte* (El Dios trino como fundamento trascendente de la historia de la salvación), traducido al castellano como *El Dios Trino*. La obra incluye una crítica explícita y desde dentro al esquema esencialista occidental, formulada con sorprendente franqueza por un teólogo católico magisterialmente comprometido.
 
@@ -305,7 +357,7 @@ Lo importante para esta página es señalar que la observación crítica al esqu
 
 ---
 
-## 6.8 Una observación de prudencia
+## 8.9 Una observación de prudencia
 
 Antes de cerrar, es necesario incluir una observación que la simetría metodológica exige.
 
@@ -323,7 +375,7 @@ Lo que se sostiene, y que la página siguiente desarrollará respecto al *Filioq
 
 ---
 
-## 6.9 Cierre
+## 8.10 Cierre
 
 El desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina como sujeto unitario es la operación estructural específica de *De Trinitate* libros V-VII. Ha sido documentado con citas directas (V.8.9, VII.4.7, I.6.9), analizado en tres consecuencias verificables (analogías psicológicas, atenuación de la asimetría neotestamentaria y litúrgica, *opera ad extra indivisa*), seguido en su sistematización tomista (*relationes subsistentes*), codificado credalmente en el *Quicumque Vult*, y mostrado en su crítica desde dentro (Rahner). Las páginas siguientes examinan el *Filioque* como síntoma específico del desplazamiento (página 8), el problema lógico de la Trinidad como consecuencia filosófica (página 9), y las tres tradiciones contemporáneas que viven hoy las consecuencias de esta historia (página 10).
 
@@ -353,6 +405,16 @@ El desplazamiento agustiniano del referente último de *Deus* desde la persona d
 **Lectura ortodoxa del agustinismo:**
 - John D. Zizioulas, *Communion and Otherness* (T&T Clark, 2006), capítulos sobre la monarquía del Padre.
 - Vladimir Lossky, *The Mystical Theology of the Eastern Church* (St. Vladimir's Seminary Press, 1976), capítulo sobre las dos triadologías.
+
+**Académicos contemporáneos sobre la articulación pre-agustiniana del *un Dios* y la trayectoria histórica del esquema esencialista:**
+- Beau Branson, *The Logical Problem of the Trinity*, tesis doctoral (University of Notre Dame, 2014).
+- Beau Branson, "Ahistoricity in Analytic Theology", en *American Catholic Philosophical Quarterly* 92 (2018).
+- John Behr, *The Nicene Faith*, dos volúmenes (St. Vladimir's Seminary Press, 2004), especialmente sobre la patrística pre-agustiniana.
+- Joshua R. Sijuwade, varios artículos sobre la "monarquía del Padre" en filosofía analítica de la religión contemporánea.
+
+**Sobre Toledo III y IV Letrán:**
+- Heinrich Denzinger, *Enchiridion symbolorum*, edición bilingüe (Herder, varias ediciones). Recoge los textos conciliares originales con notas críticas.
+- Norman P. Tanner (ed.), *Decrees of the Ecumenical Councils*, volumen 1 (Sheed & Ward, 1990).
 
 ---
 

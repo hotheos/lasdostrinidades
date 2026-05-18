@@ -68,7 +68,7 @@ El sitio se compone de quince páginas temáticas (numeradas 0 a 14), navegables
 
 **7. Quién fue Agustín.** Itinerario biográfico e intelectual: maniqueísmo, escepticismo, neoplatonismo, conversión. Las lecturas filosóficas decisivas. Limitaciones con el griego. Contexto polémico. Producción teológica a lo largo de décadas.
 
-**8. La articulación trinitaria de Agustín.** Examen específico de *De Trinitate* libros V-VII y los textos correlativos. La articulación del referente del término *Deus*. Las analogías psicológicas. La consolidación escolástica posterior.
+**8. El salto: del Padre como fuente a la esencia como sujeto.** Examen específico de *De Trinitate* libros V-VII y los textos correlativos. La articulación del referente del término *Deus*. Las analogías psicológicas. La consolidación escolástica posterior. El *Quicumque Vult* y la confirmación conciliar latina (Toledo III, IV Letrán).
 
 **9. Los dos tipos de monoteísmo trinitario.** Retoma la pregunta abierta en la página 5 con la evidencia desplegada en las páginas 6 a 8. ¿Articulan las formulaciones occidentales el mismo tipo de teísmo que el símbolo conciliar, o exhiben diferencias estructurales reconocibles? Examen comparativo articulado.
 
