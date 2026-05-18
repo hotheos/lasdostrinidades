@@ -270,4 +270,4 @@ La página final articula el cierre: una invitación a volver al texto conciliar
 
 ---
 
-*Página 13 de 15* · [← Página 12: Tres tradiciones hoy](12_tres_tradiciones_hoy.md) · [Página 14: Volver al texto →](14_volver_al_texto.md)
+*Página 13 de 15* · [← Página 12: Tres tradiciones hoy](12_donde_estamos_hoy.md) · [Página 14: Volver al texto →](14_volver_a_nicea.md)

@@ -234,4 +234,4 @@ La cuestión de cómo la articulación nicena se desarrolla en la patrística pr
 
 ---
 
-*Página 2 de 14* · [← Página 1: Nicea literal](01_nicea_literal.md) · [Página 3: Anclaje patrístico de Nicea →](03_anclaje_patristico.md)
+*Página 2 de 14* · [← Página 1: Nicea literal](01_el_concilio_de_nicea.md) · [Página 3: Anclaje patrístico de Nicea →](03_fundamento_patristico.md)

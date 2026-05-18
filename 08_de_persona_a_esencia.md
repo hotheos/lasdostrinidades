@@ -356,4 +356,4 @@ El desplazamiento agustiniano del referente último de *Deus* desde la persona d
 
 ---
 
-*Página 8 de 15* · [← Página 7: Quién fue Agustín](07_quien_fue_agustin.md) · [Página 9: Los dos tipos de monoteísmo trinitario →](09_dos_tipos_monoteismo_trinitario.md)
+*Página 8 de 15* · [← Página 7: Quién fue Agustín](07_quien_fue_agustin.md) · [Página 9: Los dos tipos de monoteísmo trinitario →](09_dos_monoteismos.md)

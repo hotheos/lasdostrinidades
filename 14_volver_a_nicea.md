@@ -160,4 +160,4 @@ Los apéndices están diseñados para consulta puntual y profundización temáti
 
 ---
 
-*Página 14 de 15* · [← Página 13: Implicaciones](13_implicaciones_doctrina_de_dios.md) · [Página 15: Las dos Trinidades →](15_dos_trinidades_armonizaciones.md)
+*Página 14 de 15* · [← Página 13: Implicaciones](13_implicaciones_practicas.md) · [Página 15: Las dos Trinidades →](15_las_dos_trinidades.md)

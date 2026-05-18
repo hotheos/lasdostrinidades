@@ -226,4 +226,4 @@ La página siguiente examina las implicaciones de todo esto para la doctrina de 
 
 ---
 
-*Página 12 de 15* · [← Página 11: El problema lógico](11_problema_logico.md) · [Página 13: Implicaciones →](13_implicaciones_doctrina_de_dios.md)
+*Página 12 de 15* · [← Página 11: El problema lógico](11_tres_es_igual_a_uno.md) · [Página 13: Implicaciones →](13_implicaciones_practicas.md)

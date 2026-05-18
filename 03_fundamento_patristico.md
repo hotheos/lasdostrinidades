@@ -248,4 +248,4 @@ Tres consideraciones cierran esta síntesis.
 
 ---
 
-*Página 3 de 14* · [← Página 2: Anclaje bíblico de Nicea](02_anclaje_biblico.md) · [Página 4: Los Capadocios y el Concilio de Constantinopla →](04_capadocios_constantinopla.md)
+*Página 3 de 14* · [← Página 2: Anclaje bíblico de Nicea](02_fundamentos_apostolicos.md) · [Página 4: Los Capadocios y el Concilio de Constantinopla →](04_capadocios_y_constantinopla.md)

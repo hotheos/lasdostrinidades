@@ -166,4 +166,4 @@ Reconocer este cambio gramatical es condición para leer con precisión tanto el
 
 ---
 
-*Página 1 de 14* · [← Inicio](00_inicio.md) · [Página 2: Anclaje bíblico de Nicea →](02_anclaje_biblico.md)
+*Página 1 de 14* · [← Inicio](00_inicio.md) · [Página 2: Anclaje bíblico de Nicea →](02_fundamentos_apostolicos.md)
