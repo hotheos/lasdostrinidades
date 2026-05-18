@@ -121,36 +121,15 @@ Esta es la configuración que la patrística griega del siglo IV denomina *monar
 
 El símbolo conserva la distribución paulina. *Theos* es predicado del Padre como referente típico; *Kyrios* es predicado del Hijo como referente típico; los títulos pneumatológicos son específicos del Espíritu. La cláusula que aplica *Theos* al Hijo lo hace cualificadamente: Dios *de* Dios. Esta distribución es teológicamente significativa: el símbolo no opera con un término *Dios* genérico que se aplica indistintamente a las tres personas, sino con una articulación donde cada persona recibe predicados propios y una posición específica en el orden fontal.
 
-### Tercera: el símbolo no afirma lo que el sentido común contemporáneo asume
+### Tercera: lo que el símbolo afirma positivamente
 
-Una formulación negativa explícita aclara el alcance de las dos observaciones anteriores. El símbolo niceno-constantinopolitano *no* dice:
+Una formulación positiva sintetiza las dos observaciones anteriores. El símbolo niceno-constantinopolitano dice:
 
-- *No* dice "creemos en un solo Dios, la Trinidad".
-- *No* dice "creemos en un Dios que es tres personas".
-- *No* dice "creemos en un Dios uno en esencia y trino en personas".
-- *No* dice "creemos en un Dios, Padre, Hijo y Espíritu Santo" como si los tres nombres fueran predicados coordinados del único *Dios*.
+«Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero, consustancial al Padre; y en el Espíritu Santo, Señor y dador de vida, que del Padre procede.»
 
-Lo que dice es: "Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero; y en el Espíritu Santo, Señor y dador de vida, que procede del Padre". Tres artículos, tres referentes identificados con sus títulos propios, una asimetría fontal explícita en las preposiciones (*ek tou Patros* para la generación del Hijo y para la procesión del Espíritu).
+Tres artículos, tres referentes identificados con títulos propios, una asimetría fontal articulada en las preposiciones griegas: el Hijo es Dios *de* Dios (*ek Theou*), engendrado *del* Padre (*ek tou Patros*); el Espíritu procede *del* Padre (*ek tou Patros*). La unidad de la divinidad fluye del Padre como fuente, y los tres comparten la misma naturaleza divina sin que esa participación elimine el orden de origen.
 
-La formulación catequética habitual, especialmente en su versión occidental, opera en otra clave. Dice algo como: "Dios es uno en esencia y trino en personas; el Padre es Dios, el Hijo es Dios, el Espíritu Santo es Dios, y los tres son un solo Dios". Un ejemplo contemporáneo notable es el *Credo del Pueblo de Dios* (1968), promulgado por el papa Pablo VI, que comienza: "Creemos en un solo Dios, Padre, Hijo y Espíritu Santo, creador de las cosas visibles". Aquí "Padre, Hijo y Espíritu Santo" funcionan como aposiciones coordinadas de "un solo Dios": los tres nombres son predicados del mismo sujeto. Esta formulación, leída con atención gramatical, es estructuralmente distinta de la del símbolo niceno-constantinopolitano.
-
-En la formulación de Pablo VI y en la catequesis contemporánea habitual, "Dios" funciona como un sujeto único (la esencia divina o la Trinidad como tal) del que se afirma una unidad esencial y una trinidad personal. Las tres personas son predicados coordinados de ese sujeto único. En el símbolo, en cambio, "Dios" se aplica al Padre como referente identificable, y los otros dos reciben títulos propios articulados en relación al Padre como fuente. No es la misma operación lingüística y no afirma la misma cosa.
-
-Esta observación no implica que la formulación contemporánea sea errónea o heterodoxa, ni que las dos sean incompatibles en cualquier sentido. Implica que la formulación contemporánea es posterior, derivada de un desarrollo histórico específico, y que su identidad con la formulación conciliar es precisamente la cuestión que requiere análisis. Las páginas siguientes desarrollarán ese análisis.
-
----
-
-## 1.6 La pregunta que motiva el resto del sitio
-
-El análisis textual del símbolo plantea una pregunta que la página 2 comenzará a desarrollar y que atraviesa el resto del sitio.
-
-Si el símbolo identifica al único Dios con el Padre como fuente, y si la formulación catequética contemporánea identifica al único Dios con una esencia divina compartida por tres personas igualmente posicionadas dentro de ella, ¿estamos frente a la misma doctrina expresada en lenguajes distintos, o frente a dos doctrinas distintas que comparten vocabulario pero divergen en gramática referencial?
-
-La respuesta no es obvia y no debe darse precipitadamente. La continuidad histórica entre el símbolo y la formulación contemporánea es real: las dos afirman la consustancialidad del Hijo con el Padre, la divinidad del Espíritu, el culto conjunto a las tres hipóstasis. Pero la continuidad léxica no es continuidad de gramática. Las palabras pueden mantenerse mientras la arquitectura conceptual cambia, y la pregunta es si en este caso la arquitectura ha cambiado.
-
-La hipótesis de este sitio, sostenida por fuentes de la patrística contemporánea que se citarán en cada página, es que la arquitectura sí ha cambiado. Las páginas siguientes documentarán cuándo, cómo y por qué se produjo ese cambio, y qué consecuencias específicas tiene para la doctrina, la liturgia y la vida de oración de las comunidades cristianas.
-
-Reconocer este cambio gramatical es condición para leer con precisión tanto el símbolo conciliar como la doctrina trinitaria contemporánea en la diversidad real de sus recepciones confesionales. Las páginas siguientes documentarán esta complejidad con la especificidad que merece.
+Esta es la articulación textual del símbolo. La pregunta que sigue es directa: ¿de dónde viene este patrón? ¿Es invención de los Padres conciliares del siglo IV, o tiene raíz en el lenguaje del Nuevo Testamento? La página siguiente examina esa cuestión en los textos paulinos y joánicos.
 
 ---
 

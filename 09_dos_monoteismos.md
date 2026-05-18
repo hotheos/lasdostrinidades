@@ -56,6 +56,16 @@ La evidencia textual de este desplazamiento fue documentada en la página 6. Con
 
 **La codificación posterior.** El *Quicumque Vult* (siglos V-VI), atribuido erróneamente a Atanasio pero producto de la teología latina occidental, sistematiza el segundo tipo con fórmulas que se convertirán en estándar: *Deus Pater, Deus Filius, Deus Spiritus Sanctus; et tamen non tres dii, sed unus est Deus* — «Dios es el Padre, Dios es el Hijo, Dios es el Espíritu Santo; y sin embargo no son tres dioses sino que es un solo Dios». La fórmula aplica el predicado *Deus* a las tres personas como predicado compartido, y la unicidad se constituye en la esencia común, no en la fontalidad del Padre.
 
+**La continuidad hasta el siglo XX.** La gramática esencialista no es solo dato histórico del siglo V; opera en la catequesis contemporánea con formulaciones que el lector puede reconocer. Un ejemplo notable es el *Credo del Pueblo de Dios* (1968), promulgado por el papa Pablo VI:
+
+> *Creemos en un solo Dios, Padre, Hijo y Espíritu Santo, creador de las cosas visibles.*
+>
+> Pablo VI, *Solemni Hac Liturgia* (Credo del Pueblo de Dios), §8 (1968)
+
+Nótese la gramática. En el símbolo niceno, «un Dios» está en aposición con «Padre»: un Dios, *a saber*, el Padre. En la formulación de Pablo VI, «un solo Dios» tiene como aposición «Padre, Hijo y Espíritu Santo»: los tres nombres son predicados coordinados del mismo sujeto. No es la misma operación lingüística. En el símbolo, «Dios» refiere al Padre como persona fontal; en el Credo de Pablo VI, «Dios» refiere a la esencia divina compartida por las tres personas. La estructura del segundo tipo se mantiene operativa en la catequesis oficial del siglo XX.
+
+Esta observación no implica que la formulación de Pablo VI sea errónea o heterodoxa. Implica que articula un tipo de monoteísmo trinitario distinto del que el símbolo conciliar formula, y que reconocer la diferencia es condición para leer ambos con precisión.
+
 **Lo que este tipo implica.** En el monoteísmo esencialista trinitario, la unicidad divina tiene un locus que es **impersonal** en un sentido técnico preciso. El único Dios no es *alguien* en primer término: es la esencia divina, la *substantia* compartida. No es que la esencia sea una cosa inerte, pero no es ninguna de las tres personas en particular, sino lo que las tres comparten. Cuando el creyente agustiniano dice «un Dios», señala a una naturaleza divina que las tres personas son cada una, no a una persona concreta que sea la fuente.
 
 El monoteísmo esencialista permite —y tiende a— concebir la unicidad **antes** de la distinción personal. La tradición manualística católica, desde la Escolástica medieval hasta los manuales de teología dogmática del siglo XX, organiza el tratado trinitario en dos partes: *De Deo uno* (sobre la esencia divina: existencia, atributos, simplicidad) y *De Deo trino* (sobre las personas). El «uno» se constituye conceptualmente antes que el «tres». Esta es precisamente la estructura que Karl Rahner denunció en su célebre *Grundaxiom* (1967): la separación del tratado *De Deo uno* respecto del tratado *De Deo trino* había producido una teología donde la Trinidad es «un misterio adicional» que se superpone a un monoteísmo ya constituido, en lugar de ser la forma misma del monoteísmo cristiano.
