@@ -1,4 +1,4 @@
-# 6. Entre los Capadocios y Agustín
+# 6. Entre Constantinopla y Agustín
 
 > *El Padre es origen, y el Hijo no es origen, porque es de él. Pues el Padre no es de nadie, mientras que el Hijo es del Padre.*
 >
