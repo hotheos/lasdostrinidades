@@ -15,7 +15,9 @@
   const PAGES = [
     { id: 'inicio', file: 'pages/00_inicio.html', number: '', title: 'Inicio', short: 'Inicio', isHtml: true },
     { id: 'nicea-literal', file: '01_nicea_literal.md', number: '1', title: 'Lo que dice Nicea literalmente', short: 'Nicea literal' },
-    { id: 'gramatica-nicena', file: '02_gramatica_nicena.md', number: '2', title: 'La gramática nicena: el uno fontal', short: 'Gramática nicena' },
+    { id: 'anclaje-biblico', file: '02_anclaje_biblico.md', number: '2', title: 'Anclaje bíblico de Nicea', short: 'Anclaje bíblico' },
+    { id: 'anclaje-patristico', file: '03_anclaje_patristico.md', number: '3', title: 'Anclaje patrístico de Nicea', short: 'Anclaje patrístico' },
+    { id: 'gramatica-nicena', file: '02_gramatica_nicena.md', number: '2*', title: 'La gramática nicena: el uno fontal', short: 'Gramática nicena' },
     { id: 'tipo-teismo', file: '03_tipo_de_teismo.md', number: '3', title: '¿Qué tipo de teísmo articula Nicea?', short: 'Tipo de teísmo' },
     { id: 'pre-agustiniano', file: '04_atanasio_pre_agustiniano.md', number: '4', title: 'Atanasio y el contexto pre-agustiniano', short: 'Pre-agustiniano' },
     { id: 'quien-agustin', file: '05_quien_fue_agustin.md', number: '5', title: 'Quién fue Agustín', short: 'Quién fue Agustín' },
