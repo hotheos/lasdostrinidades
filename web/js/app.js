@@ -13,7 +13,7 @@
   const CONTENT_BASE = '../';
 
   const PAGES = [
-    { id: 'inicio', file: 'pages/00_inicio.html', number: '', title: 'Inicio', short: 'Inicio', isHtml: true },
+    { id: 'inicio', file: '00_inicio.md', number: '', title: 'Inicio', short: 'Inicio' },
     { id: 'concilio-nicea', file: '01_el_concilio_de_nicea.md', number: '1', title: 'Lo que dice Nicea literalmente', short: 'El Concilio de Nicea' },
     { id: 'fundamentos-apostolicos', file: '02_fundamentos_apostolicos.md', number: '2', title: 'Anclaje bíblico de Nicea', short: 'Fundamentos Apostólicos' },
     { id: 'fundamento-patristico', file: '03_fundamento_patristico.md', number: '3', title: 'Anclaje patrístico de Nicea', short: 'Fundamento Patrístico' },
@@ -214,11 +214,23 @@
     headings.forEach(h => {
       const level = h.tagName === 'H3' ? ' style="padding-left: var(--space-md);"' : '';
       html += `<li class="toc__item"${level}>
-        <a href="#${h.id}" class="toc__link">${h.textContent}</a>
+        <a data-scroll-to="${h.id}" class="toc__link" style="cursor:pointer;">${h.textContent}</a>
       </li>`;
     });
 
     els.toc.innerHTML = html;
+
+    // Attach scroll handlers to TOC links
+    els.toc.querySelectorAll('.toc__link[data-scroll-to]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const targetId = link.getAttribute('data-scroll-to');
+        const target = document.getElementById(targetId);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
   }
 
   let tocObserver = null;
