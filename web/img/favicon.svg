@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0F0F1A"/>
+  <!-- Triangle pointing UP -->
+  <polygon points="256,80 380,320 132,320" fill="none" stroke="#e0d5c1" stroke-width="24" stroke-linejoin="round"/>
+  <!-- Triangle pointing DOWN -->
+  <polygon points="256,432 132,192 380,192" fill="none" stroke="#e0d5c1" stroke-width="24" stroke-linejoin="round" opacity="0.6"/>
+</svg>
