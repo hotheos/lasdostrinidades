@@ -20,6 +20,8 @@ La pregunta del numismático es honesta: **¿son la misma moneda emitida en dos 
 
 La pregunta no se resuelve mirando solo una de las dos. Se resuelve examinando ambas con atención y comparándolas con precisión.
 
+Y hay un detalle que la analogía también ilumina: el ciudadano de a pie no está entrenado para notar esas diferencias. Las dos monedas le parecen iguales porque las usa igual. Es el numismático, por su formación especializada, quien logra identificar que el peso, la aleación o la técnica de troquelado no coinciden. Pero el trabajo del numismático no termina en la identificación: su tarea es comunicar al ciudadano, con claridad, por qué son o no son la misma moneda. Ese es también el propósito de este sitio.
+
 Esta es la operación que el sitio invita a hacer con la doctrina trinitaria cristiana. Desde que el Concilio de Nicea formuló en el año 325 la primera definición conciliar sobre la relación entre el Padre y el Hijo, la doctrina ha sido articulada en momentos distintos, con vocabularios distintos, por tradiciones teológicas distintas. A simple vista, todas esas articulaciones parecen formar un conjunto uniforme llamado "la Trinidad". Pero cuando se examinan los textos con la atención que merecen, los detalles no siempre coinciden. De ahí el título de este sitio, *las dos Trinidades*, que articula la pregunta sin responderla.
 
 La pregunta del sitio es entonces igual de directa:
