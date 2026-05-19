@@ -14,7 +14,6 @@ Ambas llevan la misma inscripción en el borde. Ambas representan, según el cat
 
 Pero cuando un numismático las examina con cuidado, advierte detalles que no coinciden: el peso es ligeramente distinto, la aleación del metal tiene proporciones diferentes, el relieve sigue una técnica de troquelado que la otra moneda no comparte.
 
-*Dos monedas. Una misma emisión. ¿O dos emisiones distintas?*
 
 La pregunta del numismático es honesta: **¿son la misma moneda emitida en dos series ligeramente distintas, o son dos monedas diferentes que circulan bajo el mismo nombre?**
 
