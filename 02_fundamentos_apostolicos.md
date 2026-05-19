@@ -201,7 +201,9 @@ El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho 
 
 *Homoousion tō Patri.*
 
-¿Hay base neotestamentaria para afirmar que el Hijo tiene la misma naturaleza que el Padre?
+Conviene ser honesto: la palabra *homoousios* no aparece en el Nuevo Testamento. Es un término técnico acuñado por el concilio para cerrar la controversia arriana. No es cita bíblica directa sino articulación teológica sobre la base de los textos.
+
+Dicho esto, el texto más cercano a lo que *homoousios* articula es el que ya examinamos:
 
 **Juan 1:1c** (de nuevo)
 
@@ -209,23 +211,9 @@ El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho 
 >
 > *...kai **Theos** ēn ho Logos.*
 
-El predicado *Theos* aplicado al Logos no es Dios "en sentido rebajado" ni Dios "honorífico". Es el mismo término que se aplica al Padre. Esto es precisamente lo que *homoousios* articula técnicamente: que la sustancia del Hijo es la *misma* que la del Padre, no semejante, no análoga.
+El predicado *Theos* aplicado al Logos no es Dios "en sentido rebajado" ni Dios "honorífico". Es el mismo término que se aplica al Padre. Si el Logos es *Theos* y el Padre es *ho Theos*, entonces el término que designa la naturaleza del Padre también designa la naturaleza del Logos. Esto es lo que *homoousios* articula técnicamente: que la sustancia del Hijo es la *misma* que la del Padre.
 
-**Juan 5:18** (c. 90-100 d.C.)
-
-> *Por esto los judíos aun más procuraban matarle, porque no solo quebrantaba el sábado, sino que también decía que Dios era su propio Padre, **haciéndose igual a Dios**.*
->
-> *Dia touto oun mallon ezētoun auton hoi Ioudaioi apokteinai, hoti ou monon elyen to sabbaton, alla kai Patera idion elegen ton Theon, **ison heauton poiōn tō Theō**.*
-
-*Ison heauton poiōn tō Theō*: haciéndose igual a Dios. La igualdad del Hijo con el Padre es reconocida incluso por los adversarios en el relato joánico. *Homoousios* articula técnicamente lo que Juan narra: el Hijo es igual al Padre en naturaleza.
-
-**Juan 10:30** (c. 90-100 d.C.)
-
-> *Yo y el Padre **uno somos**.*
->
-> *Egō kai ho Patēr **hen esmen**.*
-
-*Hen esmen*: uno somos. El neutro *hen* (uno, una cosa) indica unidad de naturaleza, no de persona (que sería *heis*, uno en masculino). Padre e Hijo son uno en lo que son, no en quién son. Esto es lo que *homoousios* codifica.
+Pero la precisión importa: Juan no dice *homoousios*. Juan dice *Theos ēn ho Logos*. El concilio de Nicea interpreta este dato como consustancialidad. Es una lectura legítima y defensible, pero es lectura conciliar, no cita textual.
 
 ---
 
@@ -301,7 +289,7 @@ Juan distingue: las cosas fueron *hechas* (*egeneto*, devenir, llegar a ser); el
 | Engendrado del Padre | Jn 16:28 · Jn 8:42 · Jn 5:26 |
 | Luz de luz | 1 Jn 1:5 |
 | Dios verdadero de Dios verdadero | Jn 1:1 (ho Theos / Theos) |
-| Consustancial al Padre | Jn 1:1c · Jn 5:18 · Jn 10:30 |
+| Consustancial al Padre | Jn 1:1c (lectura conciliar, no cita directa) |
 | Por quien todas las cosas fueron hechas | 1 Cor 8:6 · Jn 1:3 · Col 1:16 · Heb 1:2 |
 | Engendrado, no hecho | Jn 1:3 vs. Jn 1:14 (egeneto vs. monogenēs) |
 | Y en el Espíritu Santo | (Sin desarrollo en 325) |
