@@ -131,7 +131,7 @@ Aquí es donde conviene introducir una distinción que el credo opera sin nombra
 
 **Dios por predicado.** El Hijo *es llamado* Dios verdadero por el credo. El título *Theos* se le aplica como predicado legítimo y pleno. Pero la gramática del credo cualifica esa predicación: es Dios verdadero **de** Dios verdadero. Su divinidad no es autónoma ni paralela a la del Padre: es la misma divinidad, recibida del Padre. Es Dios por predicado derivado.
 
-La distinción no introduce grados de divinidad. No dice "el Padre es más Dios que el Hijo". Dice que el modo en que cada uno es Dios es diferente: el Padre lo es como fuente; el Hijo lo es como receptor de esa misma divinidad. La divinidad es la misma. La relación con ella es distinta.
+La distinción no introduce grados de divinidad. No dice "el Padre es más Dios que el Hijo". El Hijo es plenamente Dios: Dios verdadero *de* Dios verdadero, de la misma sustancia del Padre. Lo que la gramática del credo distingue no es la divinidad misma, que es una sola, sino el origen: el Padre la posee como fuente; el Hijo la posee como engendrado del Padre. La sustancia es idéntica. La dirección de origen es lo que difiere.
 
 ### «Engendrado, no hecho»
 
