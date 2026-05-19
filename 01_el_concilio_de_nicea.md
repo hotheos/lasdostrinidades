@@ -212,7 +212,6 @@ Es igualmente importante registrar lo que el texto de Nicea **no afirma**:
 - **No atribuye la creación al Hijo como fuente u origen.** El credo identifica al Padre como el hacedor (*poiētēs*): la fuente, el origen, el creador. Del Hijo dice que las cosas fueron hechas *por medio de* él (*dia*), no *por* él como fuente. La diferencia preposicional es deliberada: el Padre crea; el Hijo media la creación.
 - **No dice que la Trinidad sea el creador.** El credo atribuye la creación al Padre como fuente y al Hijo como mediador. La palabra "Trinidad" no aparece en el texto.
 - **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea, sin títulos ni relaciones.
-- **No usa el lenguaje de "relaciones subsistentes", "personas de la Trinidad" ni "esencia divina compartida".** Ese vocabulario pertenece a articulaciones posteriores.
 
 El credo de 325 dice lo que dice. Lo que no dice, no lo dice. La página siguiente examina el fundamento neotestamentario de cada una de estas cláusulas.
 
