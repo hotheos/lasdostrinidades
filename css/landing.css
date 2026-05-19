@@ -340,6 +340,34 @@
   font-style: italic;
 }
 
+/* Exclusions list */
+.inicio__exclusions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.inicio__exclusions li {
+  font-size: var(--fs-base);
+  color: var(--text-secondary);
+  line-height: 1.7;
+  padding: var(--space-sm) 0 var(--space-sm) var(--space-xl);
+  position: relative;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.inicio__exclusions li:last-child {
+  border-bottom: none;
+}
+
+.inicio__exclusions li::before {
+  content: '×';
+  position: absolute;
+  left: var(--space-xs);
+  color: var(--text-tertiary);
+  font-weight: 700;
+}
+
 /* ---- Navigation tip ---- */
 .inicio__nav-tip {
   font-size: var(--fs-sm);

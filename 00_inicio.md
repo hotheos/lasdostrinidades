@@ -20,7 +20,7 @@ La pregunta del numismático es honesta: **¿son la misma moneda emitida en dos 
 
 La pregunta no se resuelve mirando solo una de las dos. Se resuelve examinando ambas con atención y comparándolas con precisión.
 
-Esta es la operación que el sitio invita a hacer con la doctrina trinitaria cristiana. Desde que el Concilio de Nicea formuló en el año 325 la primera definición conciliar sobre la relación entre el Padre y el Hijo, la doctrina ha sido articulada en momentos distintos, con vocabularios distintos, por tradiciones teológicas distintas. A simple vista, todas esas articulaciones parecen formar un conjunto uniforme llamado "la Trinidad". Pero cuando se examinan los textos con la atención que merecen, los detalles no siempre coinciden. De ahí el título provocativo de este sitio: *las dos Trinidades*.
+Esta es la operación que el sitio invita a hacer con la doctrina trinitaria cristiana. Desde que el Concilio de Nicea formuló en el año 325 la primera definición conciliar sobre la relación entre el Padre y el Hijo, la doctrina ha sido articulada en momentos distintos, con vocabularios distintos, por tradiciones teológicas distintas. A simple vista, todas esas articulaciones parecen formar un conjunto uniforme llamado "la Trinidad". Pero cuando se examinan los textos con la atención que merecen, los detalles no siempre coinciden. De ahí el título de este sitio, *las dos Trinidades*, que articula la pregunta sin responderla.
 
 La pregunta del sitio es entonces igual de directa:
 
@@ -80,6 +80,17 @@ Una invitación a examinar; nada más. Lo que cada lector concluya, lo concluir�
 A. Glosario · B. Cronología · C. Cuadro comparativo · D. Bibliografía · E. FAQ · F. Quicumque Vult · G. Gregorio de Nisa y Jn 17:3
 
 Lectura rápida: páginas **1, 4, 5, 8, 9** y **15**.
+
+---
+
+## Lo que el sitio no hace
+
+Para preservar el foco del examen, el sitio no aborda:
+
+- **Mariología, sacramentología comparada, eclesiología institucional, autoridad papal, palamismo, iconografía**, ni las controversias post-trinitarias.
+- **La divinidad del Hijo o del Espíritu en sentido apologético** frente al unitarismo o al arrianismo. El sitio asume el patrimonio conciliar como objeto de análisis, no como tesis a defender.
+- **Aplicación pastoral o devocional.** El registro es académico.
+- **Recomendación denominacional.** Cada lector concluirá desde dentro de su propia tradición.
 
 ---
 
