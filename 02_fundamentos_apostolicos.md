@@ -347,7 +347,7 @@ El sujeto de "hizo" es Dios (el Padre). El Hijo es el medio (*di' hou*) por el c
 
 *Kai eis to Pneuma to Hagion.*
 
-El credo de 325 menciona al Espíritu sin desarrollo. Esto refleja que en la década del 320, la controversia era cristológica (contra Arrio), no pneumatológica. El Nuevo Testamento sí menciona al Espíritu en múltiples contextos, pero Nicea 325 no articuló doctrinalmente esa presencia. La articulación conciliar del Espíritu será examinada en la página 4.
+Como se observó en la página 1, el credo de 325 menciona al Espíritu en una sola línea, sin desarrollo. La articulación conciliar del Espíritu será examinada en la página 4.
 
 ---
 

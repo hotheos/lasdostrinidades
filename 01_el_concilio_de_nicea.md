@@ -214,7 +214,7 @@ Es igualmente importante registrar lo que el texto de Nicea **no afirma**:
 - **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea, sin títulos ni relaciones.
 - **No usa el lenguaje de "relaciones subsistentes", "personas de la Trinidad" ni "esencia divina compartida".** Ese vocabulario pertenece a articulaciones posteriores.
 
-El credo de 325 dice lo que dice. Lo que no dice, no lo dice.
+El credo de 325 dice lo que dice. Lo que no dice, no lo dice. La página siguiente examina el fundamento neotestamentario de cada una de estas cláusulas.
 
 ---
 
