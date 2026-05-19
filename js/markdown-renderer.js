@@ -394,7 +394,10 @@ const MarkdownRenderer = {
     let t = text;
     // Bold (handle ** markers robustly)
     t = t.replace(/\*\*([^*]+(?:\*(?!\*)[^*]*)*)\*\*/g, '<strong>$1</strong>');
-    // Italic (single * but not inside already-processed bold tags)
+    // Italic: first try lines that are entirely wrapped in *...*
+    // (these may contain <strong> tags from bold processing above)
+    t = t.replace(/^\*(.+)\*$/g, '<em class="latin">$1</em>');
+    // Italic: then handle inline *text* (no HTML tags or * inside)
     t = t.replace(/\*([^*<>]+)\*/g, '<em class="latin">$1</em>');
     // Inline code
     t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
