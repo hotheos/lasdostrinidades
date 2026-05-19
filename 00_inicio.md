@@ -35,9 +35,9 @@ La pregunta del sitio es entonces igual de directa:
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
-- **Examinar la articulación de Nicea (325)** en su gramática original, sin asumir lo que dice.
-- **Examinar la Trinidad que el cristianismo confiesa hoy**, con la misma atención, sin proyectar la primera sobre ella.
-- **Compararlas** solo después de conocer ambas con precisión.
+- **Examinar la articulación de Nicea (325)** en su gramática original, sin leer en ella lo que la recepción posterior desarrolló.
+- **Examinar la Trinidad que el cristianismo confiesa hoy**, en sus propios términos.
+- **Evaluar** si la recepción histórica respetó a Nicea en sus propios términos, o si la releyó desde categorías que Nicea no usó.
 
 La respuesta no se da en esta página. El sitio entero es el examen.
 
