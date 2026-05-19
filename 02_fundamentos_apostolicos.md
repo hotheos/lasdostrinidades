@@ -94,6 +94,14 @@ El credo identifica al Hijo con el título *Kyrios* (Señor), no con *Theos* (Di
 
 Pablo distribuye: *Theos* para el Padre, *Kyrios* para el Hijo. No dice "un Dios el Padre y un Dios el Hijo". Dice "un Dios el Padre y un Señor Jesucristo".
 
+**Efesios 4:5** (c. 60-90 d.C.)
+
+> ***Un Señor**, una fe, un bautismo.*
+>
+> ***Heis Kyrios**, mia pistis, hen baptisma.*
+
+En el contexto de Efesios 4:4-6, Pablo lista siete unidades: un cuerpo, un Espíritu, una esperanza, **un Señor**, una fe, un bautismo, **un Dios y Padre**. El "un Señor" refiere a Cristo; el "un Dios y Padre" al Padre. De nuevo, la distribución: *Kyrios* para el Hijo, *Theos* para el Padre.
+
 **Filipenses 2:11** (c. 55-62 d.C.)
 
 > *Y toda lengua confiese que **Jesucristo es Señor**, para gloria de Dios Padre.*
@@ -215,6 +223,12 @@ Orígenes de Alejandría (c. 185-254), un siglo antes de Nicea, ya había observ
 
 El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho Theos*); el Hijo *es* Dios (*Theos*) de (*ek*) el Dios (*tou Theou*).
 
+**1 Juan 5:20** (c. 90-110 d.C.)
+
+> *Sabemos que el Hijo de Dios ha venido, y nos ha dado entendimiento para conocer **al que es verdadero**; y estamos **en el verdadero**, en su Hijo Jesucristo.*
+
+Juan llama al Padre "el verdadero" (*ton alēthinon*). El Hijo nos da entendimiento para conocer *al que es verdadero* (el Padre). Estamos "en el verdadero" por medio de "su Hijo Jesucristo". La estructura reproduce el patrón del credo: el Padre es el Dios *verdadero* (*alēthinos*); el Hijo es el camino para conocerlo y estar en él.
+
 Y hay un dato adicional que confirma esta relación desde el otro lado. Si el credo dice que el Hijo es "Dios **de** Dios", el Nuevo Testamento dice consistentemente que el Padre es "el Dios **de** nuestro Señor Jesucristo":
 
 **Efesios 1:3**
@@ -268,6 +282,24 @@ La precisión importa: ni Juan ni Hebreos dicen *homoousios*. Juan dice *Theos �
 ### «Por quien todas las cosas fueron hechas» · La mediación creadora
 
 *Di' hou ta panta egeneto.*
+
+El credo atribuye la creación al Padre como hacedor (*poiētēs*) y al Hijo como medio (*di' hou*). Conviene ver primero qué dice la Escritura sobre el hacedor, y después sobre el medio.
+
+**Génesis 1:1**
+
+> *En el principio creó **Dios** los cielos y la tierra.*
+
+El sujeto de la creación en la Biblia hebrea es Dios (*Elohim*), sin mediación especificada. Es el texto que el primer artículo del credo recoge: el Padre es el hacedor.
+
+**Isaías 45:18**
+
+> *Porque así dice **YHWH**, que creó los cielos, él es Dios, el que formó la tierra y la hizo.*
+
+**Hechos 14:15**
+
+> *Conviértanse al **Dios vivo**, que hizo el cielo y la tierra, el mar, y todo lo que en ellos hay.*
+
+Pablo y Bernabé predican al "Dios vivo" como hacedor. El Nuevo Testamento mantiene la atribución veterotestamentaria: Dios (el Padre) es el creador. Ahora bien, ¿qué papel tiene el Hijo?
 
 **1 Corintios 8:6** (de nuevo, la segunda mitad)
 
@@ -332,11 +364,12 @@ Juan distingue: las cosas fueron *hechas* (*egeneto*, devenir, llegar a ser); el
 | Cláusula de Nicea | Base bíblica principal |
 |---|---|
 | Un Dios, Padre | 1 Cor 8:6 · Mc 12:29 · Ef 4:6 · Jn 17:3 · 1 Tim 2:5 · Jud 1:25 · Rom 16:27 |
-| Un Señor, Jesucristo | 1 Cor 8:6 · Fil 2:11 · Hch 2:36 · Jn 20:17 |
+| Hacedor del cielo y la tierra | Gn 1:1 · Is 45:18 · Hch 14:15 |
+| Un Señor, Jesucristo | 1 Cor 8:6 · Ef 4:5 · Fil 2:11 · Hch 2:36 · Jn 20:17 |
 | Hijo unigénito | Jn 1:18 · Jn 3:16 |
 | Engendrado del Padre | Jn 16:28 · Jn 8:42 · Jn 5:26 |
 | Luz de luz | 1 Jn 1:5 |
-| Dios verdadero de Dios verdadero | Jn 1:1 (ho Theos / Theos) |
+| Dios verdadero de Dios verdadero | Jn 1:1 · 1 Jn 5:20 · Ef 1:3 · 2 Cor 1:3 · 1 Pe 1:3 · Ap 3:12 |
 | Consustancial al Padre | Jn 1:1c · Heb 1:3 (lectura conciliar, no cita directa) |
 | Por quien todas las cosas fueron hechas | 1 Cor 8:6 · Jn 1:3 · Col 1:16 · Heb 1:2 |
 | Engendrado, no hecho | Jn 1:3 vs. Jn 1:14 (egeneto vs. monogenēs) |
