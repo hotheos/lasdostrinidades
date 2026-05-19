@@ -8,22 +8,21 @@
 
 ## La pregunta
 
-Imagine dos monedas antiguas que dicen ser de la misma emisión.
+Imagine dos monedas antiguas que supuestamente vienen de la misma serie.
 
-Ambas llevan la misma inscripción en el borde. Ambas representan, según el catálogo, la misma figura. Ambas fueron acuñadas por la misma autoridad. A primera vista, parecen idénticas, y durante siglos circularon juntas como si fueran ejemplares de una sola serie.
+Ambas llevan la misma inscripción. Ambas representan la misma figura. Ambas fueron hechas por la misma autoridad. A primera vista, parecen idénticas, y durante siglos circularon juntas como si fueran copias de una sola pieza.
 
-Pero cuando un numismático las examina con cuidado, advierte detalles que no coinciden: el peso es ligeramente distinto, la aleación del metal tiene proporciones diferentes, el relieve sigue una técnica de troquelado que la otra moneda no comparte.
+Pero cuando un experto en monedas las examina con cuidado, nota detalles que no coinciden: una pesa ligeramente distinto, la mezcla del metal no es la misma, la forma de fabricarlas es diferente.
 
+La pregunta del experto es honesta: **¿son la misma moneda hecha en dos momentos distintos, o son dos monedas diferentes que circulan bajo el mismo nombre?**
 
-La pregunta del numismático es honesta: **¿son la misma moneda emitida en dos series ligeramente distintas, o son dos monedas diferentes que circulan bajo el mismo nombre?**
+La pregunta no se resuelve mirando solo una de las dos. Se resuelve examinando ambas con atención y comparándolas con cuidado.
 
-La pregunta no se resuelve mirando solo una de las dos. Se resuelve examinando ambas con atención y comparándolas con precisión.
+Hay un detalle adicional que conviene señalar. Quien nota esas diferencias no es cualquier persona, sino alguien entrenado para verlas: un experto que conoce los materiales, las técnicas, la historia de las piezas. Las diferencias que él identifica no son visibles a simple vista para quien recibe la moneda en el día a día. Esa persona ve "una moneda"; el experto ve detalles que pueden cambiar la clasificación entera.
 
-Hay un detalle adicional sobre la analogía que conviene articular. Quien examina las dos monedas con éxito no es cualquier persona, sino el numismático: alguien entrenado en pesos, aleaciones, técnicas de troquelado, historia de las acuñaciones. Las diferencias que él identifica no son visibles a primera vista para el ciudadano que recibe la moneda en una transacción cotidiana. El ciudadano ve "una moneda"; el numismático ve detalles que pueden cambiar el catálogo entero.
+Pero el trabajo del experto no termina cuando identifica las diferencias para sí mismo. Su tarea es explicar con claridad, para quien no tiene su entrenamiento, qué ha visto y por qué importa. El experto no le dice al otro "confía en mí, son distintas"; le muestra los detalles, le explica los criterios, y lo deja en condiciones de evaluar la conclusión por sí mismo.
 
-Pero la tarea del numismático no se completa cuando él identifica las diferencias para sí mismo. Su trabajo es articular con claridad, para quien no tiene su entrenamiento técnico, qué ha visto y por qué importa. El numismático no le dice al ciudadano "confía en mí, son distintas"; le muestra los detalles, le explica los criterios, y lo deja en condiciones de evaluar la conclusión por sí mismo.
-
-Esta es exactamente la operación que el sitio intenta. La doctrina trinitaria cristiana tiene capas técnicas (vocabulario griego, sintaxis patrística, historia conciliar) que no son inmediatamente legibles para el lector contemporáneo medio, incluso para el lector con formación teológica que opera con un vocabulario heredado de tradiciones posteriores. El sitio asume esas capas técnicas, las articula con la mayor claridad posible, y deja al lector en condiciones de evaluar las conclusiones por sí mismo. No le pide confianza ciega; le ofrece el examen.
+Esta es exactamente la operación que el sitio intenta. La doctrina trinitaria cristiana tiene capas técnicas —vocabulario griego, textos patrísticos, historia de los concilios— que no son inmediatamente legibles para el lector contemporáneo, incluso para el lector con formación teológica que trabaja con un vocabulario heredado de tradiciones posteriores. El sitio asume esas capas técnicas, las presenta con la mayor claridad posible, y deja al lector en condiciones de evaluar las conclusiones por sí mismo. No le pide confianza ciega; le ofrece el examen.
 
 Desde que el Concilio de Nicea formuló en el año 325 la primera definición conciliar sobre la relación entre el Padre y el Hijo, la doctrina ha sido articulada en momentos distintos, con vocabularios distintos, por tradiciones teológicas distintas. A simple vista, todas esas articulaciones parecen formar un conjunto uniforme llamado "la Trinidad". Pero cuando se examinan los textos con la atención que merecen, los detalles no siempre coinciden. El título de este sitio, *las dos Trinidades*, articula la pregunta sin responderla.
 
