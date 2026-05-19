@@ -215,6 +215,26 @@ Orígenes de Alejandría (c. 185-254), un siglo antes de Nicea, ya había observ
 
 El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho Theos*); el Hijo *es* Dios (*Theos*) de (*ek*) el Dios (*tou Theou*).
 
+Y hay un dato adicional que confirma esta relación desde el otro lado. Si el credo dice que el Hijo es "Dios **de** Dios", el Nuevo Testamento dice consistentemente que el Padre es "el Dios **de** nuestro Señor Jesucristo":
+
+**Efesios 1:3**
+
+> *Bendito sea **el Dios y Padre de nuestro Señor Jesucristo**.*
+
+**2 Corintios 1:3**
+
+> *Bendito sea **el Dios y Padre de nuestro Señor Jesucristo**, Padre de misericordias y Dios de toda consolación.*
+
+**1 Pedro 1:3**
+
+> *Bendito **el Dios y Padre de nuestro Señor Jesucristo**, que según su gran misericordia nos hizo nacer de nuevo.*
+
+**Apocalipsis 3:12** (palabras del Cristo glorificado)
+
+> *Al que venciere... escribiré sobre él el nombre de **mi Dios**, y el nombre de la ciudad de **mi Dios**.*
+
+En cuatro textos distintos (Pablo, Pedro, Juan en Apocalipsis), el Padre es llamado "el Dios de" Jesucristo. Es la misma relación que el credo articula, vista desde el otro extremo: el Hijo es Dios *de* Dios; el Padre es el Dios *del* Hijo.
+
 ---
 
 ### «Consustancial al Padre» · Homoousios
