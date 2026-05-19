@@ -31,7 +31,7 @@ La pregunta del sitio es entonces igual de directa:
 
 > **Opción A:** ¿La Trinidad que confesamos hoy es la misma que Nicea articuló, solo que con vocabulario actualizado?
 
-> **Opción B:** ¿Confesamos una Trinidad distinta a la de Nicea, pero con sus mismas palabras?
+> **Opción B:** ¿Confesamos hoy una Trinidad que ya no es la de Nicea, aunque recitemos su credo?
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
@@ -56,7 +56,7 @@ Una invitación a examinar; nada más. Lo que cada lector concluya, lo concluir�
 
 ## El recorrido
 
-### Fase I: Examinar la primera articulación
+### Fase I: La articulación de Nicea (325)
 
 1. **El Concilio de Nicea.** Análisis textual del símbolo en griego, transliteración y traducción.
 2. **Fundamentos Apostólicos.** El patrón paulino y joánico en el Nuevo Testamento.
@@ -64,7 +64,7 @@ Una invitación a examinar; nada más. Lo que cada lector concluya, lo concluir�
 4. **Capadocios y Constantinopla.** Basilio, Gregorio, Gregorio: consolidación técnica.
 5. **¿Qué tipo de teísmo?** Primera pregunta categorial.
 
-### Fase II: Examinar la articulación posterior
+### Fase II: La Trinidad que el cristianismo confiesa hoy
 
 6. **Antes de Agustín.** El puente latino del siglo IV.
 7. **Quién fue Agustín.** Itinerario biográfico e intelectual.
