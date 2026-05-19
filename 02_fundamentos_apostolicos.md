@@ -64,7 +64,19 @@ Jesús se dirige al Padre y lo llama "el único Dios verdadero" (*ton monon alē
 
 Un Dios, y un mediador. El mediador no es el "un Dios": es Jesucristo. La distribución de funciones es nítida.
 
-El credo de Nicea no inventó la identificación del "un Dios" con el Padre. La recibió de Pablo, de Marcos, del evangelio de Juan.
+**Judas 1:25** (c. 65-90 d.C.)
+
+> *Al **único Dios** nuestro Salvador, **por medio de Jesucristo** nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén.*
+
+Una doxología que condensa todo el patrón: "único Dios" (*monō Theō*) + "por medio de Jesucristo" (*dia Iēsou Christou*). El único Dios recibe la gloria; Jesucristo es el medio. La estructura es idéntica a la del credo.
+
+**Romanos 16:25-27** (c. 57 d.C.)
+
+> *Y a Aquel que es poderoso para afirmarlos conforme a mi evangelio y a la predicación de Jesucristo... al **único y sabio Dios**, **por medio de Jesucristo**, sea la gloria para siempre. Amén.*
+
+Pablo cierra la carta a los Romanos con la misma estructura doxológica: "único Dios" + "por medio de Jesucristo". No dice "al único Dios, Jesucristo". Dice "al único Dios, *por medio de* Jesucristo". La preposición *dia* reaparece marcando la mediación del Hijo.
+
+El credo de Nicea no inventó la identificación del "un Dios" con el Padre. La recibió de Pablo, de Marcos, de Juan, de Judas.
 
 ---
 
@@ -96,7 +108,15 @@ Jesús es confesado *Kyrios* (Señor), y esta confesión redunda "para gloria de
 >
 > *Asfalōs oun ginōsketō pas oikos Israēl hoti kai Kyrion auton kai Christon epoiēsen ho Theos, touton ton Iēsoun hon hymeis estaurōsate.*
 
-Pedro predica que *ho Theos* (Dios, el Padre) es quien ha hecho a Jesús *Kyrion* (Señor). La dirección es fontal: el título proviene del Padre.
+Pedro predica que *ho Theos* (Dios, el Padre) es quien ha hecho a Jesús *Kyrion* (Señor). La dirección es explícita: el título proviene del Padre.
+
+**Juan 20:17** (c. 90-100 d.C.)
+
+> *Jesús le dijo: Subo a mi Padre y a vuestro Padre, **a mi Dios y a vuestro Dios**.*
+>
+> *Legei autē Iēsous: Anabainō pros ton Patera mou kai Patera hymōn kai **Theon mou kai Theon hymōn**.*
+
+Jesús resucitado llama al Padre "mi Dios" (*Theon mou*). El Hijo es Señor, pero tiene un Dios: el Padre. La distribución del credo (un Dios = el Padre; un Señor = Jesucristo) no es invención conciliar. Jesús mismo la articula: el Padre es su Dios.
 
 El credo reproduce esta distribución exacta: un Dios (el Padre), un Señor (Jesucristo).
 
@@ -203,7 +223,7 @@ El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho 
 
 Conviene ser honesto: la palabra *homoousios* no aparece en el Nuevo Testamento. Es un término técnico acuñado por el concilio para cerrar la controversia arriana. No es cita bíblica directa sino articulación teológica sobre la base de los textos.
 
-Dicho esto, el texto más cercano a lo que *homoousios* articula es el que ya examinamos:
+Dicho esto, dos textos se acercan a lo que *homoousios* articula:
 
 **Juan 1:1c** (de nuevo)
 
@@ -211,9 +231,17 @@ Dicho esto, el texto más cercano a lo que *homoousios* articula es el que ya ex
 >
 > *...kai **Theos** ēn ho Logos.*
 
-El predicado *Theos* aplicado al Logos no es Dios "en sentido rebajado" ni Dios "honorífico". Es el mismo término que se aplica al Padre. Si el Logos es *Theos* y el Padre es *ho Theos*, entonces el término que designa la naturaleza del Padre también designa la naturaleza del Logos. Esto es lo que *homoousios* articula técnicamente: que la sustancia del Hijo es la *misma* que la del Padre.
+El predicado *Theos* aplicado al Logos no es Dios "en sentido rebajado" ni Dios "honorífico". Es el mismo término que se aplica al Padre. Si el Logos es *Theos* y el Padre es *ho Theos*, entonces el término que designa la naturaleza del Padre también designa la naturaleza del Logos.
 
-Pero la precisión importa: Juan no dice *homoousios*. Juan dice *Theos ēn ho Logos*. El concilio de Nicea interpreta este dato como consustancialidad. Es una lectura legítima y defensible, pero es lectura conciliar, no cita textual.
+**Hebreos 1:3** (c. 60-90 d.C.)
+
+> *El cual, siendo **el resplandor de su gloria y la impronta exacta de su sustancia**, y sustentando todas las cosas con la palabra de su poder...*
+>
+> *Hos ōn apaugasma tēs doxēs kai **charaktēr tēs hypostaseōs autou**, pherōn te ta panta tō rhēmati tēs dynameōs autou...*
+
+La expresión *charaktēr tēs hypostaseōs autou* (la impronta exacta de su sustancia) es probablemente lo más cercano que el Nuevo Testamento tiene al concepto de *homoousios*. El Hijo es *charaktēr* (impronta, marca exacta) de la *hypostasis* (sustancia) del Padre. No una copia aproximada, no una semejanza vaga: la impronta exacta. Conviene notar que el vocabulario de Hebreos no es idéntico al de Nicea: Hebreos usa *hypostasis* donde Nicea usará *ousia*, y estos términos tendrán una historia técnica compleja en los siglos posteriores. Pero la dirección del argumento es la misma: lo que el Padre es en su sustancia, el Hijo lo refleja con exactitud.
+
+La precisión importa: ni Juan ni Hebreos dicen *homoousios*. Juan dice *Theos ēn ho Logos*; Hebreos dice *charaktēr tēs hypostaseōs autou*. El concilio de Nicea articula estos datos como consustancialidad. Es una lectura legítima y defensible, pero es lectura conciliar, no cita textual.
 
 ---
 
@@ -283,13 +311,13 @@ Juan distingue: las cosas fueron *hechas* (*egeneto*, devenir, llegar a ser); el
 
 | Cláusula de Nicea | Base bíblica principal |
 |---|---|
-| Un Dios, Padre | 1 Cor 8:6 · Mc 12:29 · Ef 4:6 · Jn 17:3 · 1 Tim 2:5 |
-| Un Señor, Jesucristo | 1 Cor 8:6 · Fil 2:11 · Hch 2:36 |
+| Un Dios, Padre | 1 Cor 8:6 · Mc 12:29 · Ef 4:6 · Jn 17:3 · 1 Tim 2:5 · Jud 1:25 · Rom 16:27 |
+| Un Señor, Jesucristo | 1 Cor 8:6 · Fil 2:11 · Hch 2:36 · Jn 20:17 |
 | Hijo unigénito | Jn 1:18 · Jn 3:16 |
 | Engendrado del Padre | Jn 16:28 · Jn 8:42 · Jn 5:26 |
 | Luz de luz | 1 Jn 1:5 |
 | Dios verdadero de Dios verdadero | Jn 1:1 (ho Theos / Theos) |
-| Consustancial al Padre | Jn 1:1c (lectura conciliar, no cita directa) |
+| Consustancial al Padre | Jn 1:1c · Heb 1:3 (lectura conciliar, no cita directa) |
 | Por quien todas las cosas fueron hechas | 1 Cor 8:6 · Jn 1:3 · Col 1:16 · Heb 1:2 |
 | Engendrado, no hecho | Jn 1:3 vs. Jn 1:14 (egeneto vs. monogenēs) |
 | Y en el Espíritu Santo | (Sin desarrollo en 325) |
