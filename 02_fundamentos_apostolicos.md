@@ -10,9 +10,9 @@
 
 ## 2.1 Qué hace esta página
 
-La página 1 leyó el credo de Nicea cláusula por cláusula. Esta página toma cada una de esas cláusulas y muestra el texto del Nuevo Testamento en el que se apoya. La pregunta es directa: ¿inventaron los Padres del siglo IV esta gramática, o la recibieron de los textos apostólicos?
+La página 1 leyó el credo de Nicea cláusula por cláusula. Esta página toma cada una de esas cláusulas y muestra el texto del Nuevo Testamento en el que se apoya. La pregunta es directa: ¿inventaron los Padres del siglo IV esta gramática, o la recibieron de los textos apostólicos? Si la recibieron, ¿con qué fidelidad? Si la articularon, ¿qué añadieron y qué dejaron implícito?
 
-El examen procede en el mismo orden del credo.
+El examen procede cláusula por cláusula.
 
 ---
 
@@ -179,6 +179,14 @@ Jesús dice *exēlthon ek tou Patros*: salí **del** Padre. La preposición *ek*
 > *Hōsper gar ho Patēr echei zōēn en heautō, houtōs kai tō Huiō **edōken** zōēn echein en heautō.*
 
 El Padre tiene vida en sí mismo sin condición. El Hijo también la tiene, pero porque el Padre se la **ha dado** (*edōken*). Lo que el Hijo tiene es exactamente lo que el Padre tiene. Pero lo tiene por don, no por autonomía.
+
+**Juan 14:28** (c. 90-100 d.C.)
+
+> *Si me amarais, os habriais regocijado porque dijo: **voy al Padre; porque el Padre mayor es que yo**.*
+>
+> *Ei ēgapate me, echarēte an hoti poreuomai pros ton Patera, hoti **ho Patēr meizōn mou estin**.*
+
+*Ho Patēr meizōn mou estin*: el Padre mayor es que yo. El versículo fue central en toda la tradición patrística anterior a Nicea. No es declaración subordinacionista en sentido arriano (que reduciría la divinidad del Hijo). Es articulación de asimetría de origen: el Padre es mayor en cuanto fuente, en cuanto principio. El Hijo recibe del Padre lo que es; el Padre no recibe de nadie. La mayoría del Padre no es de naturaleza ni de dignidad, sino de orden de origen.
 
 ---
 
