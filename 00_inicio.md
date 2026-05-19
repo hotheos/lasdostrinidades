@@ -30,7 +30,7 @@ La pregunta del sitio es entonces igual de directa:
 
 > **Opción A:** ¿La Trinidad que confesamos hoy es la misma Trinidad que el Concilio de Nicea articuló, solo que con otras palabras?
 
-> **Opción B:** ¿La Trinidad que confesamos hoy es distinta a la Trinidad que el Concilio de Nicea articuló? ¿Son dos Trinidades diferentes y contradictorias?
+> **Opción B:** ¿La Trinidad que confesamos hoy es distinta a la Trinidad que el Concilio de Nicea articuló? ¿Son dos Trinidades diferentes, no una sola?
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
