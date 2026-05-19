@@ -29,9 +29,9 @@ Desde que el Concilio de Nicea formuló en el año 325 la primera definición co
 
 La pregunta del sitio es entonces igual de directa:
 
-> **Opción A:** ¿La Trinidad que confesamos hoy es la misma que Nicea articuló, solo que con vocabulario actualizado?
+> **Opción A:** ¿La Trinidad que confesamos hoy es la misma que Nicea articuló, solo que con otras palabras?
 
-> **Opción B:** ¿Confesamos hoy una Trinidad que ya no es la de Nicea, aunque recitemos su credo?
+> **Opción B:** ¿Confesamos una Trinidad distinta a la de Nicea, convencidos de que es la de Nicea?
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
