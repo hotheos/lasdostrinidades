@@ -145,6 +145,18 @@ Esta cláusula es anti-arriana. Arrio de Alejandría sostenía que el Hijo fue "
 
 El término técnico más importante del credo. *Homoousios* se compone de *homos* (mismo) y *ousia* (esencia, sustancia, naturaleza). Consustancial al Padre significa: de la misma sustancia que el Padre, de la misma naturaleza que el Padre.
 
+Para medir el peso de esta palabra, conviene conocer las alternativas que el concilio descartó. En las décadas posteriores a Nicea, distintos partidos teológicos propusieron términos diferentes, y cada uno implicaba una cristología distinta:
+
+| Término | Significado | Implicación |
+|---------|------------|-------------|
+| *homoousios* | de la **misma** sustancia | El Hijo tiene exactamente la misma naturaleza que el Padre |
+| *homoiousios* | de sustancia **semejante** | El Hijo tiene una naturaleza parecida pero no idéntica |
+| *homoios* | **semejante** (sin precisar en qué) | El Hijo se parece al Padre, sin compromiso metafísico |
+| *anomoios* | **desemejante** | El Hijo es de naturaleza diferente al Padre |
+| *heteroousios* | de **otra** sustancia | El Hijo es de una sustancia distinta |
+
+Nicea eligió la opción más fuerte: *homoousios*, la misma sustancia. No semejante, no parecida, no análoga: la misma.
+
 Esta cláusula es la garantía de que la derivación no implica degradación. Si el Hijo viene "de" el Padre (como las cláusulas anteriores han establecido), alguien podría preguntar: ¿acaso lo derivado no es inferior a su fuente? *Homoousios* responde: no. Lo que el Hijo recibe del Padre es exactamente la misma sustancia divina que el Padre tiene. No una copia, no una versión reducida, no una porción: la misma naturaleza. La consustancialidad y la derivación no se oponen: se necesitan mutuamente. Precisamente *porque* el Hijo es consustancial al Padre, la divinidad que fluye del Padre llega al Hijo sin disminución.
 
 ### «Por quien todas las cosas fueron hechas»
@@ -178,29 +190,31 @@ Cada anatema cierra una vía arriana específica:
 
 ## 1.4 La gramática del credo como sistema
 
-Vista en conjunto, la exégesis cláusula por cláusula revela un sistema gramatical coherente. El credo opera con tres mecanismos:
+Vista en conjunto, la exégesis cláusula por cláusula revela un sistema gramatical coherente que puede resumirse en una oración:
 
-**Primero, una identificación.** El "un Dios" es identificado con el Padre por aposición gramatical directa. No con una esencia abstracta, no con una Trinidad como sujeto unitario. Con una persona: el Padre.
+> **El un Dios (el Padre) engendra al un Señor (Jesucristo), y ese Señor es Dios verdadero de Dios verdadero: de la misma sustancia que su fuente.**
+
+El credo opera con tres mecanismos gramaticales:
+
+**Primero, una identificación.** El "un Dios" es identificado con el Padre por aposición gramatical directa.
 
 **Segundo, una predicación derivada.** El Hijo recibe el predicado *Theos* (Dios verdadero), pero cualificado con *ek*: Dios **de** Dios. La divinidad del Hijo es real y plena, pero no es autónoma: viene del Padre. Es Dios por predicado; el Padre es Dios por identidad.
 
-**Tercero, una distribución de preposiciones.** El credo usa *ek* (de, desde) para marcar el origen: el Hijo viene *del* Padre, es Dios *de* Dios, luz *de* luz. Usa *dia* (por medio de) para marcar la mediación: las cosas fueron hechas *por medio del* Hijo. Las preposiciones distribuyen funciones y relaciones, no grados de divinidad.
+**Tercero, una distribución de preposiciones.** El credo usa *ek* (de, desde) para marcar el origen: el Hijo viene *del* Padre, es Dios *de* Dios, luz *de* luz. Usa *dia* (por medio de) para marcar la mediación: las cosas fueron hechas *por medio del* Hijo. Las preposiciones no distribuyen grados de divinidad, sino funciones y relaciones.
 
 ---
 
 ## 1.5 Lo que el credo de 325 no dice
 
-Es igualmente importante registrar lo que el texto de Nicea **no afirma**. Ninguna de las siguientes afirmaciones aparece en el credo:
+Es igualmente importante registrar lo que el texto de Nicea **no afirma**:
 
-- **No dice "Dios es uno en tres personas".** No articula la unicidad divina como un sujeto que se distingue internamente en tres.
-- **No dice que "Dios" sea un término genérico aplicable por igual a los tres.** Lo aplica al Padre por identidad y al Hijo por predicado derivado. Al Espíritu no se lo aplica en absoluto.
-- **No dice que las tres personas sean "igualmente" Dios en el mismo sentido.** Dice que el Padre *es* el un Dios y que el Hijo *es* Dios de Dios. La relación con el título es distinta en cada caso.
-- **No dice nada sobre la esencia divina como sujeto compartido.** El término *ousia* aparece solo en *homoousios* (consustancial) y en los anatemas, siempre en relación Padre-Hijo, nunca como sustrato impersonal previo a las personas.
-- **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea.
-- **No dice cómo se relacionan el Espíritu y el Hijo.** La cuestión del *Filioque* (que el Espíritu procede "del Padre *y del Hijo*") pertenece a siglos posteriores.
-- **No usa el lenguaje de "relaciones subsistentes".** Ese vocabulario pertenece a la teología latina medieval.
+- **No dice que "Dios" sea un término aplicable por igual a los tres.** Lo aplica al Padre por identidad y al Hijo por predicado derivado. Al Espíritu no se lo aplica.
+- **No atribuye la creación al Hijo como hacedor directo.** El Padre es el *poiētēs* (hacedor); del Hijo dice que las cosas fueron hechas *por medio de* él (*dia*). La diferencia preposicional es deliberada.
+- **No dice que la Trinidad sea el creador.** Atribuye la creación al Padre y la mediación creadora al Hijo. La palabra "Trinidad" no aparece en el credo.
+- **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea, sin títulos ni relaciones.
+- **No usa el lenguaje de "relaciones subsistentes", "personas de la Trinidad" ni "esencia divina compartida".** Ese vocabulario pertenece a articulaciones posteriores.
 
-El credo de 325 dice lo que dice. Lo que no dice, no lo dice. Las articulaciones posteriores que añaden, precisan o reformulan estas cláusulas serán examinadas en las páginas correspondientes.
+El credo de 325 dice lo que dice. Lo que no dice, no lo dice.
 
 ---
 
