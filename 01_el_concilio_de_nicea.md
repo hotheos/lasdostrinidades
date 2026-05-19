@@ -10,24 +10,22 @@
 
 ## 1.1 Punto de partida
 
-Toda discusión sobre la doctrina trinitaria conciliar tiene que comenzar por el texto del símbolo. No por las síntesis posteriores que lo recapitulan, no por los manuales que lo explican, no por las controversias que lo presuponen, sino por el texto mismo, leído según su gramática literal y su contexto histórico.
+Toda discusión sobre la doctrina trinitaria tiene que comenzar por el texto del credo conciliar. No por las síntesis posteriores que lo recapitulan, no por los manuales que lo explican, no por las controversias que lo presuponen, sino por el texto mismo, leído según su gramática literal.
 
-Este análisis textual es preliminar y necesario. Toda interpretación posterior, ortodoxa, católica o protestante, opera sobre una lectura del símbolo. Si la lectura es imprecisa, la interpretación hereda la imprecisión. Si la lectura es fiel, la interpretación tiene base para discutir lo que añade o resta al dato textual.
-
-La tesis de esta página es modesta y verificable: el símbolo de Nicea no afirma textualmente lo que el sentido común contemporáneo asume que afirma. Específicamente, no afirma que "Dios es uno en tres personas" como sujeto unitario que se distingue internamente en tres modos relacionales. Afirma algo distinto y, en sentido propio, más preciso.
+Esta página hace una sola cosa: leer el credo de Nicea 325 cláusula por cláusula, explicando qué dice cada frase en su gramática griega original. Lo que el credo dice se mostrará con precisión. Lo que el credo no dice se señalará al final.
 
 ---
 
-## 1.2 El texto del símbolo de Nicea (325)
+## 1.2 El credo completo
 
-El símbolo de Nicea fue promulgado por el primer Concilio ecuménico en el año 325. Es el primer credo conciliar de la historia cristiana y la base sobre la cual el Concilio de Constantinopla (381) articulará su expansión posterior (examinada en la página 4).
+El símbolo de Nicea fue promulgado por el primer Concilio ecuménico en el año 325. Se presenta primero el texto completo, y después se examina cada cláusula.
 
-Se presenta a continuación el texto de Nicea 325 en griego original, transliteración y traducción castellana, dividido en sus artículos principales.
+### Texto griego, transliteración y traducción
 
-### Primer artículo: el Padre
+**Sobre el Padre:**
 
-| Original | Transliteración | Traducción |
-|----------|----------------|------------|
+| Griego | Transliteración | Traducción |
+|--------|----------------|------------|
 | Πιστεύομεν | Pisteuomen | Creemos |
 | εἰς ἕνα Θεόν | eis hena Theon | en un Dios |
 | Πατέρα | Patera | Padre |
@@ -35,10 +33,10 @@ Se presenta a continuación el texto de Nicea 325 en griego original, transliter
 | ποιητὴν οὐρανοῦ καὶ γῆς | poiētēn ouranou kai gēs | hacedor de cielo y tierra |
 | ὁρατῶν τε πάντων καὶ ἀοράτων | horatōn te pantōn kai aoratōn | de todas las cosas visibles e invisibles |
 
-### Segundo artículo: el Hijo
+**Sobre el Hijo:**
 
-| Original | Transliteración | Traducción |
-|----------|----------------|------------|
+| Griego | Transliteración | Traducción |
+|--------|----------------|------------|
 | Καὶ εἰς ἕνα Κύριον | Kai eis hena Kyrion | Y en un Señor |
 | Ἰησοῦν Χριστόν | Iēsoun Christon | Jesucristo |
 | τὸν Υἱὸν τοῦ Θεοῦ | ton Huion tou Theou | el Hijo de Dios |
@@ -51,91 +49,158 @@ Se presenta a continuación el texto de Nicea 325 en griego original, transliter
 | ὁμοούσιον τῷ Πατρί | homoousion tō Patri | consustancial al Padre |
 | δι' οὗ τὰ πάντα ἐγένετο | di' hou ta panta egeneto | por quien todas las cosas fueron hechas |
 
-### Tercer artículo: el Espíritu
+**Sobre el Espíritu:**
 
-| Original | Transliteración | Traducción |
-|----------|----------------|------------|
+| Griego | Transliteración | Traducción |
+|--------|----------------|------------|
 | Καὶ εἰς τὸ Πνεῦμα τὸ Ἅγιον | Kai eis to Pneuma to Hagion | Y en el Espíritu Santo |
 
-Esto es todo lo que Nicea 325 dice sobre el Espíritu Santo. Una sola línea, sin desarrollo doctrinal. El contraste con la extensión del segundo artículo (sobre el Hijo) es notable y refleja que la controversia del momento era cristológica (contra Arrio), no pneumatológica.
-
-La articulación expandida sobre el Espíritu (Señor, dador de vida, que del Padre procede, coadorado y conglorificado) será obra del Concilio de Constantinopla en 381, impulsada por los Capadocios contra los pneumatómacos. Esa expansión se examina en la página 4.
-
-### Los anatemas de Nicea 325
-
-A diferencia del símbolo de 381 (que eliminó los anatemas del cuerpo del credo), el símbolo original de Nicea incluía condenas explícitas al final:
+**Anatemas:**
 
 > *A quienes digan "hubo cuando no era", o "antes de ser engendrado no era", o "fue hecho de la nada", o que el Hijo de Dios es de otra hipóstasis o sustancia, o que es creado, o cambiable, o alterable, a estos los anatematiza la Iglesia católica y apostólica.*
 
-Estos anatemas son específicamente anti-arrianos y definen el contorno polémico preciso de Nicea 325.
+Este es el texto completo de Nicea 325. Lo que sigue es la lectura de cada cláusula.
 
 ---
 
-## 1.3 Análisis de la apertura
+## 1.3 Exégesis cláusula por cláusula
 
-La estructura sintáctica de la apertura es decisiva para todo lo que sigue. El símbolo comienza con la fórmula:
+### «Creemos en un Dios»
 
-> Creemos en un Dios, Padre todopoderoso
->
-> *Pisteuomen eis hena Theon, Patera pantokratora*
+*Pisteuomen eis hena Theon.*
 
-Esta secuencia tiene una construcción gramatical que conviene examinar con atención. *Hena Theon* (un Dios) es el objeto preposicional de *eis* (en). Inmediatamente después aparece *Patera pantokratora* (Padre todopoderoso), también en caso acusativo, sin partícula coordinante ni preposición intermedia que lo separe sintácticamente del objeto anterior.
+El credo comienza con una declaración de unicidad: *hena Theon*, un Dios. No "creemos en Dios" en abstracto, sino "creemos en *un* Dios". El numeral *hena* (uno) no es ornamental. Es la afirmación central del monoteísmo del credo: hay un solo Dios. Todo lo que sigue se articula a partir de esta unicidad.
 
-En griego clásico y koiné, esta construcción es una aposición: dos sintagmas nominales en el mismo caso, yuxtapuestos sin coordinador, donde el segundo especifica, identifica o aclara al primero. La fórmula equivalente en castellano sería: "creemos en un Dios, [a saber], el Padre todopoderoso".
+La pregunta decisiva es: ¿a quién identifica el credo como ese "un Dios"?
 
-La consecuencia gramatical es directa. *Hena Theon* y *Patera* refieren al mismo referente. El "un Dios" del símbolo de Nicea se identifica gramaticalmente con el Padre. No con una esencia divina compartida por tres personas, no con la Trinidad como sujeto unitario, no con la divinidad en abstracto. Con el Padre.
+### «Padre todopoderoso»
 
-Es importante señalar que esta identificación no niega de ninguna forma la divinidad plena ni la consustancialidad del Hijo. El mismo símbolo que identifica al "un Dios" con el Padre declara inmediatamente después que el Hijo es "Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre". La gramática fontal no distribuye grados de divinidad; distribuye posiciones en el orden de origen. El Hijo es plenamente Dios, con la misma divinidad del Padre, pero la recibe del Padre como su fuente. Afirmar que el "un Dios" es el Padre es afirmar de dónde viene la divinidad; no es negar que el Hijo la posea plenamente.
+*Patera pantokratora.*
 
-Esta lectura no es una hipótesis exegética entre varias. Es la lectura sintáctica obvia y la que la totalidad de la patrística griega del siglo IV asume sin discutir. La fórmula reproduce, deliberadamente, una construcción paulina que la conciencia teológica de los Padres conciliares tenía presente: *heis Theos ho Patēr* (un Dios, el Padre), formulada por Pablo en 1 Corintios 8:6. El análisis detallado del sustrato bíblico de esta fórmula, junto con el examen del patrón joánico paralelo, se desarrolla en la página 2.
+La respuesta aparece inmediatamente. Después de *hena Theon* (un Dios), el texto continúa con *Patera pantokratora* (Padre todopoderoso), en el mismo caso acusativo, sin conjunción ni preposición intermedia. En griego, esta construcción es una **aposición**: el segundo término identifica al primero.
+
+Es decir: "un Dios" = "el Padre". El credo no dice "creemos en un Dios *y* en el Padre". Dice "creemos en un Dios, [a saber], el Padre todopoderoso". Los dos términos refieren al mismo sujeto. El "un Dios" del credo es el Padre.
+
+Dicho en términos modernos: el Padre no es *una de las tres personas que son Dios*. El Padre *es* el Dios uno. Esta es la primera identificación del credo y el eje sobre el cual giran todas las demás.
+
+### «Hacedor de cielo y tierra, de todas las cosas visibles e invisibles»
+
+*Poiētēn ouranou kai gēs, horatōn te pantōn kai aoratōn.*
+
+Al Padre, identificado como el un Dios, se le atribuye la creación de todo lo que existe: cielo y tierra, lo visible y lo invisible. El Padre es el *poiētēs*, el hacedor, el origen de la creación. Veremos en la cláusula sobre el Hijo que la creación también se le vincula, pero con una preposición diferente (*dia*, por medio de, no como hacedor directo).
+
+### «Y en un Señor Jesucristo»
+
+*Kai eis hena Kyrion Iēsoun Christon.*
+
+El segundo artículo comienza con un paralelo deliberado. Así como el primer artículo dice "un Dios" (*hena Theon*), el segundo dice "un Señor" (*hena Kyrion*). El término cambia: ya no es *Theos* (Dios) sino *Kyrios* (Señor). El Padre es identificado como el "un Dios"; el Hijo es identificado como el "un Señor".
+
+Esto no es casualidad ni descuido. El credo reproduce una distribución de títulos que ya existía en el Nuevo Testamento: el Padre recibe típicamente el título *Theos*; el Hijo recibe típicamente el título *Kyrios*. La página siguiente examinará esta distribución en los textos paulinos y joánicos. Aquí basta notar que el credo la mantiene deliberadamente.
+
+### «El Hijo de Dios, el unigénito»
+
+*Ton Huion tou Theou, ton monogenē.*
+
+El Señor Jesucristo es identificado como "Hijo de Dios" y "unigénito" (*monogenēs*). El término *monogenēs* significa literalmente "único en su clase" o "único engendrado". No hay otros como él. El Hijo tiene una relación con Dios (el Padre) que nadie más tiene: es *el* Hijo, no *un* hijo entre varios.
+
+### «Engendrado del Padre antes de todos los siglos»
+
+*Ton ek tou Patros gennēthenta pro pantōn tōn aiōnōn.*
+
+Aquí aparece la preposición *ek* (de, desde) con genitivo, que será clave en todo el credo. El Hijo es engendrado **del Padre** (*ek tou Patros*). La generación no es temporal ("antes de todos los siglos" lo excluye) sino eterna. Pero es *derivada*: el Hijo viene del Padre, no el Padre del Hijo. Hay una dirección, un origen. El Padre es la fuente de la generación.
+
+### «Luz de luz»
+
+*Phōs ek phōtos.*
+
+Una metáfora iluminadora. Cuando una llama enciende otra llama, la segunda luz es tan real y plena como la primera. No es una luz inferior ni una copia degradada. Pero la segunda luz *viene de* la primera, no al revés. La preposición *ek* reaparece: luz **de** luz. Igual en naturaleza, derivada en origen.
+
+### «Dios verdadero de Dios verdadero»
+
+*Theon alēthinon ek Theou alēthinou.*
+
+Esta es la cláusula más densa del credo y merece una lectura pausada.
+
+El credo aplica el título *Theos* (Dios) al Hijo. El Hijo es "Dios verdadero" (*Theon alēthinon*). No Dios honorífico, no Dios metafórico, no Dios en sentido rebajado: Dios *verdadero*. El adjetivo *alēthinon* cierra toda vía de escape: la divinidad del Hijo es genuina, real, plena.
+
+Pero el credo no dice simplemente "el Hijo es Dios". Dice "Dios verdadero **de** Dios verdadero" (*ek Theou alēthinou*). La preposición *ek* reaparece por tercera vez. El Hijo es Dios, pero su ser Dios *viene de* algún lado. ¿De dónde? De Dios verdadero. ¿Y quién es ese Dios verdadero del cual el Hijo recibe su divinidad? El mismo sujeto que el credo ya identificó tres líneas antes: el Padre, el "un Dios".
+
+Aquí es donde conviene introducir una distinción que el credo opera sin nombrarla, pero que aclara su gramática:
+
+**Dios por identidad.** El Padre *es* el "un Dios" del credo. Cuando el credo dice "un Dios, Padre todopoderoso", identifica al Padre directamente con Dios. El Padre no *recibe* el título de Dios de otro: él *es* el referente del término. Es Dios por identidad.
+
+**Dios por predicado.** El Hijo *es llamado* Dios verdadero por el credo. El título *Theos* se le aplica como predicado legítimo y pleno. Pero la gramática del credo cualifica esa predicación: es Dios verdadero **de** Dios verdadero. Su divinidad no es autónoma ni paralela a la del Padre: es la misma divinidad, recibida del Padre. Es Dios por predicado derivado.
+
+La distinción no introduce grados de divinidad. No dice "el Padre es más Dios que el Hijo". Dice que el modo en que cada uno es Dios es diferente: el Padre lo es como fuente; el Hijo lo es como receptor de esa misma divinidad. La divinidad es la misma. La relación con ella es distinta.
+
+### «Engendrado, no hecho»
+
+*Gennēthenta ou poiēthenta.*
+
+Esta cláusula es anti-arriana. Arrio de Alejandría sostenía que el Hijo fue "hecho" (*poiētheis*), es decir, creado como la primera y más excelente de las criaturas. El credo responde con una distinción tajante: el Hijo es *engendrado* (*gennēthenta*), no *hecho* (*poiēthenta*). Engendrar y hacer son operaciones diferentes. Lo engendrado comparte la naturaleza de quien lo engendra (un hijo humano es humano); lo hecho no necesariamente comparte la naturaleza de quien lo hace (una mesa no es carpintero). El Hijo, al ser engendrado del Padre, comparte la naturaleza del Padre. No es una criatura.
+
+### «Consustancial al Padre»
+
+*Homoousion tō Patri.*
+
+El término técnico más importante del credo. *Homoousios* se compone de *homos* (mismo) y *ousia* (esencia, sustancia, naturaleza). Consustancial al Padre significa: de la misma sustancia que el Padre, de la misma naturaleza que el Padre.
+
+Esta cláusula es la garantía de que la derivación no implica degradación. Si el Hijo viene "de" el Padre (como las cláusulas anteriores han establecido), alguien podría preguntar: ¿acaso lo derivado no es inferior a su fuente? *Homoousios* responde: no. Lo que el Hijo recibe del Padre es exactamente la misma sustancia divina que el Padre tiene. No una copia, no una versión reducida, no una porción: la misma naturaleza. La consustancialidad y la derivación no se oponen: se necesitan mutuamente. Precisamente *porque* el Hijo es consustancial al Padre, la divinidad que fluye del Padre llega al Hijo sin disminución.
+
+### «Por quien todas las cosas fueron hechas»
+
+*Di' hou ta panta egeneto.*
+
+El credo vuelve al tema de la creación, pero con un cambio de preposición clave. En el primer artículo, el Padre es *poiētēs* (hacedor) del cielo y la tierra: la preposición implícita es *ek* o *hypo* (de parte de, el agente directo). En el segundo artículo, las cosas fueron hechas **por medio del** Hijo: la preposición es *dia* (a través de, por medio de), con genitivo.
+
+La diferencia es precisa. El Padre es el hacedor originario. El Hijo es el agente mediador: "por medio de" quien el Padre crea. No es que el Hijo cree por su cuenta ni que el Padre cree sin el Hijo. Es que la creación tiene un origen (el Padre) y un medio (el Hijo). La preposición *dia* distribuye funciones sin distribuir grados de divinidad.
+
+### «Y en el Espíritu Santo»
+
+*Kai eis to Pneuma to Hagion.*
+
+El tercer artículo consta de una sola línea. El credo menciona al Espíritu Santo sin ningún desarrollo: no le atribuye títulos, no especifica su origen, no articula su relación con el Padre y el Hijo. El contraste con la extensión del segundo artículo es notable. Esto refleja que la controversia del momento era cristológica (contra Arrio), no pneumatológica. La articulación doctrinal del Espíritu será obra del Concilio de Constantinopla en 381, examinada en la página 4.
+
+### Los anatemas
+
+El credo de 325, a diferencia de su versión posterior de 381, incluye condenas explícitas al final:
+
+> *A quienes digan "hubo cuando no era", o "antes de ser engendrado no era", o "fue hecho de la nada", o que el Hijo de Dios es de otra hipóstasis o sustancia, o que es creado, o cambiable, o alterable, a estos los anatematiza la Iglesia católica y apostólica.*
+
+Cada anatema cierra una vía arriana específica:
+
+- "Hubo cuando no era": Arrio sostenía que el Hijo tuvo un comienzo. El credo lo niega.
+- "Fue hecho de la nada" (*ex ouk ontōn*): Arrio sostenía que el Hijo fue creado de la nada, como cualquier criatura. El credo lo niega.
+- "De otra hipóstasis o sustancia": el Hijo no es de naturaleza diferente a la del Padre. Es *homoousios*, consustancial.
+- "Creado, cambiable, alterable": el Hijo no es una criatura sujeta al cambio.
 
 ---
 
-## 1.4 La estructura del símbolo de 325
+## 1.4 La gramática del credo como sistema
 
-Examinemos ahora cómo el símbolo de Nicea despliega este mismo patrón paulino. El credo se organiza en artículos, cada uno dedicado a una persona distinta. Los dos primeros artículos (Padre e Hijo) están extensamente desarrollados; el tercero (Espíritu) queda sin desarrollo, pendiente de la articulación posterior de 381:
+Vista en conjunto, la exégesis cláusula por cláusula revela un sistema gramatical coherente. El credo opera con tres mecanismos:
 
-**Sobre el Padre.** *Hena Theon, Patera pantokratora*. El Padre es identificado como el único Dios y como hacedor del cielo y la tierra. La actividad creadora se le atribuye en primera instancia.
+**Primero, una identificación.** El "un Dios" es identificado con el Padre por aposición gramatical directa. No con una esencia abstracta, no con una Trinidad como sujeto unitario. Con una persona: el Padre.
 
-**Sobre el Hijo.** *Hena Kyrion, Iēsoun Christon*. Jesucristo es identificado como un único Señor, en paralelo sintáctico con el Padre como único Dios. La cristología del símbolo es alta: el Hijo es *Theon alēthinon ek Theou alēthinou* (Dios verdadero de Dios verdadero), *homoousion tō Patri* (consustancial al Padre), y *di' hou ta panta egeneto* (por quien todas las cosas fueron hechas). La cláusula final reproduce literalmente la fórmula paulina del *di' hou*.
+**Segundo, una predicación derivada.** El Hijo recibe el predicado *Theos* (Dios verdadero), pero cualificado con *ek*: Dios **de** Dios. La divinidad del Hijo es real y plena, pero no es autónoma: viene del Padre. Es Dios por predicado; el Padre es Dios por identidad.
 
-Conviene observar tres precisiones que la traducción castellana puede oscurecer.
-
-*Primera precisión: el sentido de "por quien".* La preposición *dia* con genitivo (*di' hou*) no marca al Hijo como creador originario sino como medio o agencia de la creación. La distinción es crucial y se mantiene estable en el griego del Nuevo Testamento y de la patrística temprana. En 1 Corintios 8:6, en Juan 1:3, en Colosenses 1:16 y en Hebreos 1:2, la actividad creadora se atribuye fontalmente al Padre (*ek* o *ex*, de quien proceden todas las cosas) y mediadoramente al Hijo (*dia*, por medio de quien). El símbolo conciliar conserva esta distribución: el Padre es *poiētēs* (ποιητής, hacedor) del cielo y la tierra en el primer artículo; el Hijo es aquel *por medio de* quien todas las cosas fueron hechas en el segundo artículo. Decir "por quien" no es decir "quien hizo" en sentido fontal sino "por cuya agencia se hizo lo que el Padre hace". La distinción terminológica refleja la asimetría causal que ya estaba en Pablo y que la patrística griega articulará explícitamente.
-
-*Segunda precisión: el sentido de "Dios de Dios".* El símbolo aplica el predicado *Theos* al Hijo, pero lo hace en forma cualificada y derivada: *Theon alēthinon ek Theou alēthinou*, Dios verdadero *de* Dios verdadero. La preposición *ek* (con genitivo) marca al Padre como fuente de la divinidad del Hijo. Esta formulación no significa que el Hijo sea un segundo Dios junto al Padre, ni que sea la misma persona que el Padre, ni que el predicado *Theos* se aplique al Hijo y al Padre en sentido idéntico e independiente. Significa que el Hijo es plenamente divino con una divinidad que recibe del Padre por generación eterna. La consustancialidad afirmada inmediatamente después (*homoousion tō Patri*) cualifica esta atribución: la divinidad del Hijo no es de otra clase que la del Padre, pero su origen es el Padre. La consustancialidad no anula la asimetría fontal; la presupone y la articula. Es decir: precisamente *porque* el Hijo es consustancial al Padre, la divinidad que fluye del Padre llega al Hijo sin disminución. La consustancialidad es la garantía de que la derivación no implica degradación. La fontalidad (el hecho de que la divinidad tenga una fuente personal en el Padre) y la consustancialidad (el hecho de que lo recibido sea idéntico en naturaleza a lo dado) no se oponen sino que se necesitan mutuamente.
-
-*Tercera precisión: la respuesta al arrianismo.* La cristología nicena es más explícita que la paulina en aplicar el predicado *Theos* al Hijo, y esto resuelve la cuestión arriana. Arrio negaba precisamente la divinidad plena del Hijo, sosteniendo que el Hijo era la primera y más excelente de las criaturas pero no plenamente Dios. La fórmula *Theon alēthinon ek Theou alēthinou, gennēthenta ou poiēthenta, homoousion tō Patri* (Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre) cierra cada vía de escape arriana: el Hijo es Dios verdadero, no honorífico; es engendrado, no creado; es consustancial, no de naturaleza inferior. Pero al hacerlo, el símbolo no colapsa la distinción entre el Padre como fuente y el Hijo como engendrado: la mantiene precisamente al cualificar el predicado *Theos* con *ek Theou*.
-
-**Sobre el Espíritu.** *Kai eis to Pneuma to Hagion.* Nicea 325 menciona al Espíritu sin desarrollo. No le atribuye títulos, no especifica su procesión, no articula su relación con el Padre y el Hijo. Esta brevedad no es descuido: refleja que la controversia pneumatológica (contra los pneumatómacos) aún no se había planteado en 325. La articulación plena del Espíritu (Señor, dador de vida, que procede del Padre, coadorado y conglorificado) será obra de Constantinopla 381, examinada en la página 4.
+**Tercero, una distribución de preposiciones.** El credo usa *ek* (de, desde) para marcar el origen: el Hijo viene *del* Padre, es Dios *de* Dios, luz *de* luz. Usa *dia* (por medio de) para marcar la mediación: las cosas fueron hechas *por medio del* Hijo. Las preposiciones distribuyen funciones y relaciones, no grados de divinidad.
 
 ---
 
-## 1.5 Tres observaciones críticas
+## 1.5 Lo que el credo de 325 no dice
 
-Tras este análisis textual, se imponen tres observaciones que orientan el resto del sitio.
+Es igualmente importante registrar lo que el texto de Nicea **no afirma**. Ninguna de las siguientes afirmaciones aparece en el credo:
 
-### Primera: la unidad afirmada es fontal
+- **No dice "Dios es uno en tres personas".** No articula la unicidad divina como un sujeto que se distingue internamente en tres.
+- **No dice que "Dios" sea un término genérico aplicable por igual a los tres.** Lo aplica al Padre por identidad y al Hijo por predicado derivado. Al Espíritu no se lo aplica en absoluto.
+- **No dice que las tres personas sean "igualmente" Dios en el mismo sentido.** Dice que el Padre *es* el un Dios y que el Hijo *es* Dios de Dios. La relación con el título es distinta en cada caso.
+- **No dice nada sobre la esencia divina como sujeto compartido.** El término *ousia* aparece solo en *homoousios* (consustancial) y en los anatemas, siempre en relación Padre-Hijo, nunca como sustrato impersonal previo a las personas.
+- **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea.
+- **No dice cómo se relacionan el Espíritu y el Hijo.** La cuestión del *Filioque* (que el Espíritu procede "del Padre *y del Hijo*") pertenece a siglos posteriores.
+- **No usa el lenguaje de "relaciones subsistentes".** Ese vocabulario pertenece a la teología latina medieval.
 
-El símbolo de Nicea afirma un solo Dios. No lo afirma como una esencia abstracta compartida por tres personas igualmente posicionadas dentro de ella. Lo afirma identificando al único Dios con la persona del Padre como fuente. El Hijo es Dios *de* Dios. La unidad de la divinidad fluye *fontalmente* del Padre.
-
-Una aclaración léxica es necesaria aquí. El adjetivo "fontal" y el sustantivo "fontalidad" no pertenecen al vocabulario estándar del castellano cotidiano. Derivan del latín *fons*, *fontis* (fuente, manantial), y en el contexto de este sitio designan una unicidad que se articula desde un punto de origen personal, no desde una esencia abstracta compartida. Decir que la unidad divina es "fontal" significa que fluye de una fuente concreta (el Padre), como un río fluye de un manantial. El término es técnico pero insustituible: captura con precisión lo que las preposiciones griegas *ek* (desde) y *dia* (por medio de) articulan en el texto bíblico y conciliar. A lo largo del sitio, "fontal" y "fontalidad" se usan consistentemente en este sentido.
-
-Esta es la configuración que la patrística griega del siglo IV denominará *monarchia tou Patros* (μοναρχία τοῦ Πατρός), la monarquía del Padre. El Padre es la única *aitía* (αἰτία, causa), *archē* (ἀρχή, principio), *pēgē* (πηγή, fuente) en la divinidad. Esta afirmación no implica que el Hijo sea menos divino: la consustancialidad que el propio concilio de 325 formula técnicamente como *homoousios* (ὁμοούσιος) excluye esa lectura. Implica que la unidad divina tiene un orden, un *taxis* (τάξις, orden o disposición interna, es decir, una estructura donde cada persona ocupa una posición específica en relación con las demás, sin que ello signifique desigualdad de naturaleza), donde el Padre ocupa el lugar fontal sin que ello introduzca grados ontológicos en la divinidad. Los Capadocios desarrollarán esta articulación técnicamente en la segunda mitad del siglo IV (página 4).
-
-### Segunda: los predicados se distribuyen
-
-El símbolo conserva la distribución paulina. *Theos* es predicado del Padre como referente típico; *Kyrios* es predicado del Hijo como referente típico; los títulos pneumatológicos son específicos del Espíritu. La cláusula que aplica *Theos* al Hijo lo hace cualificadamente: Dios *de* Dios. Esta distribución es teológicamente significativa: el símbolo no opera con un término *Dios* genérico que se aplica indistintamente a las tres personas, sino con una articulación donde cada persona recibe predicados propios y una posición específica en el orden fontal.
-
-### Tercera: lo que el símbolo afirma positivamente
-
-Una formulación positiva sintetiza las dos observaciones anteriores. El símbolo de Nicea dice:
-
-«Creemos en un Dios, Padre todopoderoso, hacedor del cielo y la tierra; y en un Señor, Jesucristo, Hijo de Dios, engendrado del Padre, Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre, por quien todas las cosas fueron hechas; y en el Espíritu Santo.»
-
-Dos artículos extensos, un tercero sin desarrollo. Una asimetría fontal articulada en las preposiciones griegas: el Hijo es Dios *de* Dios (*ek Theou*), engendrado *del* Padre (*ek tou Patros*). La unidad de la divinidad fluye del Padre como fuente, y el Hijo comparte la misma naturaleza divina sin que esa participación elimine el orden de origen.
-
-Esta es la articulación textual de Nicea 325. La pregunta que sigue es directa: ¿de dónde viene este patrón? ¿Es invención de los Padres conciliares del siglo IV, o tiene raíz en el lenguaje del Nuevo Testamento? La página siguiente examina esa cuestión en los textos paulinos y joánicos.
+El credo de 325 dice lo que dice. Lo que no dice, no lo dice. Las articulaciones posteriores que añaden, precisan o reformulan estas cláusulas serán examinadas en las páginas correspondientes.
 
 ---
 
@@ -144,11 +209,11 @@ Esta es la articulación textual de Nicea 325. La pregunta que sigue es directa:
 **Sobre el texto del símbolo y su análisis crítico:**
 - J.N.D. Kelly, *Early Christian Creeds*, tercera edición (Longman, 1972).
 - Adolf Martin Ritter, *Das Konzil von Konstantinopel und sein Symbol* (Vandenhoeck & Ruprecht, 1965).
-- Wolf-Dieter Hauschild y Volker Henning Drecoll, *Pneumatologie in der Alten Kirche* (Peter Lang, 2004).
+- Lewis Ayres, *Nicaea and its Legacy: An Approach to Fourth-Century Trinitarian Theology* (Oxford University Press, 2004).
 
 **Sobre la causalidad mediadora (*dia*) en el Nuevo Testamento:**
 - Murray J. Harris, *Prepositions and Theology in the Greek New Testament* (Zondervan, 2012), capítulo sobre *dia*.
 
 ---
 
-*Página 1 de 14* · [← Inicio](00_inicio.md) · [Página 2: Anclaje bíblico de Nicea →](02_fundamentos_apostolicos.md)
+*Página 1 de 15* · [← Inicio](00_inicio.md) · [Página 2: Fundamentos Apostólicos →](02_fundamentos_apostolicos.md)
