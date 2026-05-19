@@ -1,4 +1,4 @@
-# 2. Anclaje bíblico de Nicea
+# 2. La base bíblica del credo de Nicea
 
 > *Un Dios, el Padre, de quien proceden todas las cosas, y nosotros para él; y un Señor, Jesucristo, por medio de quien son todas las cosas, y nosotros por medio de él.*
 >
@@ -8,205 +8,305 @@
 
 ---
 
-## 2.1 Por qué importa este anclaje
+## 2.1 Qué hace esta página
 
-La página 1 mostró que el símbolo niceno-constantinopolitano identifica gramaticalmente al único Dios con la persona del Padre como fuente, y articula al Hijo como aquel que recibe la divinidad del Padre por generación, sin que esta recepción comprometa la consustancialidad. La pregunta que esta página aborda es complementaria: ¿de dónde viene esa articulación? ¿Es invención de los Padres conciliares del siglo IV, o tiene fundamento en el lenguaje del Nuevo Testamento?
+La página 1 leyó el credo de Nicea cláusula por cláusula. Esta página toma cada una de esas cláusulas y muestra el texto del Nuevo Testamento en el que se apoya. La pregunta es directa: ¿inventaron los Padres del siglo IV esta gramática, o la recibieron de los textos apostólicos?
 
-La cuestión es metodológicamente delicada y conviene precisarla. Este sitio no defiende apologéticamente que el Nuevo Testamento enseñe ya la doctrina trinitaria nicena en sentido completo. Tal defensa pertenece a otro tipo de proyecto. Lo que esta página sostiene es algo más limitado y más verificable: que el lenguaje del Nuevo Testamento opera con un patrón específico, donde el Padre es presentado como fuente y origen, y el Hijo como aquel que recibe del Padre y media la actividad divina hacia el mundo. Este patrón no es ocasional ni marginal; es estructural y se repite con regularidad estadística en los corpus paulino y joánico. Y este patrón es el que la gramática nicena recoge cuando articula la monarquía del Padre, la generación del Hijo y la procesión del Espíritu.
-
-La página examina los textos que sostienen esta afirmación, organizados en dos bloques: el patrón paulino y el patrón joánico. Al final, articula una consecuencia interpretativa sobre la legibilidad del lenguaje neotestamentario bajo la gramática conciliar.
-
-Una aclaración importante sobre lo que esta página no hace. No examina otros patrones lingüísticos del Nuevo Testamento que articulan la divinidad del Hijo o del Espíritu de manera distinta (cristologías altas joánicas, doxologías que aplican *Theos* a Jesús, fórmulas trinitarias bautismales). Esos textos existen y son objeto legítimo de estudio, pero pertenecen al examen apologético de la consustancialidad, que el sitio asume como objeto del análisis y no como tesis a defender. La página se concentra en el patrón fontal específicamente, porque ese patrón es el que la gramática nicena recoge y articula.
+El examen procede en el mismo orden del credo.
 
 ---
 
-## 2.2 El patrón paulino
+## 2.2 Cláusula por cláusula
 
-Pablo escribe entre los años 49 y 65 aproximadamente, en cartas dirigidas a comunidades cristianas concretas en el Mediterráneo oriental. Su vocabulario teológico opera con regularidad sorprendente alrededor de la distinción Padre-Hijo articulada en términos fontales.
+### «Un Dios, Padre» · Dios por identidad
 
-### 1 Corintios 8:6 como núcleo
+*Pisteuomen eis hena Theon, Patera.*
 
-El versículo abierto al inicio de esta página es el lugar más concentrado del patrón paulino. Carta escrita probablemente en Éfeso hacia el año 54, en respuesta a cuestiones planteadas por la comunidad de Corinto. El versículo aparece en una discusión sobre la comida ofrecida a los ídolos, donde Pablo articula la confesión cristiana del único Dios frente al politeísmo del entorno cultural.
+El credo identifica al "un Dios" con el Padre por aposición gramatical. ¿Aparece esta identificación en el Nuevo Testamento? Sí, y con insistencia notable:
 
-El texto griego, presentado con análisis léxico:
+**1 Corintios 8:6** (c. 54 d.C.)
 
-| Original | Transliteración | Lema | Traducción |
-|----------|----------------|------|------------|
-| ἀλλ' ἡμῖν | all' hēmin | ἀλλά + ἐγώ | pero para nosotros |
-| εἷς Θεὸς | heis Theos | εἷς Θεός | un Dios |
-| ὁ Πατήρ | ho Patēr | πατήρ | el Padre |
-| ἐξ οὗ τὰ πάντα | ex hou ta panta | ἐκ + ὅς + πᾶς | de quien las todas (cosas) |
-| καὶ ἡμεῖς εἰς αὐτόν | kai hēmeis eis auton | εἰς + αὐτός | y nosotros para él |
-| καὶ εἷς Κύριος | kai heis Kyrios | εἷς Κύριος | y un Señor |
-| Ἰησοῦς Χριστός | Iēsous Christos | | Jesucristo |
-| δι' οὗ τὰ πάντα | di' hou ta panta | διά + ὅς + πᾶς | por medio de quien las todas (cosas) |
-| καὶ ἡμεῖς δι' αὐτοῦ | kai hēmeis di' autou | διά + αὐτός | y nosotros por medio de él |
-
-Pablo opera dos distribuciones simultáneas que la traducción castellana puede oscurecer pero el griego marca con precisión.
-
-**Primera distribución: predicados sustantivos.** El predicado *heis Theos* (un Dios) se aplica al Padre. El predicado *heis Kyrios* (un Señor) se aplica a Jesucristo. Los dos sintagmas son paralelos sintácticamente y diferenciados referencialmente. Pablo no dice "hay un Dios, el Padre, y también hay un Dios, Jesucristo". Dice "hay un Dios, el Padre, y un Señor, Jesucristo". La distinción terminológica es deliberada y constante en el corpus paulino: *Theos* refiere al Padre como referente típico; *Kyrios* refiere a Jesús como referente típico, sobre todo en contextos doxológicos y eucológicos.
-
-**Segunda distribución: causalidad.** La preposición *ek* (con genitivo, *ex hou*) marca al Padre como fuente, origen, principio del que proceden todas las cosas. La preposición *dia* (con genitivo, *di' hou*) marca al Hijo como agencia, instrumento, mediación por la que las cosas vienen a ser. La causalidad no es la misma. *Ek* es causalidad fontal originaria; *dia* es causalidad mediadora. Las dos son reales y se distribuyen entre los dos referentes sin colapsarse en una causalidad indistinta. La asimetría preposicional es la articulación lingüística específica del patrón fontal.
-
-### Romanos 11:36 y el cierre doxológico
-
-Pablo cierra el argumento de Romanos 9 al 11 con una doxología que articula la misma estructura preposicional aplicada a Dios como referente único:
-
-> *Porque de él, y por él, y para él son todas las cosas. A él sea la gloria por los siglos. Amén.*
+> *Pero para nosotros, **un Dios, el Padre**, de quien proceden todas las cosas, y nosotros para él; y un Señor, Jesucristo, por medio de quien son todas las cosas, y nosotros por medio de él.*
 >
-> *Hoti ex autou kai di' autou kai eis auton ta panta. Autō hē doxa eis tous aiōnas. Amēn.*
+> *All' hēmin **heis Theos ho Patēr**, ex hou ta panta kai hēmeis eis auton, kai heis Kyrios Iēsous Christos, di' hou ta panta kai hēmeis di' autou.*
+
+Pablo escribe *heis Theos ho Patēr*: un Dios, el Padre. La misma construcción apositiva que el credo usará tres siglos después. El "un Dios" es el Padre. No una esencia compartida, no una Trinidad abstracta: una persona identificada con nombre.
+
+**Marcos 12:29** (c. 65-70 d.C.)
+
+> *Jesús respondió: "El primero es: Oye, Israel, el Señor nuestro Dios, el Señor uno es."*
 >
-> Romanos 11:36
+> *Apekritē ho Iēsous hoti prōtē estin: Akoue, Israēl, Kyrios ho Theos hēmōn Kyrios heis estin.*
 
-Tres preposiciones articuladas: *ex* (de), *dia* (por medio de), *eis* (hacia, para). En el contexto inmediato de Romanos, las tres se aplican a Dios entendido fontalmente como Padre. Pero el lenguaje preposicional es el mismo que Pablo distribuye en 1 Corintios 8:6 entre Padre e Hijo. La doxología cristiana se articula con vocabulario causal-direccional, donde la asimetría entre fuente y mediación es expresiva, no metafórica.
+Jesús mismo cita el Shemá (Deuteronomio 6:4) como el mandamiento primero. El "Señor nuestro Dios" es uno. Y en el versículo 32 el escriba confirma: "Bien, Maestro, verdad has dicho, que **uno es Dios, y no hay otro fuera de él**" (*heis estin kai ouk estin allos plēn autou*). El referente de ese "uno" en el contexto judío del primer siglo es inequívocamente el Padre.
 
-### Efesios 4:6 y la jerarquía preposicional
+**Efesios 4:6** (c. 60-90 d.C.)
 
-Carta atribuida tradicionalmente a Pablo (con debate académico contemporáneo sobre autoría), escrita probablemente entre los años 60 y 90. El versículo articula la unicidad divina con el mismo vocabulario:
-
-> *Un Dios y Padre de todos, el cual es sobre todos, y por todos, y en todos.*
+> *Un Dios y Padre de todos, el que está sobre todos, y por todos, y en todos.*
 >
 > *Heis Theos kai Patēr pantōn, ho epi pantōn kai dia pantōn kai en pasin.*
+
+De nuevo: *heis Theos kai Patēr*, un Dios y Padre. La identificación es directa.
+
+**Juan 17:3** (c. 90-100 d.C.)
+
+> *Esta es la vida eterna: que te conozcan **a ti, el único Dios verdadero**, y a Jesucristo, a quien tú enviaste.*
 >
-> Efesios 4:6
+> *Hautē de estin hē aiōnios zōē, hina ginōskōsin se **ton monon alēthinon Theon**, kai hon apesteilas Iēsoun Christon.*
 
-El *heis Theos kai Patēr* se aplica al Padre directamente. Las tres preposiciones *epi* (sobre), *dia* (por medio de), *en* (en) articulan distintos modos de la actividad divina, todos referidos al Padre como sujeto. La fórmula trinitaria que precede al versículo (Efesios 4:4-6) menciona *Pneuma*, *Kyrios* y *Theos kai Patēr* en orden ascendente fontal: hay un Espíritu, un Señor, un Dios y Padre. La estructura ordinal no es accidental: refleja el patrón fontal donde el Padre ocupa la posición de fuente y los otros dos predicados articulan posiciones derivadas.
+Jesús se dirige al Padre y lo llama "el único Dios verdadero" (*ton monon alēthinon Theon*). Jesucristo aparece coordinado con *kai* (y), como el enviado de ese único Dios. La dirección es explícita: el Padre envía; el Hijo es enviado.
 
-### 1 Corintios 11:3 y la cadena de las cabezas
+**1 Timoteo 2:5** (c. 62-100 d.C.)
 
-Versículo notable por articular explícitamente una cadena fontal:
-
-> *Pero quiero que sepáis que la cabeza de todo varón es Cristo, y la cabeza de la mujer es el varón, y la cabeza de Cristo es Dios.*
+> *Porque hay **un Dios**, y **un mediador** entre Dios y los hombres, Jesucristo hombre.*
 >
-> *Thelō de hymas eidenai hoti pantos andros hē kephalē ho Christos estin, kephalē de gynaikos ho anēr, kephalē de tou Christou ho Theos.*
->
-> 1 Corintios 11:3
+> *Heis gar Theos, heis kai mesitēs Theou kai anthrōpōn, anthrōpos Christos Iēsous.*
 
-La cláusula final, *kephalē de tou Christou ho Theos* (la cabeza de Cristo es Dios), articula la fontalidad del Padre respecto al Hijo en lenguaje relacional. El término *kephalē* (cabeza) tiene en el griego paulino el sentido de fuente, principio, origen, no solo de autoridad jerárquica. El texto no comprime la divinidad de Cristo, sino que la sitúa en relación fontal con el Padre como referente último.
+Un Dios, y un mediador. El mediador no es el "un Dios": es Jesucristo. La distribución de funciones es nítida.
 
-### 1 Corintios 15:24-28 y el cierre escatológico
-
-Pasaje cristológicamente denso. Pablo articula la consumación escatológica del reinado de Cristo en términos fontales:
-
-> *Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo principado y toda autoridad y poder... Y cuando todas las cosas le estén sometidas, entonces también el Hijo mismo se sometera al que sometió a él todas las cosas, para que Dios sea todo en todos.*
->
-> *Eita to telos, hotan paradidō tēn basileian tō Theō kai Patri, hotan katargēsē pasan archēn kai pasan exousian kai dynamin... Hotan de hypotagē autō ta panta, tote kai autos ho huios hypotagēsetai tō hypotaxanti autō ta panta, hina ē ho Theos ta panta en pasin.*
->
-> 1 Corintios 15:24, 28
-
-El movimiento escatológico es retorno fontal: el Hijo entrega el reino al Padre, el Hijo mismo se somete al Padre, para que *ho Theos* (el Dios, con artículo, referente específico) sea todo en todos. La consumación cristiana es fontal: todo retorna al Padre como fuente última. El reinado del Hijo es real, pleno, y al mismo tiempo articulado en relación fontal con el Padre que lo otorgó.
-
-### Síntesis del patrón paulino
-
-El patrón paulino articula sistemáticamente al Padre como fuente y al Hijo como aquel que recibe del Padre y media la actividad divina hacia el mundo. La distribución de predicados (*Theos* al Padre, *Kyrios* al Hijo) y de preposiciones (*ek* al Padre, *dia* al Hijo) marca lingüísticamente la asimetría fontal sin comprimir la divinidad del Hijo. Pablo no opera con un sujeto divino genérico que se predica indiferentemente de las personas; opera con una articulación específica donde cada referente tiene predicados propios y posición específica en el orden de origen.
+El credo de Nicea no inventó la identificación del "un Dios" con el Padre. La recibió de Pablo, de Marcos, del evangelio de Juan.
 
 ---
 
-## 2.3 El patrón joánico
+### «Y en un Señor Jesucristo» · El título del Hijo
 
-El corpus joánico (el evangelio y las tres cartas, redactados aproximadamente entre los años 90 y 110) articula el mismo patrón fontal con vocabulario distinto. Donde Pablo opera con distribución preposicional y de predicados, Juan opera con el verbo *didōmi* (dar), con la categoría de envío (*apostellō*, *pempō*), con la categoría de monogenia (*monogenēs*, único engendrado), y con la categoría de procedencia (*ek tou Theou*, de Dios). La gramática es distinta; el patrón estructural es el mismo.
+*Kai eis hena Kyrion Iēsoun Christon.*
 
-### Juan 5:26 y la vida en sí mismo
+El credo identifica al Hijo con el título *Kyrios* (Señor), no con *Theos* (Dios) como título de identidad. ¿Corresponde esto al uso neotestamentario?
 
-El versículo es uno de los más densos del corpus joánico sobre la relación fontal Padre-Hijo:
+**1 Corintios 8:6** (de nuevo)
 
-> *Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo.*
+> *...y **un Señor, Jesucristo**, por medio de quien son todas las cosas.*
 >
-> *Hōsper gar ho Patēr echei zōēn en heautō, houtōs kai tō Huiō edōken zōēn echein en heautō.*
+> *...kai **heis Kyrios Iēsous Christos**, di' hou ta panta.*
+
+Pablo distribuye: *Theos* para el Padre, *Kyrios* para el Hijo. No dice "un Dios el Padre y un Dios el Hijo". Dice "un Dios el Padre y un Señor Jesucristo".
+
+**Filipenses 2:11** (c. 55-62 d.C.)
+
+> *Y toda lengua confiese que **Jesucristo es Señor**, para gloria de Dios Padre.*
 >
-> Juan 5:26
+> *Kai pasa glōssa exomologēsētai hoti **Kyrios Iēsous Christos**, eis doxan Theou Patros.*
 
-La afirmación es paradigmática. El Padre tiene vida en sí mismo (*echei zōēn en heautō*) sin condición ni origen. El Hijo también tiene vida en sí mismo, pero la tiene porque el Padre se la ha dado (*edōken*). La estructura "el Padre tiene X, el Padre ha dado al Hijo tener X" articula simultáneamente dos cosas: que el Hijo tiene plenamente lo que el Padre tiene, y que lo tiene por don del Padre. La consustancialidad y la fontalidad están conjuntamente en el versículo. No hay tensión interna: el Hijo es plenamente Hijo precisamente porque recibe del Padre lo que el Padre es.
+Jesús es confesado *Kyrios* (Señor), y esta confesión redunda "para gloria de Dios Padre" (*eis doxan Theou Patros*). El señorío del Hijo tiene una dirección: hacia la gloria del Padre.
 
-### Juan 14:28 y la mayoría del Padre
+**Hechos 2:36** (c. 80-90 d.C.)
 
-Versículo frecuentemente debatido en la historia de la exégesis trinitaria:
-
-> *Si me amarais, os habríais regocijado porque dije: voy al Padre; porque el Padre mayor es que yo.*
+> *Sepa, pues, con certeza toda la casa de Israel que a este Jesús que vosotros crucificasteis, **Dios lo ha hecho Señor y Cristo**.*
 >
-> *Ei ēgapate me, echarēte an hoti poreuomai pros ton Patera, hoti ho Patēr meizōn mou estin.*
+> *Asfalōs oun ginōsketō pas oikos Israēl hoti kai Kyrion auton kai Christon epoiēsen ho Theos, touton ton Iēsoun hon hymeis estaurōsate.*
+
+Pedro predica que *ho Theos* (Dios, el Padre) es quien ha hecho a Jesús *Kyrion* (Señor). La dirección es fontal: el título proviene del Padre.
+
+El credo reproduce esta distribución exacta: un Dios (el Padre), un Señor (Jesucristo).
+
+---
+
+### «El Hijo de Dios, el unigénito» · Monogenēs
+
+*Ton Huion tou Theou, ton monogenē.*
+
+**Juan 1:18** (c. 90-100 d.C.)
+
+> *A Dios nadie le ha visto jamás; el **unigénito Dios**, que está en el seno del Padre, él lo ha dado a conocer.*
 >
-> Juan 14:28
+> *Theon oudeis heōraken pōpote; **monogenēs Theos** ho ōn eis ton kolpon tou Patros ekeinos exēgēsato.*
 
-La afirmación *ho Patēr meizōn mou estin* (el Padre mayor es que yo) no es declaración cristológica subordinacionista en el sentido arriano (que reducirá la divinidad del Hijo a divinidad inferior). Es articulación de la asimetría fontal: el Padre es mayor en cuanto fuente, en cuanto origen, en cuanto principio. El Hijo recibe del Padre lo que es; el Padre no recibe de nadie. La mayoría del Padre no es de naturaleza ni de dignidad, sino de orden fontal. Bajo la gramática nicena, esta lectura es natural y no comprime la consustancialidad: el Padre es mayor en cuanto fuente del Hijo consustancial; no en cuanto Dios distinto de un Hijo menos Dios.
+*Monogenēs Theos* (Dios unigénito): lectura textual sostenida por los manuscritos más antiguos (P66, P75, Códice Vaticano, Códice Sinaítico). El Hijo es *monogenēs* (único en su clase) y está "en el seno del Padre" (*eis ton kolpon tou Patros*). La relación es de intimidad y de origen: el Hijo viene del Padre.
 
-### Juan 17:3 y el único Dios verdadero
+**Juan 3:16** (c. 90-100 d.C.)
 
-Versículo de la oración sacerdotal de Jesús en la víspera de la pasión:
-
-> *Esta es la vida eterna: que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien tú enviaste.*
+> *Porque de tal manera amó Dios al mundo, que ha dado a su **Hijo unigénito**.*
 >
-> *Hautē de estin hē aiōnios zōē, hina ginōskōsin se ton monon alēthinon Theon, kai hon apesteilas Iēsoun Christon.*
+> *Houtōs gar ēgapēsen ho Theos ton kosmon, hōste ton **Huion ton monogenē** edōken.*
+
+Dios (el Padre) es el que da; el Hijo unigénito es el dado. La dirección fontal es explícita en la sintaxis.
+
+---
+
+### «Engendrado del Padre antes de todos los siglos» · La preposición ek
+
+*Ton ek tou Patros gennēthenta pro pantōn tōn aiōnōn.*
+
+**Juan 16:28** (c. 90-100 d.C.)
+
+> *Salí **del Padre** y he venido al mundo; otra vez dejo el mundo y voy al Padre.*
 >
-> Juan 17:3
+> *Exēlthon **ek tou Patros** kai elēlytha eis ton kosmon; palin aphiēmi ton kosmon kai poreuomai pros ton Patera.*
 
-El versículo articula tres elementos del patrón fontal con precisión gramatical inequívoca. Primero, *ton monon alēthinon Theon* (el único Dios verdadero) refiere al Padre como referente directo de la oración. Segundo, Jesucristo aparece coordinado mediante *kai* (y), no subordinado al referente "único Dios verdadero". Tercero, *apesteilas* (enviaste, segunda persona singular del aoristo) tiene como sujeto al Padre y como objeto a Jesucristo: la direccionalidad fontal es explícita en el verbo. El Padre es quien envía; el Hijo es quien es enviado. La estructura sintáctica del versículo articula la asimetría fontal en su gramática misma.
+Jesús dice *exēlthon ek tou Patros*: salí **del** Padre. La preposición *ek* marca origen. No dice "salí del cielo" ni "salí de Dios" en abstracto. Dice "del Padre".
 
-El uso patrístico de este versículo en el contexto polémico anti-eunomiano del siglo IV se examina con detalle en el Apéndice G.
+**Juan 8:42** (c. 90-100 d.C.)
 
-### El prólogo joánico (Juan 1:1-18)
+> *Porque yo **de Dios he salido** y he venido; pues no he venido de mí mismo, sino que él me envió.*
+>
+> *Egō gar **ek tou Theou exēlthon** kai hēkō; oude gar ap' emautou elēlytha, all' ekeinos me apesteilen.*
 
-El prólogo del evangelio es el lugar joánico de mayor concentración cristológica. Articula la relación fontal Padre-Logos con vocabulario filosófico denso pero gramaticalmente preciso:
+"De Dios he salido" (*ek tou Theou exēlthon*). Y la aclaración decisiva: "no he venido de mí mismo" (*oude gar ap' emautou elēlytha*). El Hijo no se origina a sí mismo. Viene del Padre.
+
+**Juan 5:26** (c. 90-100 d.C.)
+
+> *Porque como el Padre tiene vida en sí mismo, así también **ha dado al Hijo** el tener vida en sí mismo.*
+>
+> *Hōsper gar ho Patēr echei zōēn en heautō, houtōs kai tō Huiō **edōken** zōēn echein en heautō.*
+
+El Padre tiene vida en sí mismo sin condición. El Hijo también la tiene, pero porque el Padre se la **ha dado** (*edōken*). Lo que el Hijo tiene es exactamente lo que el Padre tiene. Pero lo tiene por don, no por autonomía.
+
+---
+
+### «Luz de luz» · La metáfora
+
+*Phōs ek phōtos.*
+
+**1 Juan 1:5** (c. 90-110 d.C.)
+
+> *Dios es luz, y no hay ningunas tinieblas en él.*
+>
+> *Ho Theos phōs estin kai skotia en autō ouk estin oudemia.*
+
+Dios (el Padre) es luz. Si el Padre es la luz originaria, y el Hijo es "luz de luz", el Hijo participa de la misma luminosidad que el Padre tiene como fuente. La metáfora del credo no es invención conciliar: opera sobre el vocabulario joánico.
+
+---
+
+### «Dios verdadero de Dios verdadero» · Dios por predicado
+
+*Theon alēthinon ek Theou alēthinou.*
+
+Esta es la cláusula más densa del credo. El Hijo es llamado Dios verdadero, pero su divinidad viene *de* Dios verdadero (el Padre). ¿Tiene esto base neotestamentaria?
+
+**Juan 1:1** (c. 90-100 d.C.)
 
 > *En el principio era el Logos, y el Logos era hacia el Dios, y el Logos era Dios.*
 >
-> *En archē ēn ho Logos, kai ho Logos ēn pros ton Theon, kai Theos ēn ho Logos.*
+> *En archē ēn ho Logos, kai ho Logos ēn pros **ton Theon**, kai **Theos** ēn ho Logos.*
+
+El versículo opera con una distinción gramatical precisa que la traducción castellana oscurece:
+
+- *ton Theon* (con artículo definido): **el** Dios. El Padre. Es el referente de identidad.
+- *Theos* (sin artículo, en posición predicativa): Dios. Es el predicado que se atribuye al Logos.
+
+El Logos era *Theos* (divino, Dios por predicado). El Logos estaba orientado hacia *ton Theon* (el Dios, el Padre, Dios por identidad). La distinción entre *ho Theos* con artículo y *Theos* sin artículo es exactamente la distinción que el credo articula cuando dice "Dios verdadero **de** Dios verdadero": el Hijo es Dios (predicado), y su divinidad viene del Dios (identidad), el Padre.
+
+Orígenes de Alejandría (c. 185-254), un siglo antes de Nicea, ya había observado esta distinción:
+
+> *"Nótese con cuidado que en unos casos dice 'el Dios' (ho Theos) y en otros simplemente 'Dios' (Theos). El Logos es Dios, pero no 'el Dios'."*
 >
-> Juan 1:1
+> Orígenes, *Comentario sobre Juan* II.2
 
-El versículo distribuye tres afirmaciones simultáneas. Primero, el Logos preexiste *en archē* (en el principio), en paralelo con Génesis 1:1. Segundo, el Logos está *pros ton Theon* (hacia el Dios, con artículo definido), articulando una orientación relacional hacia el Padre como referente fontal específico. Tercero, *Theos ēn ho Logos*: el Logos era Dios. La cláusula final es notable por su gramática: *Theos* sin artículo, en posición predicativa anterior al verbo, atribuye al Logos cualidad divina sin identificarlo numéricamente con *ho Theos* (el Dios, con artículo) al que el Logos está orientado. La distinción entre *ho Theos* con artículo (referente fontal específico, el Padre) y *Theos* sin artículo (cualidad divina predicada del Logos) es deliberada y constante en el griego del prólogo.
-
-El versículo 14 articula la encarnación con vocabulario fontal:
-
-> *Y el Logos se hizo carne, y habitó entre nosotros, y vimos su gloria, gloria como del unigénito del Padre, lleno de gracia y de verdad.*
->
-> *Kai ho Logos sarx egeneto, kai eskēnōsen en hēmin, kai etheasametha tēn doxan autou, doxan hōs monogenous para Patros, plērēs charitos kai alētheias.*
->
-> Juan 1:14
-
-*Monogenēs* (único engendrado) articula la singularidad de la generación del Hijo desde el Padre. *Para Patros* (del Padre, con genitivo de origen) marca al Padre como fuente fontal del Hijo. La cláusula no compromete la divinidad del Logos articulada en 1:1: la articula precisamente como divinidad recibida del Padre por generación única.
-
-El cierre del prólogo (1:18) confirma el patrón:
-
-> *A Dios nadie le ha visto jamás; el unigénito Dios, que está en el seno del Padre, él le ha dado a conocer.*
->
-> *Theon oudeis heōraken pōpote; monogenēs Theos ho ōn eis ton kolpon tou Patros ekeinos exēgēsato.*
->
-> Juan 1:18
-
-*Monogenēs Theos* (Dios unigénito), lectura textual sostenida por los manuscritos más antiguos (P66, P75, Códice Vaticano, Códice Sinaítico), articula al Hijo como divino y unigénito simultáneamente. La cláusula *ho ōn eis ton kolpon tou Patros* (el que está en el seno del Padre) articula la relación fontal en imagen relacional íntima. El Hijo es Dios y está en el seno del Padre como su origen: la consustancialidad y la fontalidad coexisten en el versículo sin tensión interna.
-
-### Síntesis del patrón joánico
-
-El corpus joánico articula al Padre como fuente (*ho Patēr*, con artículo definido, *ho Theos*, el Dios al que el Logos se orienta) y al Hijo como aquel que recibe del Padre (vida en sí mismo dada por el Padre, generación única, envío al mundo). La divinidad plena del Hijo se afirma sin reservas y precisamente en estructura fontal: el Hijo es Dios porque el Padre, fontalmente, así lo ha dispuesto desde la eternidad. La gramática joánica articula simultáneamente la consustancialidad y la asimetría de origen.
+El credo de Nicea articula esta misma distribución: el Padre *es* el Dios (*ho Theos*); el Hijo *es* Dios (*Theos*) de (*ek*) el Dios (*tou Theou*).
 
 ---
 
-## 2.4 La legibilidad del lenguaje neotestamentario bajo la gramática nicena
+### «Consustancial al Padre» · Homoousios
 
-Los textos examinados en las dos secciones anteriores articulan, con variaciones léxicas y conceptuales, un mismo patrón estructural. El Padre es presentado como fuente y origen. El Hijo es presentado como aquel que recibe del Padre y media la actividad divina hacia el mundo. La consustancialidad del Hijo no se compromete por esta estructura; al contrario, la estructura presupone que lo que el Hijo recibe del Padre es la plena divinidad, no una divinidad menor o derivada en sentido degradante.
+*Homoousion tō Patri.*
 
-La gramática nicena consolidada por el símbolo de 381 articula este patrón en vocabulario técnico. El "un Dios" del símbolo se identifica con el Padre. El Hijo es "Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre". El Espíritu Santo "procede del Padre". Las tres afirmaciones articulan simultáneamente la unicidad de la fuente y la divinidad plena de los receptores. Lo que el Hijo y el Espíritu reciben del Padre es la misma divinidad que el Padre es; lo reciben en modos distintos (generación, procesión); y la posición fontal del Padre estructura el orden trinitario sin comprimir la consustancialidad.
+¿Hay base neotestamentaria para afirmar que el Hijo tiene la misma naturaleza que el Padre?
 
-La consecuencia interpretativa es directa y verificable. **Bajo la gramática nicena, el lenguaje neotestamentario fontal se lee naturalmente.** Cuando Juan dice que el Padre tiene vida en sí mismo y ha dado al Hijo tener vida en sí mismo, la afirmación se articula sin tensión: el Hijo recibe del Padre la misma vida que el Padre tiene fontalmente. Cuando Pablo distribuye *Theos* al Padre y *Kyrios* al Hijo, las preposiciones *ek* y *dia* respectivamente, la distribución se reconoce como articulación lingüística del orden fontal. Cuando el evangelista joánico afirma que el Padre es mayor que el Hijo, la mayoría se lee como mayoría de fuente, no de naturaleza. Cuando Pablo cierra 1 Corintios 15 con el Hijo entregando el reino al Padre y sometiéndose para que Dios sea todo en todos, el movimiento escatológico se lee como retorno fontal natural al orden de origen.
+**Juan 1:1c** (de nuevo)
 
-Cada uno de estos textos podría leerse de otro modo bajo otras gramáticas trinitarias. La cuestión de si esas otras lecturas son posibles, y de qué cuesta exegéticamente sostenerlas, pertenece a páginas posteriores del sitio. Esta página se limita a articular un dato verificable: que la gramática nicena, leyendo el lenguaje neotestamentario fontal, no necesita producir distinciones técnicas adicionales para resolver tensiones. El lenguaje fluye desde el texto bíblico hacia la gramática conciliar con continuidad estructural reconocible.
+> *...y el Logos era Dios.*
+>
+> *...kai **Theos** ēn ho Logos.*
 
-Esta continuidad no es prueba de que la doctrina nicena esté ya completa en el Nuevo Testamento. El símbolo de 381 articula precisiones técnicas (la consustancialidad como respuesta al arrianismo, la divinidad del Espíritu como respuesta al pneumatomaquismo) que el Nuevo Testamento no formula con ese vocabulario específico. Pero las precisiones nicenas se hacen sobre la base de un patrón fontal que el Nuevo Testamento sí articula con regularidad estructural. La gramática nicena no inventa el patrón; lo recibe, lo articula con vocabulario técnico, y lo defiende contra lecturas que comprometían la consustancialidad sin honrar la fontalidad o la fontalidad sin honrar la consustancialidad.
+El predicado *Theos* aplicado al Logos no es Dios "en sentido rebajado" ni Dios "honorífico". Es el mismo término que se aplica al Padre. Esto es precisamente lo que *homoousios* articula técnicamente: que la sustancia del Hijo es la *misma* que la del Padre, no semejante, no análoga.
+
+**Juan 5:18** (c. 90-100 d.C.)
+
+> *Por esto los judíos aun más procuraban matarle, porque no solo quebrantaba el sábado, sino que también decía que Dios era su propio Padre, **haciéndose igual a Dios**.*
+>
+> *Dia touto oun mallon ezētoun auton hoi Ioudaioi apokteinai, hoti ou monon elyen to sabbaton, alla kai Patera idion elegen ton Theon, **ison heauton poiōn tō Theō**.*
+
+*Ison heauton poiōn tō Theō*: haciéndose igual a Dios. La igualdad del Hijo con el Padre es reconocida incluso por los adversarios en el relato joánico. *Homoousios* articula técnicamente lo que Juan narra: el Hijo es igual al Padre en naturaleza.
+
+**Juan 10:30** (c. 90-100 d.C.)
+
+> *Yo y el Padre **uno somos**.*
+>
+> *Egō kai ho Patēr **hen esmen**.*
+
+*Hen esmen*: uno somos. El neutro *hen* (uno, una cosa) indica unidad de naturaleza, no de persona (que sería *heis*, uno en masculino). Padre e Hijo son uno en lo que son, no en quién son. Esto es lo que *homoousios* codifica.
 
 ---
 
-## 2.5 Lo que esta página no hace
+### «Por quien todas las cosas fueron hechas» · La mediación creadora
 
-Antes de cerrar, conviene precisar tres limitaciones del análisis presentado, para que el alcance del argumento quede claro.
+*Di' hou ta panta egeneto.*
 
-**Primera limitación.** La página no defiende que el Nuevo Testamento enseñe ya la doctrina trinitaria nicena en sentido apologético. Tal defensa requeriría tematizar la divinidad del Hijo y del Espíritu frente a posiciones unitarias contemporáneas, examinar textos como el prólogo joánico, la fórmula bautismal de Mateo 28:19, las doxologías que aplican *Theos* a Jesús, y muchos otros. Este examen es legítimo y necesario en su propio contexto, pero no es el objeto de este sitio. El sitio asume el patrimonio conciliar como objeto de análisis, no como tesis a defender.
+**1 Corintios 8:6** (de nuevo, la segunda mitad)
 
-**Segunda limitación.** La página no examina otros patrones lingüísticos del Nuevo Testamento que pueden articular la cristología en clave distinta del patrón fontal. Hay textos donde el Hijo recibe el predicado *Theos* directamente (Romanos 9:5, Tito 2:13, 2 Pedro 1:1, Hebreos 1:8, Juan 20:28). Hay fórmulas trinitarias donde las tres personas aparecen coordinadas (2 Corintios 13:13, Mateo 28:19). Hay doxologías que aplican gloria a Jesús sin la mediación fontal explícita. Estos textos existen y articulan otros aspectos del horizonte cristológico neotestamentario. La página se concentra en el patrón fontal específicamente porque ese patrón es el que la gramática nicena recoge como núcleo estructural. Los otros textos enriquecen el horizonte pero no contradicen el patrón aquí examinado.
+> *...y un Señor, Jesucristo, **por medio de quien** son todas las cosas.*
+>
+> *...kai heis Kyrios Iēsous Christos, **di' hou** ta panta.*
 
-**Tercera limitación.** La página articula la continuidad entre el lenguaje neotestamentario fontal y la gramática nicena. Esta continuidad es estructural, no apologética. No sostiene que toda lectura del Nuevo Testamento deba aceptar la gramática nicena, ni que cualquier lectura no-nicena traicione los textos. Sostiene algo más limitado: que la gramática nicena lee los textos con continuidad estructural reconocible, y que esta continuidad es dato verificable independientemente de la convicción del lector sobre la doctrina trinitaria.
+Pablo usa *dia* con genitivo: **por medio de**. No *hypo* (por, como agente directo). El Padre es *ex hou* (de quien) proceden las cosas. El Hijo es *di' hou* (por medio de quien) las cosas llegan a ser. Dos preposiciones, dos funciones. El credo las reproduce exactamente.
 
-La cuestión de cómo la articulación nicena se desarrolla en la patrística pre-conciliar y post-conciliar, y de cómo se categoriza el tipo de teísmo que articula, se examina en las páginas siguientes.
+**Juan 1:3** (c. 90-100 d.C.)
+
+> *Todas las cosas **por medio de él** fueron hechas, y sin él nada de lo que ha sido hecho fue hecho.*
+>
+> *Panta **di' autou** egeneto, kai chōris autou egeneto oude hen ho gegonen.*
+
+*Di' autou* (por medio de él): Juan usa la misma preposición *dia* que Pablo. El Logos es el agente mediador de la creación, no el hacedor originario (que es el Padre, como establece Génesis 1:1 y el primer artículo del credo).
+
+**Colosenses 1:16** (c. 55-62 d.C.)
+
+> *Porque en él fueron creadas todas las cosas... todo fue creado **por medio de él** y para él.*
+>
+> *Hoti en autō ektisthē ta panta... ta panta **di' autou** kai eis auton ektistai.*
+
+De nuevo *di' autou*: por medio de él.
+
+**Hebreos 1:2** (c. 60-90 d.C.)
+
+> *En estos últimos días nos ha hablado por el Hijo, a quien constituyó heredero de todo, y **por medio de quien** hizo el universo.*
+>
+> *...elalēsen hēmin en Huiō, hon ethēken klēronomon pantōn, **di' hou** kai epoiēsen tous aiōnas.*
+
+El sujeto de "hizo" es Dios (el Padre). El Hijo es el medio (*di' hou*) por el cual el Padre crea. La distribución es constante en todo el Nuevo Testamento: el Padre crea; el Hijo media.
+
+---
+
+### «Y en el Espíritu Santo»
+
+*Kai eis to Pneuma to Hagion.*
+
+El credo de 325 menciona al Espíritu sin desarrollo. Esto refleja que en la década del 320, la controversia era cristológica (contra Arrio), no pneumatológica. El Nuevo Testamento sí menciona al Espíritu en múltiples contextos, pero Nicea 325 no articuló doctrinalmente esa presencia. La articulación conciliar del Espíritu será examinada en la página 4.
+
+---
+
+### Los anatemas · «Engendrado, no hecho»
+
+El credo condena a quienes dicen que el Hijo fue "hecho de la nada" o que "hubo cuando no era". ¿Distingue el Nuevo Testamento entre ser engendrado y ser hecho?
+
+**Juan 1:3 + 1:14** (c. 90-100 d.C.)
+
+> *Todas las cosas por medio de él **fueron hechas** [egeneto]... Y el Logos **se hizo** [egeneto] carne.*
+>
+> vs.
+>
+> *...el **unigénito** [monogenēs] del Padre.*
+
+Juan distingue: las cosas fueron *hechas* (*egeneto*, devenir, llegar a ser); el Logos es *monogenēs* (único engendrado). El Logos no "llegó a ser": el Logos "era" (*ēn*, imperfecto, existencia continua) en el principio. Las cosas fueron hechas por medio de él. Él no fue hecho. La distinción entre "ser" (*einai*) y "devenir" (*ginesthai*) recorre todo el prólogo joánico.
+
+---
+
+## 2.3 Visión de conjunto
+
+| Cláusula de Nicea | Base bíblica principal |
+|---|---|
+| Un Dios, Padre | 1 Cor 8:6 · Mc 12:29 · Ef 4:6 · Jn 17:3 · 1 Tim 2:5 |
+| Un Señor, Jesucristo | 1 Cor 8:6 · Fil 2:11 · Hch 2:36 |
+| Hijo unigénito | Jn 1:18 · Jn 3:16 |
+| Engendrado del Padre | Jn 16:28 · Jn 8:42 · Jn 5:26 |
+| Luz de luz | 1 Jn 1:5 |
+| Dios verdadero de Dios verdadero | Jn 1:1 (ho Theos / Theos) |
+| Consustancial al Padre | Jn 1:1c · Jn 5:18 · Jn 10:30 |
+| Por quien todas las cosas fueron hechas | 1 Cor 8:6 · Jn 1:3 · Col 1:16 · Heb 1:2 |
+| Engendrado, no hecho | Jn 1:3 vs. Jn 1:14 (egeneto vs. monogenēs) |
+| Y en el Espíritu Santo | (Sin desarrollo en 325) |
+
+El credo de Nicea no inventó su gramática. La recibió del Nuevo Testamento. Cada cláusula tiene raíz en textos apostólicos identificables. Lo que Nicea hizo fue articular esa gramática con vocabulario técnico (*homoousios*, *gennēthenta ou poiēthenta*) para cerrar vías de lectura que comprometían la divinidad plena del Hijo (arrianismo) sin abandonar la identificación del "un Dios" con el Padre.
 
 ---
 
@@ -215,23 +315,17 @@ La cuestión de cómo la articulación nicena se desarrolla en la patrística pr
 **Sobre 1 Corintios 8:6 y la cristología paulina:**
 - N.T. Wright, *The Climax of the Covenant* (T&T Clark, 1991), capítulo 6.
 - Larry Hurtado, *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity* (Eerdmans, 2003).
-- James D.G. Dunn, *The Theology of Paul the Apostle* (Eerdmans, 1998), capítulo 10.
 - Gordon D. Fee, *Pauline Christology: An Exegetical-Theological Study* (Hendrickson, 2007).
 
-**Sobre el patrón joánico y el prólogo:**
+**Sobre el prólogo joánico y Juan 1:1:**
 - C.K. Barrett, *The Gospel According to St John*, segunda edición (Westminster, 1978).
 - Raymond E. Brown, *The Gospel According to John I-XII*, Anchor Bible 29 (Doubleday, 1966).
 - Marianne Meye Thompson, *The God of the Gospel of John* (Eerdmans, 2001).
-- Andreas J. Köstenberger y Scott R. Swain, *Father, Son, and Spirit: The Trinity and John's Gospel*, New Studies in Biblical Theology 24 (IVP, 2008).
 
-**Sobre la causalidad mediadora (*dia*) y las preposiciones cristológicas:**
-- Murray J. Harris, *Prepositions and Theology in the Greek New Testament* (Zondervan, 2012), capítulos sobre *ek* y *dia*.
+**Sobre las preposiciones cristológicas:**
+- Murray J. Harris, *Prepositions and Theology in the Greek New Testament* (Zondervan, 2012).
 - Murray J. Harris, *Jesus as God: The New Testament Use of Theos in Reference to Jesus* (Baker, 1992).
-
-**Sobre la articulación neotestamentaria de la unicidad divina:**
-- Richard Bauckham, *Jesus and the God of Israel: God Crucified and Other Studies on the New Testament's Christology of Divine Identity* (Eerdmans, 2008).
-- N.T. Wright, *Paul and the Faithfulness of God*, dos volúmenes (Fortress, 2013), libro III.
 
 ---
 
-*Página 2 de 14* · [← Página 1: Nicea literal](01_el_concilio_de_nicea.md) · [Página 3: Anclaje patrístico de Nicea →](03_fundamento_patristico.md)
+*Página 2 de 15* · [← Página 1: Nicea literal](01_el_concilio_de_nicea.md) · [Página 3: Fundamento Patrístico →](03_fundamento_patristico.md)
