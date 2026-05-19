@@ -209,8 +209,8 @@ El credo opera con tres mecanismos gramaticales:
 Es igualmente importante registrar lo que el texto de Nicea **no afirma**:
 
 - **No dice que "Dios" sea un término aplicable por igual a los tres.** Lo aplica al Padre por identidad y al Hijo por predicado derivado. Al Espíritu no se lo aplica.
-- **No atribuye la creación al Hijo como hacedor directo.** El Padre es el *poiētēs* (hacedor); del Hijo dice que las cosas fueron hechas *por medio de* él (*dia*). La diferencia preposicional es deliberada.
-- **No dice que la Trinidad sea el creador.** Atribuye la creación al Padre y la mediación creadora al Hijo. La palabra "Trinidad" no aparece en el credo.
+- **No atribuye la creación al Hijo como fuente u origen.** El credo identifica al Padre como el hacedor (*poiētēs*): la fuente, el origen, el creador. Del Hijo dice que las cosas fueron hechas *por medio de* él (*dia*), no *por* él como fuente. La diferencia preposicional es deliberada: el Padre crea; el Hijo media la creación.
+- **No dice que la Trinidad sea el creador.** El credo atribuye la creación al Padre como fuente y al Hijo como mediador. La palabra "Trinidad" no aparece en el texto.
 - **No desarrolla la doctrina del Espíritu Santo.** Lo menciona en una línea, sin títulos ni relaciones.
 - **No usa el lenguaje de "relaciones subsistentes", "personas de la Trinidad" ni "esencia divina compartida".** Ese vocabulario pertenece a articulaciones posteriores.
 
