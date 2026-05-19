@@ -35,8 +35,8 @@ La pregunta del sitio es entonces igual de directa:
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
-- **Examinar la primera articulación** con sus detalles propios, sin asumir lo que dice.
-- **Examinar la articulación posterior** con la misma atención, sin proyectar la primera sobre ella.
+- **Examinar la articulación de Nicea (325)** en su gramática original, sin asumir lo que dice.
+- **Examinar la Trinidad que el cristianismo confiesa hoy**, con la misma atención, sin proyectar la primera sobre ella.
 - **Compararlas** solo después de conocer ambas con precisión.
 
 La respuesta no se da en esta página. El sitio entero es el examen.
