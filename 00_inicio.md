@@ -29,9 +29,9 @@ Desde que el Concilio de Nicea formuló en el año 325 la primera definición co
 
 La pregunta del sitio es entonces igual de directa:
 
-> **Opción A:** ¿Son la misma doctrina expresada con vocabularios distintos, como dos traducciones del mismo texto?
+> **Opción A:** ¿La Trinidad que confesamos hoy es la misma que Nicea articuló, solo que con vocabulario actualizado?
 
-> **Opción B:** ¿Son trinitarismos estructuralmente diferentes que circulan bajo el mismo nombre?
+> **Opción B:** ¿Confesamos una Trinidad distinta a la de Nicea, pero con sus mismas palabras?
 
 Para responderla con honestidad, hay que hacer tres cosas:
 
