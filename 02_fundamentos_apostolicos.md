@@ -108,11 +108,11 @@ El credo reproduce esta distribución exacta: un Dios (el Padre), un Señor (Jes
 
 **Juan 1:18** (c. 90-100 d.C.)
 
-> *A Dios nadie le ha visto jamás; el **unigénito Dios**, que está en el seno del Padre, él lo ha dado a conocer.*
+> *A Dios nadie le ha visto jamás; el **Hijo unigénito**, que está en el seno del Padre, él lo ha dado a conocer.*
 >
-> *Theon oudeis heōraken pōpote; **monogenēs Theos** ho ōn eis ton kolpon tou Patros ekeinos exēgēsato.*
+> *Theon oudeis heōraken pōpote; **monogenēs Huios** ho ōn eis ton kolpon tou Patros ekeinos exēgēsato.*
 
-*Monogenēs Theos* (Dios unigénito): lectura textual sostenida por los manuscritos más antiguos (P66, P75, Códice Vaticano, Códice Sinaítico). El Hijo es *monogenēs* (único en su clase) y está "en el seno del Padre" (*eis ton kolpon tou Patros*). La relación es de intimidad y de origen: el Hijo viene del Padre.
+Una nota textual: los manuscritos transmiten dos variantes de este versículo. Algunos leen *monogenēs Theos* (Dios unigénito); otros leen *monogenēs Huios* (Hijo unigénito). La lectura *Huios* es la que Ireneo de Lyon (c. 180 d.C.) ya usa al comentar el prólogo joánico, cuando escribe: "Él es el Hijo Unigénito del único Dios" (*Contra las herejías* I.9.2-3). Es también la que el credo de Nicea reproduce al decir *ton Huion tou Theou, ton monogenē* (el Hijo de Dios, el unigénito). Sea cual sea la lectura que se adopte, el dato relevante para esta página es el mismo: el Hijo es *monogenēs* (único en su clase) y está "en el seno del Padre" (*eis ton kolpon tou Patros*). La relación es de intimidad y de origen: el Hijo viene del Padre.
 
 **Juan 3:16** (c. 90-100 d.C.)
 
@@ -120,7 +120,7 @@ El credo reproduce esta distribución exacta: un Dios (el Padre), un Señor (Jes
 >
 > *Houtōs gar ēgapēsen ho Theos ton kosmon, hōste ton **Huion ton monogenē** edōken.*
 
-Dios (el Padre) es el que da; el Hijo unigénito es el dado. La dirección fontal es explícita en la sintaxis.
+Dios (el Padre) es el que da; el Hijo unigénito es el dado. La dirección es explícita en la sintaxis.
 
 ---
 
