@@ -4,7 +4,7 @@
 >
 > *Πιστεύομεν εἰς ἕνα Θεόν, Πατέρα παντοκράτορα...*
 >
-> Símbolo niceno-constantinopolitano, apertura (381)
+> Símbolo del Concilio de Nicea (325)
 
 ---
 
@@ -14,15 +14,15 @@ Toda discusión sobre la doctrina trinitaria conciliar tiene que comenzar por el
 
 Este análisis textual es preliminar y necesario. Toda interpretación posterior, ortodoxa, católica o protestante, opera sobre una lectura del símbolo. Si la lectura es imprecisa, la interpretación hereda la imprecisión. Si la lectura es fiel, la interpretación tiene base para discutir lo que añade o resta al dato textual.
 
-La tesis de esta página es modesta y verificable: el símbolo niceno-constantinopolitano no afirma textualmente lo que el sentido común contemporáneo asume que afirma. Específicamente, no afirma que "Dios es uno en tres personas" como sujeto unitario que se distingue internamente en tres modos relacionales. Afirma algo distinto y, en sentido propio, más preciso.
+La tesis de esta página es modesta y verificable: el símbolo de Nicea no afirma textualmente lo que el sentido común contemporáneo asume que afirma. Específicamente, no afirma que "Dios es uno en tres personas" como sujeto unitario que se distingue internamente en tres modos relacionales. Afirma algo distinto y, en sentido propio, más preciso.
 
 ---
 
-## 1.2 El texto del símbolo
+## 1.2 El texto del símbolo de Nicea (325)
 
-El símbolo niceno-constantinopolitano fue promulgado por el Concilio de Constantinopla I (381) como expansión y reformulación del símbolo de Nicea I (325). Es el credo que las iglesias ortodoxa, católica y la mayoría de iglesias protestantes confiesan como expresión normativa de la fe trinitaria.
+El símbolo de Nicea fue promulgado por el primer Concilio ecuménico en el año 325. Es el primer credo conciliar de la historia cristiana y la base sobre la cual el Concilio de Constantinopla (381) articulará su expansión posterior (examinada en la página 4).
 
-Se presenta a continuación en griego original, transliteración y traducción castellana, dividido en sus tres artículos principales.
+Se presenta a continuación el texto de Nicea 325 en griego original, transliteración y traducción castellana, dividido en sus artículos principales.
 
 ### Primer artículo: el Padre
 
@@ -56,12 +56,18 @@ Se presenta a continuación en griego original, transliteración y traducción c
 | Original | Transliteración | Traducción |
 |----------|----------------|------------|
 | Καὶ εἰς τὸ Πνεῦμα τὸ Ἅγιον | Kai eis to Pneuma to Hagion | Y en el Espíritu Santo |
-| τὸ Κύριον | to Kyrion | el Señor |
-| τὸ ζῳοποιόν | to zōopoion | el dador de vida |
-| τὸ ἐκ τοῦ Πατρὸς ἐκπορευόμενον | to ek tou Patros ekporeuomenon | el que del Padre procede |
-| τὸ σὺν Πατρὶ καὶ Υἱῷ συμπροσκυνούμενον | to syn Patri kai Huiō symproskynoumenon | el que con el Padre y el Hijo es coadorado |
-| καὶ συνδοξαζόμενον | kai syndoxazomenon | y conglorificado |
-| τὸ λαλῆσαν διὰ τῶν προφητῶν | to lalēsan dia tōn prophētōn | el que habló por medio de los profetas |
+
+Esto es todo lo que Nicea 325 dice sobre el Espíritu Santo. Una sola línea, sin desarrollo doctrinal. El contraste con la extensión del segundo artículo (sobre el Hijo) es notable y refleja que la controversia del momento era cristológica (contra Arrio), no pneumatológica.
+
+La articulación expandida sobre el Espíritu (Señor, dador de vida, que del Padre procede, coadorado y conglorificado) será obra del Concilio de Constantinopla en 381, impulsada por los Capadocios contra los pneumatómacos. Esa expansión se examina en la página 4.
+
+### Los anatemas de Nicea 325
+
+A diferencia del símbolo de 381 (que eliminó los anatemas del cuerpo del credo), el símbolo original de Nicea incluía condenas explícitas al final:
+
+> *A quienes digan "hubo cuando no era", o "antes de ser engendrado no era", o "fue hecho de la nada", o que el Hijo de Dios es de otra hipóstasis o sustancia, o que es creado, o cambiable, o alterable, a estos los anatematiza la Iglesia católica y apostólica.*
+
+Estos anatemas son específicamente anti-arrianos y definen el contorno polémico preciso de Nicea 325.
 
 ---
 
@@ -77,7 +83,7 @@ Esta secuencia tiene una construcción gramatical que conviene examinar con aten
 
 En griego clásico y koiné, esta construcción es una aposición: dos sintagmas nominales en el mismo caso, yuxtapuestos sin coordinador, donde el segundo especifica, identifica o aclara al primero. La fórmula equivalente en castellano sería: "creemos en un Dios, [a saber], el Padre todopoderoso".
 
-La consecuencia gramatical es directa. *Hena Theon* y *Patera* refieren al mismo referente. El "un Dios" del símbolo se identifica gramaticalmente con el Padre. No con una esencia divina compartida por tres personas, no con la Trinidad como sujeto unitario, no con la divinidad en abstracto. Con el Padre.
+La consecuencia gramatical es directa. *Hena Theon* y *Patera* refieren al mismo referente. El "un Dios" del símbolo de Nicea se identifica gramaticalmente con el Padre. No con una esencia divina compartida por tres personas, no con la Trinidad como sujeto unitario, no con la divinidad en abstracto. Con el Padre.
 
 Es importante señalar que esta identificación no niega de ninguna forma la divinidad plena ni la consustancialidad del Hijo. El mismo símbolo que identifica al "un Dios" con el Padre declara inmediatamente después que el Hijo es "Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre". La gramática fontal no distribuye grados de divinidad; distribuye posiciones en el orden de origen. El Hijo es plenamente Dios, con la misma divinidad del Padre, pero la recibe del Padre como su fuente. Afirmar que el "un Dios" es el Padre es afirmar de dónde viene la divinidad; no es negar que el Hijo la posea plenamente.
 
@@ -85,9 +91,9 @@ Esta lectura no es una hipótesis exegética entre varias. Es la lectura sintác
 
 ---
 
-## 1.4 La estructura tripartita del símbolo
+## 1.4 La estructura del símbolo de 325
 
-Examinemos ahora cómo el símbolo completo despliega este mismo patrón paulino, ampliándolo para incluir al Espíritu Santo. El credo se organiza en tres artículos, cada uno dedicado a una persona distinta. Cada artículo identifica a su referente con títulos propios y especifica su relación con las demás personas:
+Examinemos ahora cómo el símbolo de Nicea despliega este mismo patrón paulino. El credo se organiza en artículos, cada uno dedicado a una persona distinta. Los dos primeros artículos (Padre e Hijo) están extensamente desarrollados; el tercero (Espíritu) queda sin desarrollo, pendiente de la articulación posterior de 381:
 
 **Sobre el Padre.** *Hena Theon, Patera pantokratora*. El Padre es identificado como el único Dios y como hacedor del cielo y la tierra. La actividad creadora se le atribuye en primera instancia.
 
@@ -101,7 +107,7 @@ Conviene observar tres precisiones que la traducción castellana puede oscurecer
 
 *Tercera precisión: la respuesta al arrianismo.* La cristología nicena es más explícita que la paulina en aplicar el predicado *Theos* al Hijo, y esto resuelve la cuestión arriana. Arrio negaba precisamente la divinidad plena del Hijo, sosteniendo que el Hijo era la primera y más excelente de las criaturas pero no plenamente Dios. La fórmula *Theon alēthinon ek Theou alēthinou, gennēthenta ou poiēthenta, homoousion tō Patri* (Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre) cierra cada vía de escape arriana: el Hijo es Dios verdadero, no honorífico; es engendrado, no creado; es consustancial, no de naturaleza inferior. Pero al hacerlo, el símbolo no colapsa la distinción entre el Padre como fuente y el Hijo como engendrado: la mantiene precisamente al cualificar el predicado *Theos* con *ek Theou*.
 
-**Sobre el Espíritu.** *To Pneuma to Hagion, to Kyrion, to zōopoion*. El Espíritu recibe títulos plenamente divinos: *Kyrion* (Señor), *zōopoion* (dador de vida). El símbolo no usa el predicado *Theos* aplicado al Espíritu, pero los títulos atribuidos y la cláusula de coadoración (*syn Patri kai Huiō symproskynoumenon kai syndoxazomenon*, con el Padre y el Hijo coadorado y conglorificado) afirman la divinidad plena. Conviene notar que esta coadoración es dato conciliar: es lo que el símbolo de 381 afirma como articulación doctrinal, no necesariamente una descripción directa de la práctica litúrgica neotestamentaria. La cuestión de qué tipo de honra recibe el Hijo en el NT (proskyneo (προσκυνέω, proskynéō) en contextos narrativos, doxologías compartidas) y si esa honra constituye latría (λατρεία, latreía) en sentido estricto es debatida y queda fuera del alcance de este sitio. La procesión se especifica: *ek tou Patros ekporeuomenon*, del Padre procediendo. La preposición *ek* es la misma que en la generación del Hijo. El Padre es fuente del Hijo por generación y fuente del Espíritu por procesión.
+**Sobre el Espíritu.** *Kai eis to Pneuma to Hagion.* Nicea 325 menciona al Espíritu sin desarrollo. No le atribuye títulos, no especifica su procesión, no articula su relación con el Padre y el Hijo. Esta brevedad no es descuido: refleja que la controversia pneumatológica (contra los pneumatómacos) aún no se había planteado en 325. La articulación plena del Espíritu (Señor, dador de vida, que procede del Padre, coadorado y conglorificado) será obra de Constantinopla 381, examinada en la página 4.
 
 ---
 
@@ -111,11 +117,11 @@ Tras este análisis textual, se imponen tres observaciones que orientan el resto
 
 ### Primera: la unidad afirmada es fontal
 
-El símbolo afirma un solo Dios. No lo afirma como una esencia abstracta compartida por tres personas igualmente posicionadas dentro de ella. Lo afirma identificando al único Dios con la persona del Padre como fuente. El Hijo es Dios *de* Dios; el Espíritu procede *de* el Padre. La unidad de la divinidad fluye *fontalmente* del Padre.
+El símbolo de Nicea afirma un solo Dios. No lo afirma como una esencia abstracta compartida por tres personas igualmente posicionadas dentro de ella. Lo afirma identificando al único Dios con la persona del Padre como fuente. El Hijo es Dios *de* Dios. La unidad de la divinidad fluye *fontalmente* del Padre.
 
 Una aclaración léxica es necesaria aquí. El adjetivo "fontal" y el sustantivo "fontalidad" no pertenecen al vocabulario estándar del castellano cotidiano. Derivan del latín *fons*, *fontis* (fuente, manantial), y en el contexto de este sitio designan una unicidad que se articula desde un punto de origen personal, no desde una esencia abstracta compartida. Decir que la unidad divina es "fontal" significa que fluye de una fuente concreta (el Padre), como un río fluye de un manantial. El término es técnico pero insustituible: captura con precisión lo que las preposiciones griegas *ek* (desde) y *dia* (por medio de) articulan en el texto bíblico y conciliar. A lo largo del sitio, "fontal" y "fontalidad" se usan consistentemente en este sentido.
 
-Esta es la configuración que la patrística griega del siglo IV denomina *monarchia tou Patros* (μοναρχία τοῦ Πατρός), la monarquía del Padre. El Padre es la única *aitía* (αἰτία, causa), *archē* (ἀρχή, principio), *pēgē* (πηγή, fuente) en la divinidad. Esta afirmación no implica que el Hijo o el Espíritu sean menos divinos: la consustancialidad (categoría que el concilio de 325 formulará técnicamente como *homoousios* (ὁμοούσιος, homoousios)) y la coadoración que el símbolo de 381 afirma excluyen esa lectura. Implica que la unidad divina tiene un orden, un *taxis* (τάξις, orden o disposición interna, es decir, una estructura donde cada persona ocupa una posición específica en relación con las demás, sin que ello signifique desigualdad de naturaleza), donde el Padre ocupa el lugar fontal sin que ello introduzca grados ontológicos en la divinidad.
+Esta es la configuración que la patrística griega del siglo IV denominará *monarchia tou Patros* (μοναρχία τοῦ Πατρός), la monarquía del Padre. El Padre es la única *aitía* (αἰτία, causa), *archē* (ἀρχή, principio), *pēgē* (πηγή, fuente) en la divinidad. Esta afirmación no implica que el Hijo sea menos divino: la consustancialidad que el propio concilio de 325 formula técnicamente como *homoousios* (ὁμοούσιος) excluye esa lectura. Implica que la unidad divina tiene un orden, un *taxis* (τάξις, orden o disposición interna, es decir, una estructura donde cada persona ocupa una posición específica en relación con las demás, sin que ello signifique desigualdad de naturaleza), donde el Padre ocupa el lugar fontal sin que ello introduzca grados ontológicos en la divinidad. Los Capadocios desarrollarán esta articulación técnicamente en la segunda mitad del siglo IV (página 4).
 
 ### Segunda: los predicados se distribuyen
 
@@ -123,13 +129,13 @@ El símbolo conserva la distribución paulina. *Theos* es predicado del Padre co
 
 ### Tercera: lo que el símbolo afirma positivamente
 
-Una formulación positiva sintetiza las dos observaciones anteriores. El símbolo niceno-constantinopolitano dice:
+Una formulación positiva sintetiza las dos observaciones anteriores. El símbolo de Nicea dice:
 
-«Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero, consustancial al Padre; y en el Espíritu Santo, Señor y dador de vida, que del Padre procede.»
+«Creemos en un Dios, Padre todopoderoso, hacedor del cielo y la tierra; y en un Señor, Jesucristo, Hijo de Dios, engendrado del Padre, Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre, por quien todas las cosas fueron hechas; y en el Espíritu Santo.»
 
-Tres artículos, tres referentes identificados con títulos propios, una asimetría fontal articulada en las preposiciones griegas: el Hijo es Dios *de* Dios (*ek Theou*), engendrado *del* Padre (*ek tou Patros*); el Espíritu procede *del* Padre (*ek tou Patros*). La unidad de la divinidad fluye del Padre como fuente, y los tres comparten la misma naturaleza divina sin que esa participación elimine el orden de origen.
+Dos artículos extensos, un tercero sin desarrollo. Una asimetría fontal articulada en las preposiciones griegas: el Hijo es Dios *de* Dios (*ek Theou*), engendrado *del* Padre (*ek tou Patros*). La unidad de la divinidad fluye del Padre como fuente, y el Hijo comparte la misma naturaleza divina sin que esa participación elimine el orden de origen.
 
-Esta es la articulación textual del símbolo. La pregunta que sigue es directa: ¿de dónde viene este patrón? ¿Es invención de los Padres conciliares del siglo IV, o tiene raíz en el lenguaje del Nuevo Testamento? La página siguiente examina esa cuestión en los textos paulinos y joánicos.
+Esta es la articulación textual de Nicea 325. La pregunta que sigue es directa: ¿de dónde viene este patrón? ¿Es invención de los Padres conciliares del siglo IV, o tiene raíz en el lenguaje del Nuevo Testamento? La página siguiente examina esa cuestión en los textos paulinos y joánicos.
 
 ---
 
