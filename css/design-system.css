@@ -79,6 +79,10 @@
   --selection-bg: var(--accent-neutral);
   --selection-color: var(--text-inverse);
 
+  /* Unified Quote Block Styles */
+  --quote-border: var(--accent-neutral);
+  --quote-bg: var(--accent-neutral-bg);
+
   /* Typography */
   --font-body: 'Cormorant Garamond', 'Noto Serif', Georgia, serif;
   --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -195,6 +199,10 @@
   --link-hover-color: var(--accent-nicene-dim);
   --selection-bg: var(--accent-nicene);
   --selection-color: var(--text-inverse);
+
+  /* Unified Quote Block Styles */
+  --quote-border: var(--accent-gold);
+  --quote-bg: var(--accent-gold-bg);
 }
 
 /* ---- Base Reset ---- */

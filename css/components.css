@@ -58,31 +58,19 @@
   position: relative;
   margin: var(--space-xl) 0;
   padding: var(--space-lg) var(--space-xl);
-  background: var(--bg-secondary);
+  background: var(--quote-bg);
   border-radius: var(--radius-md);
-  border-left: 4px solid var(--border-color);
+  border-left: 4px solid var(--quote-border);
 }
 
-.quote-source--biblical {
-  border-left-color: var(--accent-gold);
-  background: var(--accent-gold-bg);
-}
-
+.quote-source--biblical,
 .quote-source--nicene,
-.quote-source--patristic-nicene {
-  border-left-color: var(--accent-nicene);
-  background: var(--accent-nicene-bg);
-}
-
+.quote-source--patristic-nicene,
 .quote-source--augustinian,
-.quote-source--patristic-augustinian {
-  border-left-color: var(--accent-augustine);
-  background: var(--accent-augustine-bg);
-}
-
+.quote-source--patristic-augustinian,
 .quote-source--conciliar {
-  border-left-color: var(--accent-neutral);
-  background: var(--accent-neutral-bg);
+  border-left-color: var(--quote-border);
+  background: var(--quote-bg);
 }
 
 .quote-source__text {
