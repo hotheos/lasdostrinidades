@@ -10,13 +10,11 @@
 
 ## 3.1 Por qué importa este anclaje
 
-La página 1 expuso el texto del credo de Nicea (325) y mostró que identifica gramaticalmente al único Dios con la persona del Padre como fuente. La página 2 examinó el anclaje bíblico de esa gramática: cómo el patrón paulino y joánico articula al Padre como fuente y al Hijo como aquel que recibe del Padre y media la actividad divina hacia el mundo. La pregunta que esta página aborda es complementaria: ¿qué hicieron los teólogos cristianos entre el cierre del Nuevo Testamento (final del siglo I) y el Concilio de Constantinopla (381) con ese patrón fontal?
+La página 1 expuso el texto del credo de Nicea (325) y mostró que identifica gramaticalmente al único Dios con la persona del Padre como fuente. La página 2 examinó el anclaje bíblico de esa gramática: cómo el patrón paulino y joánico articula al Padre como fuente y al Hijo como aquel que recibe del Padre y media la actividad divina hacia el mundo. La pregunta que esta página aborda es complementaria: ¿qué hicieron los teólogos cristianos entre el cierre del Nuevo Testamento (final del siglo I) y el Concilio de Nicea (325) con ese patrón fontal?
 
 La pregunta tiene importancia específica. Si el patrón fontal estuviera atestiguado solo en el Nuevo Testamento y solo en el símbolo conciliar, separados por más de tres siglos sin testimonio intermedio, podría sostenerse que la gramática nicena es invención conciliar sin continuidad histórica real con el lenguaje neotestamentario. Si en cambio se documenta que los teólogos cristianos de los siglos II, III y IV articulan continuamente el mismo patrón fontal, con vocabulario distinto pero estructura común, entonces el símbolo conciliar se entiende como codificación de una tradición continua, no como innovación tardía.
 
-Esta página examina cuatro autores que articulan ese consenso patrístico previo a la consolidación capadocia: Justino Mártir e Ireneo de Lyon en el siglo II, Tertuliano de Cartago en el siglo III, y Atanasio de Alejandría en el siglo IV. Cada uno opera en contexto polémico distinto, con vocabulario distinto, y sin embargo articula el mismo patrón estructural: el Padre como fuente única, el Hijo como Dios recibido del Padre, el Espíritu como articulado en relación con la fuente.
-
-La consolidación capadocia y el Concilio de Constantinopla de 381 reciben tratamiento propio en la página siguiente. Esta página se limita al consenso ante-niceno y a la articulación nicena temprana, que es la base sobre la cual la sistematización capadocia operará.
+Esta página examina cinco autores que articulan ese consenso patrístico previo a la consolidación capadocia: Justino Mártir e Ireneo de Lyon en el siglo II, Tertuliano de Cartago en el siglo III, y Alejandro y Atanasio de Alejandría en el siglo IV. Cada uno opera en contexto polémico distinto, con vocabulario distinto, y sin embargo articula el mismo patrón estructural: el Padre como fuente única, el Hijo como Dios recibido del Padre.
 
 ---
 
@@ -30,11 +28,17 @@ Justino Mártir (c. 100-165), filósofo cristiano de origen palestinense, escrib
 >
 > Justino Mártir, *Primera Apología* 13
 
-La articulación es reveladora. El Padre es *ho ontōs Theos* (el Dios verdaderamente, en sentido absoluto). El Hijo ocupa *deutera chōra* (segundo lugar). El Espíritu profético se sitúa *en tritē taxei* (en el tercer rango). Hay un orden asimétrico real: el Padre es el referente primario de "Dios", el Hijo y el Espíritu ocupan posiciones cualificadas en relación con esa fuente.
+La articulación es reveladora. El Padre es el Dios en sentido absoluto (*ho ontōs Theos*). El Hijo ocupa el segundo lugar (*deutera chōra*). El Espíritu profético se sitúa en el tercer rango (*en tritē taxei*). Hay un orden asimétrico real: el Padre es el referente primario de "Dios", el Hijo y el Espíritu ocupan posiciones cualificadas en relación con esa fuente.
 
-Justino no usa vocabulario técnico posterior. No tiene *homoousios*, no tiene *hypostasis* en sentido estabilizado, no tiene la distinción entre cualidad esencial compartida y unicidad personal-fontal. Su lenguaje es pre-técnico. Pero la gramática estructural es la misma que el símbolo conciliar codificará dos siglos después: el "un Dios" es el Padre; el Hijo es Dios derivadamente, *del* Dios verdadero; el Espíritu completa la articulación en posición tercera.
+Justino no usa vocabulario técnico posterior. No tiene *homoousios*, no tiene *hypostasis* en sentido estabilizado, no tiene la distinción entre cualidad esencial compartida y unicidad personal-fontal. Su lenguaje es pre-técnico. Pero la gramática estructural es la misma que el símbolo conciliar codificará dos siglos después: el "un Dios" es el Padre; el Hijo es "Hijo del Dios verdaderamente existente" (*Huion tou ontōs Theou*), recibiendo su posición de la fuente paterna; el Espíritu completa la articulación en posición tercera.
 
-En su *Diálogo con Trifón*, Justino articula al Logos con vocabulario que muestra la continuidad con el patrón joánico examinado en la página anterior. El Logos es generado del Padre antes de toda creación, plenamente divino, y enviado al mundo por el Padre. La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que el Padre lo engendra eternamente y lo envía temporalmente. La divinidad del Logos no se compromete por esta estructura; al contrario, se articula precisamente en ella.
+En su *Diálogo con Trifón*, Justino es más explícito. En el capítulo 61, formula la generación del Logos con una imagen que anticipa la que Tertuliano y Nicea usarán después:
+
+> *Dios engendró antes de todas las criaturas un Principio, que era cierta potencia racional procedente de él mismo. [...] Como vemos que sucede en el caso de un fuego, que no disminuye cuando enciende otro, sino que permanece el mismo; y aquel que ha sido encendido por él igualmente existe por sí mismo, sin disminuir a aquel del que fue encendido.*
+>
+> Justino, *Diálogo con Trifón* 61
+
+Y en el capítulo 128, Justino precisa que esta potencia "fue engendrada del Padre, por su poder y voluntad, pero no por escisión, como si la esencia del Padre se dividiera" (*Diálogo con Trifón* 128). La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que procede de él como el fuego encendido procede del fuego que lo enciende — sin disminuirlo, sin separarse de su naturaleza, pero siendo realmente distinto de él.
 
 ---
 
@@ -66,7 +70,7 @@ Ireneo lee 1 Corintios 8:6 como articulación de la identificación "el único D
 >
 > Ireneo, *Adversus Haereses* III.9.1
 
-La afirmación es directa: cuando la Escritura usa el título "Dios" (*Theos*) de modo absoluto, refiere al Padre. La distribución paulina *heis Theos* aplicado al Padre y *heis Kyrios* aplicado al Hijo no es peculiaridad de un solo autor; es, para Ireneo, el consenso de toda la Escritura tal como los apóstoles lo transmitieron.
+La afirmación requiere lectura cuidadosa. Ireneo *no* está diciendo que el Hijo no sea divino. Lo que está diciendo es algo preciso sobre la distribución de los títulos en la Escritura: cuando profetas, apóstoles y el mismo Jesús usan el título "Dios" (*Theos*) de modo absoluto — sin calificación — refieren al Padre. La frase clave es "han confesado con sus propias palabras": Ireneo está leyendo el uso lingüístico escriturístico, no negando la divinidad del Hijo. El Hijo es "Hijo *de* Dios", "Señor" (*Kyrios*), pero el título "Dios" sin más apunta al Padre como referente. Esta es la distribución paulina de 1 Corintios 8:6 — "un Dios" (*heis Theos*) el Padre, "un Señor" (*heis Kyrios*) Jesucristo — que Ireneo lee no como peculiaridad de Pablo sino como consenso de toda la Escritura tal como los apóstoles lo transmitieron.
 
 **Tercero**, la oración de Ireneo en el mismo libro revela la gramática devocional operante en el cristianismo del siglo II:
 
@@ -80,13 +84,17 @@ La oración se dirige al Padre, identificado como "el único Dios verdadero, sob
 
 El dato que estos textos establecen no es que Justino e Ireneo sean "proto-nicenos" en un sentido que los haga precursores de una formulación posterior. Son testigos de una gramática que ya estaba en operación continua desde el Nuevo Testamento. Cuando el concilio de Nicea en 325 escribe *Pisteuomen eis hena Theon Patera pantokratora* ("Creemos en un Dios, Padre todopoderoso"), no está innovando. Está codificando lo que Ireneo había formulado como regla de fe apostólica 150 años antes, y lo que Justino había articulado como estructura trinitaria otros treinta años antes.
 
-Para Justino e Ireneo, "Dios" en sentido absoluto está siempre en aposición con el Padre como persona fontal, no con una esencia abstracta. La identificación del "un Dios" con el Padre como persona fontal es el horizonte operativo universal del siglo II, no una opción entre varias.
+Nótese lo que la gramática de estos dos autores del siglo II *no* contiene: ninguno de los dos formula algo como "creemos en un solo Dios: Padre, Hijo y Espíritu Santo". Para ambos, "Dios" en sentido absoluto está siempre en aposición con el Padre como persona fontal. El Hijo es "Hijo *de* Dios"; el Espíritu es "Espíritu *de* Dios". La identificación del "un Dios" con el Padre es el horizonte operativo universal del siglo II, no una opción entre varias.
 
 ---
 
 ## 3.4 Tertuliano: el latín cristiano del siglo III
 
-Más de un siglo después de Justino, Tertuliano de Cartago (c. 155-220) articula la primera doctrina trinitaria sustancial en lengua latina. Es importante examinarlo con cuidado por dos razones. Primera, porque introduce la fórmula *una substantia, tres personae* que el Occidente medieval considerará propia y que constituirá el vocabulario heredado por las generaciones posteriores. Segunda, porque Tertuliano opera con un horizonte conceptual específico, en su contexto polémico anti-monarquianista, que merece comprensión histórica precisa.
+Más de un siglo después de Justino, Tertuliano de Cartago (c. 155-220) articula la primera doctrina trinitaria sustancial en lengua latina. Es importante examinarlo con cuidado por tres razones. Primera, porque introduce la fórmula *una substantia, tres personae* que el Occidente medieval considerará propia. Segunda, porque su contexto polémico —el combate contra el modalismo monarquianista— condiciona su vocabulario y merece comprensión histórica precisa. Tercera, porque en su defensa de la distinción real entre las personas, Tertuliano mantiene explícitamente la monarquía del Padre como "un solo Dios" en sentido referencial concreto.
+
+### El adversario: el modalismo de Práxeas
+
+Antes de examinar la fórmula tertuliana conviene entender al adversario. Práxeas (y los modalistas monarquianistas en general) sostenían que Padre, Hijo y Espíritu Santo son tres modos o nombres de una sola persona divina, no tres sujetos realmente distintos. La consecuencia lógica era que el Padre mismo sufrió en la cruz (de ahí el nombre "patripasianismo" que Tertuliano les asigna). Para los modalistas, afirmar la distinción real entre Padre e Hijo equivalía a introducir dos dioses y destruir la monarquía divina. Tertuliano combate esta confusión: defiende que hay tres personas realmente distintas sin que la monarquía se destruya, porque la monarquía pertenece fontalmente al Padre y es administrada por él a través del Hijo y del Espíritu.
 
 ### La fórmula tertuliana
 
@@ -98,7 +106,15 @@ En *Adversus Praxean*, dirigido contra el modalismo monarquianista de Práxeas (
 >
 > Tertuliano, *Adversus Praxean* 2
 
-La fórmula es densa. Las tres personas comparten una sola sustancia. Y simultáneamente: hay un solo Dios, del cual los grados, formas y especies del Padre, del Hijo y del Espíritu son atribuidos. La articulación combina unidad sustancial con fontalidad del Padre como "un solo Dios" en sentido referencial concreto.
+La fórmula es densa y requiere lectura atenta. "Un solo Dios" (*unus Deus*): este es el Padre. "Del cual" (*ex quo*): la preposición marca la fontalidad. Los grados, formas y especies del Hijo y del Espíritu se atribuyen *a partir del* Padre. Las tres personas comparten una sola sustancia (*unius substantiae*), pero esa sustancia no es un sujeto abstracto previo a las personas: es la realidad divina que el Padre posee fontalmente y comunica al Hijo y al Espíritu.
+
+Tertuliano hace esta identificación aún más explícita en el capítulo 2 del mismo tratado, donde formula lo que llama la regla de fe recibida "desde el comienzo del evangelio":
+
+> *Nosotros creemos en un solo Dios, sujeto sin embargo a esta dispensación (que es nuestra palabra para "economía"): que el un solo Dios tiene también un Hijo, su Verbo, que ha procedido de él mismo, por quien todas las cosas fueron hechas y sin quien nada ha sido hecho; que este fue enviado por el Padre a la virgen y nació de ella, hombre y Dios, Hijo del hombre e Hijo de Dios.*
+>
+> Tertuliano, *Adversus Praxean* 2
+
+La estructura es la misma que en Ireneo: "un solo Dios" es el punto de partida, y ese un solo Dios "tiene un Hijo" que "ha procedido de él mismo". El Hijo no es un segundo Dios ni un modo del Padre, sino el Verbo que procede del Padre como fuente.
 
 ### El sentido jurídico-económico de *substantia*
 
@@ -124,23 +140,45 @@ Cuando Tertuliano dice *tres personae*, usa el término en este sentido jurídic
 
 ### La monarquía del Padre en Tertuliano
 
-Tertuliano sostiene la monarquía del Padre con la misma firmeza que los autores griegos contemporáneos y posteriores. La fórmula "un solo Dios, del cual estos grados, formas y especies son atribuidos" identifica al "un solo Dios" con el Padre como fuente. Los "grados, formas y especies" del Hijo y del Espíritu son derivativos del Padre, no figuras paralelas. Tertuliano dice explícitamente:
+Tertuliano defiende la monarquía del Padre con la misma firmeza que los autores griegos. Pero lo hace contra un adversario específico: los modalistas que usaban la monarquía como argumento *contra* la distinción de personas. Tertuliano les responde que la monarquía no se destruye por admitir al Hijo y al Espíritu como personas distintas, sino que se conserva precisamente porque el Padre la administra a través de ellos:
 
-> *El Padre es la sustancia entera, mientras que el Hijo es derivación y porción del todo, como él mismo lo confiesa: porque el Padre es mayor que yo.*
+> *Yo, que derivo al Hijo no de otra fuente sino de la sustancia del Padre, que digo que él no hace nada sin la voluntad del Padre y que ha recibido del Padre toda autoridad, ¿cómo puedo estar destruyendo esa monarquía que digo ha sido entregada por el Padre al Hijo y es conservada en el Hijo? Considérese que esto se aplica también a la tercera secuencia, porque yo cuento al Espíritu de ningún otro lugar sino del Padre a través del Hijo.*
+>
+> Tertuliano, *Adversus Praxean* 4
+
+El texto es notable por varias razones. Primero, el Hijo procede "de la sustancia del Padre" (*de substantia Patris*), no de una sustancia abstracta compartida. Segundo, la monarquía pertenece al Padre y es "entregada" al Hijo, no coejercida simétricamente. Tercero, el Espíritu procede "del Padre a través del Hijo" (*a Patre per Filium*), fórmula que sitúa al Padre como fuente última.
+
+Tertuliano refuerza la asimetría fontal en otro pasaje:
+
+> *El Padre es la sustancia entera, mientras que el Hijo es derivación y porción del todo, como él mismo lo confiesa: "porque el Padre es mayor que yo".*
 >
 > *Pater enim tota substantia est, Filius vero derivatio totius et portio, sicut ipse profitetur: quia Pater maior me est.*
 >
 > Tertuliano, *Adversus Praxean* 9
 
-Esta formulación es delicada y debe leerse en su contexto. Tertuliano usa el vocabulario de "derivación" y "porción" (*derivatio*, *portio*) para describir al Hijo respecto del Padre. Bajo lectura aislada, el vocabulario suena ambiguo. Pero el contexto es polémico anti-monarquianista: Tertuliano combate la confusión modalista entre Padre e Hijo y enfatiza la distinción real entre ellos. Su vocabulario articula la asimetría fontal sin negar la divinidad del Hijo. Cita explícitamente Juan 14:28 ("el Padre es mayor que yo") como apoyo bíblico de la asimetría fontal, en el mismo sentido que la página 2 documentó en el patrón joánico.
+El vocabulario de "derivación" y "porción" (*derivatio*, *portio*) es delicado y debe leerse en su contexto polémico. Tertuliano no degrada la divinidad del Hijo; enfatiza la distinción real contra la confusión modalista y articula la asimetría fontal: lo que el Hijo es, lo es *del* Padre. La cita de Juan 14:28 ("el Padre es mayor que yo") funciona como apoyo bíblico de la asimetría, en continuidad con el patrón joánico examinado en la página 2.
 
-La fórmula tertuliana *una substantia, tres personae* articula simultáneamente unidad fontal y distinción personal real. El "un solo Dios" es el Padre como fuente; las tres *personae* son los tres sujetos articulados en la economía divina; la *una substantia* es la realidad divina que el Padre es fontalmente y que comparte con el Hijo y el Espíritu por derivación. La gramática es continua con la de los autores griegos: la misma estructura fontal articulada en vocabulario latino jurídico-económico.
+En síntesis, la fórmula tertuliana *una substantia, tres personae* articula simultáneamente unidad fontal y distinción personal real. El "un solo Dios" (*unus Deus*) es el Padre como fuente; las tres *personae* son los tres sujetos articulados en la economía divina; la *una substantia* es la realidad divina que el Padre posee fontalmente y que comunica al Hijo y al Espíritu por derivación. Lo que Tertuliano *no* formula es algo como "un solo Dios: Padre, Hijo y Espíritu Santo". Su "un solo Dios" refiere siempre al Padre, del cual (*ex quo*) proceden el Hijo y el Espíritu. La gramática es continua con la de los autores griegos: la misma estructura fontal articulada en vocabulario latino jurídico-económico.
 
 ---
 
-## 3.5 Atanasio: el *homoousios* y la monarquía del Padre
+## 3.5 Alejandro de Alejandría: el consenso episcopal previo a Nicea
 
-Atanasio de Alejandría (c. 296-373) es la figura central del primer siglo niceno. Diácono presente en el Concilio de Nicea de 325 (donde fue secretario de su obispo Alejandro), posteriormente obispo de Alejandría durante 46 años, dedicó la mayor parte de su episcopado a defender el símbolo niceno contra los diversos movimientos antinicenos, sufriendo cinco exilios por su intransigencia doctrinal. Su obra es la fuente más extensa para entender la articulación nicena en sus primeras décadas.
+Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejandro de Alejandría (m. 328), obispo de la misma sede que Atanasio heredará, es quien inicia la controversia formal contra Arrio y quien lleva la posición alejandrina al Concilio de Nicea. Su carta a Alejandro de Constantinopla (c. 324), escrita poco antes del concilio, contiene la confesión de fe que el episcopado alejandrino presentará en Nicea. El pasaje central es revelador:
+
+> *Creemos en un Padre no engendrado, que de nadie tiene la causa de su ser, inmutable e invariable, siempre el mismo. [...] Y en un solo Señor Jesucristo, el Hijo unigénito de Dios, engendrado no de las cosas que no son, sino de aquel que es el Padre; no de manera corporal, por escisión o división como pensaron Sabelio y Valentino, sino de un modo inexplicable e inefable. [...] En esto solo es inferior al Padre: en que no es no-engendrado.*
+>
+> Alejandro de Alejandría, *Epistola ad Alexandrum Constantinopolitanum* 12
+
+La estructura es la misma que hemos documentado en Justino, Ireneo y Tertuliano: "un Padre no engendrado" como punto de partida, y el Hijo engendrado "*de* aquel que es el Padre" — no de la nada, no de una sustancia abstracta, sino del Padre como fuente personal. La única inferioridad del Hijo respecto del Padre es que el Hijo no es no-engendrado (*agennētos*): es decir, el Hijo tiene un origen, y ese origen es el Padre. La fontalidad del Padre no compromete la divinidad del Hijo; la articula.
+
+Este texto es significativo porque muestra que la gramática fontal no es peculiaridad de un teólogo individual sino posición episcopal oficial de la sede de Alejandría en vísperas de Nicea. Atanasio, diácono y secretario de Alejandro en el concilio, hereda y desarrolla esta articulación.
+
+---
+
+## 3.6 Atanasio: el *homoousios* y la monarquía del Padre
+
+Atanasio de Alejandría (c. 296-373) es la figura central del primer siglo niceno. Diácono presente en el Concilio de Nicea de 325 (donde fue secretario de Alejandro, examinado en la sección anterior), posteriormente obispo de Alejandría durante 46 años, dedicó la mayor parte de su episcopado a defender el símbolo niceno contra los diversos movimientos antinicenos, sufriendo cinco exilios por su intransigencia doctrinal. Su obra es la fuente más extensa para entender la articulación nicena en sus primeras décadas.
 
 ### El argumento soteriológico
 
@@ -156,7 +194,7 @@ Una formulación característica aparece en *Contra Arianos*:
 >
 > Atanasio, *Contra Arianos* I.20
 
-La fórmula es notable. Atanasio no dice "el Logos es Dios verdadero" sin más. Dice "Dios verdadero **del Dios** y verdadero Padre" (*Theos alēthinos ek tou Theou kai alēthinou Patros*). La preposición *ek* marca la fontalidad del Padre. Cuando Atanasio aplica el predicado *Theos* al Hijo, lo aplica cualificadamente: el Hijo es Dios *del* Dios, recibe la divinidad de la fuente que es el Padre. Esta es precisamente la estructura que el símbolo de 381 articulará en su cláusula central: *Theon alēthinon ek Theou alēthinou* (Dios verdadero de Dios verdadero).
+La fórmula es notable. Atanasio no dice "el Logos es Dios verdadero" sin más. Dice "Dios verdadero **del Dios** verdadero Padre". La preposición "del" (en griego *ek*) marca la fontalidad del Padre. Cuando Atanasio aplica el predicado "Dios" al Hijo, lo aplica cualificadamente: el Hijo es Dios *del* Dios, recibe la divinidad de la fuente que es el Padre. Esta es precisamente la estructura que el símbolo de Nicea (325) ya articula en su cláusula central: Dios verdadero de Dios verdadero (*Theon alēthinon ek Theou alēthinou*).
 
 El argumento contra el arrianismo se articula con esta precisión:
 
@@ -176,17 +214,17 @@ El argumento culmina en la fórmula soteriológica más célebre de Atanasio:
 >
 > Atanasio, *De Incarnatione* 54.3
 
-La divinización (*theopoiēsis*, equivalente a la posterior *theōsis*) es la consumación del esquema soteriológico atanasiano. El Logos se encarna para unir al hombre con el Padre; la unión culmina en la divinización del hombre, es decir, en su participación en la vida divina que fluye del Padre. Toda la estructura presupone la asimetría fontal: la divinidad fluye del Padre, se comunica al Hijo por generación eterna, se hace accesible al hombre por la encarnación del Hijo, y consuma al hombre en participación de la vida del Padre por el Espíritu.
+La divinización (en griego *theopoiēsis*, equivalente a la posterior *theōsis*) es la consumación del esquema soteriológico atanasiano. El Logos se encarna para unir al hombre con el Padre; la unión culmina en la divinización del hombre, es decir, en su participación en la vida divina que fluye del Padre. Toda la estructura presupone la asimetría fontal: la divinidad fluye del Padre, se comunica al Hijo por generación eterna, se hace accesible al hombre por la encarnación del Hijo, y consuma al hombre en participación de la vida del Padre por el Espíritu.
 
-La orientación de Atanasio es soteriológica, no especulativa. No parte de una metafísica de la esencia divina para deducir cómo deben ser las relaciones internas a la divinidad. Parte de la afirmación bíblica de que el Padre salva al hombre por medio del Hijo en el Espíritu, identifica al Hijo como el agente real de esta salvación, y concluye que el Hijo debe ser plenamente Dios *del* Padre. La consustancialidad (*homoousios*) es la articulación técnica de esta conclusión soteriológica, sin que el "Dios" del argumento deje de ser, fontalmente, el Padre.
+La orientación de Atanasio es soteriológica. Parte de la afirmación bíblica de que el Padre salva al hombre por medio del Hijo en el Espíritu, identifica al Hijo como el agente real de esta salvación, y concluye que el Hijo debe ser plenamente Dios *del* Padre. La consustancialidad (*homoousios*) es la articulación técnica de esta conclusión soteriológica, sin que el "Dios" del argumento deje de ser, fontalmente, el Padre.
 
 ### El *homoousios* y la monarquía del Padre
 
 El término *homoousios* (de la misma sustancia, consustancial), que el símbolo niceno de 325 introduce como término técnico decisivo contra el arrianismo, articula que el Hijo no es una criatura sino que comparte plenamente la naturaleza divina del Padre. La fórmula es defensiva: cierra la posibilidad arriana de que el Hijo sea una criatura excelente pero no plenamente divina.
 
-Lo notable, para el argumento de esta página, es que el *homoousios* atanasiano no compromete la monarquía del Padre. Atanasio sostiene simultáneamente la consustancialidad del Hijo con el Padre y la fontalidad del Padre respecto del Hijo. El Hijo es de la misma naturaleza que el Padre porque la recibe del Padre por generación eterna. La consustancialidad no postula una naturaleza divina previa a las personas, compartida por las tres como sujetos paralelos. Postula la naturaleza divina que el Padre tiene fontalmente y que el Hijo recibe del Padre sin pérdida ni división.
+Lo notable, para el argumento de esta página, es que el *homoousios* atanasiano no compromete la monarquía del Padre. Atanasio sostiene simultáneamente la consustancialidad del Hijo con el Padre y la fontalidad del Padre respecto del Hijo. El Hijo es de la misma naturaleza que el Padre porque la recibe del Padre por generación eterna. En Atanasio, la consustancialidad articula que lo que el Hijo recibe del Padre por generación eterna es la plena divinidad, sin pérdida ni división. La fontalidad del Padre no se compromete; se refuerza.
 
-En la *Carta a los obispos de África*, Atanasio formula explícitamente la subordinación de la consustancialidad a la fontalidad:
+En la *Carta a los obispos de África*, Atanasio articula explícitamente la relación entre consustancialidad y fontalidad:
 
 > *El Hijo es consustancial al Padre, no como el Padre es consustancial a sí mismo, sino como el resplandor es consustancial al sol del que procede.*
 >
@@ -194,27 +232,29 @@ En la *Carta a los obispos de África*, Atanasio formula explícitamente la subo
 
 La analogía es estructural. El resplandor es de la misma naturaleza que el sol; pero el resplandor procede del sol, no el sol del resplandor. La consustancialidad es real; la asimetría fontal también lo es. Ambas se sostienen simultáneamente sin contradicción.
 
-Esta articulación atanasiana es el puente directo hacia el símbolo de 381. Cuando los Padres del Concilio de Constantinopla formulen *Theon alēthinon ek Theou alēthinou, gennēthenta ou poiēthenta, homoousion tō Patri* (Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre), están sintetizando la articulación atanasiana en fórmula conciliar.
+Esta articulación atanasiana es el puente directo hacia el símbolo conciliar. Cuando los Padres conciliares formulen Dios verdadero de Dios verdadero, engendrado no hecho, consustancial al Padre (*Theon alēthinon ek Theou alēthinou, gennēthenta ou poiēthenta, homoousion tō Patri*), están sintetizando la articulación atanasiana en fórmula conciliar.
 
 ---
 
-## 3.6 Síntesis: el patrón fontal en el consenso ante-niceno
+## 3.7 Síntesis: el patrón fontal en el consenso ante-niceno
 
-Los cuatro autores examinados articulan, con vocabularios y en contextos polémicos distintos, el mismo patrón estructural.
+Los cinco autores examinados articulan, con vocabularios y en contextos polémicos distintos, el mismo patrón estructural.
 
-**Justino**, en el siglo II, articula al Padre como *ho ontōs Theos* (el Dios verdaderamente), al Hijo en *deutera chōra* (segundo lugar), y al Espíritu *en tritē taxei* (en el tercer rango). La articulación es ordinal y fontal, sin vocabulario técnico desarrollado.
+**Justino**, en el siglo II, articula al Padre como el Dios en sentido absoluto (*ho ontōs Theos*), al Hijo en segundo lugar (*deutera chōra*), y al Espíritu en el tercer rango (*en tritē taxei*). La articulación es ordinal y fontal, sin vocabulario técnico desarrollado.
 
 **Ireneo**, también en el siglo II, formula la regla de fe apostólica como "un solo Dios Padre / un solo Jesucristo Hijo / el Espíritu Santo", y lee 1 Corintios 8:6 como identificación explícita del "un Dios" con el Padre. La gramática devocional es **al Padre, por el Hijo, en el Espíritu**.
 
 **Tertuliano**, en el siglo III, introduce la fórmula latina *una substantia, tres personae*, donde *substantia* tiene sentido jurídico-económico de patrimonio compartido y *persona* designa sujetos en la economía divina. Sostiene la monarquía del Padre con vocabulario de derivación fontal (raíz/arbusto/fruto, fuente/río/arroyo, sol/irradiación/rayo).
 
-**Atanasio**, en el siglo IV, articula técnicamente el *homoousios* para defender la consustancialidad del Hijo contra el arrianismo, sin abandonar la fontalidad del Padre. Su fórmula característica es "Dios verdadero del Dios y verdadero Padre" (*Theos alēthinos ek tou Theou kai alēthinou Patros*), donde la preposición *ek* marca explícitamente la fontalidad paterna.
+**Alejandro de Alejandría**, en vísperas de Nicea (c. 324), formula la confesión episcopal que identifica al "Padre no engendrado" como punto de partida y al Hijo como engendrado "*de* aquel que es el Padre". La única inferioridad del Hijo es que no es no-engendrado: tiene un origen, y ese origen es el Padre.
+
+**Atanasio**, en el siglo IV, articula técnicamente el *homoousios* para defender la consustancialidad del Hijo contra el arrianismo, sin abandonar la fontalidad del Padre. Su fórmula característica es "Dios verdadero del Dios verdadero Padre" (*Theos alēthinos ek tou Theou kai alēthinou Patros*), donde la preposición "de" (*ek*) marca explícitamente la fontalidad paterna.
 
 Tres consideraciones cierran esta síntesis.
 
-**Primera consideración: continuidad estructural a través de cuatro contextos lingüísticos y polémicos distintos.** Justino opera contra el helenismo pagano romano; Ireneo contra el gnosticismo valentiniano; Tertuliano contra el monarquianismo modalista; Atanasio contra el arrianismo. Cada uno responde a un adversario distinto con vocabulario distinto. Y los cuatro articulan el mismo patrón fontal del Padre como fuente única, con el Hijo y el Espíritu en relación fontal. La continuidad estructural a través de diferencias léxicas y contextuales es dato sólido sobre la naturaleza de la articulación: no es invención ocasional ni respuesta polémica circunstancial, sino gramática estable que se mantiene bajo presiones distintas.
+**Primera consideración: continuidad estructural a través de cinco contextos lingüísticos y polémicos distintos.** Justino opera contra el helenismo pagano romano; Ireneo contra el gnosticismo valentiniano; Tertuliano contra el monarquianismo modalista; Alejandro contra el arrianismo incipiente; Atanasio contra el arrianismo consolidado. Cada uno responde a un adversario distinto con vocabulario distinto. Y los cinco articulan el mismo patrón fontal del Padre como fuente única, con el Hijo y el Espíritu en relación fontal. La continuidad estructural a través de diferencias léxicas y contextuales es dato sólido sobre la naturaleza de la articulación: no es invención ocasional ni respuesta polémica circunstancial, sino gramática estable que se mantiene bajo presiones distintas.
 
-**Segunda consideración: la consustancialidad no compromete la fontalidad.** El término *homoousios* introducido por el símbolo niceno de 325, y articulado por Atanasio como defensa contra el arrianismo, no postula una esencia divina previa a las personas que las tres son cada una por igual. Postula que lo que el Hijo recibe del Padre por generación eterna es la plena divinidad, no una divinidad menor ni derivada en sentido degradante. La consustancialidad refuerza la fontalidad en lugar de comprometerla: el Padre comunica al Hijo todo lo que el Padre es, sin pérdida, sin división, y sin dejar de ser el Padre la fuente de esa comunicación.
+**Segunda consideración: la consustancialidad no compromete la fontalidad.** El término *homoousios* introducido por el símbolo niceno de 325, y articulado por Atanasio como defensa contra el arrianismo, articula que lo que el Hijo recibe del Padre por generación eterna es la plena divinidad, no una divinidad menor ni derivada en sentido degradante. La consustancialidad refuerza la fontalidad en lugar de comprometerla: el Padre comunica al Hijo todo lo que el Padre es, sin pérdida, sin división, y sin dejar de ser el Padre la fuente de esa comunicación.
 
 **Tercera consideración: la base sobre la cual operará la consolidación capadocia.** La página siguiente examinará cómo los Capadocios (Basilio, Gregorio Nacianceno, Gregorio de Nisa) sistematizarán técnicamente este consenso patrístico en el contexto del Concilio de Constantinopla de 381. La articulación capadocia no inventa el patrón fontal; lo recibe del consenso documentado en esta página y lo articula con vocabulario filosófico desarrollado. La página siguiente continúa el análisis exactamente donde esta lo deja: en el umbral del concilio que codificará definitivamente la gramática del símbolo niceno-constantinopolitano.
 
@@ -235,6 +275,10 @@ Tres consideraciones cierran esta síntesis.
 - Eric Osborn, *Tertullian, First Theologian of the West* (Cambridge University Press, 1997).
 - Geoffrey D. Dunn, *Tertullian* (Routledge, 2004).
 - Jérôme Alexandre, *Une chair pour la gloire: L'anthropologie réaliste et mystique de Tertullien* (Beauchesne, 2001).
+
+**Sobre Alejandro de Alejandría:**
+- Charles Kannengiesser, "Alexander and Arius of Alexandria: The Last Ante-Nicene Theologians," *Compostellanum* 35 (1990) 391-403.
+- R.P.C. Hanson, *The Search for the Christian Doctrine of God* (T&T Clark, 1988), cap. 6.
 
 **Sobre Atanasio de Alejandría:**
 - Khaled Anatolios, *Athanasius: The Coherence of His Thought* (Routledge, 1998).

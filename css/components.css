@@ -358,8 +358,7 @@
 }
 
 .callout--method {
-  border-color: var(--accent-neutral);
-  border-color: rgba(139, 143, 232, 0.3);
+  border-color: var(--accent-neutral-border);
   background: var(--accent-neutral-bg);
 }
 
