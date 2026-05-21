@@ -305,16 +305,10 @@
 
 /* ---- Method ---- */
 .inicio__method {
-  background-color: var(--bg-secondary);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Cg fill='none' stroke='%23C5A059' stroke-width='0.5' opacity='0.035'%3E%3Cpolygon points='30,4 5,49 55,49'/%3E%3Cpolygon points='30,49 5,4 55,4'/%3E%3C/g%3E%3C/svg%3E");
-  background-repeat: repeat;
+  background: var(--bg-secondary);
   border-radius: var(--radius-lg);
   padding: var(--space-2xl) !important;
   border: 1px solid var(--border-subtle);
-}
-
-[data-theme="light"] .inicio__method {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Cg fill='none' stroke='%239A7B0A' stroke-width='0.5' opacity='0.025'%3E%3Cpolygon points='30,4 5,49 55,49'/%3E%3Cpolygon points='30,49 5,4 55,4'/%3E%3C/g%3E%3C/svg%3E");
 }
 
 .inicio__method-grid {
