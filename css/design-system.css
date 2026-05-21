@@ -166,10 +166,10 @@
   --accent-gold-bg: rgba(154, 123, 10, 0.06);
   --accent-gold-border: rgba(154, 123, 10, 0.2);
 
-  --accent-neutral: #5B5FA8;
-  --accent-neutral-dim: #8B8FE8;
-  --accent-neutral-bg: rgba(91, 95, 168, 0.06);
-  --accent-neutral-border: rgba(91, 95, 168, 0.25);
+  --accent-neutral: var(--accent-gold);
+  --accent-neutral-dim: var(--accent-gold-dim);
+  --accent-neutral-bg: var(--accent-gold-bg);
+  --accent-neutral-border: var(--accent-gold-border);
 
   --border-color: #E0D8CC;
   --border-subtle: #EDE7DB;
@@ -182,22 +182,22 @@
   --scrollbar-thumb-hover: #B8B0A4;
 
   --progress-bg: #F5F0E8;
-  --progress-fill: linear-gradient(90deg, #1B7A72, #5B5FA8);
+  --progress-fill: linear-gradient(90deg, #9A7B0A, #C9A30A);
 
   --sidebar-bg: #F0EBE2;
-  --sidebar-active: rgba(27, 122, 114, 0.1);
+  --sidebar-active: var(--accent-gold-bg);
   --sidebar-hover: rgba(0, 0, 0, 0.03);
   --sidebar-text: #5A5A5A;
-  --sidebar-text-active: #1B7A72;
+  --sidebar-text-active: var(--accent-gold);
 
   --tooltip-bg: #FFFFFF;
   --tooltip-border: #E0D8CC;
   --tooltip-text: #2D2D2D;
 
   /* Enlaces y Selección dinámicos */
-  --link-color: var(--accent-nicene);
-  --link-hover-color: var(--accent-nicene-dim);
-  --selection-bg: var(--accent-nicene);
+  --link-color: var(--accent-gold);
+  --link-hover-color: var(--accent-gold-dim);
+  --selection-bg: var(--accent-gold);
   --selection-color: var(--text-inverse);
 
   /* Unified Quote Block Styles */
