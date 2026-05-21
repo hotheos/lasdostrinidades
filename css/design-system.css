@@ -269,8 +269,6 @@ h2 {
   font-weight: 600;
   margin-top: var(--space-3xl);
   margin-bottom: var(--space-lg);
-  padding-bottom: var(--space-sm);
-  border-bottom: 1px solid var(--border-subtle);
 }
 
 h3 {
