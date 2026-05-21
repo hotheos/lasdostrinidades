@@ -108,10 +108,9 @@
   function updateCommentsTheme(theme) {
     const thread = document.getElementById('cusdis_thread');
     if (thread) {
-      thread.innerHTML = '';
-      thread.setAttribute('data-theme', theme);
-      if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
-        window.CUSDIS.initial();
+      const page = PAGES.find(p => p.id === currentPageId);
+      if (page) {
+        renderComments(page.id, page.title);
       }
     }
   }
@@ -512,55 +511,11 @@
     els.content.insertAdjacentHTML('beforeend', navHtml);
   }
 
-  /* Enforce scrollbar removal and dynamic height synchronization */
-  function enforceIframeNoScroll(iframe) {
-    if (!iframe) return;
-    try {
-      if (iframe.getAttribute('scrolling') !== 'no') {
-        iframe.setAttribute('scrolling', 'no');
-      }
-      iframe.style.setProperty('overflow', 'hidden', 'important');
-      
-      const doc = iframe.contentDocument || iframe.contentWindow.document;
-      if (doc && doc.head) {
-        if (!doc.getElementById('ldt-scrollbar-remover')) {
-          const style = doc.createElement('style');
-          style.id = 'ldt-scrollbar-remover';
-          style.textContent = `
-            html, body {
-              overflow: hidden !important;
-              height: auto !important;
-              margin: 0 !important;
-              padding: 0 !important;
-              scrollbar-width: none !important;
-            }
-            ::-webkit-scrollbar {
-              display: none !important;
-              width: 0 !important;
-              height: 0 !important;
-            }
-          `;
-          doc.head.appendChild(style);
-        }
-        
-        const rootEl = doc.getElementById('root');
-        if (rootEl) {
-          const contentH = rootEl.scrollHeight || doc.body.scrollHeight;
-          if (contentH > 0) {
-            const finalH = contentH + 60;
-            iframe.style.setProperty('height', `${finalH}px`, 'important');
-          }
-        }
-      }
-    } catch (err) {
-      // Silencioso ante restricciones de CORS o navegadores
-    }
-  }
-
-  /* ---- Comments Widget (Cusdis) ---- */
+  /* ---- Comments Widget (Cusdis personalizado e inmune a Singleton de SPA) ---- */
   function renderComments(pageId, pageTitle) {
     if (pageId === 'inicio') return;
 
+    // 1. Remover sección previa para recrear el nodo limpio
     const existingSection = document.getElementById('comments-section');
     if (existingSection) {
       existingSection.remove();
@@ -568,20 +523,14 @@
 
     const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
 
+    // 2. Inyectar contenedor principal
     const commentsHtml = `
       <section class="comments-section" id="comments-section">
         <h2 class="comments-section__title">Preguntas y comentarios</h2>
         <p class="comments-section__subtitle">
           Si tienes preguntas, dudas o sugerencias de corrección, puedes formularlas abajo de forma abierta. Tu comentario será visible públicamente una vez moderado.
         </p>
-        <div id="cusdis_thread"
-          data-host="https://cusdis.com"
-          data-app-id="${CUSDIS_APP_ID}"
-          data-page-id="${pageId}"
-          data-page-url="https://hotheos.github.io/lasdostrinidades/#${pageId}"
-          data-page-title="${pageTitle}"
-          data-theme="${currentTheme}">
-        </div>
+        <div id="cusdis_thread"></div>
       </section>
     `;
 
@@ -592,34 +541,97 @@
       els.content.insertAdjacentHTML('beforeend', commentsHtml);
     }
 
-    if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
-      window.CUSDIS.initial();
-    } else {
-      const scriptId = 'cusdis-script';
-      let script = document.getElementById(scriptId);
-      if (!script) {
-        script = document.createElement('script');
-        script.id = scriptId;
-        script.src = 'https://cusdis.com/js/cusdis.es.js';
-        script.async = true;
-        script.defer = true;
-        document.body.appendChild(script);
-      }
-      script.addEventListener('load', () => {
-        if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
-          window.CUSDIS.initial();
-        }
-      });
-    }
+    const threadContainer = document.getElementById('cusdis_thread');
+    if (!threadContainer) return;
 
-    // Force absolute scroll prevention (scrolling="no") and dynamic height sync
-    const iframeCheck = setInterval(() => {
-      const iframe = document.querySelector('#cusdis_thread iframe');
-      if (iframe) {
-        enforceIframeNoScroll(iframe);
+    // 3. Instanciar un iframe COMPLETAMENTE NUEVO en cada carga (evita errores de caché y Singleton en WebKit/Blink)
+    const iframe = document.createElement('iframe');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.width = '100%';
+    iframe.style.border = '0';
+    iframe.style.setProperty('overflow', 'hidden', 'important');
+    iframe.style.setProperty('height', '200px', 'important'); // Altura inicial óptima
+
+    // 4. Configurar srcdoc e inyectar estilos locales de desarmado de scroll en el propio documento del iframe
+    const host = "https://cusdis.com";
+    const iframeJsPath = `${host}/js/iframe.umd.js`;
+    const cssPath = `${host}/js/style.css`;
+    
+    const dataset = {
+      host: host,
+      appId: CUSDIS_APP_ID,
+      pageId: pageId,
+      pageUrl: `https://hotheos.github.io/lasdostrinidades/#${pageId}`,
+      pageTitle: pageTitle,
+      theme: currentTheme
+    };
+
+    iframe.srcdoc = `<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="${cssPath}">
+    <base target="_parent" />
+    <script>
+      window.__DATA__ = ${JSON.stringify(dataset)};
+    <\/script>
+    <style>
+      html, body {
+        overflow: hidden !important;
+        height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: transparent !important;
+        scrollbar-width: none !important; /* Firefox */
       }
-    }, 150);
-    setTimeout(() => clearInterval(iframeCheck), 12000);
+      ::-webkit-scrollbar {
+        display: none !important; /* Chrome, Safari, Opera */
+        width: 0 !important;
+        height: 0 !important;
+      }
+      :root {
+        color-scheme: ${currentTheme === 'dark' ? 'dark' : 'light'};
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="${iframeJsPath}" type="module"><\/script>
+  </body>
+</html>`;
+
+    threadContainer.appendChild(iframe);
+
+    // 5. Helper local para redimensionamiento fluido directo (mismo origen)
+    const enforceHeightSync = () => {
+      try {
+        const doc = iframe.contentDocument || iframe.contentWindow.document;
+        if (doc) {
+          const rootEl = doc.getElementById('root');
+          if (rootEl) {
+            const contentH = rootEl.scrollHeight || doc.body.scrollHeight;
+            if (contentH > 0) {
+              const finalH = contentH + 50; // Holgura segura
+              iframe.style.setProperty('height', `${finalH}px`, 'important');
+            }
+          }
+        }
+      } catch (err) {
+        // Silencioso ante cualquier restricción
+      }
+    };
+
+    // 6. Sondeo activo continuo de elasticidad vertical
+    const syncInterval = setInterval(() => {
+      if (!iframe.isConnected) {
+        clearInterval(syncInterval);
+        return;
+      }
+      enforceHeightSync();
+    }, 200);
+    
+    // Detener la comprobación intensiva tras 15 segundos
+    setTimeout(() => clearInterval(syncInterval), 15000);
   }
 
 
@@ -673,10 +685,9 @@
           if (iframe) {
             const rawHeight = Number(data.data);
             if (!isNaN(rawHeight) && rawHeight > 0) {
-              const paddedHeight = rawHeight + 60;
+              const paddedHeight = rawHeight + 50;
               iframe.style.setProperty('height', `${paddedHeight}px`, 'important');
             }
-            enforceIframeNoScroll(iframe);
           }
         }
       } catch (err) {
