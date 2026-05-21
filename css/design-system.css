@@ -14,6 +14,9 @@
   --bg-secondary: #131316;
   --bg-tertiary: #1F1F24;
   --bg-surface: #17171B;
+  --bg-content-solid: var(--bg-primary);
+  --border-content-subtle: rgba(197, 160, 89, 0.1);
+  --shadow-content-glow: 0 10px 40px rgba(0, 0, 0, 0.6), 0 0 40px rgba(197, 160, 89, 0.03);
 
   /* Text */
   --text-primary: #E8E6E1;
@@ -145,6 +148,9 @@
   --bg-secondary: #F5F0E8;
   --bg-tertiary: #EDE7DB;
   --bg-surface: #FFFFFF;
+  --bg-content-solid: var(--bg-primary);
+  --border-content-subtle: rgba(154, 123, 10, 0.1);
+  --shadow-content-glow: 0 10px 40px rgba(0, 0, 0, 0.04), 0 0 30px rgba(154, 123, 10, 0.02);
 
   --text-primary: #2D2D2D;
   --text-secondary: #5A5A5A;

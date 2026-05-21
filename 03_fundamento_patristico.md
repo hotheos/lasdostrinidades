@@ -38,7 +38,7 @@ En su *Diálogo con Trifón*, Justino es más explícito. En el capítulo 61, fo
 >
 > Justino, *Diálogo con Trifón* 61
 
-Y en el capítulo 128, Justino precisa que esta potencia "fue engendrada del Padre, por su poder y voluntad, pero no por escisión, como si la esencia del Padre se dividiera" (*Diálogo con Trifón* 128). La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que procede de él como el fuego encendido procede del fuego que lo enciende — sin disminuirlo, sin separarse de su naturaleza, pero siendo realmente distinto de él.
+Y en el capítulo 128, Justino precisa que esta potencia "fue engendrada del Padre, por su poder y voluntad, pero no por escisión, como si la esencia del Padre se dividiera" (*Diálogo con Trifón* 128). La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que procede de él como el fuego encendido procede del fuego que lo enciende, sin disminuirlo, sin separarse de su naturaleza, pero siendo realmente distinto de él.
 
 ---
 
@@ -70,7 +70,7 @@ Ireneo lee 1 Corintios 8:6 como articulación de la identificación "el único D
 >
 > Ireneo, *Adversus Haereses* III.9.1
 
-La afirmación requiere lectura cuidadosa. Ireneo *no* está diciendo que el Hijo no sea divino. Lo que está diciendo es algo preciso sobre la distribución de los títulos en la Escritura: cuando profetas, apóstoles y el mismo Jesús usan el título "Dios" (*Theos*) de modo absoluto — sin calificación — refieren al Padre. La frase clave es "han confesado con sus propias palabras": Ireneo está leyendo el uso lingüístico escriturístico, no negando la divinidad del Hijo. El Hijo es "Hijo *de* Dios", "Señor" (*Kyrios*), pero el título "Dios" sin más apunta al Padre como referente. Esta es la distribución paulina de 1 Corintios 8:6 — "un Dios" (*heis Theos*) el Padre, "un Señor" (*heis Kyrios*) Jesucristo — que Ireneo lee no como peculiaridad de Pablo sino como consenso de toda la Escritura tal como los apóstoles lo transmitieron.
+La afirmación requiere lectura cuidadosa. Ireneo *no* está diciendo que el Hijo no sea divino. Lo que está diciendo es algo preciso sobre la distribución de los títulos en la Escritura: cuando profetas, apóstoles y el mismo Jesús usan el título "Dios" (*Theos*) de modo absoluto (sin calificación) refieren al Padre. La frase clave es "han confesado con sus propias palabras": Ireneo está leyendo el uso lingüístico escriturístico, no negando la divinidad del Hijo. El Hijo es "Hijo *de* Dios", "Señor" (*Kyrios*), pero el título "Dios" sin más apunta al Padre como referente. Esta es la distribución paulina de 1 Corintios 8:6, con "un Dios" (*heis Theos*) el Padre y "un Señor" (*heis Kyrios*) Jesucristo, que Ireneo lee no como peculiaridad de Pablo sino como consenso de toda la Escritura tal como los apóstoles lo transmitieron.
 
 **Tercero**, la oración de Ireneo en el mismo libro revela la gramática devocional operante en el cristianismo del siglo II:
 
@@ -90,7 +90,7 @@ Nótese lo que la gramática de estos dos autores del siglo II *no* contiene: ni
 
 ## 3.4 Tertuliano: el latín cristiano del siglo III
 
-Más de un siglo después de Justino, Tertuliano de Cartago (c. 155-220) articula la primera doctrina trinitaria sustancial en lengua latina. Es importante examinarlo con cuidado por tres razones. Primera, porque introduce la fórmula *una substantia, tres personae* que el Occidente medieval considerará propia. Segunda, porque su contexto polémico —el combate contra el modalismo monarquianista— condiciona su vocabulario y merece comprensión histórica precisa. Tercera, porque en su defensa de la distinción real entre las personas, Tertuliano mantiene explícitamente la monarquía del Padre como "un solo Dios" en sentido referencial concreto.
+Más de un siglo después de Justino, Tertuliano de Cartago (c. 155-220) articula la primera doctrina trinitaria sustancial en lengua latina. Es importante examinarlo con cuidado por tres razones. Primera, porque introduce la fórmula *una substantia, tres personae* que el Occidente medieval considerará propia. Segunda, porque su contexto polémico (el combate contra el modalismo monarquianista) condiciona su vocabulario y merece comprensión histórica precisa. Tercera, porque en su defensa de la distinción real entre las personas, Tertuliano mantiene explícitamente la monarquía del Padre como "un solo Dios" en sentido referencial concreto.
 
 ### El adversario: el modalismo de Práxeas
 
@@ -170,7 +170,7 @@ Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejan
 >
 > Alejandro de Alejandría, *Epistola ad Alexandrum Constantinopolitanum* 12
 
-La estructura es la misma que hemos documentado en Justino, Ireneo y Tertuliano: "un Padre no engendrado" como punto de partida, y el Hijo engendrado "*de* aquel que es el Padre" — no de la nada, no de una sustancia abstracta, sino del Padre como fuente personal. La única inferioridad del Hijo respecto del Padre es que el Hijo no es no-engendrado (*agennētos*): es decir, el Hijo tiene un origen, y ese origen es el Padre. La fontalidad del Padre no compromete la divinidad del Hijo; la articula.
+La estructura es la misma que hemos documentado en Justino, Ireneo y Tertuliano: "un Padre no engendrado" como punto de partida, y el Hijo engendrado "*de* aquel que es el Padre", no de la nada, no de una sustancia abstracta, sino del Padre como fuente personal. La única inferioridad del Hijo respecto del Padre es que el Hijo no es no-engendrado (*agennētos*): es decir, el Hijo tiene un origen, y ese origen es el Padre. La fontalidad del Padre no compromete la divinidad del Hijo; la articula.
 
 Este texto es significativo porque muestra que la gramática fontal no es peculiaridad de un teólogo individual sino posición episcopal oficial de la sede de Alejandría en vísperas de Nicea. Atanasio, diácono y secretario de Alejandro en el concilio, hereda y desarrolla esta articulación.
 

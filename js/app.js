@@ -75,11 +75,19 @@
   }
 
   /* ---- Theme Management ---- */
+  function updateThemeColorMeta(theme) {
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) {
+      meta.setAttribute('content', theme === 'dark' ? '#08080A' : '#FDFBF7');
+    }
+  }
+
   function initTheme() {
     const saved = localStorage.getItem('ldt-theme');
     const theme = saved || 'dark';
     document.documentElement.setAttribute('data-theme', theme);
     updateThemeIcon(theme);
+    updateThemeColorMeta(theme);
   }
 
   function toggleTheme() {
@@ -88,6 +96,7 @@
     document.documentElement.setAttribute('data-theme', next);
     localStorage.setItem('ldt-theme', next);
     updateThemeIcon(next);
+    updateThemeColorMeta(next);
   }
 
   function updateThemeIcon(theme) {

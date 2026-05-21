@@ -4,7 +4,7 @@ Estas reglas aplican a todo contenido textual que el asistente genere o edite en
 
 ## 1. Sin guiones largos
 
-Nunca usar guiones largos (—) en ningún archivo. Reemplazar siempre por comas, puntos, punto y coma, dos puntos o paréntesis, según el caso. Esta regla es estricta y no tiene excepciones.
+Nunca usar guiones largos (guion de raya) en ningún archivo. Reemplazar siempre por comas, puntos, punto y coma, dos puntos o paréntesis, según el caso. Esta regla es estricta y no tiene excepciones.
 
 ## 2. Formato de citas bíblicas
 
