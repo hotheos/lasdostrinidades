@@ -603,6 +603,24 @@
       }
     }, { passive: true });
 
+    // Cusdis dynamic iframe resizing listener for SPA route changes
+    window.addEventListener('message', (e) => {
+      try {
+        let data = e.data;
+        if (typeof data === 'string') {
+          data = JSON.parse(data);
+        }
+        if (data && data.event === 'resize' && typeof data.data === 'number') {
+          const iframe = document.querySelector('#cusdis_thread iframe');
+          if (iframe) {
+            iframe.style.setProperty('height', `${data.data}px`, 'important');
+          }
+        }
+      } catch (err) {
+        // Silencioso ante errores
+      }
+    });
+
     // Scroll to top button
     if (els.scrollTop) {
       els.scrollTop.addEventListener('click', () => {

@@ -1245,9 +1245,10 @@ hr {
 #cusdis_thread,
 #cusdis_thread iframe {
   width: 100% !important;
-  min-height: 280px !important;
+  min-height: 150px;
   border: none !important;
   display: block;
+  overflow: hidden !important;
 }
 
 
