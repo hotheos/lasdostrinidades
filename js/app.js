@@ -525,6 +525,7 @@
 
     const commentsHtml = `
       <section class="comments-section" id="comments-section">
+        <hr>
         <h2 class="comments-section__title">Preguntas y comentarios</h2>
         <p class="comments-section__subtitle">
           Si tienes preguntas, dudas o sugerencias de corrección, puedes formularlas abajo de forma abierta. Tu comentario será visible públicamente una vez moderado.
