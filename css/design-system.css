@@ -22,10 +22,10 @@
   --text-inverse: #08080A;
 
   /* Accent: Nicene / Fontal (green family) */
-  --accent-nicene: #4ECDC4;
-  --accent-nicene-dim: #2A8A83;
-  --accent-nicene-bg: rgba(78, 205, 196, 0.08);
-  --accent-nicene-border: rgba(78, 205, 196, 0.3);
+  --accent-nicene: #38B285;
+  --accent-nicene-dim: #247A5B;
+  --accent-nicene-bg: rgba(56, 178, 133, 0.08);
+  --accent-nicene-border: rgba(56, 178, 133, 0.3);
 
   /* Accent: Augustinian / Essentialist (warm family) */
   --accent-augustine: #D4A574;
