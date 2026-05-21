@@ -208,6 +208,9 @@
   z-index: var(--z-toc);
   padding: var(--space-md);
   border-radius: var(--radius-md);
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
 }
 
 .toc__title {
