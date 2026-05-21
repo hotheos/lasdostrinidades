@@ -1213,26 +1213,45 @@ hr {
   margin-top: var(--space-4xl);
   padding-top: var(--space-2xl);
   border-top: 1px solid var(--border-color);
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+}
+
+@media (min-width: 901px) {
+  .comments-section {
+    margin-left: calc(-1 * var(--content-padding));
+    margin-right: calc(-1 * var(--content-padding));
+    padding-left: var(--content-padding);
+    padding-right: var(--content-padding);
+    width: auto;
+  }
 }
 
 .comments-section__title {
   font-family: var(--font-body);
-  font-size: var(--fs-xl);
-  font-weight: 600;
+  font-size: var(--fs-2xl);
+  font-weight: 500;
   color: var(--text-primary);
   margin-bottom: var(--space-xs);
+  letter-spacing: -0.01em;
 }
 
 .comments-section__subtitle {
   font-family: var(--font-ui);
   font-size: var(--fs-sm);
   color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: var(--space-xl);
+  line-height: 1.6;
+  margin-bottom: var(--space-2xl);
+  max-width: 600px;
 }
+
+#cusdis_thread,
+#cusdis_thread iframe {
+  width: 100% !important;
+  min-height: 480px !important;
+  border: none !important;
+  display: block;
+}
+
 
 
 
