@@ -1,5 +1,5 @@
 /* ============================================================
-   LAS DOS TRINIDADES — Content Components
+   LAS DOS TRINIDADES : Content Components
    ============================================================ */
 
 /* ---- Section Epigraph ---- */
@@ -140,7 +140,7 @@
 }
 
 .term:hover {
-  border-bottom-color: var(--accent-nicene);
+  border-bottom-color: var(--link-color);
 }
 
 .term__tooltip {
@@ -193,7 +193,7 @@
 
 .term__transliteration {
   font-style: italic;
-  color: var(--accent-nicene);
+  color: var(--link-color);
   display: block;
   margin-bottom: 4px;
 }
@@ -822,8 +822,8 @@
 }
 
 .page-nav__link:hover {
-  border-color: var(--accent-nicene-border);
-  background: var(--accent-nicene-bg);
+  border-color: var(--accent-neutral-border);
+  background: var(--accent-neutral-bg);
   text-decoration: none;
   transform: translateY(-2px);
 }
@@ -843,7 +843,7 @@
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: var(--accent-nicene);
+  color: var(--link-color);
 }
 
 .page-nav__title {
@@ -906,8 +906,8 @@
 
 .scroll-top:hover {
   background: var(--bg-tertiary);
-  border-color: var(--accent-nicene-border);
-  color: var(--accent-nicene);
+  border-color: var(--accent-neutral-border);
+  color: var(--link-color);
 }
 
 @supports (padding: env(safe-area-inset-bottom)) {
@@ -931,7 +931,7 @@
 }
 
 .lock-card {
-  background: rgba(26, 26, 46, 0.55);
+  background: rgba(19, 19, 22, 0.65);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--border-color);
@@ -961,7 +961,7 @@
 .lock-card__icon {
   font-size: 2.5rem;
   line-height: 1;
-  filter: drop-shadow(0 4px 12px rgba(78, 205, 196, 0.15));
+  filter: drop-shadow(0 4px 12px var(--accent-neutral-border));
   margin-bottom: var(--space-xs);
 }
 
@@ -971,9 +971,9 @@
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: var(--accent-nicene);
-  background: var(--accent-nicene-bg);
-  border: 1px solid var(--accent-nicene-border);
+  color: var(--link-color);
+  background: var(--accent-neutral-bg);
+  border: 1px solid var(--accent-neutral-border);
   border-radius: 100px;
   padding: 3px 14px;
 }
@@ -1021,8 +1021,8 @@
 }
 
 .lock-card__input:focus {
-  border-color: var(--accent-nicene);
-  box-shadow: 0 0 0 3px var(--accent-nicene-border);
+  border-color: var(--link-color);
+  box-shadow: 0 0 0 3px var(--accent-neutral-border);
 }
 
 .lock-card__button {
@@ -1030,7 +1030,7 @@
   padding: 0.75rem var(--space-md);
   border-radius: var(--radius-md);
   border: none;
-  background: var(--text-primary);
+  background: var(--link-color);
   color: var(--bg-primary);
   font-family: var(--font-ui);
   font-size: var(--fs-sm);
@@ -1078,8 +1078,8 @@
   justify-content: space-between;
   gap: var(--space-md);
   padding: var(--space-sm) var(--space-lg);
-  background: var(--accent-nicene-bg);
-  border: 1px solid var(--accent-nicene-border);
+  background: var(--accent-neutral-bg);
+  border: 1px solid var(--accent-neutral-border);
   border-radius: var(--radius-md);
   margin-bottom: var(--space-xl);
   font-family: var(--font-ui);
@@ -1098,17 +1098,17 @@
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: var(--accent-nicene);
+  background: var(--link-color);
   display: inline-block;
   animation: blink 1.8s ease-in-out infinite;
 }
 
 .admin-banner__btn {
   background: none;
-  border: 1px solid var(--accent-nicene-border);
+  border: 1px solid var(--accent-neutral-border);
   border-radius: var(--radius-sm);
   padding: 4px var(--space-sm);
-  color: var(--accent-nicene);
+  color: var(--link-color);
   cursor: pointer;
   transition: all var(--transition-fast);
   font-family: var(--font-ui);
@@ -1117,9 +1117,9 @@
 }
 
 .admin-banner__btn:hover {
-  background: var(--accent-nicene);
+  background: var(--link-color);
   color: var(--bg-primary);
-  border-color: var(--accent-nicene);
+  border-color: var(--link-color);
 }
 
 /* ---- Keyframe Animations ---- */

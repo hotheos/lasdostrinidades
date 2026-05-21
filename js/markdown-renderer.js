@@ -1,5 +1,5 @@
 /* ============================================================
-   LAS DOS TRINIDADES — Markdown Renderer
+   LAS DOS TRINIDADES : Markdown Renderer
    ============================================================
    Loads .md files and renders them as styled HTML using the
    component classes from components.css. No external deps.

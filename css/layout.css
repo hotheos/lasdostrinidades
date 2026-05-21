@@ -1,5 +1,5 @@
 /* ============================================================
-   LAS DOS TRINIDADES — Layout
+   LAS DOS TRINIDADES : Layout
    ============================================================
    Three-panel layout: sidebar | content | TOC
    Responsive: single column on mobile.
@@ -111,7 +111,7 @@
 .sidebar__link.active {
   background: var(--sidebar-active);
   color: var(--sidebar-text-active);
-  border-left-color: var(--accent-nicene);
+  border-left-color: var(--sidebar-text-active);
   font-weight: 500;
 }
 
@@ -124,7 +124,7 @@
 }
 
 .sidebar__link.active .sidebar__link-number {
-  color: var(--accent-nicene);
+  color: var(--sidebar-text-active);
 }
 
 .sidebar__footer {
@@ -152,7 +152,7 @@
 }
 
 .theme-toggle:hover {
-  border-color: var(--accent-nicene);
+  border-color: var(--link-color);
   color: var(--text-primary);
 }
 
@@ -226,8 +226,8 @@
 }
 
 .toc__link.active {
-  color: var(--accent-nicene);
-  border-left-color: var(--accent-nicene);
+  color: var(--link-color);
+  border-left-color: var(--link-color);
 }
 
 /* ---- Mobile Menu Toggle ---- */
@@ -254,7 +254,7 @@
 }
 
 .mobile-menu-toggle:hover {
-  border-color: var(--accent-nicene);
+  border-color: var(--link-color);
 }
 
 /* ---- Overlay (mobile) ---- */

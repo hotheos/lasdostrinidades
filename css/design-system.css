@@ -1,5 +1,5 @@
 /* ============================================================
-   LAS DOS TRINIDADES — Design System
+   LAS DOS TRINIDADES : Design System
    ============================================================
    Dark mode by default. Light mode via [data-theme="light"].
    Chromatic coding: green = Nicene/fontal, brown = Augustinian/essentialist.
@@ -10,16 +10,16 @@
 /* ---- Root: Dark Mode (default) ---- */
 :root {
   /* Background */
-  --bg-primary: #0F0F1A;
-  --bg-secondary: #1A1A2E;
-  --bg-tertiary: #252540;
-  --bg-surface: #1E1E35;
+  --bg-primary: #08080A;
+  --bg-secondary: #131316;
+  --bg-tertiary: #1F1F24;
+  --bg-surface: #17171B;
 
   /* Text */
   --text-primary: #E8E6E1;
   --text-secondary: #A8A5A0;
   --text-tertiary: #9A9790;
-  --text-inverse: #1A1A2E;
+  --text-inverse: #08080A;
 
   /* Accent: Nicene / Fontal (green family) */
   --accent-nicene: #4ECDC4;
@@ -39,38 +39,45 @@
   --accent-gold-bg: rgba(255, 215, 0, 0.06);
   --accent-gold-border: rgba(255, 215, 0, 0.25);
 
-  /* Accent: General / Neutral */
-  --accent-neutral: #8B8FE8;
-  --accent-neutral-dim: #5B5FA8;
-  --accent-neutral-bg: rgba(139, 143, 232, 0.08);
+  /* Accent: General / Neutral (gold metal) */
+  --accent-neutral: #C5A059;
+  --accent-neutral-dim: #9E7F43;
+  --accent-neutral-bg: rgba(197, 160, 89, 0.08);
+  --accent-neutral-border: rgba(197, 160, 89, 0.3);
 
   /* UI elements */
-  --border-color: #2A2A4A;
-  --border-subtle: #222240;
-  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
-  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --border-color: #26262B;
+  --border-subtle: #1A1A1E;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.6);
 
   /* Scrollbar */
-  --scrollbar-track: #1A1A2E;
-  --scrollbar-thumb: #3A3A5A;
-  --scrollbar-thumb-hover: #4A4A6A;
+  --scrollbar-track: #000000;
+  --scrollbar-thumb: #2A2A30;
+  --scrollbar-thumb-hover: #3E3E48;
 
   /* Progress bar */
-  --progress-bg: #1A1A2E;
-  --progress-fill: linear-gradient(90deg, #4ECDC4, #8B8FE8);
+  --progress-bg: #131316;
+  --progress-fill: linear-gradient(90deg, #A77C38, #E2B766);
 
   /* Sidebar */
-  --sidebar-bg: #12121F;
-  --sidebar-active: rgba(78, 205, 196, 0.12);
-  --sidebar-hover: rgba(255, 255, 255, 0.04);
+  --sidebar-bg: #000000;
+  --sidebar-active: rgba(197, 160, 89, 0.12);
+  --sidebar-hover: rgba(255, 255, 255, 0.02);
   --sidebar-text: #A8A5A0;
-  --sidebar-text-active: #4ECDC4;
+  --sidebar-text-active: #C5A059;
 
   /* Tooltip */
-  --tooltip-bg: #252540;
-  --tooltip-border: #3A3A5A;
+  --tooltip-bg: #1F1F24;
+  --tooltip-border: #26262B;
   --tooltip-text: #E8E6E1;
+
+  /* Enlaces y Selección dinámicos */
+  --link-color: var(--accent-neutral);
+  --link-hover-color: var(--accent-neutral-dim);
+  --selection-bg: var(--accent-neutral);
+  --selection-color: var(--text-inverse);
 
   /* Typography */
   --font-body: 'Cormorant Garamond', 'Noto Serif', Georgia, serif;
@@ -158,6 +165,7 @@
   --accent-neutral: #5B5FA8;
   --accent-neutral-dim: #8B8FE8;
   --accent-neutral-bg: rgba(91, 95, 168, 0.06);
+  --accent-neutral-border: rgba(91, 95, 168, 0.25);
 
   --border-color: #E0D8CC;
   --border-subtle: #EDE7DB;
@@ -181,6 +189,12 @@
   --tooltip-bg: #FFFFFF;
   --tooltip-border: #E0D8CC;
   --tooltip-text: #2D2D2D;
+
+  /* Enlaces y Selección dinámicos */
+  --link-color: var(--accent-nicene);
+  --link-hover-color: var(--accent-nicene-dim);
+  --selection-bg: var(--accent-nicene);
+  --selection-color: var(--text-inverse);
 }
 
 /* ---- Base Reset ---- */
@@ -279,20 +293,20 @@ em {
 }
 
 a {
-  color: var(--accent-nicene);
+  color: var(--link-color);
   text-decoration: none;
   transition: color var(--transition-fast);
 }
 
 a:hover {
-  color: var(--accent-nicene-dim);
+  color: var(--link-hover-color);
   text-decoration: underline;
 }
 
 /* ---- Selection ---- */
 ::selection {
-  background-color: var(--accent-nicene);
-  color: var(--text-inverse);
+  background-color: var(--selection-bg);
+  color: var(--selection-color);
 }
 
 /* ---- Utility classes ---- */
