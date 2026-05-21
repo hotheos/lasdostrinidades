@@ -512,6 +512,51 @@
     els.content.insertAdjacentHTML('beforeend', navHtml);
   }
 
+  /* Enforce scrollbar removal and dynamic height synchronization */
+  function enforceIframeNoScroll(iframe) {
+    if (!iframe) return;
+    try {
+      if (iframe.getAttribute('scrolling') !== 'no') {
+        iframe.setAttribute('scrolling', 'no');
+      }
+      iframe.style.setProperty('overflow', 'hidden', 'important');
+      
+      const doc = iframe.contentDocument || iframe.contentWindow.document;
+      if (doc && doc.head) {
+        if (!doc.getElementById('ldt-scrollbar-remover')) {
+          const style = doc.createElement('style');
+          style.id = 'ldt-scrollbar-remover';
+          style.textContent = `
+            html, body {
+              overflow: hidden !important;
+              height: auto !important;
+              margin: 0 !important;
+              padding: 0 !important;
+              scrollbar-width: none !important;
+            }
+            ::-webkit-scrollbar {
+              display: none !important;
+              width: 0 !important;
+              height: 0 !important;
+            }
+          `;
+          doc.head.appendChild(style);
+        }
+        
+        const rootEl = doc.getElementById('root');
+        if (rootEl) {
+          const contentH = rootEl.scrollHeight || doc.body.scrollHeight;
+          if (contentH > 0) {
+            const finalH = contentH + 60;
+            iframe.style.setProperty('height', `${finalH}px`, 'important');
+          }
+        }
+      }
+    } catch (err) {
+      // Silencioso ante restricciones de CORS o navegadores
+    }
+  }
+
   /* ---- Comments Widget (Cusdis) ---- */
   function renderComments(pageId, pageTitle) {
     if (pageId === 'inicio') return;
@@ -566,6 +611,15 @@
         }
       });
     }
+
+    // Force absolute scroll prevention (scrolling="no") and dynamic height sync
+    const iframeCheck = setInterval(() => {
+      const iframe = document.querySelector('#cusdis_thread iframe');
+      if (iframe) {
+        enforceIframeNoScroll(iframe);
+      }
+    }, 150);
+    setTimeout(() => clearInterval(iframeCheck), 12000);
   }
 
 
@@ -614,10 +668,15 @@
         if (typeof data === 'string') {
           data = JSON.parse(data);
         }
-        if (data && data.event === 'resize' && typeof data.data === 'number') {
+        if (data && data.event === 'resize') {
           const iframe = document.querySelector('#cusdis_thread iframe');
           if (iframe) {
-            iframe.style.setProperty('height', `${data.data}px`, 'important');
+            const rawHeight = Number(data.data);
+            if (!isNaN(rawHeight) && rawHeight > 0) {
+              const paddedHeight = rawHeight + 60;
+              iframe.style.setProperty('height', `${paddedHeight}px`, 'important');
+            }
+            enforceIframeNoScroll(iframe);
           }
         }
       } catch (err) {
