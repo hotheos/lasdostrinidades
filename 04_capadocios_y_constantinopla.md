@@ -285,4 +285,4 @@ Con estos cuatro anclajes expuestos, la pregunta que la página 5 retomará tien
 
 ---
 
-*Página 4 de 14* · [← Página 3: Anclaje patrístico de Nicea](03_fundamento_patristico.md) · [Página 5: ¿Qué tipo de teísmo articula Nicea? →](05_que_tipo_de_teismo.md)
+*Página 4 de 15* · [← Página 3: Anclaje patrístico de Nicea](03_fundamento_patristico.md) · [Página 5: ¿Qué tipo de teísmo articula Nicea? →](05_que_tipo_de_teismo.md)

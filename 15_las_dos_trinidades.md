@@ -6,7 +6,7 @@
 
 ---
 
-## 13.1 A quién se dirige esta página
+## 15.1 A quién se dirige esta página
 
 Las doce páginas anteriores han presentado el material del sitio en forma argumentativa-descriptiva. Han examinado dos articulaciones trinitarias históricamente distinguibles, su desarrollo, sus consecuencias prácticas, su recepción en las tres tradiciones contemporáneas. La página 12 cerró el material con una invitación a leer con precisión, situándose cada lector en su propia tradición con consciencia.
 
@@ -20,11 +20,11 @@ Una aclaración inicial. El sitio sostiene como tesis descriptiva que hay dos ar
 
 ---
 
-## 13.2 Plano primero: las armonizaciones examinadas
+## 15.2 Plano primero: las armonizaciones examinadas
 
 Seis armonizaciones aparecen con regularidad cuando un lector recibe material como el del sitio. Cada una tiene núcleo de verdad parcial que la vuelve cognitivamente eficaz. Cada una se examina aquí en su mejor versión y se muestra por qué no resuelve la cuestión.
 
-### 13.2.1 La armonización del desarrollo orgánico
+### 15.2.1 La armonización del desarrollo orgánico
 
 La armonización del desarrollo orgánico sostiene que Agustín no introduce ruptura sino que desarrolla lo que ya estaba implícito en Nicea. La doctrina cristiana crece por explicitación progresiva, los Capadocios habrían firmado *De Trinitate*, y la diferencia entre los siglos cuarto y quinto es de profundidad explicativa, no de articulación estructural. Esta armonización es la más sofisticada teológicamente. Tiene tradición intelectual sólida en John Henry Newman, *Essay on the Development of Christian Doctrine* (1845), y articulación contemporánea en la teología católica del desarrollo doctrinal.
 
@@ -38,7 +38,7 @@ Segunda, el "desarrollo orgánico" tiene límite estructural. Cuando el desarrol
 
 Tercera, la prueba histórica del desarrollo orgánico es la recepción universal. Si Agustín hubiera desarrollado orgánicamente a Nicea, el Oriente lo habría reconocido como propio. No lo hizo. Mil seiscientos años de no-recepción oriental del *Filioque*, del *Quicumque Vult*, del esquema esencialista, no son malentendido cultural ni intransigencia política. Son juicio sostenido de una tradición conciliar viva sobre otra articulación que no reconoce como continuación de lo suyo. Si el desarrollo fue orgánico, el organismo se separó en dos. Si el organismo se separó en dos, no era desarrollo orgánico en sentido estricto.
 
-### 13.2.2 La armonización léxica
+### 15.2.2 La armonización léxica
 
 La armonización léxica sostiene que los griegos hablan de *ousia* y los latinos de *substantia*, que los griegos hablan de *hypostasis* y los latinos de *persona*, que los griegos hablan de *aitía* y los latinos de *principium*, pero que el contenido conceptual es el mismo. Las diferencias serían de vocabulario, no de doctrina.
 
@@ -52,7 +52,7 @@ Segunda, el caso más visible de divergencia conceptual bajo identidad léxica e
 
 Tercera, si las diferencias fueran solo léxicas, la traducción reconciliaría las tradiciones. Existen traducciones competentes en ambos sentidos hace siglos. La reconciliación no se ha producido. La razón estructural no es léxica sino arquitectónica: las dos tradiciones articulan la doctrina trinitaria con disposiciones conceptuales distintas, y ningún glosario, por preciso que sea, traduce arquitecturas conceptuales. Traduce términos.
 
-### 13.2.3 La armonización del énfasis complementario
+### 15.2.3 La armonización del énfasis complementario
 
 La armonización del énfasis complementario sostiene que las dos tradiciones enfatizan dimensiones distintas de una misma realidad. El Oriente enfatiza la persona del Padre como fuente; el Occidente enfatiza la unidad esencial. Los dos énfasis se complementan en una doctrina trinitaria más rica. Esta es la armonización ecuménica blanda, frecuente en la teología del diálogo, atractiva por su tono conciliador.
 
@@ -60,13 +60,13 @@ La armonización tiene núcleo de verdad. Sí, cada tradición ilumina aspectos 
 
 Pero la armonización no resuelve la cuestión específica. Tres observaciones la desactivan.
 
-Primera, el énfasis complementario requiere que las dimensiones enfatizadas sean compatibles. Si el Oriente afirma que el Padre es la única fuente fontal y el Occidente afirma que el Padre y el Hijo son conjuntamente un único principio espirativo en virtud de la esencia común, las dos afirmaciones no son énfasis distintos sobre lo mismo: son afirmaciones distintas sobre la estructura fontal de la divinidad. Una afirma una fuente; la otra, dos personas operando como principio único. Llamar a esto "énfasis complementario" requiere previamente decidir que la diferencia no es real, lo cual es petición de principio.
+Primera, el énfasis complementario requiere que las dimensiones enfatizadas sean compatibles. La posición católica articulada sostiene que lo son: el Padre es fuente sin principio (*principium sine principio*), las procesiones son reales, y la esencia es idéntica a las personas; ambas dimensiones (fontalidad y unidad esencial) se sostienen simultáneamente. Esta posición tiene coherencia interna y no debe descartarse como evasión. Pero nótese que el punto específico que el sitio examina no es si las dos dimensiones son compatibles internamente, sino si la *aposición identificativa del "un Dios"* puede simultáneamente referir al Padre (como dice el símbolo niceno) y a la Trinidad (como dice el *Quicumque Vult*). Afirmar que el Padre es fuente *y* que la Trinidad es el "un Dios" no es complementariedad: es dar dos respuestas estructuralmente distintas a la misma pregunta gramatical. La pregunta no es si fontalidad y unidad esencial pueden coexistir; es qué se coloca en aposición con *heis Theos*.
 
 Segunda, las consecuencias prácticas no son complementarias sino divergentes. La pneumatología epicléctica oriental y la cristología eucarística occidental producen liturgias estructuralmente distintas. La eclesiología sinodal oriental y la eclesiología jerárquica occidental producen estructuras eclesiales distintas. La *theōsis* palamita y la justificación forense protestante producen soteriologías distintas. Estas diferencias no son énfasis sobre lo mismo: son consecuencias verificables de gramáticas distintas. Llamarlas complementarias sin abordar las divergencias específicas es vaguedad estratégica.
 
 Tercera, la propuesta de complementariedad del documento de 1995 sobre el *Filioque*, examinada en página 8, es matización magisterial honesta, pero opera dentro de un horizonte específico: el reconocimiento católico de la legitimidad de la fórmula oriental, sin abandonar la propia. Esto no es complementariedad simétrica; es articulación pacífica de dos posiciones distintas que coexisten institucionalmente. La armonización ecuménica blanda lee este documento como "ya somos lo mismo en el fondo", lo cual el documento explícitamente no dice.
 
-### 13.2.4 La armonización pastoral
+### 15.2.4 La armonización pastoral
 
 La armonización pastoral sostiene que la cuestión es académica, que en la vida real ambas formulaciones llevan a la misma fe vivida, y que el creyente común no necesita estas distinciones para creer y orar correctamente.
 
@@ -80,7 +80,7 @@ Segunda, la armonización pastoral suele ser articulada por quien ya pertenece a
 
 Tercera, la armonización pastoral puede tener función protectora legítima en algunos contextos (un creyente en crisis no necesita examen técnico de la doctrina trinitaria para sostener su fe). Pero como afirmación universal sobre la cuestión, opera como evasión. El sitio se dirige a quien ha elegido examinar la cuestión técnicamente. Para ese lector, "la cuestión es académica" no es respuesta: es cierre prematuro del examen que él mismo decidió iniciar.
 
-### 13.2.5 La armonización magisterial
+### 15.2.5 La armonización magisterial
 
 La armonización magisterial sostiene que la cuestión está zanjada por la autoridad eclesial competente. El catolicismo magisterial recibió el esquema agustiniano-tomista, el protestantismo magisterial lo confiesa con los símbolos, la ortodoxia sostiene su gramática oriental, y cada tradición tiene autoridad legítima sobre su propia doctrina. La cuestión, por tanto, no está abierta.
 
@@ -94,31 +94,31 @@ Segunda, el magisterio mismo, en sus articulaciones más recientes, ha reconocid
 
 Tercera, la armonización magisterial puede operar como blindaje contra el examen. Si la autoridad eclesial ya resolvió la cuestión, el lector no tiene que examinarla. Pero el sitio se dirige a quien decidió examinarla. Para ese lector, la apelación al magisterio para evitar el examen es funcionalmente equivalente a no leer el sitio. Lo cual es opción legítima, pero conviene reconocerla como tal: no es respuesta al material, es decisión de no procesarlo.
 
-### 13.2.6 La armonización mística
+### 15.2.6 La armonización mística
 
 La armonización mística sostiene que la Trinidad es misterio incognoscible, que las articulaciones humanas son aproximaciones inadecuadas, y que pretender distinguir entre dos articulaciones específicas es presunción intelectual frente al misterio sagrado.
 
 La armonización tiene núcleo de verdad. Sí, la Trinidad excede toda formulación humana. Sí, el apofatismo es dimensión legítima de la teología cristiana. Sí, la teología catafática (afirmativa) debe articularse en tensión con la teología apofática (negativa).
 
-Pero la armonización no resuelve la cuestión específica. Tres observaciones la desactivan.
+Pero la armonización no resuelve la cuestión específica. Tres observaciones la precisan.
 
-Primera, el apofatismo no excluye la precisión técnica; la presupone. Dionisio Areopagita, Máximo el Confesor, Palamás, Eckhart, Juan de la Cruz: todos articulan teología apofática rigurosa precisamente porque previamente articulan teología catafática con precisión. La apelación al misterio para evitar la precisión no es apofatismo: es vaguedad. El apofatismo verdadero dice "lo que afirmamos con precisión, sin embargo, no agota lo que Dios es". La armonización mística dice "no afirmemos con precisión, porque Dios excede toda afirmación". Son operaciones distintas.
+Primera, conviene distinguir entre dos usos del misterio. Existe una apelación al misterio *articulada*, que sostiene simultáneamente la fontalidad del Padre y la unidad esencial, reconoce la tensión entre ambas, y declara que la tensión pertenece al misterio divino que excede la razón humana. Teólogos como Ratzinger, Emery, von Balthasar operan así, y su posición tiene densidad intelectual real. Existe también una apelación al misterio *difusa*, que invoca la trascendencia divina para evitar examinar si las dos articulaciones son o no la misma cosa, sin antes haberlas distinguido con precisión. La primera es posición teológica legítima; la segunda es cierre prematuro del examen. El sitio respeta la primera y señala los límites de la segunda.
 
-Segunda, los autores conciliares que articularon la doctrina trinitaria no se consideraron exentos del misterio. Atanasio, los Capadocios, Agustín, todos reconocieron los límites del lenguaje humano sobre Dios. Y sin embargo articularon con precisión técnica las cuestiones que el contexto histórico les planteaba. La doctrina trinitaria es producto de teólogos que sostuvieron simultáneamente el misterio y la precisión técnica. La armonización mística los traicionaría a todos.
+Segunda, la apelación articulada al misterio, aunque legítima, no resuelve la cuestión gramatical específica que el sitio plantea. La pregunta no es si Dios excede toda formulación (evidentemente sí); es si la fórmula *Heis Theos ho Patēr* y la fórmula *ipsa Trinitas unus Deus* dicen lo mismo o dicen cosas distintas. Esta es una pregunta sobre textos, gramáticas e historia, no sobre la esencia divina. El misterio de Dios no impide examinar lo que los textos humanos afirman. Atanasio, los Capadocios y Agustín reconocieron los límites del lenguaje y sin embargo articularon con precisión las cuestiones que el contexto histórico les planteaba. El sitio hace lo mismo: examina las formulaciones, no pretende agotar a Dios.
 
-Tercera, la armonización mística es a menudo selectiva. Se aplica para evitar examinar las distinciones entre las dos gramáticas, pero no se aplica a las afirmaciones doctrinales que el lector ya acepta. El lector que dice "es misterio, no se puede distinguir" suele tener convicciones trinitarias específicas que sostiene con claridad. La apelación al misterio funciona solo cuando emerge una distinción que el lector preferiría no procesar. Esto la revela como estrategia cognitiva, no como posición apofática consistente.
+Tercera, la armonización mística, en su forma difusa, tiende a ser selectiva. Se aplica para evitar examinar la distinción entre las dos gramáticas, pero no se aplica a las afirmaciones doctrinales que el lector ya acepta. El lector que dice "es misterio, no se puede distinguir" suele tener convicciones trinitarias específicas que sostiene con claridad. La apelación al misterio aparece precisamente cuando emerge una distinción que tensiona convicciones previas. Reconocer esta selectividad no invalida la apelación al misterio en su forma articulada, pero sí invita a preguntarse si la apelación que uno está haciendo es la articulada o la difusa.
 
 ### Síntesis del plano primero
 
 Las seis armonizaciones examinadas tienen estructura común. Cada una contiene núcleo de verdad parcial. Cada una se vuelve eficaz cognitivamente por ese núcleo. Cada una falla, sin embargo, en resolver la cuestión específica del sitio: si la articulación nicena fontal y la articulación agustiniana esencialista son una misma cosa con vocabularios distintos, o si son dos articulaciones estructuralmente distintas.
 
-La evidencia textual, histórica, conceptual, lógica y litúrgica, expuesta en las doce páginas anteriores y referida brevemente aquí, sostiene la segunda hipótesis. Las armonizaciones, en su mejor versión, no producen razones para preferir la primera: producen estrategias para evitar tener que decidir.
+La evidencia textual, histórica, conceptual, lógica y litúrgica, expuesta en las doce páginas anteriores y referida brevemente aquí, sostiene la segunda hipótesis. Las armonizaciones, en su mejor versión, contienen verdades parciales que iluminan aspectos del problema; pero ninguna de ellas produce una razón suficiente para sostener que las dos articulaciones dicen lo mismo con vocabularios distintos. La cuestión no es si fontalidad y unidad esencial pueden coexistir en un mismo esquema teológico (pueden, y el catolicismo articulado lo demuestra), sino si la aposición *Heis Theos ho Patēr* y la aposición *ipsa Trinitas unus Deus* son la misma operación gramatical. No lo son.
 
 El sitio sostiene que son dos articulaciones, no una. Esta afirmación es descriptiva, no adjudicativa: no dice cuál es correcta, dice que son distintas. La distinción importa.
 
 ---
 
-## 13.3 Bisagra: del examen objetivo al examen del observador
+## 15.3 Bisagra: del examen objetivo al examen del observador
 
 Hasta aquí, el examen ha operado en el plano objetivo. Las armonizaciones se nombran, se exponen en su mejor versión, se muestran sus límites estructurales. El lector que ha seguido el material tiene ahora delante de sí los argumentos.
 
@@ -136,11 +136,11 @@ Tercera, el ejercicio puede tomar tiempo. No es operación que se hace en una le
 
 ---
 
-## 13.4 Plano segundo: preguntas para el observador interno
+## 15.4 Plano segundo: preguntas para el observador interno
 
 Cinco grupos de preguntas se ofrecen a continuación. No son preguntas retóricas con respuesta implícita; son preguntas genuinas que el lector se hace a sí mismo y cuya respuesta solo él conoce. El orden es de menor a mayor profundidad: las primeras operan en el plano intelectual, las últimas en el plano espiritual.
 
-### 13.4.1 Sobre la función de la armonización
+### 15.4.1 Sobre la función de la armonización
 
 Si el lector se ha encontrado, al leer el sitio, produciendo armonizaciones de las examinadas en el plano primero, conviene preguntarse qué función cumple la armonización en su economía interna. La pregunta no es por qué armoniza, sino qué se preserva con la armonización que se perdería sin ella.
 
@@ -154,7 +154,7 @@ Algunas formulaciones específicas que el lector puede considerar:
 
 Estas preguntas son introspectivas, no retóricas. El lector puede encontrar que no armoniza, en cuyo caso la pregunta no aplica. Puede encontrar que armoniza y que la armonización tiene función legítima en su contexto. Puede encontrar que armoniza y que la función es protección de algo que conviene examinar. Las tres respuestas son posibles y solo el lector puede determinar la suya.
 
-### 13.4.2 Sobre el orden de los compromisos
+### 15.4.2 Sobre el orden de los compromisos
 
 Toda persona razonable tiene compromisos previos cuando recibe material nuevo. El compromiso previo no es defecto cognitivo; es condición humana inevitable. La cuestión no es si hay compromisos, sino cuáles son y cómo operan.
 
@@ -168,7 +168,7 @@ Si tuviera que articular en una frase mi compromiso previo más fuerte sobre la 
 
 Estas preguntas operan en el plano intelectual avanzado, pero conducen al plano siguiente. Si descubro que mi armonización tiene función protectora de algo específico, la cuestión se vuelve qué es eso que protejo, y la respuesta puede ser intelectual, comunitaria o espiritual.
 
-### 13.4.3 Sobre la verdad y la pertenencia
+### 15.4.3 Sobre la verdad y la pertenencia
 
 La doctrina trinitaria no es solo cuestión intelectual. Es articulación que estructura comunidades, prácticas, identidades. Examinarla críticamente toca dimensiones que exceden el examen puramente conceptual.
 
@@ -182,7 +182,7 @@ Si yo perteneciera a una tradición distinta a la mía, ¿cómo evaluaría el mi
 
 Estas preguntas son delicadas y conviene aproximarse a ellas sin prisa. La pertenencia comunitaria es bien real, no obstáculo a superar. La cuestión es si la pertenencia opera de manera que permite el examen o de manera que lo impide.
 
-### 13.4.4 Sobre la disposición espiritual
+### 15.4.4 Sobre la disposición espiritual
 
 El cristianismo confiesa que la fe se vive en libertad y en verdad. Estas dos categorías están articuladas en el corpus joánico: la verdad libera (Juan 8:32), la libertad es para la verdad (Gálatas 5:1). Examinar la doctrina trinitaria con honestidad es ejercicio espiritual, no solo intelectual.
 
@@ -196,7 +196,7 @@ Si en oración pidiera al Padre, por el Hijo, en el Espíritu Santo, claridad so
 
 Estas preguntas tocan zona donde el intelecto y el espíritu se articulan. Conviene no responderlas rápido. La respuesta honesta puede tomar tiempo, y la honestidad importa más que la velocidad.
 
-### 13.4.5 Sobre el destinatario último del examen
+### 15.4.5 Sobre el destinatario último del examen
 
 Una pregunta final, que el lector cristiano puede formular como ningún otro:
 
@@ -210,7 +210,7 @@ Esta pregunta es la más profunda y la más íntima. No tiene respuesta pública
 
 ---
 
-## 13.5 Lo que esta operación no es
+## 15.5 Lo que esta operación no es
 
 Conviene precisar tres cosas que la página doce no es, para que el lector pueda situarla con justicia.
 
@@ -222,7 +222,7 @@ No es condescendencia espiritual. El autor del sitio no se sitúa en posición s
 
 ---
 
-## 13.6 Una observación final sobre la disonancia
+## 15.6 Una observación final sobre la disonancia
 
 La disonancia cognitiva que el lector pueda experimentar al leer el sitio no es señal de error en el material, ni señal de error en el lector. Es síntoma natural del encuentro entre una convicción previa y evidencia que la tensiona. La disonancia tiene tres salidas posibles, y conviene reconocerlas.
 
@@ -236,7 +236,7 @@ El sitio no presume cuál salida elegirá cada lector. Solo ofrece, en esta pág
 
 ---
 
-## 13.7 Cierre
+## 15.7 Cierre
 
 El sitio sostiene que hay dos articulaciones trinitarias, no una. La página doce ha articulado esta tesis con mayor fuerza dialéctica que las once anteriores, examinando las armonizaciones esperables y ofreciendo preguntas para el observador interno del lector.
 
@@ -244,11 +244,13 @@ Lo que sigue después de esta página depende enteramente del lector. El materia
 
 Sostener que son dos no es polémica contra ninguna tradición. Es reconocimiento de un hecho histórico-conceptual cuyo procesamiento abre, para cada tradición, posibilidades distintas. La ortodoxia puede tematizar con orgullo lo que ya posee. El catolicismo puede continuar la matización magisterial que ya está en curso. El protestantismo puede enfrentar honestamente la tensión metodológica que su principio formal introduce.
 
-Que el examen sea fecundo. Que cada lector, desde dentro de su tradición, lea con la precisión que la cuestión merece y con la honestidad que el dato escriturístico exige. Que la imagen de Dios en quien examina coincida progresivamente con el Dios que la Escritura confiesa: el Padre todopoderoso, hacedor del cielo y de la tierra; el Señor Jesucristo, Hijo único de Dios; el Espíritu Santo, Señor y dador de vida, que del Padre procede.
+Que el examen sea fecundo. Que cada lector, desde dentro de su tradición, lea con la precisión que la cuestión merece y con la honestidad que el dato histórico y escriturístico exige.
 
-*Heis Theos ho Patēr.* Un Dios, el Padre.
+El símbolo niceno-constantinopolitano dice: *Pisteuomen eis hena Theon, Patera pantokratora*. Creemos en un Dios, Padre todopoderoso.
 
-Las palabras están ahí. La gramática está ahí. La invitación es a leerlas, y a permitir que la lectura nos lea.
+El *Quicumque Vult* dice: *Deus Pater, Deus Filius, Deus Spiritus Sanctus; et tamen non tres dii, sed unus est Deus*.
+
+Las dos fórmulas están ahí. Las dos gramáticas están ahí. La invitación del sitio es a leerlas con precisión, a reconocer que no dicen lo mismo, y a permitir que esa distinción ilumine la propia fe con la claridad que merece.
 
 ---
 

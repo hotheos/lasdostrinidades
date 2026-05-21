@@ -8,7 +8,7 @@
 
 ---
 
-## 10.1 El propósito de esta página
+## 12.1 El propósito de esta página
 
 Las páginas anteriores han establecido la distinción entre dos gramáticas trinitarias: la nicena fontal y la agustiniana esencialista. Han mostrado el desplazamiento histórico, el *Filioque* como síntoma, y el problema lógico como consecuencia filosófica del esquema occidental. Esta página examina cómo las tres grandes tradiciones cristianas contemporáneas (la ortodoxia oriental, el catolicismo romano y el protestantismo magisterial y evangélico) viven hoy las consecuencias de esta historia.
 
@@ -18,7 +18,7 @@ Las tres tradiciones se examinan en el orden geográfico-histórico del cisma: p
 
 ---
 
-## 10.2 La ortodoxia oriental: gramática nicena tematizada
+## 12.2 La ortodoxia oriental: gramática nicena tematizada
 
 La tradición ortodoxa oriental ha conservado la gramática nicena de la monarquía del Padre como núcleo doctrinal explícito. En el siglo XX, teólogos de la emigración rusa (Lossky, Florovsky) y del mundo griego (Zizioulas, Yannaras) articularon esta conservación como tematización filosófica positiva de la prioridad ontológica de la persona sobre la sustancia (páginas 3 y 6).
 
@@ -30,7 +30,7 @@ La ortodoxia contemporánea no es monolítica. Algunos teólogos (Larchet) han c
 
 ---
 
-## 10.3 El catolicismo romano: herencia agustiniano-tomista y matización contemporánea
+## 12.3 El catolicismo romano: herencia agustiniano-tomista y matización contemporánea
 
 El catolicismo romano es heredero institucional del esquema agustiniano-tomista (páginas 6 y 7), con el *Filioque* codificado dogmáticamente. El *Catecismo de la Iglesia Católica* (1992) articula la doctrina trinitaria en plena continuidad con ese esquema. La formación teológica estándar opera con Tomás como referencia central y Agustín como fuente patrística primaria.
 
@@ -40,7 +40,7 @@ Las voces teológicas que articulan esta matización (Rahner, Congar, von Baltha
 
 ---
 
-## 10.4 El protestantismo: herencia sin tematización
+## 12.4 El protestantismo: herencia sin tematización
 
 El protestantismo magisterial y evangélico contemporáneo presenta una situación específicamente distinta. Heredó el esquema agustiniano-occidental, incluido el *Filioque*, sin debate interno significativo. No tiene una tradición conciliar propia (en el sentido católico u ortodoxo del término) que articule su recepción. Y opera con un principio formal (*sola Scriptura*) que, aplicado coherentemente, plantea preguntas que el propio protestantismo rara vez tematiza.
 
@@ -106,11 +106,11 @@ La exposición anterior ha tratado al protestantismo como bloque relativamente u
 
 **Protestantismo no confesional.** Bajo esta categoría se agrupan las tradiciones y movimientos protestantes que no reciben formalmente los credos conciliares, no operan con teología sistemática heredada, y articulan su fe con vocabulario experiencial, devocional y pastoral antes que técnico-doctrinal. Esta categoría incluye a los movimientos carismáticos, las iglesias neopentecostales, las iglesias comunitarias independientes (*community churches*, *megachurches*), las redes apostólico-proféticas, y una parte significativa del evangelicalismo no denominacional contemporáneo. Este sector del protestantismo, numéricamente mayoritario en el mundo global del siglo XXI (especialmente en América Latina, África subsahariana y Asia sudoriental), tiene una relación distinta con la herencia trinitaria: no la rechaza formalmente, pero tampoco la tematiza. La doctrina trinitaria existe en este horizonte como afirmación catequética recibida ("Dios es uno en tres personas"), sin la articulación técnica que permitiría examinar *qué gramática trinitaria* opera de hecho en la predicación, la alabanza y la piedad cotidiana.
 
-Las consecuencias de esta distinción para el argumento del sitio son significativas. En el protestantismo confesional, el esquema agustiniano opera como doctrina heredada consciente: los seminarios reformados enseñan las *relationes subsistentes* de Tomás, leen *De Trinitate* de Agustín, y articulan posiciones explícitas sobre el *Filioque*. El esquema puede examinarse críticamente porque está tematizado. En el protestantismo no confesional, el esquema agustiniano opera como cultura teológica implícita, sin nombre propio. El creyente carismático o neopentecostal que afirma "Dios es uno en tres personas" está repitiendo, sin saberlo, una formulación que presupone el *monoteísmo esencialista trinitario* (página 3): un "Dios" que es un *qué* (la esencia compartida), no un *quién* (el Padre como fuente). Pero no tiene los recursos formativos para reconocerlo, y por tanto no puede examinarlo críticamente.
+Las consecuencias de esta distinción para el argumento del sitio son significativas. En el protestantismo confesional, el esquema agustiniano opera como doctrina heredada consciente: los seminarios reformados enseñan las *relationes subsistentes* de Tomás, leen *De Trinitate* de Agustín, y articulan posiciones explícitas sobre el *Filioque*. El esquema puede examinarse críticamente porque está tematizado. En el protestantismo no confesional, el esquema agustiniano opera como cultura teológica implícita, sin nombre propio. El creyente carismático o neopentecostal que afirma "Dios es uno en tres personas" está repitiendo, sin saberlo, una formulación que presupone el *monoteísmo esencialista trinitario* (página 9): un "Dios" en aposición con la Trinidad como totalidad, no con el Padre como persona-fuente. Pero no tiene los recursos formativos para reconocerlo, y por tanto no puede examinarlo críticamente.
 
 ---
 
-## 10.5 El cristocentrismo opacante: cuando Cristo desplaza al Padre
+## 12.5 El cristocentrismo opacante: cuando Cristo desplaza al Padre
 
 Una consecuencia específica del protestantismo no confesional contemporáneo, conectada estructuralmente con el esquema agustiniano aunque raramente reconocida como tal, es lo que la página 6 introdujo como *cristocentrismo opacante*: la tendencia a que Cristo ocupe el centro exclusivo de la piedad, la predicación y la adoración, mientras el Padre queda reducido a figura de fondo, sinónimo genérico de "Dios" sin identidad personal diferenciada.
 
@@ -122,7 +122,7 @@ Este fenómeno tiene varias manifestaciones observables.
 
 La predicación evangélica no confesional contemporánea se centra casi exclusivamente en "Jesús" o "Cristo" como referente de la fe. "Dios Padre" rara vez aparece como persona distinta con nombre propio, con voluntad específica, con un papel teológico diferenciado del papel del Hijo. La fórmula paulina *heis Theos ho Patēr* (un Dios, el Padre), que el símbolo niceno reproduce literalmente, no opera como estructura organizadora del discurso homilético. Jesús es presentado como "Dios" sin matizar la relación Padre-Hijo, produciendo en la práctica un modalismo devocional funcional donde las tres personas se colapsan en una sola figura percibida.
 
-Esto es verificable empíricamente. El creyente medio en una iglesia evangélica no confesional contemporánea, si se le pregunta "¿a quién le oras?", tenderá a responder "a Dios" o "a Jesús" de manera intercambiable. La pregunta "¿cuál es la diferencia entre orar al Padre y orar a Jesús?" tiende a producir confusión o respuestas que revelan un modalismo funcional no reconocido. Esto no es fracaso intelectual del creyente individual; es consecuencia directa del *monoteísmo esencialista trinitario* operando como cultura devocional: si "Dios" es un *qué* (la esencia compartida) y no un *quién* (el Padre), entonces "orar a Dios" y "orar a Jesús" se vuelven gramaticalmente indistinguibles. Bajo el *monoteísmo fontal trinitario*, donde "Dios" es el Padre, la confusión no se produce: se ora al Padre, por el Hijo, en el Espíritu.
+Esto es verificable empíricamente. El creyente medio en una iglesia evangélica no confesional contemporánea, si se le pregunta "¿a quién le oras?", tenderá a responder "a Dios" o "a Jesús" de manera intercambiable. La pregunta "¿cuál es la diferencia entre orar al Padre y orar a Jesús?" tiende a producir confusión o respuestas que revelan un modalismo funcional no reconocido. Esto no es fracaso intelectual del creyente individual; es consecuencia del *monoteísmo esencialista trinitario* operando como cultura devocional sin controles formativos: si "un Dios" está en aposición con la Trinidad como totalidad y no con el Padre como persona-fuente, la distinción entre "orar a Dios" y "orar a Jesús" se vuelve gramaticalmente difusa para quien no tiene formación técnica para articularla. Bajo el *monoteísmo fontal trinitario*, donde "Dios" refiere primariamente al Padre, la confusión no se produce con la misma facilidad: se ora al Padre, por el Hijo, en el Espíritu.
 
 ### En la alabanza y la adoración colectiva
 
@@ -148,7 +148,7 @@ Cuando se afirma que "toda la Biblia habla de Jesús", sin matizar que el AT pre
 
 ### La conexión estructural con el esquema agustiniano
 
-Este cristocentrismo opacante no es accidente histórico ni deficiencia educativa sin más. Es consecuencia estructural del esquema agustiniano operando en un contexto sin formación patrística. Si *Deus* refiere a la esencia compartida y no al Padre como persona fontal, entonces "Dios" y "Jesús" se vuelven referentes indistintos: ambos son la misma esencia divina, y la distinción personal entre ellos se vuelve doctrinalmente abstracta y devocionalmente irrelevante. La monarquía del Padre, que en la gramática nicena preserva la distinción personal con claridad (el Padre como fuente, el Hijo como engendrado, el Espíritu como procedente), queda sin anclaje devocional en un contexto donde "Dios" es nombre genérico de la esencia, no nombre propio del Padre.
+Este cristocentrismo opacante no es mero accidente histórico, aunque tampoco es consecuencia inevitable del esquema agustiniano en sí mismo. Es importante ser preciso aquí. El esquema agustiniano, cuando opera con sus controles formativos internos (la teología sistemática, las distinciones técnicas, la liturgia formal que conserva la dirección al Padre), no produce necesariamente cristocentrismo opacante. La tradición católica y el protestantismo confesional reformado operan con el esquema agustiniano sin caer en esta patología. Lo que ocurre es que el esquema agustiniano, *cuando se recibe sin esos controles formativos*, facilita la confusión entre "Dios" y "Jesús" como referentes intercambiables. Si "un Dios" refiere a la Trinidad como totalidad en lugar del Padre como persona, la distinción personal entre el Padre y el Hijo se vuelve doctrinalmente abstracta para quien no tiene formación para articularla. La monarquía del Padre, que en la gramática nicena preserva la distinción personal con claridad devocional inmediata (el Padre como fuente, el Hijo como engendrado, el Espíritu como procedente), requiere en el esquema agustiniano una formación técnica que el protestantismo no confesional generalmente no proporciona.
 
 La ironía es significativa. El Jesús de los Evangelios remite constantemente al Padre: "el Padre es mayor que yo" (Juan 14:28), "esta es la vida eterna: que te conozcan a ti, el único Dios verdadero" (Juan 17:3), "Padre nuestro que estás en los cielos" (Mateo 6:9), "no busco mi voluntad, sino la voluntad del Padre que me envió" (Juan 5:30). La piedad que lleva el nombre de Jesús pero no remite al Padre como Jesús mismo remite, contradice en la práctica devocional lo que Jesús articuló en el texto bíblico que esa misma piedad dice honrar.
 
@@ -158,7 +158,7 @@ Paradójicamente, algunos elementos del protestantismo no confesional podrían a
 
 ---
 
-## 10.6 Una comparación estructural
+## 12.6 Una comparación estructural
 
 Reuniendo los elementos expuestos, la situación contemporánea de las tres tradiciones puede sintetizarse en la siguiente tabla:
 
@@ -174,7 +174,7 @@ La tabla muestra que las tres tradiciones operan con articulaciones distintas qu
 
 ---
 
-## 10.7 Cierre
+## 12.7 Cierre
 
 Las tres tradiciones cristianas contemporáneas viven la doctrina trinitaria desde posiciones estructurales distintas. La ortodoxia ha tematizado la gramática nicena de la monarquía del Padre con sofisticación filosófica en el siglo XX. El catolicismo ha mantenido el esquema agustiniano-tomista con apertura magisterial reciente a matizaciones que el ecumenismo y la teología post-conciliar han hecho posibles. El protestantismo magisterial ha recibido el esquema occidental sin tematizarlo, enfrentando una tensión estructural específica entre el principio formal *sola Scriptura* y la dependencia inevitable de la tradición conciliar y de la filosofía griega para articular la doctrina trinitaria.
 

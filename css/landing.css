@@ -561,14 +561,33 @@
   .inicio__coins { gap: var(--space-lg); }
   .inicio__coin-svg { width: 130px; height: 130px; }
 
-
   .inicio__method-grid { grid-template-columns: 1fr; }
   .inicio__method { padding: var(--space-lg) !important; }
 
   .landing__cta { width: 100%; justify-content: center; }
-  .landing__index-item { gap: var(--space-md); padding: var(--space-md); }
+
+  .landing__index-item {
+    gap: var(--space-md);
+    padding: var(--space-md);
+    min-height: 48px;
+    -webkit-tap-highlight-color: transparent;
+  }
   .landing__index-num { font-size: var(--fs-lg); min-width: 2rem; }
   .landing__index-desc { display: none; }
   .landing__index-arrow { display: none; }
-  .landing__appendix-link { font-size: var(--fs-sm); padding: var(--space-xs) var(--space-sm); }
+  .landing__appendix-link {
+    font-size: var(--fs-sm);
+    padding: var(--space-xs) var(--space-sm);
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .inicio__central-question {
+    padding: var(--space-lg);
+  }
+
+  .inicio__cq-option {
+    padding: var(--space-md);
+  }
 }

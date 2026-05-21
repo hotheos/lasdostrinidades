@@ -80,7 +80,7 @@ La oración se dirige al Padre, identificado como "el único Dios verdadero, sob
 
 El dato que estos textos establecen no es que Justino e Ireneo sean "proto-nicenos" en un sentido que los haga precursores de una formulación posterior. Son testigos de una gramática que ya estaba en operación continua desde el Nuevo Testamento. Cuando el concilio de Nicea en 325 escribe *Pisteuomen eis hena Theon Patera pantokratora* ("Creemos en un Dios, Padre todopoderoso"), no está innovando. Está codificando lo que Ireneo había formulado como regla de fe apostólica 150 años antes, y lo que Justino había articulado como estructura trinitaria otros treinta años antes.
 
-Para Justino e Ireneo, "Dios" en sentido absoluto es siempre un *quién* (el Padre), no un *qué* (una esencia abstracta). La identificación del "un Dios" con el Padre como persona fontal es el horizonte operativo universal del siglo II, no una opción entre varias.
+Para Justino e Ireneo, "Dios" en sentido absoluto está siempre en aposición con el Padre como persona fontal, no con una esencia abstracta. La identificación del "un Dios" con el Padre como persona fontal es el horizonte operativo universal del siglo II, no una opción entre varias.
 
 ---
 
@@ -248,4 +248,4 @@ Tres consideraciones cierran esta síntesis.
 
 ---
 
-*Página 3 de 14* · [← Página 2: Anclaje bíblico de Nicea](02_fundamentos_apostolicos.md) · [Página 4: Los Capadocios y el Concilio de Constantinopla →](04_capadocios_y_constantinopla.md)
+*Página 3 de 15* · [← Página 2: Anclaje bíblico de Nicea](02_fundamentos_apostolicos.md) · [Página 4: Los Capadocios y el Concilio de Constantinopla →](04_capadocios_y_constantinopla.md)

@@ -111,5 +111,5 @@ La pregunta no puede responderse aquí. Requiere examinar el desarrollo históri
 
 ---
 
-*Página 5 de 14* · [← Página 4: Los Capadocios y el Concilio de Constantinopla](04_capadocios_y_constantinopla.md) · [Página 6: Entre los Capadocios y Agustín →](06_entre_capadocios_agustin.md)
+*Página 5 de 15* · [← Página 4: Los Capadocios y el Concilio de Constantinopla](04_capadocios_y_constantinopla.md) · [Página 6: Entre Constantinopla y Agustín →](06_antes_de_agustin.md)
 

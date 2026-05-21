@@ -8,7 +8,7 @@
 
 ## La pregunta
 
-Imagine dos monedas antiguas que supuestamente vienen de la misma serie.
+Imagine dos monedas antiguas que dicen ser de la misma serie.
 
 Ambas llevan la misma inscripción. Ambas representan la misma figura. Ambas fueron hechas por la misma autoridad. A primera vista, parecen idénticas, y durante siglos circularon juntas como si fueran copias de una sola pieza.
 
@@ -36,9 +36,8 @@ Para responderla con honestidad, hay que hacer tres cosas:
 
 - **Examinar la articulación de Nicea (325)** en su gramática original, sin leer en ella lo que la recepción posterior desarrolló.
 - **Examinar la Trinidad que el cristianismo confiesa hoy**, en sus propios términos.
-- **Evaluar** si la recepción histórica respetó a Nicea en sus propios términos, o si la releyó desde categorías que Nicea no usó.
+- **Comparar** las dos articulaciones para determinar si son la misma doctrina expresada con vocabularios distintos, o son trinitarismos estructuralmente diferentes.
 
-La respuesta no se da en esta página. El sitio entero es el examen.
 
 ---
 
@@ -63,7 +62,7 @@ Una invitación a examinar; nada más. Lo que cada lector concluya, lo concluir�
 4. **Capadocios y Constantinopla.** Basilio, Gregorio, Gregorio: consolidación técnica.
 5. **¿Qué tipo de teísmo?** Primera pregunta categorial.
 
-### Fase II: La Trinidad que el cristianismo confiesa hoy
+### Fase II: De Nicea a la Trinidad que confesamos hoy
 
 6. **Antes de Agustín.** El puente latino del siglo IV.
 7. **Quién fue Agustín.** Itinerario biográfico e intelectual.

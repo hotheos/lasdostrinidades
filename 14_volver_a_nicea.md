@@ -8,7 +8,7 @@
 
 ---
 
-## 12.1 Lo que el sitio ha argumentado
+## 14.1 Lo que el sitio ha argumentado
 
 Antes de articular el cierre, conviene recapitular brevemente lo que las páginas anteriores han establecido. No como repaso exhaustivo, sino como punto de partida para la invitación final.
 
@@ -18,7 +18,7 @@ La tesis general del sitio es que existen dos gramáticas trinitarias histórica
 
 ---
 
-## 12.2 Lo que el sitio no propone
+## 14.2 Lo que el sitio no propone
 
 Es importante articular con precisión lo que el sitio no propone, especialmente al cierre, donde la invitación final podría leerse de modos no intencionados.
 
@@ -34,7 +34,7 @@ Es importante articular con precisión lo que el sitio no propone, especialmente
 
 ---
 
-## 12.3 Lo que el sitio sí propone
+## 14.3 Lo que el sitio sí propone
 
 Lo que el sitio propone se puede articular en tres movimientos progresivos.
 
@@ -42,7 +42,7 @@ Lo que el sitio propone se puede articular en tres movimientos progresivos.
 
 La invitación más básica es leer el símbolo niceno-constantinopolitano según su gramática literal, sin proyectar sobre él presupuestos derivados de articulaciones posteriores.
 
-El símbolo dice: "Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero; y en el Espíritu Santo, Señor y dador de vida, que del Padre procede". No dice "creemos en un solo Dios, la Trinidad". No dice "creemos en un Dios que es tres personas". Dice tres artículos articulados, con el "un Dios" identificado gramaticalmente con el Padre, el Hijo recibiendo títulos cualificados (*Theos ek Theou*), y el Espíritu procediendo del Padre. El "un Dios" del símbolo es un *quién* (el Padre), no un *qué* (la esencia compartida). Es *monoteísmo fontal trinitario*, no *monoteísmo esencialista trinitario*.
+El símbolo dice: "Creemos en un Dios, Padre todopoderoso; y en un Señor, Jesucristo, Hijo de Dios, Dios verdadero de Dios verdadero; y en el Espíritu Santo, Señor y dador de vida, que del Padre procede". No dice "creemos en un solo Dios, la Trinidad". No dice "creemos en un Dios que es tres personas". Dice tres artículos articulados, con el "un Dios" identificado gramaticalmente con el Padre, el Hijo recibiendo títulos cualificados (*Theos ek Theou*), y el Espíritu procediendo del Padre. El "un Dios" del símbolo está en aposición con el Padre, no con la Trinidad como totalidad ni con la esencia compartida. Es *monoteísmo fontal trinitario*, no *monoteísmo esencialista trinitario*.
 
 Esta lectura literal no requiere conocimientos técnicos especiales. Requiere atención al texto. Y requiere disposición a leer lo que el símbolo afirma, no lo que la catequesis posterior ha aprendido a leer en él. Esta es la primera invitación: tomar el texto en serio, en su literalidad gramatical, antes de cualquier interpretación posterior.
 
@@ -68,7 +68,7 @@ La invitación final, más exigente, es situarse en la propia tradición con con
 
 ---
 
-## 12.4 Sobre la modestia del análisis
+## 14.4 Sobre la modestia del análisis
 
 El análisis del sitio es modesto en su pretensión. No reclama haber descubierto algo que la academia patrística no conociera. La distinción entre las dos gramáticas trinitarias está articulada con detalle en la obra de Lossky, Zizioulas, Lewis Ayres, John Behr, Khaled Anatolios y otros autores académicos contemporáneos. El sitio reorganiza esa investigación, la presenta con accesibilidad para un lector no especialista, y la articula desde una perspectiva que mantiene paridad entre las tres tradiciones cristianas mayores.
 
@@ -78,7 +78,7 @@ Esta es la única pretensión específica: hacer accesible lo que la academia pa
 
 ---
 
-## 12.5 Sobre el método y la disposición de fondo
+## 14.5 Sobre el método y la disposición de fondo
 
 Antes del cierre final, una observación sobre el método y la disposición de fondo que ha guiado la redacción.
 
@@ -94,7 +94,7 @@ El sitio ha operado con cuatro principios metodológicos que conviene articular.
 
 ---
 
-## 12.6 La invitación final
+## 14.6 La invitación final
 
 El sitio cierra con una invitación que se ha articulado de modos diversos a lo largo de las páginas y que conviene formular ahora en su forma más concentrada.
 
@@ -104,7 +104,7 @@ La invitación es a leer con precisión. A leer el símbolo niceno-constantinopo
 
 La doctrina cristiana de Dios es uno de los logros conceptuales más sofisticados de la historia humana. Articula, en un solo cuerpo doctrinal coherente, la unicidad de Dios afirmada por el monoteísmo judío, la divinidad plena del Hijo encarnado afirmada por la fe cristiana, y la articulación del Espíritu como persona divina en la economía de la salvación. Ninguna otra tradición religiosa o filosófica ha articulado un dato análogo con la complejidad que la doctrina trinitaria ha desarrollado.
 
-Esta articulación se ha realizado históricamente con dos gramáticas distintas, que producen dos tipos de monoteísmo trinitario (página 7). La nicena fontal, donde «Dios» es un *quién*: el Padre como fuente única de la divinidad consustancial. La agustiniana esencialista, donde «Dios» es un *qué*: la esencia divina compartida por las tres personas. Las dos gramáticas son cristianas. Ambas se sostienen como articulaciones legítimas. La pregunta de cuál refleja mejor el dato bíblico subyacente, cuál preserva mejor la asimetría neotestamentaria, cuál opera con menos costos exegéticos y filosóficos, es pregunta que el lector puede formular y trabajar con los recursos que el sitio ha intentado proporcionar.
+Esta articulación se ha realizado históricamente con dos gramáticas distintas, que producen dos tipos de monoteísmo trinitario (página 7). La nicena fontal, donde «un Dios» está en aposición con el Padre como fuente única de la divinidad consustancial. La agustiniana esencialista, donde «un Dios» está en aposición con la Trinidad como totalidad, en virtud de la esencia divina compartida por las tres personas. Las dos gramáticas son cristianas. Ambas se sostienen como articulaciones legítimas. La pregunta de cuál refleja mejor el dato bíblico subyacente, cuál preserva mejor la asimetría neotestamentaria, cuál opera con menos costos exegéticos y filosóficos, es pregunta que el lector puede formular y trabajar con los recursos que el sitio ha intentado proporcionar.
 
 Cada lector, desde dentro de su tradición específica, decidirá qué hacer con lo que aquí se expone. Quizás concluirá que la gramática de su propia tradición es satisfactoria y que el análisis del sitio le permite articularla con mayor consciencia. Quizás concluirá que su tradición tiene zonas que la gramática alternativa ilumina y que conviene apropiar elementos sin migrar institucionalmente. Quizás concluirá que el análisis es interesante pero que la cuestión es secundaria respecto a otras dimensiones de la fe. Cualquiera de estas conclusiones es legítima, y el sitio no privilegia ninguna sobre las otras.
 
@@ -112,7 +112,7 @@ Lo que el sitio sí espera es que el lector salga del análisis con mayor clarid
 
 ---
 
-## 12.7 Una última palabra
+## 14.7 Una última palabra
 
 El símbolo niceno-constantinopolitano fue redactado por obispos griegos en Constantinopla en el año 381. Sus formuladores no podían anticipar que el documento sería recitado litúrgicamente por miles de millones de cristianos durante los próximos mil seiscientos años. No podían anticipar las controversias que su texto generaría, las traducciones que se harían, las inserciones que se añadirían, los cismas que provocarían las disputas sobre su interpretación.
 

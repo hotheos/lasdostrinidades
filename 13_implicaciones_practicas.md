@@ -8,17 +8,17 @@
 
 ---
 
-## 11.1 De la historia conceptual a las consecuencias prácticas
+## 13.1 De la historia conceptual a las consecuencias prácticas
 
 Las páginas anteriores han examinado la distinción entre las dos gramáticas trinitarias, su historia, su articulación filosófica, y la situación contemporánea de las tres tradiciones cristianas. Esta página examina las implicaciones de todo eso para la doctrina práctica de Dios al día de hoy.
 
-El propósito es mostrar que la diferencia entre los dos tipos de monoteísmo trinitario identificados en la página 3 (el *fontal*, donde "Dios" es un *quién*: el Padre; y el *esencialista*, donde "Dios" es un *qué*: la esencia compartida) no es solo cuestión especulativa, sino que tiene consecuencias verificables en tres dimensiones de la vida cristiana: la oración y la liturgia, la cristología, y la pneumatología con su articulación eclesiológica. En cada dimensión, los dos monoteísmos producen articulaciones distintas que el creyente experimenta sin necesariamente tematizar.
+El propósito es mostrar que la diferencia entre los dos tipos de monoteísmo trinitario identificados en la página 9 (el *fontal*, donde "un Dios" está en aposición con el Padre como persona-fuente; y el *esencialista*, donde "un Dios" está en aposición con la Trinidad como totalidad) no es solo cuestión especulativa, sino que tiene consecuencias verificables en tres dimensiones de la vida cristiana: la oración y la liturgia, la cristología, y la pneumatología con su articulación eclesiológica. En cada dimensión, los dos monoteísmos producen articulaciones distintas que el creyente experimenta sin necesariamente tematizar.
 
 La página se estructura en tres secciones temáticas, seguidas de un examen de los cuatro problemas estructurales del esquema esencialista identificados por la teología contemporánea. Cierre con una observación sobre el alcance del análisis.
 
 ---
 
-## 11.2 Oración y liturgia
+## 13.2 Oración y liturgia
 
 La primera dimensión donde las dos gramáticas producen articulaciones distintas es la oración cristiana y la liturgia.
 
@@ -30,7 +30,7 @@ Los textos litúrgicos antiguos siguen este patrón. La Anáfora de Hipólito (s
 
 En el desarrollo occidental medieval y moderno, la doxología tendió a coordinarse. La fórmula *Gloria Patri et Filio et Spiritui Sancto* (gloria al Padre y al Hijo y al Espíritu Santo) reemplazó progresivamente la estructura asimétrica. Las tres personas reciben la gloria coordinadamente, sin marcar la direccionalidad fontal del esquema antiguo. Como se examinó en la página 6, esto tiene fundamento polémico antiarriano: frente a la negación arriana de la divinidad plena del Hijo, la doxología coordinada afirma la igualdad de las tres personas. Pero al precio de atenuar la asimetría fontal nicena.
 
-La consecuencia litúrgica contemporánea es directa. El cristiano occidental medio reza una doxología coordinada cuya estructura refleja el *monoteísmo esencialista trinitario* (las tres personas reciben la gloria como co-iguales), aunque recita un símbolo conciliar cuya gramática articula el *monoteísmo fontal trinitario* (un Dios, el Padre). La oración dominical (el *Padre Nuestro*), heredada literalmente del texto evangélico, sí preserva la direccionalidad: se dirige al Padre como *quién*. Pero la doxología que cierra muchas oraciones, los himnos trinitarios coordinados, y la articulación general de la espiritualidad popular tienden a una estructura simétrica que difumina la direccionalidad antigua y disuelve al destinatario personal en un *qué* genérico.
+La consecuencia litúrgica contemporánea es directa. El cristiano occidental medio reza una doxología coordinada cuya estructura refleja el *monoteísmo esencialista trinitario* (las tres personas reciben la gloria como co-iguales), aunque recita un símbolo conciliar cuya gramática articula el *monoteísmo fontal trinitario* (un Dios, el Padre). La oración dominical (el *Padre Nuestro*), heredada literalmente del texto evangélico, sí preserva la direccionalidad: se dirige al Padre como *quién*. Pero la doxología que cierra muchas oraciones, los himnos trinitarios coordinados, y la articulación general de la espiritualidad popular tienden a una estructura simétrica que difumina la direccionalidad antigua y disuelve la direccionalidad personal de la oración.
 
 ### La eucología contemporánea
 
@@ -54,7 +54,7 @@ Esta diversidad litúrgica no es indiferente teológicamente. La forma de la ora
 
 ---
 
-## 11.3 Cristología y la asimetría taxis
+## 13.3 Cristología y la asimetría taxis
 
 La segunda dimensión es la cristología, específicamente cómo se lee el lenguaje neotestamentario sobre la relación Padre-Hijo y cómo se articula el orden interno a la divinidad.
 
@@ -165,7 +165,7 @@ La gramática nicena fontal ofrece una articulación intermedia precisa: el Padr
 
 ---
 
-## 11.4 Pneumatología y eclesiología
+## 13.4 Pneumatología y eclesiología
 
 La diferencia pneumatológica entre las dos gramáticas tiene una consecuencia eclesiológica específica que merece señalarse.
 
@@ -175,19 +175,19 @@ La consecuencia eclesiológica más significativa es la conexión entre el *Fili
 
 ---
 
-## 11.5 Los cuatro problemas estructurales del esquema esencialista
+## 13.5 Los cuatro problemas estructurales del esquema esencialista
 
 Las páginas anteriores han mencionado en distintos contextos cuatro problemas estructurales que la teología contemporánea ha identificado en el esquema esencialista occidental. Conviene articularlos sistemáticamente aquí.
 
-### 11.5.1 El cuarto término implícito
+### 13.5.1 El cuarto término implícito
 
 El primer problema es el cuarto término implícito. Como se examinó en la página 6, si las tres personas son tres relaciones subsistentes dentro de la única esencia divina, parecemos tener cuatro elementos en la formulación: la esencia y las tres relaciones. La tradición tomista insiste en que la esencia no es realmente distinta de las personas (las personas *son* la esencia bajo distintas relaciones), pero esta afirmación tiene que sostenerse continuamente contra la tendencia natural a tratar la esencia como un cuarto término.
 
 Karl Rahner articuló esta crítica con la observación de que el esquema *De Deo uno / De Deo trino* operaba de facto como si fueran dos tratados sobre objetos parcialmente distintos. La teología manualística católica anterior al Concilio Vaticano II discutía primero al "Dios uno" (qq. 2-26 de la *Summa*) y luego al "Dios trino" (qq. 27-43), como si el "Dios uno" tuviera una existencia conceptual separada de las tres personas. Esto es lo que Rahner llamó la marginalización funcional de la doctrina trinitaria en la vida cristiana occidental.
 
-El problema no es solucionable simplemente con afirmar que esencia y personas no son realmente distintas. La afirmación es correcta tomística, pero el esquema mismo invita continuamente a tratar la esencia como un sujeto cuasi-independiente. La gramática nicena fontal no presenta este problema porque no postula una esencia-sujeto anterior a las personas; el "uno" es el Padre como persona fontal, y las otras dos hipóstasis son consustanciales con él.
+El problema no es solucionable simplemente con afirmar que esencia y personas no son realmente distintas. La afirmación es técnicamente correcta en la metafísica tomista, pero el esquema expositivo invita continuamente a tratar la esencia como un sujeto cuasi-independiente, como Rahner documentó. La gramática nicena fontal no presenta este problema con la misma intensidad porque el "un Dios" está en aposición con el Padre como persona fontal, no con la esencia como sujeto previo a las personas.
 
-### 11.5.2 El modalismo virtual
+### 13.5.2 El modalismo virtual
 
 El segundo problema es el modalismo virtual. Si las tres personas son tres modos relacionales de la única substancia, la frontera entre la doctrina trinitaria ortodoxa occidental y el modalismo sabeliano se vuelve sutil. Agustín y Tomás afirman explícitamente la distinción real de las personas, pero el esquema esencialista hace que la diferencia entre "persona como sujeto distinto" y "persona como modo de la esencia" requiera elaboración técnica continua para evitar el colapso modalista.
 
@@ -195,19 +195,19 @@ Algunas formulaciones populares contemporáneas son ya modalistas, no trinitaria
 
 La gramática nicena, con tres hipóstasis realmente distintas distinguidas por propiedades hipostáticas reales (inengendrabilidad, generación, procesión), excluye el modalismo de forma más explícita. No es que el esquema agustiniano sea modalista; es que su forma simplificada se desliza hacia el modalismo con facilidad que la gramática nicena no permite en la misma medida.
 
-### 11.5.3 La pérdida del sentido relacional de "Padre"
+### 13.5.3 La pérdida del sentido relacional de "Padre"
 
 El tercer problema es la pérdida del sentido constitutivamente relacional de "Padre".
 
 En el patrón neotestamentario, el Padre es Padre porque tiene un Hijo. La paternidad es relación constitutiva: no se puede ser padre sin tener hijo. Esta es la estructura del lenguaje paterno bíblico: el Padre se define por su relación con el Hijo, y el Hijo se define por su relación con el Padre.
 
-En el esquema agustiniano radicalizado, "Padre" funciona como un nombre relativo dentro de la esencia divina, pero la propia divinidad de Dios no depende necesariamente de esa relación: Dios sería plenamente Dios como esencia incluso si no hubiera distinción de personas. Esta es una posibilidad lógica que el esquema esencialista no excluye con la misma fuerza que el esquema fontal. El "Dios uno" del tratado *De Deo uno* es Dios sin necesariamente ser Padre; las relaciones paternas y filiales son determinaciones internas que se añaden conceptualmente a la afirmación previa de la esencia. El resultado es lo que la página 6 documentó como convergencia con el Dios de los filósofos: un *qué* metafísico (esencia, simplicidad, necesidad) que funciona como fundamento impersonal al que se le añaden después las personas como especificación revelada. Pascal captó esta fractura con precisión: el Dios de Abraham, Isaac y Jacob (un *quién*) queda desplazado por el Dios de los filósofos y los sabios (un *qué*).
+En el esquema agustiniano radicalizado, "Padre" funciona como un nombre relativo dentro de la esencia divina, pero la propia divinidad de Dios no depende necesariamente de esa relación: Dios sería plenamente Dios como esencia incluso si no hubiera distinción de personas. Esta es una posibilidad lógica que el esquema esencialista no excluye con la misma fuerza que el esquema fontal. El "Dios uno" del tratado *De Deo uno* es Dios sin necesariamente ser Padre; las relaciones paternas y filiales son determinaciones internas que se añaden conceptualmente a la afirmación previa de la esencia. El resultado es lo que la página 8 documentó como convergencia con el Dios de los filósofos: un concepto metafísico (esencia, simplicidad, necesidad) que tiende a funcionar como fundamento conceptual al que se le añaden después las personas como especificación revelada. Los teólogos más rigurosos del esquema occidental trabajan para integrar ambos registros, pero la estructura expositiva *De Deo uno / De Deo trino* facilita la percepción de dos momentos separados. Pascal captó esta fractura con precisión: el Dios de Abraham, Isaac y Jacob queda en tensión con el Dios de los filósofos y los sabios.
 
 Karl Barth, desde la teología protestante reformada del siglo XX, identificó este problema y propuso recuperar la doctrina trinitaria como articulación del Dios revelado, donde la Trinidad es constitutiva de quién es Dios, no añadido especulativo a una doctrina previa de Dios. Wolfhart Pannenberg articuló una propuesta análoga desde el luteranismo contemporáneo. Ambos autores intentaron recuperar la prioridad de las relaciones personales sobre la abstracción esencialista, dentro del marco protestante.
 
-La gramática nicena fontal, donde el "uno" es el Padre constituido por su relación con el Hijo y el Espíritu, no presenta este problema. Ser Padre no es propiedad accidental añadida a una esencia previa; ser Padre es lo que la fuente fontal es, y lo es eternamente porque engendra eternamente al Hijo y hace eternamente proceder al Espíritu. El Dios del monoteísmo fontal es un *quién* desde el primer momento, no un *qué* al que después se le descubren relaciones internas.
+La gramática nicena fontal, donde el "uno" es el Padre constituido por su relación con el Hijo y el Espíritu, no presenta este problema. Ser Padre no es propiedad accidental añadida a una esencia previa; ser Padre es lo que la fuente fontal es, y lo es eternamente porque engendra eternamente al Hijo y hace eternamente proceder al Espíritu. El Dios del monoteísmo fontal es personal desde el primer momento: el "un Dios" está en aposición con el Padre, no con una esencia a la que después se le descubren relaciones internas.
 
-### 11.5.4 La radicalización de la simplicidad divina
+### 13.5.4 La radicalización de la simplicidad divina
 
 El cuarto problema es la radicalización de la doctrina de la simplicidad divina (*simplicitas Dei*).
 
@@ -223,7 +223,7 @@ El Occidente, sin la distinción palamita, ha tendido a la oscilación mencionad
 
 ---
 
-## 11.6 Una observación sobre el alcance
+## 13.6 Una observación sobre el alcance
 
 Las tres implicaciones examinadas (oración y liturgia, cristología, pneumatología y eclesiología) y los cuatro problemas estructurales del esquema esencialista muestran que el debate trinitario no es solo cuestión especulativa. Tiene consecuencias verificables en cómo el creyente cristiano contemporáneo reza, lee la Escritura y vive su pertenencia eclesial.
 
@@ -237,7 +237,7 @@ Esto no significa que el cristiano occidental deba convertirse a la ortodoxia. S
 
 ---
 
-## 11.7 Cierre
+## 13.7 Cierre
 
 La página ha examinado las implicaciones prácticas del análisis: las dos gramáticas producen articulaciones distintas en la oración y liturgia, la cristología, y la pneumatología con su articulación eclesiológica. El esquema esencialista occidental presenta cuatro problemas estructurales identificados por la teología contemporánea.
 

@@ -8,7 +8,7 @@
 
 ---
 
-## 8.1 Por qué el *Filioque* importa, y por qué importa con cautela
+## 10.1 Por qué el *Filioque* importa, y por qué importa con cautela
 
 El *Filioque* es, junto con la cuestión de la primacía papal, el motivo doctrinal del Gran Cisma de 1054 entre el Occidente latino y el Oriente griego. Su literatura es vastísima: durante mil años, teólogos católicos, ortodoxos y, más recientemente, protestantes han elaborado argumentos a favor y en contra de la inserción de las dos palabras latinas que dieron nombre a la controversia.
 
@@ -20,7 +20,7 @@ El objetivo, entonces, es mostrar la conexión estructural entre el *Filioque* y
 
 ---
 
-## 8.2 El texto original y la inserción
+## 10.2 El texto original y la inserción
 
 El símbolo niceno-constantinopolitano de 381 dice, en su tercer artículo sobre el Espíritu Santo:
 
@@ -66,7 +66,7 @@ Esta última fórmula florentina es críticamente importante para el análisis s
 
 ---
 
-## 8.3 La fórmula *tamquam ab uno principio*
+## 10.3 La fórmula *tamquam ab uno principio*
 
 La codificación florentina merece análisis textual cuidadoso, porque revela exactamente la estructura conceptual del *Filioque* en su versión católica más precisa.
 
@@ -92,7 +92,7 @@ La fórmula florentina es, así, completamente legible desde la gramática agust
 
 ---
 
-## 8.4 La conexión estructural con el desplazamiento agustiniano
+## 10.4 La conexión estructural con el desplazamiento agustiniano
 
 Aquí está el punto crítico del análisis. La fórmula *tamquam ab uno principio* solo es inteligible si previamente se ha operado el desplazamiento agustiniano del referente último de *Deus* desde la persona del Padre hacia la esencia divina.
 
@@ -108,7 +108,7 @@ Esto explica por qué la teología ortodoxa oriental, que ha mantenido la gramá
 
 ---
 
-## 8.5 Qué dice y qué no dice el *Filioque*: la matización necesaria
+## 10.5 Qué dice y qué no dice el *Filioque*: la matización necesaria
 
 Una matización es esencial para no caricaturizar el *Filioque*.
 
@@ -124,7 +124,7 @@ Esta matización es importante por dos razones. Primera, evita la caricatura: la
 
 ---
 
-## 8.6 La distinción entre procesión eterna y misión temporal
+## 10.6 La distinción entre procesión eterna y misión temporal
 
 Una distinción técnica de la teología griega ayuda a comprender el debate. La patrística oriental, especialmente desde Juan Damasceno (siglo VIII), articula con claridad la diferencia entre dos planos:
 
@@ -165,7 +165,7 @@ La primera fórmula preserva la monarquía del Padre. La segunda la relocaliza e
 
 ---
 
-## 8.7 La posición oriental: Focio y la tradición posterior
+## 10.7 La posición oriental: Focio y la tradición posterior
 
 La articulación más explícita de la objeción oriental al *Filioque* se debe a Focio I de Constantinopla (c. 810-893), patriarca ecuménico durante el período inmediatamente anterior al cisma de 1054. Su obra *Mystagogia del Espíritu Santo*, escrita hacia 885, articula sistemáticamente la posición ortodoxa.
 
@@ -183,7 +183,7 @@ La posición ortodoxa contemporánea, en su mejor versión académica, no es pol
 
 ---
 
-## 8.8 La posición católica reciente: el documento del Pontificio Consejo de 1995
+## 10.8 La posición católica reciente: el documento del Pontificio Consejo de 1995
 
 En septiembre de 1995, el Pontificio Consejo para la Promoción de la Unidad de los Cristianos publicó un documento titulado *Las tradiciones griega y latina respecto a la procesión del Espíritu Santo*. El documento es importante porque representa la posición católica magisterial más matizada sobre el *Filioque* hasta la fecha.
 
@@ -205,13 +205,13 @@ Una formulación reciente del Papa Francisco, en su exhortación apostólica *Ev
 
 ---
 
-## 8.9 Yves Congar y la teología católica del siglo XX
+## 10.9 Yves Congar y la teología católica del siglo XX
 
 Yves Congar (1904-1995), dominico francés y figura clave del Concilio Vaticano II, dedicó tres volúmenes monumentales a la pneumatología (*Yo creo en el Espíritu Santo*, 1979-1980), de los cuales el tercero aborda enteramente el *Filioque*. Su contribución se resume en tres puntos: reconoce que la inserción fue canónicamente irregular (Roma no tenía autoridad para modificar unilateralmente el símbolo conciliar); defiende la legitimidad doctrinal del *Filioque* si se entiende como mediación cristológica eterna, no como segunda fuente; y propone la fórmula *ek tou Patros di' Huiou* como articulación intermedia que las dos tradiciones podrían reconocer. Congar dejó abierta la pregunta más profunda: si el *Filioque* fue históricamente motivado por necesidades pastorales antiarrianas y luego por inercia litúrgica, ¿debería el catolicismo considerar removerlo del símbolo? La pregunta permanece sin respuesta. Hoy, dentro de la comunión católica, conviven el símbolo con *Filioque* (rito latino) y sin *Filioque* (ritos orientales en comunión con Roma).
 
 ---
 
-## 8.10 La situación protestante: herencia sin tematización
+## 10.10 La situación protestante: herencia sin tematización
 
 El protestantismo magisterial heredó el *Filioque* sin debate interno significativo. Lutero, Calvino y los confesionalismos posteriores recitaron el símbolo con *Filioque*, sin considerar la cuestión como problemática. Las confesiones reformadas (Augsburgo 1530, Helvética Posterior 1566, Westminster 1647) reafirman la fórmula latina sin discusión.
 
@@ -223,9 +223,9 @@ Esta situación se examinará con más detalle en la página 10. Por ahora, bast
 
 ---
 
-## 8.11 Cierre
+## 10.11 Cierre
 
-El *Filioque* es síntoma estructural del desplazamiento agustiniano examinado en la página 6, no causa independiente. Su formulación dogmática florentina (*tamquam ab uno principio*) solo es inteligible dentro del *monoteísmo esencialista trinitario* (página 3), donde el "uno" de la doctrina trinitaria es un *qué* (la esencia compartida) y no un *quién* (el Padre como fuente). Si el "uno" fuese el Padre, como en el *monoteísmo fontal trinitario* del símbolo niceno, el Espíritu procedería del Padre como única fuente personal, y la pregunta "también del Hijo?" no se plantearía en la misma forma. La objeción oriental no acusa al Occidente de triteísmo aritmético, sino de opacar la monarquía personal del Padre mediante un principio espirativo compartido que presupone la esencialización del "uno".
+El *Filioque* es síntoma estructural del desplazamiento agustiniano examinado en la página 6, no causa independiente. Su formulación dogmática florentina (*tamquam ab uno principio*) solo es inteligible dentro del *monoteísmo esencialista trinitario* (página 3), donde el "un Dios" se coloca en aposición con la Trinidad como totalidad (en virtud de la esencia compartida) y no con el Padre como persona-fuente. Si el "un Dios" estuviera en aposición con el Padre, como en el *monoteísmo fontal trinitario* del símbolo niceno, el Espíritu procedería del Padre como única fuente personal, y la pregunta "¿también del Hijo?" no se plantearía en la misma forma. La objeción oriental no acusa al Occidente de triteísmo aritmético, sino de opacar la monarquía personal del Padre mediante un principio espirativo compartido que presupone el desplazamiento de la aposición del "un Dios" desde el Padre hacia la esencia común.
 
 El catolicismo magisterial reciente, especialmente desde el documento del Pontificio Consejo de 1995, ha reconocido la legitimidad de la fórmula oriental y ha propuesto vías de comprensión recíproca. La teología ortodoxa contemporánea, desde Lossky y Zizioulas, ha articulado la objeción como crítica positiva de la prioridad ontológica de la persona sobre la sustancia. El protestantismo magisterial heredó el *Filioque* sin debate interno significativo, situación que la página 10 examinará en detalle.
 

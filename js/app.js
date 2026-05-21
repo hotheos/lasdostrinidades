@@ -1,5 +1,5 @@
 /* ============================================================
-   LAS DOS TRINIDADES — Main Application JS
+   LAS DOS TRINIDADES : Main Application JS
    ============================================================
    Hash-based routing, theme toggle, progress bar,
    sidebar navigation, scroll spy for TOC, expandable notes.
@@ -17,26 +17,45 @@
     { id: 'concilio-nicea', file: '01_el_concilio_de_nicea.md', number: '1', title: 'Lo que dice Nicea literalmente', short: 'El Concilio de Nicea' },
     { id: 'fundamentos-apostolicos', file: '02_fundamentos_apostolicos.md', number: '2', title: 'Anclaje bíblico de Nicea', short: 'Fundamentos Apostólicos' },
     { id: 'fundamento-patristico', file: '03_fundamento_patristico.md', number: '3', title: 'Anclaje patrístico de Nicea', short: 'Fundamento Patrístico' },
-    { id: 'capadocios', file: '04_capadocios_y_constantinopla.md', number: '4', title: 'Los Capadocios y el Concilio de Constantinopla', short: 'Capadocios y Constantinopla' },
-    { id: 'tipo-teismo', file: '05_que_tipo_de_teismo.md', number: '5', title: '¿Qué tipo de teísmo articula Nicea?', short: '¿Qué tipo de teísmo?' },
-    { id: 'antes-agustin', file: '06_antes_de_agustin.md', number: '6', title: 'Entre Constantinopla y Agustín', short: 'Antes de Agustín' },
-    { id: 'quien-agustin', file: '07_quien_fue_agustin.md', number: '7', title: 'Quién fue Agustín', short: 'Quién fue Agustín' },
-    { id: 'de-persona-a-esencia', file: '08_de_persona_a_esencia.md', number: '8', title: 'El salto agustiniano', short: 'De persona a esencia' },
-    { id: 'dos-monoteismos', file: '09_dos_monoteismos.md', number: '9', title: 'Los dos tipos de monoteísmo trinitario', short: 'Dos monoteísmos' },
-    { id: 'filioque', file: '10_el_filioque.md', number: '10', title: 'El Filioque', short: 'El Filioque' },
-    { id: 'tres-igual-uno', file: '11_tres_es_igual_a_uno.md', number: '11', title: 'El problema lógico de la Trinidad', short: '¿Tres es igual a uno?' },
-    { id: 'donde-estamos', file: '12_donde_estamos_hoy.md', number: '12', title: 'Tres tradiciones hoy', short: '¿Dónde estamos hoy?' },
-    { id: 'implicaciones', file: '13_implicaciones_practicas.md', number: '13', title: 'Implicaciones para la doctrina de Dios', short: 'Implicaciones prácticas' },
-    { id: 'volver-a-nicea', file: '14_volver_a_nicea.md', number: '14', title: 'Volver al texto: una invitación', short: 'Volver a Nicea' },
-    { id: 'las-dos-trinidades', file: '15_las_dos_trinidades.md', number: '15', title: 'Las dos Trinidades: armonizaciones', short: 'Las dos Trinidades' },
-    { id: 'glosario', file: 'A_glosario.md', number: 'A', title: 'Glosario', short: 'Glosario', appendix: true },
-    { id: 'cronologia', file: 'B_cronologia.md', number: 'B', title: 'Cronología', short: 'Cronología', appendix: true },
-    { id: 'cuadro-comparativo', file: 'C_cuadro_comparativo.md', number: 'C', title: 'Cuadro comparativo', short: 'Cuadro comparativo', appendix: true },
-    { id: 'bibliografia', file: 'D_bibliografia.md', number: 'D', title: 'Bibliografía', short: 'Bibliografía', appendix: true },
-    { id: 'faq', file: 'E_faq.md', number: 'E', title: 'FAQ', short: 'FAQ', appendix: true },
-    { id: 'quicumque-vult', file: 'F_quicumque_vult.md', number: 'F', title: 'El Quicumque Vult', short: 'Quicumque Vult', appendix: true },
-    { id: 'gregorio-nisa-juan', file: 'G_gregorio_nisa_juan_17_3.md', number: 'G', title: 'Gregorio de Nisa y Juan 17:3', short: 'Gregorio y Jn 17:3', appendix: true },
+    { id: 'capadocios', file: '04_capadocios_y_constantinopla.md', number: '4', title: 'Los Capadocios y el Concilio de Constantinopla', short: 'Capadocios y Constantinopla', inPreparation: true },
+    { id: 'tipo-teismo', file: '05_que_tipo_de_teismo.md', number: '5', title: '¿Qué tipo de teísmo articula Nicea?', short: '¿Qué tipo de teísmo?', inPreparation: true },
+    { id: 'antes-agustin', file: '06_antes_de_agustin.md', number: '6', title: 'Entre Constantinopla y Agustín', short: 'Antes de Agustín', inPreparation: true },
+    { id: 'quien-agustin', file: '07_quien_fue_agustin.md', number: '7', title: 'Quién fue Agustín', short: 'Quién fue Agustín', inPreparation: true },
+    { id: 'de-persona-a-esencia', file: '08_de_persona_a_esencia.md', number: '8', title: 'El salto agustiniano', short: 'De persona a esencia', inPreparation: true },
+    { id: 'dos-monoteismos', file: '09_dos_monoteismos.md', number: '9', title: 'Los dos tipos de monoteísmo trinitario', short: 'Dos monoteísmos', inPreparation: true },
+    { id: 'filioque', file: '10_el_filioque.md', number: '10', title: 'El Filioque', short: 'El Filioque', inPreparation: true },
+    { id: 'tres-igual-uno', file: '11_tres_es_igual_a_uno.md', number: '11', title: 'El problema lógico de la Trinidad', short: '¿Tres es igual a uno?', inPreparation: true },
+    { id: 'donde-estamos', file: '12_donde_estamos_hoy.md', number: '12', title: 'Tres tradiciones hoy', short: '¿Dónde estamos hoy?', inPreparation: true },
+    { id: 'implicaciones', file: '13_implicaciones_practicas.md', number: '13', title: 'Implicaciones para la doctrina de Dios', short: 'Implicaciones prácticas', inPreparation: true },
+    { id: 'volver-a-nicea', file: '14_volver_a_nicea.md', number: '14', title: 'Volver al texto: una invitación', short: 'Volver a Nicea', inPreparation: true },
+    { id: 'las-dos-trinidades', file: '15_las_dos_trinidades.md', number: '15', title: 'Las dos Trinidades: armonizaciones', short: 'Las dos Trinidades', inPreparation: true },
+    { id: 'glosario', file: 'A_glosario.md', number: 'A', title: 'Glosario', short: 'Glosario', appendix: true, inPreparation: true },
+    { id: 'cronologia', file: 'B_cronologia.md', number: 'B', title: 'Cronología', short: 'Cronología', appendix: true, inPreparation: true },
+    { id: 'cuadro-comparativo', file: 'C_cuadro_comparativo.md', number: 'C', title: 'Cuadro comparativo', short: 'Cuadro comparativo', appendix: true, inPreparation: true },
+    { id: 'bibliografia', file: 'D_bibliografia.md', number: 'D', title: 'Bibliografía', short: 'Bibliografía', appendix: true, inPreparation: true },
+    { id: 'faq', file: 'E_faq.md', number: 'E', title: 'FAQ', short: 'FAQ', appendix: true, inPreparation: true },
+    { id: 'quicumque-vult', file: 'F_quicumque_vult.md', number: 'F', title: 'El Quicumque Vult', short: 'Quicumque Vult', appendix: true, inPreparation: true },
+    { id: 'gregorio-nisa-juan', file: 'G_gregorio_nisa_juan_17_3.md', number: 'G', title: 'Gregorio de Nisa y Juan 17:3', short: 'Gregorio y Jn 17:3', appendix: true, inPreparation: true },
   ];
+
+  /* ---- Admin Lock System ---- */
+  const ADMIN_PASSWORD = 'nicea325';
+
+  function isAdminUnlocked() {
+    return localStorage.getItem('ldt_admin_unlocked') === 'true';
+  }
+
+  function unlockAdmin(pwd) {
+    if (pwd === ADMIN_PASSWORD) {
+      localStorage.setItem('ldt_admin_unlocked', 'true');
+      return true;
+    }
+    return false;
+  }
+
+  function lockAdmin() {
+    localStorage.removeItem('ldt_admin_unlocked');
+  }
 
   /* ---- DOM References ---- */
   const els = {};
@@ -52,6 +71,7 @@
     els.sidebar = document.getElementById('sidebar');
     els.overlay = document.getElementById('sidebar-overlay');
     els.toc = document.getElementById('toc-list');
+    els.scrollTop = document.getElementById('scroll-top');
   }
 
   /* ---- Theme Management ---- */
@@ -139,6 +159,80 @@
     // Show loading state
     els.content.style.opacity = '0';
 
+    // Intercept locked pages if user is not authenticated
+    if (page.inPreparation && !isAdminUnlocked()) {
+      setTimeout(() => {
+        const lockHtml = `
+          <div class="lock-screen-container">
+            <div class="lock-card" id="lock-card">
+              <div class="lock-card__header">
+                <div class="lock-card__icon" aria-hidden="true">🔑</div>
+                <span class="lock-card__badge">Página en Edición</span>
+              </div>
+              <h1 class="lock-card__title">Contenido en Preparación</h1>
+              <p class="lock-card__desc">
+                Esta página no está disponible públicamente en este momento. Si eres el administrador del sitio, ingresa la contraseña para visualizar el contenido.
+              </p>
+              <form class="lock-card__form" id="lock-form">
+                <input type="password" id="lock-password" placeholder="Contraseña..." class="lock-card__input" autocomplete="current-password" required>
+                <button type="submit" class="lock-card__button">Desbloquear</button>
+              </form>
+              <div class="lock-card__error" id="lock-error">Contraseña incorrecta. Intenta nuevamente.</div>
+            </div>
+          </div>
+        `;
+        els.content.innerHTML = lockHtml;
+
+        // Hide TOC since the page is locked
+        if (els.toc) {
+          els.toc.closest('.toc').style.display = 'none';
+        }
+
+        // Attach form validation listener
+        const form = document.getElementById('lock-form');
+        const pwdInput = document.getElementById('lock-password');
+        const card = document.getElementById('lock-card');
+        const errDiv = document.getElementById('lock-error');
+
+        form.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const isOk = unlockAdmin(pwdInput.value);
+          if (isOk) {
+            // Success transition
+            card.classList.add('unlocked-success');
+            els.content.style.opacity = '0';
+            setTimeout(() => {
+              // Clear page cache to load fresh content
+              for (const k in pageCache) delete pageCache[k];
+              currentPageId = null;
+              loadPage(pageId);
+            }, 300);
+          } else {
+            // Shake and error animation
+            card.classList.remove('shake');
+            void card.offsetWidth; // Trigger reflow to restart animation
+            card.classList.add('shake');
+            errDiv.classList.add('visible');
+            pwdInput.value = '';
+            pwdInput.focus();
+          }
+        });
+
+        // Update document title
+        document.title = `Página en Edición : Las dos Trinidades`;
+
+        // Animate in
+        requestAnimationFrame(() => {
+          els.content.style.opacity = '1';
+          window.scrollTo({ top: 0, behavior: 'instant' });
+        });
+      }, 50);
+
+      // Close mobile sidebar
+      closeMobileSidebar();
+      return;
+    }
+
     try {
       let html;
       if (pageCache[pageId]) {
@@ -147,18 +241,70 @@
         const filePath = page.isHtml ? page.file : CONTENT_BASE + page.file;
         const res = await fetch(filePath);
         if (!res.ok) {
-          html = `<div class="page-header">
-            <span class="page-header__number">Página ${page.number}</span>
-            <h1 class="page-header__title">${page.title}</h1>
-          </div><p class="text-secondary">Contenido en preparación.</p>`;
+          if (isAdminUnlocked()) {
+            html = `
+              <div class="admin-banner" id="admin-banner">
+                <span class="admin-banner__text">
+                  <span class="admin-banner__dot"></span>
+                  <strong>Modo Administrador</strong> (Archivo no encontrado)
+                </span>
+                <button class="admin-banner__btn" id="admin-lock-btn">Bloquear de nuevo</button>
+              </div>
+              <div class="page-header">
+                <span class="page-header__number">Página ${page.number}</span>
+                <h1 class="page-header__title">${page.title}</h1>
+              </div>
+              <div class="callout callout--caution">
+                <div class="callout__header">Aviso del Administrador</div>
+                <div class="callout__body">
+                  <p>Estás viendo esto porque tienes sesión de administrador activa. El archivo físico correspondiente (<code>${filePath}</code>) no se encuentra en el servidor o está vacío.</p>
+                </div>
+              </div>
+            `;
+          } else {
+            html = `<div class="page-header">
+              <span class="page-header__number">Página ${page.number}</span>
+              <h1 class="page-header__title">${page.title}</h1>
+            </div><p class="text-secondary">Contenido en preparación.</p>`;
+          }
         } else {
           const text = await res.text();
-          html = page.isHtml ? text : window.MarkdownRenderer.render(text);
+          let baseHtml = page.isHtml ? text : window.MarkdownRenderer.render(text);
+          
+          if (page.inPreparation && isAdminUnlocked()) {
+            const adminBanner = `
+              <div class="admin-banner" id="admin-banner">
+                <span class="admin-banner__text">
+                  <span class="admin-banner__dot"></span>
+                  <strong>Modo Administrador</strong> (Página en edición)
+                </span>
+                <button class="admin-banner__btn" id="admin-lock-btn">Bloquear de nuevo</button>
+              </div>
+            `;
+            html = adminBanner + baseHtml;
+          } else {
+            html = baseHtml;
+          }
         }
         pageCache[pageId] = html;
       }
 
       els.content.innerHTML = html;
+
+      // Attach admin banner event listener if present
+      const lockBtn = document.getElementById('admin-lock-btn');
+      if (lockBtn) {
+        lockBtn.addEventListener('click', () => {
+          lockAdmin();
+          // Clear page cache
+          for (const k in pageCache) delete pageCache[k];
+          els.content.style.opacity = '0';
+          setTimeout(() => {
+            currentPageId = null;
+            loadPage(pageId);
+          }, 250);
+        });
+      }
 
       // Animate in
       requestAnimationFrame(() => {
@@ -183,8 +329,8 @@
 
       // Update document title
       document.title = page.number
-        ? `${page.number}. ${page.title} — Las dos Trinidades`
-        : `${page.title} — Las dos Trinidades`;
+        ? `${page.number}. ${page.title} : Las dos Trinidades`
+        : `${page.title} : Las dos Trinidades`;
 
     } catch (err) {
       console.error('Error loading page:', err);
@@ -342,7 +488,18 @@
     window.addEventListener('hashchange', handleRoute);
     window.addEventListener('scroll', () => {
       updateProgress();
+      // Show/hide scroll-to-top button
+      if (els.scrollTop) {
+        els.scrollTop.classList.toggle('visible', window.scrollY > 600);
+      }
     }, { passive: true });
+
+    // Scroll to top button
+    if (els.scrollTop) {
+      els.scrollTop.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
 
     // Initial route
     handleRoute();

@@ -215,4 +215,4 @@ El horizonte latino, hacia el año 397 (muerte de Ambrosio), contiene todos esto
 
 ---
 
-*Página 6 de 14* · [← Página 5: ¿Qué tipo de teísmo articula Nicea?](05_que_tipo_de_teismo.md) · [Página 7: Quién fue Agustín →](07_quien_fue_agustin.md)
+*Página 6 de 15* · [← Página 5: ¿Qué tipo de teísmo articula Nicea?](05_que_tipo_de_teismo.md) · [Página 7: Quién fue Agustín →](07_quien_fue_agustin.md)

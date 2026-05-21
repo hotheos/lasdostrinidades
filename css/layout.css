@@ -90,7 +90,7 @@
   display: flex;
   align-items: baseline;
   gap: var(--space-sm);
-  padding: var(--space-sm) var(--space-lg);
+  padding: 0.75rem var(--space-lg);
   font-family: var(--font-ui);
   font-size: var(--fs-sm);
   color: var(--sidebar-text);
@@ -98,6 +98,8 @@
   transition: all var(--transition-fast);
   border-left: 3px solid transparent;
   line-height: 1.4;
+  min-height: 44px;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .sidebar__link:hover {
@@ -243,11 +245,12 @@
   color: var(--text-primary);
   font-size: 1.25rem;
   line-height: 1;
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   align-items: center;
   justify-content: center;
   transition: all var(--transition-fast);
+  -webkit-tap-highlight-color: transparent;
 }
 
 .mobile-menu-toggle:hover {
@@ -298,18 +301,18 @@
   }
 
   .content {
-    padding-top: calc(var(--space-3xl) + 40px); /* space for mobile toggle */
+    padding-top: calc(var(--space-3xl) + 44px); /* space for mobile toggle */
   }
 }
 
 /* Mobile */
 @media (max-width: 600px) {
   :root {
-    --fs-base: 1rem;
-    --fs-3xl: 1.75rem;
-    --fs-2xl: 1.5rem;
-    --fs-xl: 1.3rem;
-    --fs-lg: 1.125rem;
+    --fs-base: 1.0625rem;
+    --fs-3xl: 1.65rem;
+    --fs-2xl: 1.4rem;
+    --fs-xl: 1.25rem;
+    --fs-lg: 1.1rem;
     --fs-md: 1rem;
     --fs-sm: 0.8125rem;
   }
@@ -331,14 +334,33 @@
 /* Small mobile (iPhone SE, narrow screens) */
 @media (max-width: 380px) {
   :root {
-    --fs-base: 0.9375rem;
+    --fs-base: 1rem;
     --fs-3xl: 1.5rem;
-    --fs-2xl: 1.35rem;
+    --fs-2xl: 1.3rem;
   }
 
   .content {
     padding-left: var(--space-md);
     padding-right: var(--space-md);
+  }
+}
+
+/* Safe area for notched devices (iPhone X+) */
+@supports (padding: env(safe-area-inset-top)) {
+  .mobile-menu-toggle {
+    top: calc(var(--space-md) + env(safe-area-inset-top));
+    left: calc(var(--space-md) + env(safe-area-inset-left));
+  }
+
+  .content {
+    padding-left: calc(var(--space-lg) + env(safe-area-inset-left));
+    padding-right: calc(var(--space-lg) + env(safe-area-inset-right));
+  }
+
+  @media (max-width: 900px) {
+    .content {
+      padding-top: calc(var(--space-3xl) + 44px + env(safe-area-inset-top));
+    }
   }
 }
 
