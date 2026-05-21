@@ -135,30 +135,52 @@
   justify-content: space-between;
 }
 
-/* ---- Theme Toggle ---- */
+/* ---- Floating Theme Toggle ---- */
 .theme-toggle {
+  position: fixed;
+  top: 1.5rem;
+  right: 1.5rem;
+  z-index: var(--z-progress);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
-  gap: var(--space-sm);
-  background: none;
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
-  padding: var(--space-xs) var(--space-sm);
+  justify-content: center;
   cursor: pointer;
-  font-family: var(--font-ui);
-  font-size: var(--fs-xs);
-  color: var(--text-secondary);
-  transition: all var(--transition-fast);
+  transition: all var(--transition-base);
+  box-shadow: var(--shadow-md);
+  border: 1px solid transparent;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Light theme: subtle black button */
+[data-theme="light"] .theme-toggle {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-color: #000000;
+}
+
+/* Dark theme: subtle white button */
+[data-theme="dark"] .theme-toggle {
+  background-color: #FFFFFF;
+  color: #000000;
+  border-color: #FFFFFF;
 }
 
 .theme-toggle:hover {
-  border-color: var(--link-color);
-  color: var(--text-primary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.theme-toggle:active {
+  transform: translateY(0);
 }
 
 .theme-toggle__icon {
-  font-size: 1rem;
+  font-size: 1.25rem;
   line-height: 1;
+  font-weight: bold;
 }
 
 /* ---- Main Content ---- */
@@ -415,6 +437,11 @@
   .mobile-menu-toggle {
     top: calc(var(--space-md) + env(safe-area-inset-top));
     left: calc(var(--space-md) + env(safe-area-inset-left));
+  }
+
+  .theme-toggle {
+    top: calc(1.5rem + env(safe-area-inset-top));
+    right: calc(1.5rem + env(safe-area-inset-right));
   }
 
   .content {

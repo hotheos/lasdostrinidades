@@ -101,7 +101,7 @@
 
   function updateThemeIcon(theme) {
     if (els.themeIcon) {
-      els.themeIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
+      els.themeIcon.textContent = theme === 'dark' ? '☀' : '☽';
     }
   }
 
