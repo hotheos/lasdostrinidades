@@ -486,7 +486,7 @@
   font-family: var(--font-ui);
   font-size: var(--fs-sm);
   font-weight: 600;
-  color: var(--accent-nicene);
+  color: var(--link-color);
   text-transform: uppercase;
   letter-spacing: 0.15em;
   margin-bottom: var(--space-sm);
