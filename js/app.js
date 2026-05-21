@@ -358,9 +358,10 @@
 
     let html = '';
     headings.forEach(h => {
-      const level = h.tagName === 'H3' ? ' style="padding-left: var(--space-md);"' : '';
-      html += `<li class="toc__item"${level}>
-        <a data-scroll-to="${h.id}" class="toc__link" style="cursor:pointer;">${h.textContent}</a>
+      const isH3 = h.tagName === 'H3';
+      const className = isH3 ? 'toc__link toc__link--h3' : 'toc__link toc__link--h2';
+      html += `<li class="toc__item">
+        <a href="#${h.id}" data-scroll-to="${h.id}" class="${className}" style="cursor:pointer;">${h.textContent}</a>
       </li>`;
     });
 
@@ -389,7 +390,7 @@
         if (entry.isIntersecting) {
           const id = entry.target.id;
           els.toc.querySelectorAll('.toc__link').forEach(link => {
-            link.classList.toggle('active', link.getAttribute('href') === `#${id}`);
+            link.classList.toggle('active', link.getAttribute('data-scroll-to') === id);
           });
         }
       });

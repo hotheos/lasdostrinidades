@@ -185,49 +185,109 @@
   max-height: calc(100vh - 8rem);
   overflow-y: auto;
   z-index: var(--z-toc);
+  padding: var(--space-md);
+  border-radius: var(--radius-md);
 }
 
 .toc__title {
   font-family: var(--font-ui);
   font-size: var(--fs-xs);
-  font-weight: 600;
-  color: var(--text-tertiary);
+  font-weight: 700;
+  color: var(--accent-neutral);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: var(--space-md);
+  letter-spacing: 0.15em;
+  margin-bottom: var(--space-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.toc__title::before {
+  content: '';
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background: var(--accent-neutral);
+  transform: rotate(45deg);
+  border-radius: 1px;
 }
 
 .toc__list {
   list-style: none;
+  padding-left: 0;
+  margin: 0;
   border-left: 1px solid var(--border-subtle);
+  position: relative;
+  transition: border-color var(--transition-normal);
+}
+
+/* Elegant faint gold vertical line in dark theme */
+[data-theme="dark"] .toc__list {
+  border-left: 1px solid rgba(197, 160, 89, 0.15);
 }
 
 .toc__item {
-  padding-left: var(--space-md);
+  padding-left: 0;
+  margin: 0;
 }
 
 .toc__link {
-  display: block;
+  display: flex;
+  align-items: center;
   font-family: var(--font-ui);
-  font-size: var(--fs-xs);
-  color: var(--text-tertiary);
   text-decoration: none;
-  padding: var(--space-xs) 0;
+  color: var(--text-tertiary);
   border-left: 2px solid transparent;
   margin-left: -1px;
-  padding-left: var(--space-sm);
-  transition: all var(--transition-fast);
-  line-height: 1.4;
+  transition: all var(--transition-fast) ease-in-out;
+  line-height: 1.5;
+}
+
+.toc__link--h2 {
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  padding: var(--space-sm) 0 var(--space-sm) var(--space-md);
+  color: var(--text-secondary);
+}
+
+.toc__link--h3 {
+  font-size: calc(var(--fs-xs) - 0.05rem);
+  font-weight: 400;
+  padding: var(--space-xs) 0 var(--space-xs) var(--space-xl);
+  color: var(--text-tertiary);
 }
 
 .toc__link:hover {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   text-decoration: none;
 }
 
 .toc__link.active {
-  color: var(--link-color);
-  border-left-color: var(--link-color);
+  color: var(--accent-neutral);
+  border-left-color: var(--accent-neutral);
+  font-weight: 700;
+}
+
+.toc__link--h3.active {
+  font-weight: 600;
+}
+
+/* Creative slide-out golden line micro-animation for H3 elements */
+.toc__link--h3::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 1px;
+  background: var(--accent-neutral);
+  margin-right: 0;
+  transition: all var(--transition-fast) ease-in-out;
+  opacity: 0;
+}
+
+.toc__link--h3.active::before {
+  width: 8px;
+  margin-right: 8px;
+  opacity: 1;
 }
 
 /* ---- Mobile Menu Toggle ---- */
