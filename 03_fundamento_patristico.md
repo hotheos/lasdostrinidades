@@ -38,7 +38,7 @@ En su *Diálogo con Trifón*, Justino es más explícito. En el capítulo 61, fo
 >
 > Justino, *Diálogo con Trifón* 61
 
-Y en el capítulo 128, Justino precisa que esta potencia "fue engendrada del Padre, por su poder y voluntad, pero no por escisión, como si la esencia del Padre se dividiera" (*Diálogo con Trifón* 128). La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que procede de él como el fuego encendido procede del fuego que lo enciende, sin disminuirlo, sin separarse de su naturaleza, pero siendo realmente distinto de él.
+Y en el capítulo 128, Justino precisa que esta potencia "fue engendrada del Padre, por su poder y voluntad, pero no por escisión, como si la esencia del Padre se dividiera" (*Diálogo con Trifón* 128). El término es técnicamente importante: "escisión" (*apotomē*) designa el corte o división de una sustancia en partes. Lo que Justino niega es que la generación del Hijo funcione como un corte que fragmenta la sustancia divina. La analogía del fuego lo ilustra: el fuego que enciende otro fuego no pierde nada; lo comunica todo sin dividirse. Alejandro de Alejandría (sección 3.5) usará exactamente la misma negación un siglo y medio después: el Hijo es engendrado "no por escisión o división". La estructura es fontal: el Logos no es autónomo respecto del Padre, sino que procede de él como el fuego encendido procede del fuego que lo enciende, sin disminuirlo, sin separarse de su naturaleza, pero siendo realmente distinto de él.
 
 ---
 
@@ -71,6 +71,26 @@ Ireneo lee 1 Corintios 8:6 como articulación de la identificación "el único D
 > Ireneo, *Adversus Haereses* III.9.1
 
 La afirmación requiere lectura cuidadosa. Ireneo *no* está diciendo que el Hijo no sea divino. Lo que está diciendo es algo preciso sobre la distribución de los títulos en la Escritura: cuando profetas, apóstoles y el mismo Jesús usan el título "Dios" (*Theos*) de modo absoluto (sin calificación) refieren al Padre. La frase clave es "han confesado con sus propias palabras": Ireneo está leyendo el uso lingüístico escriturístico, no negando la divinidad del Hijo. El Hijo es "Hijo *de* Dios", "Señor" (*Kyrios*), pero el título "Dios" sin más apunta al Padre como referente. Esta es la distribución paulina de 1 Corintios 8:6, con "un Dios" (*heis Theos*) el Padre y "un Señor" (*heis Kyrios*) Jesucristo, que Ireneo lee no como peculiaridad de Pablo sino como consenso de toda la Escritura tal como los apóstoles lo transmitieron.
+
+La misma identificación aparece de forma reiterada a lo largo de la obra de Ireneo, lo cual indica que no es una observación aislada sino el eje articulador de su teología:
+
+> *Ha sido declarado con toda evidencia que los predicadores de la verdad y Apóstoles de la libertad, a ningún otro llamaron Dios o Señor, sino al único Dios verdadero, el Padre, y a su Verbo que tiene la soberanía sobre todas las cosas.*
+>
+> Ireneo, *Adversus Haereses* III.15.3
+
+> *Y que este mismo Dios es el Padre de nuestro Señor Jesucristo, lo dijo el Apóstol Pablo: "Uno solo es Dios Padre, que está sobre todos, por todos y en todos nosotros" (Ef 4,6).*
+>
+> Ireneo, *Adversus Haereses* III.6.2
+
+> *Probaremos que nada hay por encima de él ni fuera de él, sino que él hizo todas las cosas según su proyecto y libre voluntad, pues es el único Dios, el único Señor, el único Creador, el único Padre y el único que contiene en sí todas las cosas y da la existencia a todas ellas.*
+>
+> Ireneo, *Adversus Haereses* II.1.1
+
+> *Y todos ellos nos han transmitido a un solo Dios Creador del cielo y de la tierra anunciado por la Ley y los profetas, y a un solo Cristo Hijo de Dios.*
+>
+> Ireneo, *Adversus Haereses* III.1.2
+
+La acumulación de estos textos es significativa. Ireneo no formula "un solo Dios: Padre, Hijo y Espíritu Santo". Formula "un solo Dios, el Padre" y "un solo Cristo, Hijo de Dios". La distribución es siempre la misma: "Dios" en aposición con el Padre; el Hijo como "Hijo *de* Dios", "Cristo *de* Dios", "Verbo *del* Padre".
 
 **Tercero**, la oración de Ireneo en el mismo libro revela la gramática devocional operante en el cristianismo del siglo II:
 
@@ -134,7 +154,7 @@ Las analogías tertulianas son orgánicas y materiales: raíz, arbusto, fruto; f
 
 ### *Persona* en sentido jurídico
 
-El otro término crítico de la fórmula tertuliana es *persona*. Como *substantia*, *persona* en el latín de Tertuliano no tiene el sentido metafísico que adquirirá siglos después. En el derecho romano, *persona* designa el sujeto jurídico, el papel o rol que alguien ocupa en una transacción legal, el agente reconocido por el derecho. La palabra deriva de *personare* (sonar a través) y originalmente designaba la máscara del actor teatral por la que la voz sonaba.
+El otro término crítico de la fórmula tertuliana es *persona*. Como *substantia*, *persona* en el latín de Tertuliano no tiene el sentido metafísico que adquirirá siglos después. En el derecho romano, *persona* designa el sujeto jurídico, el papel o rol que alguien ocupa en una transacción legal, el agente reconocido por el derecho.
 
 Cuando Tertuliano dice *tres personae*, usa el término en este sentido jurídico-económico: tres agentes o sujetos reconocidos en la economía divina, tres roles articulados en una sola realidad sustancial. Describe tres sujetos distinguibles por sus operaciones en la economía de la salvación, unidos en la única sustancia divina entendida fontalmente.
 
@@ -164,7 +184,7 @@ En síntesis, la fórmula tertuliana *una substantia, tres personae* articula si
 
 ## 3.5 Alejandro de Alejandría: el consenso episcopal previo a Nicea
 
-Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejandro de Alejandría (m. 328), obispo de la misma sede que Atanasio heredará, es quien inicia la controversia formal contra Arrio y quien lleva la posición alejandrina al Concilio de Nicea. Su carta a Alejandro de Constantinopla (c. 324), escrita poco antes del concilio, contiene la confesión de fe que el episcopado alejandrino presentará en Nicea. El pasaje central es revelador:
+Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejandro de Alejandría (m. 328), obispo de la misma sede que Atanasio heredará, es quien inicia la controversia formal contra Arrio y quien lleva la posición alejandrina al Concilio de Nicea. Su carta a Alejandro de Bizancio (c. 324), escrita poco antes del concilio, contiene la confesión de fe que el episcopado alejandrino presentará en Nicea. El pasaje central es revelador:
 
 > *Creemos en un Padre no engendrado, que de nadie tiene la causa de su ser, inmutable e invariable, siempre el mismo. [...] Y en un solo Señor Jesucristo, el Hijo unigénito de Dios, engendrado no de las cosas que no son, sino de aquel que es el Padre; no de manera corporal, por escisión o división como pensaron Sabelio y Valentino, sino de un modo inexplicable e inefable. [...] En esto solo es inferior al Padre: en que no es no-engendrado.*
 >
@@ -172,13 +192,13 @@ Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejan
 
 La estructura es la misma que hemos documentado en Justino, Ireneo y Tertuliano: "un Padre no engendrado" como punto de partida, y el Hijo engendrado "*de* aquel que es el Padre", no de la nada, no de una sustancia abstracta, sino del Padre como fuente personal. La única inferioridad del Hijo respecto del Padre es que el Hijo no es no-engendrado (*agennētos*): es decir, el Hijo tiene un origen, y ese origen es el Padre. La fontalidad del Padre no compromete la divinidad del Hijo; la articula.
 
-Este texto es significativo porque muestra que la gramática fontal no es peculiaridad de un teólogo individual sino posición episcopal oficial de la sede de Alejandría en vísperas de Nicea. Atanasio, diácono y secretario de Alejandro en el concilio, hereda y desarrolla esta articulación.
+Este texto es significativo porque muestra que la gramática fontal no es peculiaridad de un teólogo individual sino la posición del obispo de Alejandría en vísperas de Nicea, formulada como confesión de fe para el concilio. Atanasio, diácono de Alejandro en el concilio, hereda y desarrolla esta articulación.
 
 ---
 
 ## 3.6 Atanasio: el *homoousios* y la monarquía del Padre
 
-Atanasio de Alejandría (c. 296-373) es la figura central del primer siglo niceno. Diácono presente en el Concilio de Nicea de 325 (donde fue secretario de Alejandro, examinado en la sección anterior), posteriormente obispo de Alejandría durante 46 años, dedicó la mayor parte de su episcopado a defender el símbolo niceno contra los diversos movimientos antinicenos, sufriendo cinco exilios por su intransigencia doctrinal. Su obra es la fuente más extensa para entender la articulación nicena en sus primeras décadas.
+Atanasio de Alejandría (c. 296-373) es la figura central del primer siglo niceno. Diácono presente en el Concilio de Nicea de 325 junto a Alejandro (examinado en la sección anterior), posteriormente obispo de Alejandría durante 46 años, dedicó la mayor parte de su episcopado a defender el símbolo niceno contra los diversos movimientos antinicenos, sufriendo cinco exilios por su intransigencia doctrinal. Su obra es la fuente más extensa para entender la articulación nicena en sus primeras décadas.
 
 ### El argumento soteriológico
 

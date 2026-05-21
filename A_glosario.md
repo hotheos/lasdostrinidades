@@ -70,6 +70,10 @@ Sustantivo y verbo griegos, "procesión", "proceder desde". Verbo técnico de la
 
 Sustantivo griego, "operación", "actividad", "energía". En la teología palamita designa las energías increadas de Dios: la actividad divina hacia afuera, distinta de la esencia incognoscible (*ousia*), participable por las criaturas en la *theōsis*. La distinción palamita esencia/energías es contribución específica de la teología oriental del siglo XIV.
 
+### Escisión (castellano, del griego *apotomē* y del latín *abscissio*)
+
+Término técnico que designa el corte, separación o división de una sustancia en partes. En la teología trinitaria patrística, la escisión es exactamente lo que la generación del Hijo *no* es. Los Padres insisten en que el Hijo procede del Padre sin que la sustancia divina se divida, se fragmente o se disminuya. Justino usa la analogía del fuego que enciende otro fuego sin disminuirse (*Diálogo con Trifón* 61, 128). Alejandro de Alejandría dice que el Hijo es engendrado del Padre "no de manera corporal, por escisión o división" (*Epistola ad Alexandrum* 12). El concepto es crucial porque distingue la generación eterna (comunicación plena sin pérdida) tanto de la producción material (que divide) como de la emanación gnóstica (que degrada). La negación de la escisión protege simultáneamente la fontalidad del Padre (el Hijo procede *de* él) y la plenitud del Hijo (recibe *todo* lo que el Padre es).
+
 ### *Essentia* (latín)
 
 Sustantivo latino, neologismo construido sobre *esse* (ser) como traducción de *ousia*. En Hilario y autores latinos del siglo IV el uso es inestable: a veces como naturaleza común, a veces como realidad concreta. En Agustín y la escolástica estabiliza el sentido de "esencia divina compartida por las tres personas como sujeto unitario".

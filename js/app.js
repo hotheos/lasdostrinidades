@@ -8,9 +8,11 @@
 (function () {
   'use strict';
 
-  /* ---- Page Registry ---- */
+  /* ---- Page Registry & Comments Configuration ---- */
   /* Content base path - points to the markdown source files */
   const CONTENT_BASE = './';
+  const CUSDIS_APP_ID = 'da573210-ea08-410f-b4df-d4304859a0f4'; // ID del proyecto de Cusdis.com para moderación
+
 
   const PAGES = [
     { id: 'inicio', file: 'pages/00_inicio.html', number: '', title: 'Inicio', short: 'Inicio', isHtml: true },
@@ -65,12 +67,15 @@
     els.content = document.getElementById('content');
     els.sidebarNav = document.getElementById('sidebar-nav');
     els.progressFill = document.getElementById('progress-fill');
-    els.themeToggle = document.getElementById('theme-toggle');
-    els.themeIcon = document.getElementById('theme-icon');
+    els.sidebarThemeToggle = document.getElementById('sidebar-theme-toggle');
+    els.sidebarThemeIcon = document.getElementById('sidebar-theme-icon');
+    els.sidebarThemeLabel = document.querySelector('.sidebar__theme-toggle-label');
     els.mobileToggle = document.getElementById('mobile-menu-toggle');
+    els.mobileTocToggle = document.getElementById('mobile-toc-toggle');
     els.sidebar = document.getElementById('sidebar');
     els.overlay = document.getElementById('sidebar-overlay');
     els.toc = document.getElementById('toc-list');
+    els.tocContainer = document.querySelector('.toc');
     els.scrollTop = document.getElementById('scroll-top');
   }
 
@@ -97,11 +102,27 @@
     localStorage.setItem('ldt-theme', next);
     updateThemeIcon(next);
     updateThemeColorMeta(next);
+    updateCommentsTheme(next);
   }
 
+  function updateCommentsTheme(theme) {
+    const thread = document.getElementById('cusdis_thread');
+    if (thread) {
+      thread.innerHTML = '';
+      thread.setAttribute('data-theme', theme);
+      if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
+        window.CUSDIS.initial();
+      }
+    }
+  }
+
+
   function updateThemeIcon(theme) {
-    if (els.themeIcon) {
-      els.themeIcon.textContent = theme === 'dark' ? '☀' : '☽';
+    if (els.sidebarThemeIcon) {
+      els.sidebarThemeIcon.textContent = theme === 'dark' ? '☀' : '☽';
+    }
+    if (els.sidebarThemeLabel) {
+      els.sidebarThemeLabel.textContent = theme === 'dark' ? 'Modo Claro' : 'Modo Oscuro';
     }
   }
 
@@ -143,12 +164,29 @@
     const isOpen = els.sidebar.classList.toggle('open');
     els.overlay.classList.toggle('visible', isOpen);
     document.body.style.overflow = isOpen ? 'hidden' : '';
+
+    // Close right panel if opening left panel
+    if (isOpen && els.tocContainer && els.tocContainer.classList.contains('open')) {
+      els.tocContainer.classList.remove('open');
+    }
+  }
+
+  function toggleMobileToc() {
+    if (!els.tocContainer) return;
+    const isOpen = els.tocContainer.classList.toggle('open');
+    els.overlay.classList.toggle('visible', isOpen);
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+
+    // Close left panel if opening right panel
+    if (isOpen && els.sidebar && els.sidebar.classList.contains('open')) {
+      els.sidebar.classList.remove('open');
+    }
   }
 
   function closeMobileSidebar() {
-    if (!els.sidebar) return;
-    els.sidebar.classList.remove('open');
-    els.overlay.classList.remove('visible');
+    if (els.sidebar) els.sidebar.classList.remove('open');
+    if (els.tocContainer) els.tocContainer.classList.remove('open');
+    if (els.overlay) els.overlay.classList.remove('visible');
     document.body.style.overflow = '';
   }
 
@@ -333,8 +371,12 @@
       // Add prev/next navigation
       buildPageNav(page);
 
+      // Render comments section (Cusdis)
+      renderComments(page.id, page.title);
+
       // Close mobile sidebar
       closeMobileSidebar();
+
 
       // Update document title
       document.title = page.number
@@ -385,6 +427,8 @@
         if (target) {
           target.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
+        // Close both drawers on mobile when a section is clicked
+        closeMobileSidebar();
       });
     });
   }
@@ -468,6 +512,59 @@
     els.content.insertAdjacentHTML('beforeend', navHtml);
   }
 
+  /* ---- Comments Widget (Cusdis) ---- */
+  function renderComments(pageId, pageTitle) {
+    if (pageId === 'inicio') return;
+
+    const existingSection = document.getElementById('comments-section');
+    if (existingSection) {
+      existingSection.remove();
+    }
+
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+
+    const commentsHtml = `
+      <section class="comments-section" id="comments-section">
+        <h2 class="comments-section__title">Preguntas y comentarios</h2>
+        <p class="comments-section__subtitle">
+          Si tienes preguntas, dudas o sugerencias de corrección, puedes formularlas abajo de forma abierta. Tu comentario será visible públicamente una vez moderado.
+        </p>
+        <div id="cusdis_thread"
+          data-host="https://cusdis.com"
+          data-app-id="${CUSDIS_APP_ID}"
+          data-page-id="${pageId}"
+          data-page-url="https://hotheos.github.io/lasdostrinidades/#${pageId}"
+          data-page-title="${pageTitle}"
+          data-theme="${currentTheme}">
+        </div>
+      </section>
+    `;
+
+    els.content.insertAdjacentHTML('beforeend', commentsHtml);
+
+    if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
+      window.CUSDIS.initial();
+    } else {
+      const scriptId = 'cusdis-script';
+      let script = document.getElementById(scriptId);
+      if (!script) {
+        script = document.createElement('script');
+        script.id = scriptId;
+        script.src = 'https://cusdis.com/js/cusdis.es.js';
+        script.async = true;
+        script.defer = true;
+        document.body.appendChild(script);
+      }
+      script.addEventListener('load', () => {
+        if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
+          window.CUSDIS.initial();
+        }
+      });
+    }
+  }
+
+
+
   /* ---- Page Navigation Helpers ---- */
   window.LDT = {
     getPageIndex: function (id) {
@@ -491,8 +588,9 @@
     buildSidebar();
 
     // Event listeners
-    if (els.themeToggle) els.themeToggle.addEventListener('click', toggleTheme);
+    if (els.sidebarThemeToggle) els.sidebarThemeToggle.addEventListener('click', toggleTheme);
     if (els.mobileToggle) els.mobileToggle.addEventListener('click', toggleMobileSidebar);
+    if (els.mobileTocToggle) els.mobileTocToggle.addEventListener('click', toggleMobileToc);
     if (els.overlay) els.overlay.addEventListener('click', closeMobileSidebar);
 
     window.addEventListener('hashchange', handleRoute);
