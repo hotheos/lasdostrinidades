@@ -525,7 +525,6 @@
 
     const commentsHtml = `
       <section class="comments-section" id="comments-section">
-        <hr>
         <h2 class="comments-section__title">Preguntas y comentarios</h2>
         <p class="comments-section__subtitle">
           Si tienes preguntas, dudas o sugerencias de corrección, puedes formularlas abajo de forma abierta. Tu comentario será visible públicamente una vez moderado.
@@ -541,7 +540,12 @@
       </section>
     `;
 
-    els.content.insertAdjacentHTML('beforeend', commentsHtml);
+    const wrapper = document.getElementById('content-wrapper');
+    if (wrapper) {
+      wrapper.insertAdjacentHTML('beforeend', commentsHtml);
+    } else {
+      els.content.insertAdjacentHTML('beforeend', commentsHtml);
+    }
 
     if (window.CUSDIS && typeof window.CUSDIS.initial === 'function') {
       window.CUSDIS.initial();
