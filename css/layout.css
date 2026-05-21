@@ -232,8 +232,7 @@
 }
 
 .toc__link {
-  display: flex;
-  align-items: center;
+  display: block;
   font-family: var(--font-ui);
   text-decoration: none;
   color: var(--text-tertiary);
@@ -270,24 +269,6 @@
 
 .toc__link--h3.active {
   font-weight: 600;
-}
-
-/* Creative slide-out golden line micro-animation for H3 elements */
-.toc__link--h3::before {
-  content: '';
-  display: inline-block;
-  width: 0;
-  height: 1px;
-  background: var(--accent-neutral);
-  margin-right: 0;
-  transition: all var(--transition-fast) ease-in-out;
-  opacity: 0;
-}
-
-.toc__link--h3.active::before {
-  width: 8px;
-  margin-right: 8px;
-  opacity: 1;
 }
 
 /* ---- Mobile Menu Toggle ---- */
