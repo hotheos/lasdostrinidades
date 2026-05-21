@@ -11,7 +11,7 @@
   /* ---- Page Registry & Comments Configuration ---- */
   /* Content base path - points to the markdown source files */
   const CONTENT_BASE = './';
-  const CUSDIS_APP_ID = 'da573210-ea08-410f-b4df-d4304859a0f4'; // ID del proyecto de Cusdis.com para moderación
+  const CUSDIS_APP_ID = '598465e9-1182-4ee5-895b-49035799a1fb'; // ID del proyecto de Cusdis.com para moderación
 
 
   const PAGES = [
