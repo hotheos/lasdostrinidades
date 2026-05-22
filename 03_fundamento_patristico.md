@@ -63,7 +63,7 @@
 </div>
 <div class="patristic-card__info">
 <div class="patristic-card__name">Alejandro de Alejandría</div>
-<div class="patristic-card__dates">m. 328</div>
+<div class="patristic-card__dates">c. 250 - 328</div>
 </div>
 </div>
 <div class="patristic-card" onclick="document.getElementById('atanasio-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
