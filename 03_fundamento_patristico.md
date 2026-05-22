@@ -50,7 +50,7 @@
 </div>
 <div class="patristic-card" onclick="document.getElementById('origenes-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
 <div class="patristic-card__img-container">
-<img src="patristica/Origenes.jpg" alt="Orígenes de Alejandría" class="patristic-card__img">
+<img src="patristica/Origenes.jpg" alt="Orígenes de Alejandría" class="patristic-card__img" style="object-position: top;">
 </div>
 <div class="patristic-card__info">
 <div class="patristic-card__name">Orígenes de Alejandría</div>
@@ -68,7 +68,7 @@
 </div>
 <div class="patristic-card" onclick="document.getElementById('atanasio-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
 <div class="patristic-card__img-container">
-<img src="patristica/Atanasio.jpg" alt="Atanasio de Alejandría" class="patristic-card__img">
+<img src="patristica/Atanasio.jpg" alt="Atanasio de Alejandría" class="patristic-card__img" style="object-position: top;">
 </div>
 <div class="patristic-card__info">
 <div class="patristic-card__name">Atanasio de Alejandría</div>
