@@ -30,7 +30,7 @@
 </div>
 <div class="patristic-card" onclick="document.getElementById('tertuliano-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
 <div class="patristic-card__img-container">
-<img src="patristica/Tertuliano.webp" alt="Tertuliano de Cartago" class="patristic-card__img">
+<img src="patristica/Tertuliano.webp" alt="Tertuliano de Cartago" class="patristic-card__img" style="object-position: top;">
 </div>
 <div class="patristic-card__info">
 <div class="patristic-card__name">Tertuliano de Cartago</div>
@@ -41,7 +41,7 @@
 <div class="patristic-gallery__row patristic-gallery__row--four">
 <div class="patristic-card" onclick="document.getElementById('hipolito-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
 <div class="patristic-card__img-container">
-<img src="patristica/Hipolito.jpg" alt="Hipólito de Roma" class="patristic-card__img">
+<img src="patristica/Hipolito.jpg" alt="Hipólito de Roma" class="patristic-card__img" style="object-position: top;">
 </div>
 <div class="patristic-card__info">
 <div class="patristic-card__name">Hipólito de Roma</div>
