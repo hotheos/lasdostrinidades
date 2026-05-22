@@ -194,6 +194,10 @@
 }
 
 @media (min-width: 901px) {
+  .main {
+    background-attachment: fixed;
+  }
+
   .content {
     border-left: 1px solid var(--border-content-subtle);
     border-right: 1px solid var(--border-content-subtle);
