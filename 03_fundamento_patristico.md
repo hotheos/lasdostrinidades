@@ -8,6 +8,76 @@
 
 ---
 
+<div class="patristic-gallery">
+<div class="patristic-gallery__row">
+<div class="patristic-card" onclick="document.getElementById('justino-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Justino.jpg" alt="Justino Mártir" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Justino Mártir</div>
+<div class="patristic-card__dates">c. 100 - 165</div>
+</div>
+</div>
+<div class="patristic-card" onclick="document.getElementById('ireneo-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Ireneo.webp" alt="Ireneo de Lyon" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Ireneo de Lyon</div>
+<div class="patristic-card__dates">c. 130 - 202</div>
+</div>
+</div>
+<div class="patristic-card" onclick="document.getElementById('tertuliano-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Tertuliano.webp" alt="Tertuliano de Cartago" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Tertuliano de Cartago</div>
+<div class="patristic-card__dates">c. 155 - 220</div>
+</div>
+</div>
+</div>
+<div class="patristic-gallery__row patristic-gallery__row--four">
+<div class="patristic-card" onclick="document.getElementById('hipolito-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Hipolito.jpg" alt="Hipólito de Roma" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Hipólito de Roma</div>
+<div class="patristic-card__dates">c. 170 - 235</div>
+</div>
+</div>
+<div class="patristic-card" onclick="document.getElementById('origenes-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Origenes.jpg" alt="Orígenes de Alejandría" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Orígenes de Alejandría</div>
+<div class="patristic-card__dates">c. 185 - 254</div>
+</div>
+</div>
+<div class="patristic-card" onclick="document.getElementById('alejandro-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Alejandro.jpg" alt="Alejandro de Alejandría" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Alejandro de Alejandría</div>
+<div class="patristic-card__dates">m. 328</div>
+</div>
+</div>
+<div class="patristic-card" onclick="document.getElementById('atanasio-ref').scrollIntoView({ behavior: 'smooth', block: 'start' })">
+<div class="patristic-card__img-container">
+<img src="patristica/Atanasio.jpg" alt="Atanasio de Alejandría" class="patristic-card__img">
+</div>
+<div class="patristic-card__info">
+<div class="patristic-card__name">Atanasio de Alejandría</div>
+<div class="patristic-card__dates">c. 296 - 373</div>
+</div>
+</div>
+</div>
+</div>
+
 ## 3.1 Por qué importa este anclaje
 
 La página 1 expuso el texto del credo de Nicea (325) y mostró que identifica gramaticalmente al único Dios con la persona del Padre como fuente. La página 2 examinó el anclaje bíblico de esa gramática: cómo el patrón paulino y joánico articula al Padre como fuente y al Hijo como aquel que recibe del Padre y media la actividad divina hacia el mundo. La pregunta que esta página aborda es complementaria: ¿qué hicieron los teólogos cristianos entre el cierre del Nuevo Testamento (final del siglo I) y el Concilio de Nicea (325) con ese patrón fontal?
@@ -18,6 +88,7 @@ Esta página examina varios autores que articulan ese consenso patrístico previ
 
 ---
 
+<div id="justino-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.2 Justino Mártir: la *taxis* trinitaria del siglo II
 
 Justino Mártir (c. 100-165), filósofo cristiano de origen palestinense, escribió sus apologías en Roma hacia el año 155, apenas unas décadas después de los últimos escritos del Nuevo Testamento. Su *Primera Apología*, dirigida al emperador Antonino Pío para explicar y defender la práctica cristiana ante el poder político, articula la estructura trinitaria con orden (*taxis* (τάξις)) explícito:
@@ -44,6 +115,7 @@ La analogía tiene límites que conviene reconocer. Un fuego encendido por otro,
 
 ---
 
+<div id="ireneo-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.3 Ireneo de Lyon: la regla de fe apostólica
 
 Ireneo (c. 130-202), obispo de Lyon, escribió su obra principal *Adversus Haereses* (Contra las herejías) hacia el año 180. Es el testimonio más extenso de la teología cristiana del siglo II y el primero en articular explícitamente una "regla de fe" (*kanōn tēs pisteōs*) recibida de los apóstoles. La comparación de esta regla con el símbolo niceno posterior es extraordinariamente instructiva.
@@ -112,6 +184,7 @@ Nótese lo que la gramática de estos dos autores del siglo II *no* contiene: ni
 
 ---
 
+<div id="tertuliano-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.4 Tertuliano: el latín cristiano de finales del siglo II y comienzos del III
 
 Más de medio siglo después de Justino, Tertuliano de Cartago (c. 155-220), a caballo entre los siglos II y III, articula la primera doctrina trinitaria sustancial en lengua latina. *Adversus Praxean*, su obra trinitaria central, data aproximadamente del año 213. Es importante examinarlo con cuidado por tres razones. Primera, porque introduce la fórmula *una substantia, tres personae* que el Occidente medieval considerará propia. Segunda, porque su contexto polémico (el combate contra el modalismo monarquianista) condiciona su vocabulario y merece comprensión histórica precisa. Tercera, porque en su defensa de la distinción real entre las personas, Tertuliano mantiene explícitamente la monarquía del Padre como "un solo Dios" en sentido referencial concreto. Conviene también señalar desde el inicio que algunos elementos del vocabulario tertuliano (especialmente su lenguaje de "derivación" y "porción") han sido leídos por una parte de la patrística como subordinacionistas en sentido fuerte; el debate académico no está cerrado. Lo que aquí se retiene de Tertuliano es la *estructura* fontal de su gramática (el "un solo Dios" como el Padre, del cual proceden Hijo y Espíritu), no cada elemento de su formulación, que la tradición posterior depurará y precisará.
@@ -176,6 +249,7 @@ En síntesis, la fórmula tertuliana *una substantia, tres personae* articula si
 
 ---
 
+<div id="hipolito-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.5 Hipólito de Roma: la monarquía contra el modalismo
 
 Contemporáneo casi exacto de Tertuliano, Hipólito de Roma (c. 170-235) representa la misma batalla anti-modalista librada en griego desde el otro extremo del Mediterráneo. Su tratado *Contra Noeto* combate al modalista Noeto de Esmirna con argumentos paralelos a los de Tertuliano contra Práxeas: Padre, Hijo y Espíritu son realmente distintos, y la monarquía divina no se pierde por reconocer esa distinción, sino que se sostiene precisamente porque el Padre es la fuente única de la cual el Hijo y el Espíritu proceden.
@@ -198,6 +272,7 @@ La paridad estructural entre la Cartago latina de Tertuliano y la Roma griega de
 
 ---
 
+<div id="origenes-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.6 Orígenes de Alejandría: la generación eterna del Hijo
 
 Orígenes de Alejandría (c. 185-254) es el teólogo más influyente del período ante-niceno y el maestro intelectual de toda la tradición alejandrina posterior. Su omisión en cualquier estudio del consenso patrístico previo a Nicea sería injustificable. Conviene, sin embargo, situarlo con precisión: Orígenes es un caso complejo. Articula con extensión y claridad sin precedentes la monarquía fontal del Padre y la generación eterna del Hijo, pero también usa vocabulario que, leído fuera de contexto, puede sonar subordinacionista en sentido fuerte. Su obra fue parcialmente condenada en el siglo VI por desarrollos asociados a la *Hipótesis* del *Sobre los Principios* (preexistencia de las almas, apocatástasis), no por su doctrina trinitaria stricto sensu. Lo que se retiene aquí de Orígenes es su articulación de la fontalidad del Padre, no la totalidad de su sistema especulativo.
@@ -236,6 +311,7 @@ La importancia de Orígenes para el argumento de esta página es doble. Primero,
 
 ---
 
+<div id="alejandro-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.7 Alejandro de Alejandría: el consenso episcopal previo a Nicea
 
 Antes de examinar a Atanasio conviene detenerse brevemente en su maestro. Alejandro de Alejandría (m. 328), obispo de la misma sede que Atanasio heredará, es quien inicia la controversia formal contra Arrio y quien lleva la posición alejandrina al Concilio de Nicea. Su carta a Alejandro de Bizancio (c. 324), escrita poco antes del concilio, contiene la confesión de fe que el episcopado alejandrino presentará en Nicea. El pasaje central es revelador:
@@ -250,6 +326,7 @@ Este texto es significativo porque muestra que la gramática fontal no es peculi
 
 ---
 
+<div id="atanasio-ref" style="scroll-margin-top: 100px;"></div>
 ## 3.8 Atanasio: el *homoousios* y la monarquía del Padre
 
 Atanasio de Alejandría (c. 296-373) es la figura central del primer siglo niceno. Diácono presente en el Concilio de Nicea de 325 junto a Alejandro (examinado en la sección anterior), posteriormente obispo de Alejandría durante 46 años, dedicó la mayor parte de su episcopado a defender el símbolo niceno contra los diversos movimientos antinicenos, sufriendo cinco exilios por su intransigencia doctrinal. Su obra es la fuente más extensa para entender la articulación nicena en sus primeras décadas.

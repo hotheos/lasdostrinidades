@@ -1271,6 +1271,140 @@ hr {
   overflow: hidden !important;
 }
 
+/* ============================================================
+   GALERÍA DE LOS PADRES DE LA IGLESIA
+   ============================================================ */
+
+.patristic-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  margin: var(--space-2xl) 0;
+  width: 100%;
+}
+
+.patristic-gallery__row {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-lg);
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.patristic-card {
+  flex: 1 1 calc(33.333% - var(--space-lg));
+  max-width: 220px;
+  min-width: 160px;
+  background: var(--bg-surface);
+  border: 1px solid var(--accent-neutral-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  box-shadow: var(--shadow-md);
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.patristic-gallery__row--four .patristic-card {
+  flex: 1 1 calc(25% - var(--space-lg));
+  max-width: 195px;
+}
+
+.patristic-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--accent-neutral);
+  box-shadow: 0 12px 24px rgba(197, 160, 89, 0.15), 0 0 20px rgba(197, 160, 89, 0.05);
+}
+
+.patristic-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: inherit;
+  border: 1px solid transparent;
+  pointer-events: none;
+  transition: border-color 0.3s ease;
+}
+
+.patristic-card:hover::after {
+  border-color: rgba(255, 215, 0, 0.3);
+}
+
+.patristic-card__img-container {
+  width: 100%;
+  aspect-ratio: 1 / 1.1;
+  overflow: hidden;
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-subtle);
+  position: relative;
+}
+
+.patristic-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1);
+  filter: grayscale(40%) contrast(1.1);
+}
+
+.patristic-card:hover .patristic-card__img {
+  transform: scale(1.06);
+  filter: grayscale(0%) contrast(1.05);
+}
+
+.patristic-card__info {
+  padding: var(--space-sm) var(--space-md);
+  text-align: center;
+  width: 100%;
+}
+
+.patristic-card__name {
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+  line-height: 1.2;
+}
+
+.patristic-card__dates {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--text-tertiary);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  .patristic-gallery__row {
+    gap: var(--space-md);
+  }
+  
+  .patristic-card {
+    flex: 1 1 calc(50% - var(--space-md)) !important;
+    max-width: 180px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .patristic-gallery__row {
+    gap: var(--space-sm);
+  }
+  
+  .patristic-card {
+    flex: 1 1 calc(50% - var(--space-sm)) !important;
+    max-width: 100% !important;
+    min-width: 140px !important;
+  }
+}
+
 
 
 
